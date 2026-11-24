@@ -1,81 +1,159 @@
 {
- "edition_key": "demo",
- "edition": "manana",
- "edition_name": "Edición de mañana",
- "generated_at": "2026-11-24T11:52:55Z",
- "ai": true,
- "model": "demo",
+ "edition_key": "2026-11-24-preapertura",
+ "edition": "preapertura",
+ "edition_name": "Previa de la apertura de Nueva York",
+ "generated_at": "2026-11-24T19:12:50Z",
+ "ai": false,
+ "model": null,
  "content": {
-  "titular": "[Ejemplo] El NQ espera al PCE y a las actas del FOMC en una semana corta",
-  "resumen": "Texto de demostración. Aquí la IA resumirá cada mañana en 2-3 frases lo esencial para el NQ a partir de las noticias filtradas, el calendario y los mercados.",
-  "tono": "Mixto",
-  "tono_motivo": "Ejemplo de explicación del tono.",
-  "claves": [
-   {
-    "titulo": "PCE subyacente mañana",
-    "detalle": "Ejemplo: el dato de inflación preferido por la Fed.",
-    "impacto": "Alto",
-    "links": [
-     {
-      "title": "CNBC",
-      "url": "https://www.cnbc.com/"
-     }
-    ]
-   },
-   {
-    "titulo": "Actas del FOMC",
-    "detalle": "Ejemplo: pistas sobre próximos recortes.",
-    "impacto": "Alto",
-    "links": []
-   },
-   {
-    "titulo": "Semana corta",
-    "detalle": "Ejemplo: menor liquidez por el festivo en EE. UU.",
-    "impacto": "Medio",
-    "links": []
-   }
-  ],
+  "titular": "AI and chip stocks lead Nasdaq selloff as Trump weighs wider trade tariffs",
+  "resumen": "Resumen automático sin IA: añade la clave gratuita de Gemini para recibir el periódico redactado en español.",
+  "tono": "",
+  "tono_motivo": "",
+  "claves": [],
   "secciones": [
    {
-    "nombre": "Fed y tipos",
+    "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "Punto de ejemplo sobre la Fed.",
+      "texto": "AI and chip stocks lead Nasdaq selloff as Trump weighs wider trade tariffs",
+      "links": [
+       {
+        "title": "Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "U.S. Tech Stocks Fall as Nvidia Pulls Back and Tariff Fears Grow",
+      "links": [
+       {
+        "title": "TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9EcTVkUnlUQ21pVDRQa290QVJOSV9oRUM5dVU2S0tBeTV5ajJnWHRmbkt1XzhjRHkwTmswejA5ckZDNU5aWHNkdVRHcm5nbkpheGd0U3hQRVdqbUx6WVRJZjVsZk9kQW9BRHA4UTR4cUhYd2VVV3hxa0lvUWphczlULVo2QnEwN3FLMV9qMnhEWnRPeFJneA?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "S&P 500 Morning Wrap 24-11- 2026 Tech Stocks Slide, NVIDIA Retreats, Tariff Fears Rise",
+      "links": [
+       {
+        "title": "Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGg1clY4TjY4N2JWVW9JeldkT0dhRlNjQ1B6NDJiN1dsMjh3NTlSS3VoZzM5QnlCRTVDLUNaak9IZUZPZVMtUVhyeXUxeGNxR2JlbkR2R3FNY3BkSlFkRE1WUldfZjltN1BaSE1UaGNaNjQ2WmhBZDIyQWEtVnR0NUpyWVlmQkVFNHpvMl8wb1RqYWZ5Tm53MFZfd1ZBOE45TUR4YVBMY0VxSjItSlF5UUs0VmdwbHlkN1huMkZ5N210MjZsbTd3?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "links": [
+       {
+        "title": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds",
       "links": [
        {
         "title": "Reuters",
-        "url": "https://www.reuters.com/"
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "US markets reverse gains: NASDAQ 100 drops 2% as Trump's tariff threat hurt investor sentiments; Nvidia dips 6%, Anthropic falls below issue price",
+      "links": [
+       {
+        "title": "Upstox",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQalVxc2dmWm5WZWlXcHBEQmM2RXI3dGRYRXk2U3EtNmd0ZkJpcHNTYnJudjBJMkQyYmhoVEFXSk82aFp6U1pLbE5VcmtjczFtUU9aSXRXa0tlcnJlREdNTk5UVWNWRThwQjRsOUNRdnJDWERyQXhMVUF5NVNhYWd6bi1LbkFfYzdNcF9MYWJVQzZ6Sm5CRjBobDRMdXgxTXRCSmNRNEVxOEFONXdHOUVvSlZvMXdIajV2Y0piTDBwdkNCYkdTNVhVVFo2Q2p2emJMNDktRzNvQTlfUzhVYy01dS1Fa29IZlpYU2JLV3lzdF8yanFtYWZFc2xwb1phZmxCRVB4d3JRSV9zdEtPRktkTWJCVWRPY0JvRk5oODB2YmUzLUd0SjdCWGdtYw?oc=5"
        }
       ]
      }
     ]
    },
    {
-    "nombre": "Tecnológicas",
+    "nombre": "Fed y tipos",
     "puntos": [
      {
-      "texto": "Punto de ejemplo sobre semiconductores.",
-      "links": []
+      "texto": "Treasury yields dip after NY Fed's Williams warns on inflation; 5-year auction eyed",
+      "links": [
+       {
+        "title": "FlipItMoney",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVhCSmxCQ2Q3bDkybFo3S3A0bUoyZFBlNGtsMllnYTl1enE4b3AwVVZmWm1BM3d6dXNHTTdMaGZfSUwxSlFYQzItbUpIRm5aT01CV2oyQWlRR0xGZUNBR2pSenNlMXJUNF9TZGVNbE5zanN1QnNlM0lzQkNEZkpXYmZXTGhvdG9haGk4MVBpcFdOX0NrMndlYl84b0FFYUZvaG94cHMzUUFqa2dO?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Will XAG rebound if Federal Reserve signals change and dollar momentum slows after inflation release?",
+      "links": [
+       {
+        "title": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHgzX1drZmxNSE5xZ05wN3liYmhMTEJubmdIdVhMb0FzSGdQV3BoLS1qSVdoZGgyZ3ZaTHpNaEZaU2JVNFUwR2tpNjRDTUR5ZGxNYXNsNmlmUkcycVpCVkRpYWpMUEdZbDhENnFYMy1QSkZucS0xaFBDbUNwY05tdUdWUk11Z3ha?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+      "links": [
+       {
+        "title": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Gold and Silver Lower on Firm Dollar, Fed Rate Bets; PCE Inflation Data in Focus - News and Statistics",
+      "links": [
+       {
+        "title": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjFxTEJvUzZ6WlZZbXEtMG1PcGVyN0lMZ09nc09MN3BhTFhzSTUyOXQ1Mk8xYVU4MGd6WHBscVhCMFpkcmlHR1dEMndMRGp2YUFpeUY3eDhhNncxOUhzRXMyTnUwQ1ZsNUhveUJYZkhCeTBrOG42YmtEMHhwdHRvNUJpM3JXR01RRVVQTFUyUkFkX1E1ZXlLYlpCTmNVN05jNHNocnc0dFF1M19GZzdjYjVSdWdGSmxGWF93TFRrSHNreXZHWlhYamxYbkJRankwVmNQemRoZw?oc=5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Geopolítica y aranceles",
+    "puntos": [
+     {
+      "texto": "US stocks face tariff risks as Trump weighs higher duties on China, India, EU and 13 other economies | Hindustan Times",
+      "links": [
+       {
+        "title": "Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Trump Prepares New China Tariffs as US-China Trade War Threatens to Escalate",
+      "links": [
+       {
+        "title": "Aktualita.co",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+       }
+      ]
      }
     ]
    }
   ],
   "agenda": [
    {
-    "hora": "Mié 16:00",
-    "evento": "PCE subyacente",
-    "por_que_importa": "Ejemplo."
+    "hora": "Wed 25 14:30",
+    "evento": "PCE subyacente m/m",
+    "por_que_importa": ""
    },
    {
-    "hora": "Mié 20:00",
-    "evento": "Actas del FOMC",
-    "por_que_importa": "Ejemplo."
+    "hora": "Wed 25 14:30",
+    "evento": "PIB preliminar t/t",
+    "por_que_importa": ""
+   },
+   {
+    "hora": "Wed 25 14:30",
+    "evento": "Deflactor del PIB preliminar t/t",
+    "por_que_importa": ""
    }
   ],
-  "riesgos": [
-   "Riesgo de ejemplo 1.",
-   "Riesgo de ejemplo 2."
-  ]
+  "riesgos": []
  },
  "archive": []
 }

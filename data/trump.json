@@ -1,33 +1,152 @@
 {
- "updated_at": "2026-11-24T13:52:55Z",
+ "updated_at": "2026-11-24T19:12:50Z",
  "posts": [
   {
-   "id": "t1",
-   "text": "[Publicación de ejemplo] Aquí aparecerá el texto del post de Truth Social detectado por el filtro (por ejemplo, un anuncio sobre aranceles a China).",
-   "link": "https://trumpstruth.org/",
-   "date": "2026-11-24T13:27:55Z",
-   "detected_at": "2026-11-24T13:32:55Z",
-   "impact": "Alto",
-   "tags": [
-    "Aranceles",
-    "China"
-   ],
-   "ai_note": "Ejemplo: un anuncio arancelario contra China suele presionar a las tecnológicas y al NQ.",
-   "ai": true
-  },
-  {
-   "id": "t2",
-   "text": "[Publicación de ejemplo] Post sobre la Reserva Federal y los tipos de interés.",
-   "link": "https://trumpstruth.org/",
-   "date": "2026-11-24T10:52:55Z",
-   "detected_at": "2026-11-24T10:52:55Z",
+   "id": "c7ca3f0c7cbd03",
+   "text": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43715",
+   "date": "2026-11-23T14:50:52Z",
    "impact": "Medio",
    "tags": [
-    "Fed"
+    "Tecnológicas"
    ],
-   "ai_note": "Ejemplo: la presión pública sobre la Fed puede mover las expectativas de tipos.",
-   "ai": true
+   "score": 2,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "35be562e17c847",
+   "text": "The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43714",
+   "date": "2026-11-23T14:07:17Z",
+   "impact": "Alto",
+   "tags": [
+    "Comercio",
+    "Tecnológicas",
+    "Economía",
+    "Deuda / Gobierno"
+   ],
+   "score": 8,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "143e0fa2a3916d",
+   "text": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43709",
+   "date": "2026-11-23T02:54:45Z",
+   "impact": "Alto",
+   "tags": [
+    "Tecnológicas"
+   ],
+   "score": 3,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "967e91cd7328cc",
+   "text": "Isn’t it interesting that Oil prices have dropped precipitously after the Midterm Elections? I said that was going to happen. The whole thing is a Giant Hoax! President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43707",
+   "date": "2026-11-22T21:49:11Z",
+   "impact": "Alto",
+   "tags": [
+    "Energía",
+    "Economía"
+   ],
+   "score": 3,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "163ed69e524976",
+   "text": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have, and two, that the Islamic Republic of Iran, which has killed 81,000 protestors as of today, will grow more aggressive in their attacks, which has also occurred. Iran has launched more drones and missiles in the last week than at any time for over a year. Don’t worry, they’ve all been knocked down, and done no damage. Iranian leaders consider the Democrats weak, ineffective, and Country destroying, but I won’t let that happen! Both the Dems and Iran fought like hell to keep the Oil price up as long as possible and, since the Election, the Oil price has dropped by a record level. Too bad the Voters didn’t understand this before they pulled the trigger, but the whole Election was very “strange.” In the end, America will win! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43706",
+   "date": "2026-11-22T21:47:46Z",
+   "impact": "Alto",
+   "tags": [
+    "Bolsa",
+    "Geopolítica",
+    "Energía"
+   ],
+   "score": 8,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "b1988114def46f",
+   "text": "The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” on November 3rd. NASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are “BAD” due to their Anti Growth, and Retribution Only, Policies, and worse. If they don't change, FAST, it will only get worse. But fear not, our Country will soon be STRONG AGAIN — Lots of good things happening! President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43701",
+   "date": "2026-11-22T17:20:20Z",
+   "impact": "Alto",
+   "tags": [
+    "Bolsa"
+   ],
+   "score": 4,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "f6545676563097",
+   "text": "It is going to be very hard for me to work with Chuck Schumer should he become Senate Majority Leader. He failed badly as “Leader” once before, one of the worst history, and I have little doubt that he will fail again. All he did was perpetuate the Russia, Russia, Russia Hoax, and many other Hoaxes and Scams, making my victory in 2024 an easy and glorious one. Here we go again! President DJT",
+   "link": "https://www.trumpstruth.org/statuses/43689",
+   "date": "2026-11-22T13:41:41Z",
+   "impact": "Medio",
+   "tags": [
+    "Geopolítica"
+   ],
+   "score": 2,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "48388f5ad7690b",
+   "text": "RT @ Schoenlaw By engaging in an unprecedented tripartite summit with the leaders of China and Russia, countries with which we have profound differences, President Trump not only continues his well-founded policy of always seeking to keep dialogue open, but that policy is consistent with the great statesmen of generations past: Abraham Lincoln: “Do I not destroy my enemies when I make them my friends?\" Yitzhak Rabin: “You don't make peace with friends. You make it with very unsavory enemies.\" Winston Churchill: “It is better to jaw-jaw than to war-war” Lord Palmerston: “We have no eternal allies, and we have no perpetual enemies. Our interests are eternal and perpetual, and those interests it is our duty to follow.\" John F. Kennedy: “Let us never negotiate out of fear. But let us never fear to negotiate.\" @ realDonaldTrump Reposted Schoenlaw By engaging in an unprecedented tripartite summit with the leaders of China and Russia, countries with which we have profound differences, President Trump not only continues his well-founded policy of always seeking to keep dialogue open, but that policy is consistent with the great statesmen of generations past: Abraham Lincoln: “Do I not destroy my enemies when I make them my friends?\" Yitzhak Rabin: “You don't make peace with friends. You make it with very unsavory enemies.\" Winston Churchill: “It is better to jaw-jaw than to war-war” Lord Palmerston: “We have no eternal allies, and we have no perpetual enemies. Our interests are etern",
+   "link": "https://www.trumpstruth.org/statuses/43646",
+   "date": "2026-11-20T13:03:07Z",
+   "impact": "Alto",
+   "tags": [
+    "China",
+    "Geopolítica"
+   ],
+   "score": 5,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "74436b663bcaff",
+   "text": "The Factories Are Coming Home, ISM Just Confirmed It: https://www. realclearmarkets.com/articles/ 2026/11/02/the_factories_are_coming_home_ism_just_confirmed_it_1214700.html",
+   "link": "https://www.trumpstruth.org/statuses/43642",
+   "date": "2026-11-20T00:37:35Z",
+   "impact": "Bajo",
+   "tags": [],
+   "score": 1,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
+  },
+  {
+   "id": "09ad4dc4c89173",
+   "text": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. President DONALD J. TRUMP",
+   "link": "https://www.trumpstruth.org/statuses/43630",
+   "date": "2026-11-19T17:01:03Z",
+   "impact": "Alto",
+   "tags": [
+    "China",
+    "Comercio"
+   ],
+   "score": 4,
+   "ai_note": "",
+   "ai": false,
+   "detected_at": "2026-11-24T19:12:50Z"
   }
  ],
- "checked": 20
+ "checked": 100
 }

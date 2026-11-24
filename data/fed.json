@@ -1,21 +1,325 @@
 {
- "updated_at": "2026-11-24T13:52:55Z",
+ "updated_at": "2026-11-24T19:12:49Z",
  "items": [
   {
-   "id": "f1",
-   "title": "[Ejemplo] Discurso de un gobernador de la Fed sobre las perspectivas económicas",
-   "summary": "",
-   "link": "https://www.federalreserve.gov/newsevents/speeches.htm",
-   "source": "Fed · Discursos",
-   "date": "2026-11-23T13:52:55Z"
+   "id": "093823af590d1c",
+   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "summary": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-11-24T19:00:00Z"
   },
   {
-   "id": "f2",
-   "title": "[Ejemplo] Comunicado del FOMC",
-   "summary": "",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+   "id": "94c95e99cf28c5",
+   "title": "Cook, The U.S. Economy in Global Context",
+   "summary": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
+   "link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-20T17:15:00Z"
+  },
+  {
+   "id": "da6879b71ba9cf",
+   "title": "Waller, Opening Remarks",
+   "summary": "Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-20T13:25:00Z"
+  },
+  {
+   "id": "dcf99011f9e599",
+   "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+   "summary": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead,” Brasília, Brazil",
+   "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-19T14:25:00Z"
+  },
+  {
+   "id": "c0bb6eae0a76ae",
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
    "source": "Fed · Política monetaria",
-   "date": "2026-10-28T13:52:55Z"
+   "date": "2026-11-18T19:00:00Z"
+  },
+  {
+   "id": "baf61d591d184a",
+   "title": "Barr, Investing in America’s Underserved Communities",
+   "summary": "Speech At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York",
+   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-18T18:35:00Z"
+  },
+  {
+   "id": "ee7572c58b316a",
+   "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+   "summary": "Speech At “Navigating the Future of Banking and Payments,” The Clearing House Annual Conference 2026, New York, New York",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-17T14:10:00Z"
+  },
+  {
+   "id": "8eeb4da0529cc4",
+   "title": "Warsh, Opening Remarks",
+   "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+   "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-16T17:00:00Z"
+  },
+  {
+   "id": "9c2dcb7d9d4d1a",
+   "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+   "summary": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
+   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-16T10:00:00Z"
+  },
+  {
+   "id": "8fc867cf99b9a1",
+   "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+   "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
+   "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-14T00:00:00Z"
+  },
+  {
+   "id": "250a0bea1902ce",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-11-12T17:45:00Z"
+  },
+  {
+   "id": "4d1987132303a0",
+   "title": "Barr, American Inequality and the Future of AI",
+   "summary": "Speech At Yale University, New Haven, Connecticut",
+   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-12T15:00:00Z"
+  },
+  {
+   "id": "8eb625908fa29d",
+   "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
+   "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-10T20:30:00Z"
+  },
+  {
+   "id": "8dff82acb990d3",
+   "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+   "summary": "Speech At the Bank of England Watchers Conference King’s Business School and Money, Macro and Finance Society, London, United Kingdom",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-10T09:00:00Z"
+  },
+  {
+   "id": "828729079c6201",
+   "title": "Federal Reserve issues FOMC statement",
+   "summary": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-10-28T18:00:00Z"
+  },
+  {
+   "id": "8f2e0922cfc20d",
+   "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+   "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-10-15T02:55:00Z"
+  },
+  {
+   "id": "f3d65e6a93e26c",
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-10-13T18:00:00Z"
+  },
+  {
+   "id": "de21f71bdc34a2",
+   "title": "Waller, The Signaling Value of the Summary of Economic Projections",
+   "summary": "Speech At the Istanbul Economic Forum, Central Bank of the Republic of Türkiye, Istanbul, Türkiye",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-10-08T08:30:00Z"
+  },
+  {
+   "id": "94dc47fdd6aee2",
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-10-07T18:00:00Z"
+  },
+  {
+   "id": "efdb0efeb72cc7",
+   "title": "Bowman, Modernizing the Regulatory and Supervisory Landscape",
+   "summary": "Speech At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-10-06T14:45:00Z"
+  },
+  {
+   "id": "67d0938dd8e13b",
+   "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
+   "summary": "Speech At the Atlantic Council 2026 CEO & Senior Management Summit, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-10-01T19:00:00Z"
+  },
+  {
+   "id": "8ec4b2fe77072d",
+   "title": "Federal Reserve issues FOMC statement",
+   "summary": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-09-16T18:00:00Z"
+  },
+  {
+   "id": "24a8a90992a8aa",
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-09-16T18:00:00Z"
+  },
+  {
+   "id": "ccf8eb873e129f",
+   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+   "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-08-25T18:00:00Z"
+  },
+  {
+   "id": "082a3881383d8c",
+   "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+   "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-08-19T18:00:00Z"
+  },
+  {
+   "id": "43fdcf58f6ac53",
+   "title": "Federal Reserve issues FOMC statement",
+   "summary": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-07-29T18:00:00Z"
+  },
+  {
+   "id": "01211656b4bc3e",
+   "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+   "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-07-14T18:00:00Z"
+  },
+  {
+   "id": "21a1cdb697fa58",
+   "title": "Warsh, Semiannual Monetary Policy Report to the Congress",
+   "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2026-07-14T12:30:00Z"
+  },
+  {
+   "id": "1655948d46c25c",
+   "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+   "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-07-09T19:00:00Z"
+  },
+  {
+   "id": "e0200a1feafb33",
+   "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+   "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-07-08T18:00:00Z"
+  },
+  {
+   "id": "ce870bd488bf84",
+   "title": "Federal Reserve issues FOMC statement",
+   "summary": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-06-17T18:00:00Z"
+  },
+  {
+   "id": "fc0bb2b1a0ac3e",
+   "title": "Bowman, Supervision and Regulation",
+   "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/bowman20260604a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2026-06-03T20:30:00Z"
+  },
+  {
+   "id": "a73a4f29ef2057",
+   "title": "Guynn, Innovation",
+   "summary": "Testimony Before the Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/guynn20260326a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2026-03-25T20:30:00Z"
+  },
+  {
+   "id": "feec9f1460855d",
+   "title": "Bowman, Supervision and Regulation",
+   "summary": "Testimony Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/bowman20260226a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2026-02-25T23:00:00Z"
+  },
+  {
+   "id": "eab04b4b690c54",
+   "title": "Bowman, Supervision and Regulation",
+   "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/bowman20251202a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2025-12-02T15:00:00Z"
+  },
+  {
+   "id": "2713907933af13",
+   "title": "Powell, Semiannual Monetary Policy Report to the Congress",
+   "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/powell20250624a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2025-06-24T12:30:00Z"
+  },
+  {
+   "id": "c97b6e25891e8b",
+   "title": "Bowman, Nomination hearing",
+   "summary": "Testimony Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/bowman20250410a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2025-04-09T21:38:00Z"
+  },
+  {
+   "id": "0fb1b5ad631cfd",
+   "title": "Powell, Semiannual Monetary Policy Report to the Congress",
+   "summary": "Testimony Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/powell20250211a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2025-02-11T15:00:00Z"
+  },
+  {
+   "id": "2bc3fcc31e85d0",
+   "title": "Barr, Supervision and Regulation",
+   "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/barr20240515a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2024-05-15T14:00:00Z"
+  },
+  {
+   "id": "4cb7564f81738a",
+   "title": "Powell, Semiannual Monetary Policy Report to the Congress",
+   "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives",
+   "link": "https://www.federalreserve.gov/newsevents/testimony/powell20240306a.htm",
+   "source": "Fed · Testimonios",
+   "date": "2024-03-06T13:30:00Z"
   }
  ]
 }
