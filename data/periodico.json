@@ -1,30 +1,30 @@
 {
- "edition_key": "2026-11-24-preapertura",
- "edition": "preapertura",
- "edition_name": "Previa de la apertura de Nueva York",
- "generated_at": "2026-11-24T20:00:03Z",
+ "edition_key": "2026-11-24-cierre",
+ "edition": "cierre",
+ "edition_name": "Resumen del cierre",
+ "generated_at": "2026-11-24T21:06:45Z",
  "ai": true,
  "model": "gemini-3.6-flash",
  "content": {
-  "titular": "El NQ cae un 2,13% arrastrado por la recaída del sector semiconductores y temores arancelarios",
+  "titular": "El Nasdaq 100 cae un 2,06% arrastrado por el sector de los chips y la amenaza de nuevos aranceles",
   "en_pocas_palabras": [
-   "Las acciones tecnológicas y de inteligencia artificial sufren caídas acusadas hoy, perdiendo el impulso positivo del inicio de semana.",
-   "El principal desencadenante es el desplome en los fabricantes de chips como AMD y Nvidia al disiparse el entusiasmo por la vuelta de su consejero delegado.",
-   "A esto se suma el temor a que Donald Trump aplique nuevos aranceles, que son impuestos a las importaciones procedentes de China, la Unión Europea y otros países.",
-   "Por último, los inversores prefieren ser cautos antes de que se publique mañana el PCE subyacente, que es el indicador de inflación clave que vigila la Reserva Federal (el banco central de EE. UU.) para decidir sobre los tipos de interés."
+   "El índice Nasdaq 100 ha experimentado una caída del 2,06% debido a un severo retroceso en las grandes empresas de tecnología y semiconductores.",
+   "La euforia tras el regreso del consejero delegado de Nvidia se desvaneció rápidamente, provocando pérdidas considerables en valores de microchips como AMD o Broadcom.",
+   "Al mismo tiempo, han aumentado los temores a una escalada comercial por los planes de Donald Trump de aplicar nuevos aranceles a China y a otras economías.",
+   "Para los operadores del Nasdaq, la atención se centra ahora en el dato del PCE (el índice de precios del consumo personal, la medida de inflación preferida de la Reserva Federal), que se publicará este miércoles."
   ],
-  "resumen": "El futuro del Nasdaq 100 retrocede un 2,13% hasta los 26.236,0 puntos, presionado por las fuertes caídas en Nvidia (-7,57%) y AMD (-9,07%). El temor a nuevos aranceles globales impulsados por Trump y la prudencia ante el dato del PCE de mañana castigan al índice.",
+  "resumen": "El futuro del Nasdaq 100 cayó un 2,06% hasta los 26.256,75 puntos arrastrado por fuertes caídas en el sector de semiconductores, encabezadas por AMD (-8,86%) y Nvidia (-5,86%). Las dudas sobre las valoraciones de la inteligencia artificial se combinaron con las amenazas arancelarias de Trump antes de la publicación clave del PCE.",
   "tono": "Negativo",
-  "tono_motivo": "Caída del 2,13% en el NQ impulsada por la rotación vendedora en semiconductores y la incertidumbre arancelaria.",
+  "tono_motivo": "El desplome del sector de semiconductores y la renovada incertidumbre por aranceles comerciales ejercieron una fuerte presión bajista sobre el Nasdaq 100.",
   "claves": [
    {
-    "titulo": "Retroceso severo en los fabricantes de chips",
-    "detalle": "Nvidia cae un 7,57% y AMD pierde un 9,07%, liderando las ventas en el sector tecnológico tras enfriarse el optimismo inicial sobre la directiva de Nvidia.",
+    "titulo": "Fuerte corrección en el sector de microchips",
+    "detalle": "Las acciones de semiconductores sufrieron caídas severas lideradas por AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%), enfriando el rally reciente de la inteligencia artificial.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
+      "title": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9EcTVkUnlUQ21pVDRQa290QVJOSV9oRUM5dVU2S0tBeTV5ajJnWHRmbkt1XzhjRHkwTmswejA5ckZDNU5aWHNkdVRHcm5nbkpheGd0U3hQRVdqbUx6WVRJZjVsZk9kQW9BRHA4UTR4cUhYd2VVV3hxa0lvUWphczlULVo2QnEwN3FLMV9qMnhEWnRPeFJneA?oc=5"
      },
      {
       "title": "BigGo Finance",
@@ -38,13 +38,9 @@
    },
    {
     "titulo": "Amenaza de nuevos aranceles comerciales",
-    "detalle": "La posibilidad de que Trump aplique tarifas más elevadas a China, la Unión Europea e India añade presión bajista sobre el mercado.",
+    "detalle": "Las tensiones comerciales se reavivaron al conocerse que Donald Trump evalúa imponer mayores aranceles a China, India, la Unión Europea y otros 13 países.",
     "impacto": "Alto",
     "links": [
-     {
-      "title": "Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
-     },
      {
       "title": "Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
@@ -52,17 +48,25 @@
      {
       "title": "Aktualita.co",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+     },
+     {
+      "title": "FXLeaders",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk13VnRfTWE2dU82eVRUMmhKU25fbl85cjlNWi05RERWREF5Q2RHLU5URzJncGJsUE9TbzJwTHNfQVpxam9lQlp1Yi1kN0ZJS2ZMa0dfNkM1eHpuQTAyaTJvNmxyMWllU1RPcVg4eTlfWkM0RlpSUnFQaXBKejlNcnFKLWdlZFlWUUVVbVhZc0pGV0k2bkc2ZzV0UmtLaDhfYjA1WXItUFE2eUlXOHc?oc=5"
      }
     ]
    },
    {
-    "titulo": "Mensaje estricto de la Fed de Nueva York",
-    "detalle": "El presidente de la Fed de Nueva York señaló que devolver la inflación al 2% es esencial y requerirá medidas adicionales.",
+    "titulo": "Escrutinio político sobre Nvidia en Washington",
+    "detalle": "Surgió una reacción bipartidista en el Congreso de EE. UU. cuestionando la intervención de Trump en el retorno de Jensen Huang, lo que podría derivar en nuevas restricciones comerciales a China.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sazk1NktQdDYyS2FpN1o1YTFCWmxYWWdsS1lwdnRuSTEyRXZfMThmdlUwUC13VFFzSl81am8tYzNQY0lQTDM1VXpnRngyMlprejdpZUtUbVFjMnNfZGRZcDNlQUhzRVRmT2xsT2pSZk1PaTBCQWc0T0VEYmY?oc=5"
+      "title": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzczN1VVbmtXRXpiVWdmZjlyUXllRTdXaDBlYm1PWXJpcGdVd0x5ejAwMVdyYXRTcmV2OS05bWl0MG50MUtoeGFoNjJlSjBxRnRWSlFNUnNFWm8?oc=5"
+     },
+     {
+      "title": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories"
      }
     ]
    }
@@ -72,8 +76,111 @@
     "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "Las acciones de semiconductores registran fuertes descensos, destacando las caídas de AMD (-9,07%), Nvidia (-7,57%) y Broadcom (-3,57%).",
+      "texto": "El futuro del Nasdaq 100 cedió hasta los 26.256,75 puntos (-2,06%), mientras que empresas como Anthropic cayeron un 12,6% y se reabrió el debate sobre las altas valoraciones en IA.",
       "links": [
+       {
+        "title": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5"
+       },
+       {
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+       },
+       {
+        "title": "FOREX.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0RFU1N1ekZsa2RJV0ZlWURXQWxEanlqYnAzSV9jVFA2S1RrRkhUR1pET3B6Z3hvMHowblJ3XzlFRFFaenFreUhUMUV6ODRGVEwxVFgzNWFYakJUNG5tWEdsM0JOYUdBekU0ajVMSHJXS0JQXy1lbmFBUlZ2bGZ0Njg1YjhmR2dMN1U2TFRXeUEzbktmdllOUV90TDlzZGRlTWtMVTVMVEliQQ?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Apple (+1,43%) y Netflix (+1,33%) lograron cerrar en positivo, amortiguando ligeramente el impacto bajista del sector de los chips.",
+      "links": [
+       {
+        "title": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Geopolítica y aranceles",
+    "puntos": [
+     {
+      "texto": "Los temores a un agravamiento de la guerra comercial afectaron directamente a empresas de microchips como Qualcomm, Intel y Micron tras la propuesta de nuevos aranceles por parte de Trump.",
+      "links": [
+       {
+        "title": "Aktualita.co",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+       },
+       {
+        "title": "FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk13VnRfTWE2dU82eVRUMmhKU25fbl85cjlNWi05RERWREF5Q2RHLU5URzJncGJsUE9TbzJwTHNfQVpxam9lQlp1Yi1kN0ZJS2ZMa0dfNkM1eHpuQTAyaTJvNmxyMWllU1RPcVg4eTlfWkM0RlpSUnFQaXBKejlNcnFKLWdlZFlWUUVVbVhZc0pGV0k2bkc2ZzV0UmtLaDhfYjA1WXItUFE2eUlXOHc?oc=5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Fed y tipos",
+    "puntos": [
+     {
+      "texto": "El presidente de la Reserva Federal de Nueva York declaró que devolver la inflación al objetivo del 2% es fundamental y que podrían ser necesarias medidas adicionales.",
+      "links": [
+       {
+        "title": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sazk1NktQdDYyS2FpN1o1YTFCWmxYWWdsS1lwdnRuSTEyRXZfMThmdlUwUC13VFFzSl81am8tYzNQY0lQTDM1VXpnRngyMlprejdpZUtUbVFjMnNfZGRZcDNlQUhzRVRmT2xsT2pSZk1PaTBCQWc0T0VEYmY?oc=5"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "hora": "Mié 25 14:30",
+    "evento": "PCE subyacente m/m",
+    "por_que_importa": "Es la métrica de inflación más seguida por la Reserva Federal y afectará directamente las expectativas de tipos de interés."
+   },
+   {
+    "hora": "Mié 25 14:30",
+    "evento": "Deflactor del PIB preliminar t/t",
+    "por_que_importa": "Proporciona una lectura clave sobre las presiones de precios en la economía estadounidense."
+   }
+  ],
+  "riesgos": [
+   "Nuevas restricciones comerciales o aranceles dirigidos al sector tecnológico y de microchips.",
+   "Lecturas de inflación en el PCE por encima de lo esperado que presionen al alza los rendimientos de los bonos.",
+   "Continuación de la toma de beneficios y corrección de valoraciones en el sector de la inteligencia artificial."
+  ]
+ },
+ "archive": [
+  {
+   "edition_key": "2026-11-24-preapertura",
+   "edition": "preapertura",
+   "edition_name": "Previa de la apertura de Nueva York",
+   "generated_at": "2026-11-24T20:00:03Z",
+   "content": {
+    "titular": "El NQ cae un 2,13% arrastrado por la recaída del sector semiconductores y temores arancelarios",
+    "en_pocas_palabras": [
+     "Las acciones tecnológicas y de inteligencia artificial sufren caídas acusadas hoy, perdiendo el impulso positivo del inicio de semana.",
+     "El principal desencadenante es el desplome en los fabricantes de chips como AMD y Nvidia al disiparse el entusiasmo por la vuelta de su consejero delegado.",
+     "A esto se suma el temor a que Donald Trump aplique nuevos aranceles, que son impuestos a las importaciones procedentes de China, la Unión Europea y otros países.",
+     "Por último, los inversores prefieren ser cautos antes de que se publique mañana el PCE subyacente, que es el indicador de inflación clave que vigila la Reserva Federal (el banco central de EE. UU.) para decidir sobre los tipos de interés."
+    ],
+    "resumen": "El futuro del Nasdaq 100 retrocede un 2,13% hasta los 26.236,0 puntos, presionado por las fuertes caídas en Nvidia (-7,57%) y AMD (-9,07%). El temor a nuevos aranceles globales impulsados por Trump y la prudencia ante el dato del PCE de mañana castigan al índice.",
+    "tono": "Negativo",
+    "tono_motivo": "Caída del 2,13% en el NQ impulsada por la rotación vendedora en semiconductores y la incertidumbre arancelaria.",
+    "claves": [
+     {
+      "titulo": "Retroceso severo en los fabricantes de chips",
+      "detalle": "Nvidia cae un 7,57% y AMD pierde un 9,07%, liderando las ventas en el sector tecnológico tras enfriarse el optimismo inicial sobre la directiva de Nvidia.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
+       },
        {
         "title": "BigGo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
@@ -85,92 +192,141 @@
       ]
      },
      {
-      "texto": "El entusiasmo inicial tras el regreso de Jensen Huang como consejero delegado de Nvidia se disipó rápidamente en la sesión.",
+      "titulo": "Amenaza de nuevos aranceles comerciales",
+      "detalle": "La posibilidad de que Trump aplique tarifas más elevadas a China, la Unión Europea e India añade presión bajista sobre el mercado.",
+      "impacto": "Alto",
       "links": [
        {
-        "title": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVNhR0cwYzMzdGVzdnpqZklCZlNjNlNhU1BuRnIxb1lLZTVvMUJfd1RsdE51RHhoM2ktNWJNNlpFakNZODdma2lMaHpTb09PVEswcE1xUm1nbWU0MVZXd1FCS0hoX0wwdHdkbU5oSnRWdG5oQjdGYXU2U3AtQmNTdjVpZjRoNTB3c0JWSlRpVHRQd002WkJyVg?oc=5"
+        "title": "Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
        },
-       {
-        "title": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
-       },
-       {
-        "title": "Inc.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMl9Ld1k5VHdmU3pLczlBSzhQcmttOGxUeHhWN0NRM1pqQ1B3R2MwUFZxa1ptdVRmTk9TaXo3dWJJVTRLeXE1dnd5X05taU1nSzBEYUoyejA2Nmpybk1Ra1pKQUxpMXY4bEhSSXhDSjM0eFF6U0hQaVF2REhwQ3NRTTdTb3ptRmVreS1NZlpYa2JXUHBJRk5aWHI4Y0oydk42bEtN?oc=5"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "nombre": "Geopolítica y aranceles",
-    "puntos": [
-     {
-      "texto": "Trump contempla aplicar nuevos aranceles a la importación dirigidos a China, la Unión Europea, India y otros 13 países.",
-      "links": [
        {
         "title": "Hindustan Times",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "El temor a un escalamiento en la guerra comercial entre Estados Unidos y China reaviva la cautela en la renta variable.",
-      "links": [
-       {
-        "title": "BeInCrypto",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRjBGRjdyanBPZEczcHpOdGFmazNpN0poYnJ4MGZpZE9UU242VXkzc09WaTFLSmY3SmJyS1NXbG9uS2FXc3Z1clcwOVVHMmw3Y2ZCU3pBckFZc0pvNVlDbVZ4bUVVVVE?oc=5"
        },
        {
         "title": "Aktualita.co",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
        }
       ]
-     }
-    ]
-   },
-   {
-    "nombre": "Fed y tipos",
-    "puntos": [
+     },
      {
-      "texto": "La Fed de Nueva York indicó que puede ser necesario tomar medidas adicionales para asegurar la convergencia de la inflación al objetivo del 2%.",
+      "titulo": "Mensaje estricto de la Fed de Nueva York",
+      "detalle": "El presidente de la Fed de Nueva York señaló que devolver la inflación al 2% es esencial y requerirá medidas adicionales.",
+      "impacto": "Medio",
       "links": [
        {
         "title": "아시아경제",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sazk1NktQdDYyS2FpN1o1YTFCWmxYWWdsS1lwdnRuSTEyRXZfMThmdlUwUC13VFFzSl81am8tYzNQY0lQTDM1VXpnRngyMlprejdpZUtUbVFjMnNfZGRZcDNlQUhzRVRmT2xsT2pSZk1PaTBCQWc0T0VEYmY?oc=5"
        }
       ]
+     }
+    ],
+    "secciones": [
+     {
+      "nombre": "Tecnológicas",
+      "puntos": [
+       {
+        "texto": "Las acciones de semiconductores registran fuertes descensos, destacando las caídas de AMD (-9,07%), Nvidia (-7,57%) y Broadcom (-3,57%).",
+        "links": [
+         {
+          "title": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+         },
+         {
+          "title": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "El entusiasmo inicial tras el regreso de Jensen Huang como consejero delegado de Nvidia se disipó rápidamente en la sesión.",
+        "links": [
+         {
+          "title": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVNhR0cwYzMzdGVzdnpqZklCZlNjNlNhU1BuRnIxb1lLZTVvMUJfd1RsdE51RHhoM2ktNWJNNlpFakNZODdma2lMaHpTb09PVEswcE1xUm1nbWU0MVZXd1FCS0hoX0wwdHdkbU5oSnRWdG5oQjdGYXU2U3AtQmNTdjVpZjRoNTB3c0JWSlRpVHRQd002WkJyVg?oc=5"
+         },
+         {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+         },
+         {
+          "title": "Inc.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMl9Ld1k5VHdmU3pLczlBSzhQcmttOGxUeHhWN0NRM1pqQ1B3R2MwUFZxa1ptdVRmTk9TaXo3dWJJVTRLeXE1dnd5X05taU1nSzBEYUoyejA2Nmpybk1Ra1pKQUxpMXY4bEhSSXhDSjM0eFF6U0hQaVF2REhwQ3NRTTdTb3ptRmVreS1NZlpYa2JXUHBJRk5aWHI4Y0oydk42bEtN?oc=5"
+         }
+        ]
+       }
+      ]
      },
      {
-      "texto": "Un análisis reciente de la Reserva Federal apuntó a la inteligencia artificial como un posible riesgo relevante para la economía estadounidense.",
-      "links": [
+      "nombre": "Geopolítica y aranceles",
+      "puntos": [
        {
-        "title": "24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5"
+        "texto": "Trump contempla aplicar nuevos aranceles a la importación dirigidos a China, la Unión Europea, India y otros 13 países.",
+        "links": [
+         {
+          "title": "Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "El temor a un escalamiento en la guerra comercial entre Estados Unidos y China reaviva la cautela en la renta variable.",
+        "links": [
+         {
+          "title": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRjBGRjdyanBPZEczcHpOdGFmazNpN0poYnJ4MGZpZE9UU242VXkzc09WaTFLSmY3SmJyS1NXbG9uS2FXc3Z1clcwOVVHMmw3Y2ZCU3pBckFZc0pvNVlDbVZ4bUVVVVE?oc=5"
+         },
+         {
+          "title": "Aktualita.co",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Fed y tipos",
+      "puntos": [
+       {
+        "texto": "La Fed de Nueva York indicó que puede ser necesario tomar medidas adicionales para asegurar la convergencia de la inflación al objetivo del 2%.",
+        "links": [
+         {
+          "title": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sazk1NktQdDYyS2FpN1o1YTFCWmxYWWdsS1lwdnRuSTEyRXZfMThmdlUwUC13VFFzSl81am8tYzNQY0lQTDM1VXpnRngyMlprejdpZUtUbVFjMnNfZGRZcDNlQUhzRVRmT2xsT2pSZk1PaTBCQWc0T0VEYmY?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "Un análisis reciente de la Reserva Federal apuntó a la inteligencia artificial como un posible riesgo relevante para la economía estadounidense.",
+        "links": [
+         {
+          "title": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5"
+         }
+        ]
        }
       ]
      }
+    ],
+    "agenda": [
+     {
+      "hora": "Mié 14:30",
+      "evento": "PCE subyacente m/m (Previsión: 0.3%, Anterior: 0.3%)",
+      "por_que_importa": "Es la métrica de inflación preferida de la Reserva Federal e influirá directamente en las expectativas sobre los tipos de interés."
+     },
+     {
+      "hora": "Mié 14:30",
+      "evento": "Deflactor del PIB preliminar t/t (Previsión: 2.3%, Anterior: 2.3%)",
+      "por_que_importa": "Aporta información relevante sobre las presiones de precios en el conjunto del PIB."
+     }
+    ],
+    "riesgos": [
+     "Persistencia de la elevada volatilidad en los grandes valores tecnológicos (VIX en 26,88 puntos).",
+     "Una lectura del PCE subyacente por encima del 0,3% estimado que reactive temores sobre la política monetaria.",
+     "Nuevos anuncios o confirmaciones sobre la implementación de aranceles por parte de la administración estadounidense."
     ]
    }
-  ],
-  "agenda": [
-   {
-    "hora": "Mié 14:30",
-    "evento": "PCE subyacente m/m (Previsión: 0.3%, Anterior: 0.3%)",
-    "por_que_importa": "Es la métrica de inflación preferida de la Reserva Federal e influirá directamente en las expectativas sobre los tipos de interés."
-   },
-   {
-    "hora": "Mié 14:30",
-    "evento": "Deflactor del PIB preliminar t/t (Previsión: 2.3%, Anterior: 2.3%)",
-    "por_que_importa": "Aporta información relevante sobre las presiones de precios en el conjunto del PIB."
-   }
-  ],
-  "riesgos": [
-   "Persistencia de la elevada volatilidad en los grandes valores tecnológicos (VIX en 26,88 puntos).",
-   "Una lectura del PCE subyacente por encima del 0,3% estimado que reactive temores sobre la política monetaria.",
-   "Nuevos anuncios o confirmaciones sobre la implementación de aranceles por parte de la administración estadounidense."
-  ]
- },
- "archive": []
+  }
+ ]
 }
