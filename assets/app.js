@@ -11,7 +11,7 @@
   var S = {
     d: {}, tab: 'panel', loaded: false,
     calView: 'week', weekOff: 0, monthOff: 0,
-    imp: { Alto: true, Medio: true, Bajo: true }, onlyKey: false,
+    imp: { Alto: true, Medio: true }, onlyKey: false,
     newsCat: 'Todas', trumpFilter: 'Todos', perIdx: -1,
     tvLoaded: false, toastedTrump: {}
   };
@@ -326,12 +326,12 @@
 
   /* ---------------- CALENDARIO ---------------- */
   function calToolbar(label) {
-    return '<div class="card-h"><div><h2>Calendario económico</h2><div class="sub">Forex Factory · solo USD · hora de Madrid</div></div>' +
+    return '<div class="card-h"><div><h2>Calendario económico</h2><div class="sub">Forex Factory · USD · impacto alto y medio · inflación, empleo, banco central, encuestas de consumidores y discursos · hora de Madrid</div></div>' +
       '<div class="toolbar"><div class="seg" role="group" aria-label="Vista"><button data-act="view" data-v="week" class="' + (S.calView === 'week' ? 'on' : '') + '">Semanal</button><button data-act="view" data-v="month" class="' + (S.calView === 'month' ? 'on' : '') + '">Mensual</button></div>' +
       '<button class="btn icon" data-act="prev" aria-label="Anterior">‹</button><button class="btn" data-act="today">Hoy</button><button class="btn icon" data-act="next" aria-label="Siguiente">›</button>' +
       '<strong style="min-width:150px">' + label + '</strong></div></div>' +
       '<div class="toolbar" style="margin-bottom:14px">' +
-      ['Alto', 'Medio', 'Bajo'].map(function (i) { return '<button class="fchip' + (S.imp[i] ? ' on' : '') + '" data-act="imp" data-v="' + i + '"><span class="dot-i ' + i + '"></span>' + i + '</button>'; }).join('') +
+      ['Alto', 'Medio'].map(function (i) { return '<button class="fchip' + (S.imp[i] ? ' on' : '') + '" data-act="imp" data-v="' + i + '"><span class="dot-i ' + i + '"></span>' + i + '</button>'; }).join('') +
       '<button class="fchip' + (S.onlyKey ? ' on' : '') + '" data-act="key"><span class="dot-i" style="background:var(--key)"></span>Solo clave (FOMC, IPC, NFP, PCE…)</button></div>';
   }
   function renderCalendar() {

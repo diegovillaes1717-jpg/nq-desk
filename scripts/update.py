@@ -283,6 +283,44 @@ CATEGORIES = [
 ]
 
 
+# ---- FILTRO DEL CALENDARIO (igual que tu filtro de Forex Factory) ----
+# Impactos que se muestran: "Alto", "Medio" (añade "Bajo" si algún día lo quieres)
+CAL_IMPACTS = {"Alto", "Medio"}
+# Tipos de evento que se muestran. Disponibles: "Inflación", "Empleo", "Banco Central",
+# "Encuestas de consumidores", "Discursos", "Crecimiento", "Vivienda",
+# "Encuestas empresariales", "Bonos", "Varios"
+CAL_TYPES = {"Inflación", "Empleo", "Banco Central", "Encuestas de consumidores", "Discursos"}
+# Los festivos de EE. UU. se muestran siempre (sirven para saber si hay mercado)
+CAL_SHOW_HOLIDAYS = True
+
+FF_TYPES = [
+    ("Discursos", re.compile(r"Speaks|Testifies|Testimony", re.I)),
+    ("Banco Central", re.compile(r"FOMC|Federal Funds Rate|Beige Book|Monetary Policy|Fed Balance Sheet|Rate Decision", re.I)),
+    ("Encuestas de consumidores", re.compile(r"Consumer Confidence|Consumer Sentiment|UoM|Inflation Expectations", re.I)),
+    ("Inflación", re.compile(r"\bCPI\b|\bPPI\b|\bPCE\b|Import Prices|Export Prices|GDP Price Index|Price Index", re.I)),
+    ("Empleo", re.compile(r"Employment|Unemployment|Claims|JOLTS|Payroll|Hourly Earnings|Job Cuts|Labor Cost|Nonfarm Productivity", re.I)),
+    ("Encuestas empresariales", re.compile(r"PMI|ISM|Manufacturing Index|Empire State|Philly Fed|Richmond|Business|NFIB|Chicago", re.I)),
+    ("Vivienda", re.compile(r"Home|Housing|Building Permits|HPI|Construction", re.I)),
+    ("Bonos", re.compile(r"Bond Auction|Auction|\bTIC\b", re.I)),
+    ("Crecimiento", re.compile(r"GDP|Retail Sales|Durable|Industrial Production|Capacity|Personal|Factory Orders|Inventories|Trade Balance|Budget|Consumer Credit", re.I)),
+]
+
+
+def ff_type(title_en):
+    for name, rx in FF_TYPES:
+        if rx.search(title_en):
+            return name
+    return "Varios"
+
+
+def cal_allowed(e):
+    if e.get("impact") == "Festivo":
+        return CAL_SHOW_HOLIDAYS
+    if e.get("impact") not in CAL_IMPACTS:
+        return False
+    return ff_type(e.get("title_en", "")) in CAL_TYPES
+
+
 def translate(title):
     if title in TRANSLATE:
         return TRANSLATE[title]
@@ -328,7 +366,9 @@ def normalize_ff(raw):
             "actual": (e.get("actual") or "").strip(),
             "source": "Forex Factory",
         })
-    return out
+    for e in out:
+        e["type"] = ff_type(e["title_en"]) if e["impact"] != "Festivo" else "Festivo"
+    return [e for e in out if cal_allowed(e)]
 
 
 def update_calendar():
@@ -390,7 +430,9 @@ def update_calendar():
 
     # Conservar ~3 meses de historia
     cutoff = now_utc() - timedelta(days=95)
-    evs = [e for e in events.values() if parse_iso(e["date"]) >= cutoff]
+    evs = [e for e in events.values() if parse_iso(e["date"]) >= cutoff and cal_allowed(e)]
+    for e in evs:
+        e["type"] = ff_type(e["title_en"]) if e["impact"] != "Festivo" else "Festivo"
     evs.sort(key=lambda e: (e["date"], {"Alto": 0, "Medio": 1, "Bajo": 2, "Festivo": 3}.get(e["impact"], 4)))
     cal["events"] = evs
     save("calendar.json", cal)
