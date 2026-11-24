@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-24T19:28:12Z",
+ "updated_at": "2026-11-24T19:40:12Z",
  "items": [
+  {
+   "id": "9e8161658bc59d",
+   "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjI5MXpxQ2Y1NXlxME5ZMDE3b0pTVFV1amxWaTNhYzNQeklHMUZxZ29jZTRwWGxnTGVCWkN2SXFQWnFhR3JpeXdoLWlfei1oTmhubmFFMVhvZG45ZHVOQ19saUFqcVgwdDNGdzM3VHhvOU4tQUY5TVZxUzJreHJ6dHozTmJXcC05bUVhdjh0cmpKM205RjRfRk1ybXc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-24T19:31:03Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7d76d723306db2",
+   "title": "Anthropic’s stock just broke below its IPO price for the first time",
+   "summary": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
+   "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-24T19:31:00Z",
+   "score": 3.0,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "92a175f4dde266",
+   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+   "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "source": "CNBC",
+   "date": "2026-11-24T19:26:20Z",
+   "score": 4.0,
+   "category": "Tecnológicas"
+  },
   {
    "id": "d260efc18ae0cb",
    "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Retreats As CoreWeave Dives 12%",
@@ -32,12 +62,32 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "35f6e5319799c2",
+   "title": "Federal Reserve Releases Minutes of October 2026 Discount Rate Meetings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmFxaE54dkpqN1JMSWhsaVZlcXNpQnNKN0JWb3kxcjhHVWxNTnAxZkFnSnJkT0s3dmdoekJQWEhkSkRVWHMzeG5GbGtHVEpybXlPcWtndlBVMXFWRGR3NGdmeDMxRThleFF3bFhMRFh2Z0gzUlJ3UVBhQnpSWVdlSTZ5eTVUdw?oc=5",
+   "source": "Blockchain News",
+   "date": "2026-11-24T19:09:19Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "c518aca3adeb6b",
    "title": "Jensen Huang’s Return Sent Nvidia Stock Soaring. A Day Later, the Rally Is Unraveling",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMl9Ld1k5VHdmU3pLczlBSzhQcmttOGxUeHhWN0NRM1pqQ1B3R2MwUFZxa1ptdVRmTk9TaXo3dWJJVTRLeXE1dnd5X05taU1nSzBEYUoyejA2Nmpybk1Ra1pKQUxpMXY4bEhSSXhDSjM0eFF6U0hQaVF2REhwQ3NRTTdTb3ptRmVreS1NZlpYa2JXUHBJRk5aWHI4Y0oydk42bEtN?oc=5",
    "source": "Inc.com",
    "date": "2026-11-24T19:03:14Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "fc49fc4513a995",
+   "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa080M09UTThMak8tMmItczlCb1RxZkEybElIVmNRZ0RKRDJqaUQ4dlRaaVlYUEl0dzI2cEI0Zkx2X0pQand6UlViQmg1NVg1RGZGSnpXTnZfUThvUHcyWGlMVkJaWGxrMlZRUjFwYXlaYXlPREhoVmFpMWw0MHBQaWFpNlpaNWtMMmktaDFwdEFQMThrZmpiWDItXzhsc2Uyb1pjMg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-24T19:02:17Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -532,6 +582,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "00d1da6588305a",
+   "title": "Trump's New Tariffs Seen Staying Within Existing Trade Deal Rates, Applied Selectively",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUGdfTW9yUGtQaV9nbzYwRTRBUlhJODlqVk1Cd2M1dkRnbUYwOVNDTm5CTFRmSnhaeERUYk5SbDFSdzlJZ0M4dFRsbV9NUkpxVTJ5Rw?oc=5",
+   "source": "bloomingbit",
+   "date": "2026-11-24T17:23:32Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "d81ea49eee6f6a",
    "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
    "summary": "",
@@ -645,7 +705,7 @@
    "id": "2bd7b4c313e199",
    "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xdndqbWpZQzBnYnZ6aGVqcS14OHY0MkRNNGlJYlFoNUVPNk5GYWZpZ20wd2tEdGdRV0VOQ282NERYZ3VoYUZvNE1YUVp4RlZ3M2RuQTlZc1dNTnpzUUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzczN1VVbmtXRXpiVWdmZjlyUXllRTdXaDBlYm1PWXJpcGdVd0x5ejAwMVdyYXRTcmV2OS05bWl0MG50MUtoeGFoNjJlSjBxRnRWSlFNUnNFWm8?oc=5",
    "source": "BBC",
    "date": "2026-11-24T17:04:20Z",
    "score": 6,
@@ -885,7 +945,7 @@
    "id": "6a394c33e7f81a",
    "title": "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRXl1Unc4U0pyQ0JQV2liOGxPNmhFRUhaWkRuNWVsN213LUFXNHBkUnM3Yk5kNnZ1cGNWU1BjVGIzdkoxZmxzR3Y0TE5KcXFhMXh4X2ROTmhMRWV6aXBnb3RrWUxuZHFlVkxvS2xERnJMM2k0dVlpM0tKVVhiVXp5cTZXN0JRVVJtUW9PSzJlenVBTi1UYkx4bElEUXg1cEJlbWJ5Mjdza2tzLXFBN2tKcU1qVVRDb0dxUzEtNHB5bkpxUVhxYTRwX19jOG1QVkV1SzU2V3hKR3prU0NVNVI4WFYtZEtDeHJG?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2NxOUJueUJ5Tks3SHJQQ0pSQjdvSEc0TE95SHRhT2Rlb0JOZ3FmU2JBbkEyMXVESkY5V2loOFlXaGRHYmdYS1NJRk5xNWM5UWxlaUlsaGZrUjRseW9CTnBzVHpwVXRTRHJ1OFc0RzRIRTZNS2lvbXhlNzZFNHkwMEpEb0lFRHFnSTlKZnllb3ZhS1BJUlp3aTAza3ZqeVEtZHhaYng5aDE2OS1IdnF3ZEQzUlB5OHlVSWc?oc=5",
    "source": "24/7 Wall St.",
    "date": "2026-11-24T16:07:00Z",
    "score": 4,
@@ -1139,66 +1199,6 @@
    "source": "Speaks Media",
    "date": "2026-11-24T15:29:59Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a634e32aa13b7c",
-   "title": "Gold Price Forecast: Could US Inflation Data Trigger Another Selloff?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFoyQkFQYlRvOGJRODN5cFRyV0dBSGE3OHVaVjRvX1hjM092aGotbXNMcGVOTUNKVkNzamdXNzlyTTRydk1oXzJvcXhNOGFQNVpSeWFUenNITW4tNExfdU1EaTdMLVNfVXhsX0x2Q0tSVERPVDJPNlRfZlZRTHdRYkh0RlhjVmhVYUhqcFNrc0ZCVDUwb19XUjk2UQ?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-24T15:29:14Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "98437845f4b9e3",
-   "title": "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmlRN1owaHhVbjA1NFYyYTVwZ3dfbTNuQXk1b1J1aDBqNmp1c2ltaDRZWUlhU3h6MVFkUXRJSHRlS3IxR1Y1aDAySTk2UktZajJ6RHhIR2NSclB5cjI0MkxsdmdQZmc1Ni04LXJDMlJhVDYzeEFOZi1Ob3B5UjJRV2Z2NkpaNy1lekZGbC1lYXhqV2JsLWFCblF2Uk1YX3NPbTFubHZOMVFPQk5keEFn?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-24T15:28:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "6d73bde9869d16",
-   "title": "Trump owned at least $12 million in Nvidia stock at the end of last year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTRCSGdIdDlJZGhfY1Y1VUxqUHczMnQ5RHc5Y0Rvb0V4NlZleVFPeEpzSXVMdW1DLUEzOUg0T0ptUE9qOHZORUtuUkdhTkhCcTVLSWZndVlVRVZRRUJEaHY0eU9KbTkxZTcwYTFWTlJ0eHIxaE5zQTJkamFlUWNmbWc1c3dXaEJDQ0hOWE5QeC1JblU?oc=5",
-   "source": "ABC30 Fresno",
-   "date": "2026-11-24T15:26:03Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "651543e5615f1c",
-   "title": "Bank of Japan’s Ueda Vows to Keep Careful Eye on Fed Moves",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnNza2NNRXZGYWpkOFZlTS1qYV9TRUQyMTFnSWxTQVlIQW01R0tzTm41dVhsa2VUZHRkcHJkbko1NjNVZ0I4emgwdXcxcElXa3ViRnA5NWZDWndSeExsQk5CQTJ0NS1JX1duQ0dORTZ6MVludnFYOFBKM2h1aWNyXzk2SG9JVDlwU0YxUkVpdzhtVENLSmgzZnlvbFRVdXhCeW5naU5TSHhOcjdmLWptUVRXT1A?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-24T15:25:03Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1da6caa3fafcf4",
-   "title": "Wall Street trades mixed as markets assess new tariff concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3M1QmJIRjAwd1R5eVdkZFJKel8xVFBaQmxiR0Q4T1hLUG9vM01HX2x0WE9aUTNzX1RLbHlicGFnQXFSVlJYd0g0dzJHT3A3anhtLTFROW9JaEJzSkNJRmdrQzNWeU5pUDdNWXdNNm1STHJ6akEtcGNfa19xeG5KN21JOEhCemh0OEtZd01MNHRaYjVYaTdCZVhhRkxIVDdjT2dfb2ZGeWJydTJkYUs1NHRXT1BLdmdXV2NJRXh1c2swQW8?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-24T15:21:47Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "f12ebfb770770f",
-   "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-   "summary": "Kress led the company for 11 days during Huang’s sudden departure and steered Nvidia through billions in AI financing deals before that. Now she's back to CFO.",
-   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-   "source": "CNBC",
-   "date": "2026-11-24T15:19:46Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]

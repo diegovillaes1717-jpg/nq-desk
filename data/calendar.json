@@ -1,84 +1,6 @@
 {
  "events": [
   {
-   "id": "8956be29dffb1f",
-   "title": "PMI manufacturero (flash)",
-   "title_en": "Flash Manufacturing PMI",
-   "date": "2026-11-23T14:45:00Z",
-   "impact": "Medio",
-   "key": false,
-   "category": "Crecimiento",
-   "forecast": "54.5",
-   "previous": "56.0",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "ad2a12f2a5a17e",
-   "title": "PMI de servicios (flash)",
-   "title_en": "Flash Services PMI",
-   "date": "2026-11-23T14:45:00Z",
-   "impact": "Medio",
-   "key": false,
-   "category": "Crecimiento",
-   "forecast": "55.6",
-   "previous": "57.9",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "28c4b879fb37cb",
-   "title": "Habla Williams (miembro del FOMC)",
-   "title_en": "FOMC Member Williams Speaks",
-   "date": "2026-11-23T21:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Fed",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "76ca3669356b30",
-   "title": "ADP Weekly Employment Change",
-   "title_en": "ADP Weekly Employment Change",
-   "date": "2026-11-24T13:15:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Empleo",
-   "forecast": "",
-   "previous": "23.8K",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "326bcc860594ca",
-   "title": "Precios de la vivienda FHFA m/m",
-   "title_en": "HPI m/m",
-   "date": "2026-11-24T14:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Vivienda",
-   "forecast": "0.2%",
-   "previous": "0.3%",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "e3b17f27217304",
-   "title": "Precios vivienda Case-Shiller a/a",
-   "title_en": "S&P/CS Composite-20 HPI y/y",
-   "date": "2026-11-24T14:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Vivienda",
-   "forecast": "2.7%",
-   "previous": "2.7%",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
    "id": "7200f77608106e",
    "title": "Confianza del consumidor CB",
    "title_en": "CB Consumer Confidence",
@@ -89,33 +11,8 @@
    "forecast": "92.4",
    "previous": "91.7",
    "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "f0616aae72e039",
-   "title": "Índice manufacturero de Richmond",
-   "title_en": "Richmond Manufacturing Index",
-   "date": "2026-11-24T15:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Crecimiento",
-   "forecast": "-2",
-   "previous": "-2",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "5266b201be65d0",
-   "title": "API Weekly Statistical Bulletin",
-   "title_en": "API Weekly Statistical Bulletin",
-   "date": "2026-11-24T21:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Otros",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "source": "Forex Factory"
+   "source": "Forex Factory",
+   "type": "Encuestas de consumidores"
   },
   {
    "id": "a595931ad4bf4d",
@@ -128,20 +25,8 @@
    "forecast": "0.3%",
    "previous": "0.3%",
    "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "a19bb2c31273bc",
-   "title": "PIB preliminar t/t",
-   "title_en": "Prelim GDP q/q",
-   "date": "2026-11-25T13:30:00Z",
-   "impact": "Alto",
-   "key": false,
-   "category": "Crecimiento",
-   "forecast": "3.5%",
-   "previous": "3.4%",
-   "actual": "",
-   "source": "Forex Factory"
+   "source": "Forex Factory",
+   "type": "Inflación"
   },
   {
    "id": "6c11b2f5e02d6c",
@@ -154,124 +39,8 @@
    "forecast": "2.3%",
    "previous": "2.3%",
    "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "e9dfa73eafc5dc",
-   "title": "Pedidos de bienes duraderos subyacentes m/m",
-   "title_en": "Core Durable Goods Orders m/m",
-   "date": "2026-11-25T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Crecimiento",
-   "forecast": "0.5%",
-   "previous": "0.5%",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "8547fa5b01818e",
-   "title": "Pedidos de bienes duraderos m/m",
-   "title_en": "Durable Goods Orders m/m",
-   "date": "2026-11-25T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Crecimiento",
-   "forecast": "0.7%",
-   "previous": "1.8%",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "823f7efd7c3421",
-   "title": "Ingresos personales m/m",
-   "title_en": "Personal Income m/m",
-   "date": "2026-11-25T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Otros",
-   "forecast": "0.4%",
-   "previous": "0.2%",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "5e53c40c65e7c3",
-   "title": "Gasto personal m/m",
-   "title_en": "Personal Spending m/m",
-   "date": "2026-11-25T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Otros",
-   "forecast": "0.4%",
-   "previous": "0.5%",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "c6306cf58530a4",
-   "title": "Peticiones de desempleo",
-   "title_en": "Unemployment Claims",
-   "date": "2026-11-25T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Empleo",
-   "forecast": "201K",
-   "previous": "203K",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "35dead6b33d873",
-   "title": "Ventas de viviendas nuevas",
-   "title_en": "New Home Sales",
-   "date": "2026-11-25T15:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Vivienda",
-   "forecast": "650K",
-   "previous": "676K",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "5873a91626b959",
-   "title": "Inventarios de crudo (EIA)",
-   "title_en": "Crude Oil Inventories",
-   "date": "2026-11-25T15:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Energía",
-   "forecast": "",
-   "previous": "3.4M",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "1c63c329fe9290",
-   "title": "Almacenamiento de gas natural",
-   "title_en": "Natural Gas Storage",
-   "date": "2026-11-25T17:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Energía",
-   "forecast": "-19B",
-   "previous": "20B",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "28e340f7f08d3e",
-   "title": "Libro Beige",
-   "title_en": "Beige Book",
-   "date": "2026-11-25T19:00:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Fed",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "source": "Forex Factory"
+   "source": "Forex Factory",
+   "type": "Inflación"
   },
   {
    "id": "240f620a9d1be6",
@@ -284,33 +53,8 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "e73f20c864d7f3",
-   "title": "Balanza comercial de bienes",
-   "title_en": "Goods Trade Balance",
-   "date": "2026-11-27T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Otros",
-   "forecast": "-135.9B",
-   "previous": "-134.9B",
-   "actual": "",
-   "source": "Forex Factory"
-  },
-  {
-   "id": "551680737f6b52",
-   "title": "Prelim Wholesale Inventories m/m",
-   "title_en": "Prelim Wholesale Inventories m/m",
-   "date": "2026-11-27T13:30:00Z",
-   "impact": "Bajo",
-   "key": false,
-   "category": "Otros",
-   "forecast": "0.5%",
-   "previous": "0.6%",
-   "actual": "",
-   "source": "Forex Factory"
+   "source": "Forex Factory",
+   "type": "Festivo"
   },
   {
    "id": "34180240a25c2d",
@@ -323,8 +67,9 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "source": "Calendario Fed"
+   "source": "Calendario Fed",
+   "type": "Banco Central"
   }
  ],
- "fetched_at": "2026-11-24T19:12:36Z"
+ "fetched_at": "2026-11-24T19:40:01Z"
 }
