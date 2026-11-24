@@ -2,111 +2,96 @@
  "edition_key": "2026-11-24-preapertura",
  "edition": "preapertura",
  "edition_name": "Previa de la apertura de Nueva York",
- "generated_at": "2026-11-24T19:12:50Z",
- "ai": false,
- "model": null,
+ "generated_at": "2026-11-24T19:24:59Z",
+ "ai": true,
+ "model": "gemini-3.6-flash",
  "content": {
-  "titular": "AI and chip stocks lead Nasdaq selloff as Trump weighs wider trade tariffs",
-  "resumen": "Resumen automático sin IA: añade la clave gratuita de Gemini para recibir el periódico redactado en español.",
-  "tono": "",
-  "tono_motivo": "",
-  "claves": [],
+  "titular": "El Nasdaq 100 cae un 1,96% por la corrección de la IA y el riesgo de nuevos aranceles de Trump",
+  "resumen": "Los futuros del NQ ceden hasta los 26.282 puntos arrastrados por fuertes caídas en semiconductores como AMD (-8,29%) y Nvidia (-7,15%) tras disiparse el optimismo por el regreso de Jensen Huang. La posibilidad de nuevos aranceles estadounidenses a China y la UE incrementa la presión vendedora antes de los datos clave de PCE e PIB de este miércoles.",
+  "tono": "Negativo",
+  "tono_motivo": "Los fuertes retrocesos en los valores líderes del sector de la IA y las renovadas amenazas arancelarias lastran con fuerza al Nasdaq 100.",
+  "claves": [
+   {
+    "titulo": "Fuerte corrección en el sector de la IA y semiconductores",
+    "detalle": "AMD (-8,29%) y Nvidia (-7,15%) encabezan las pérdidas en el sector tecnológico al enfriarse la euforia inicial por el retorno de Jensen Huang como CEO.",
+    "impacto": "Alto",
+    "links": [
+     {
+      "title": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+     },
+     {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+     },
+     {
+      "title": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
+     }
+    ]
+   },
+   {
+    "titulo": "Trump baraja ampliar la guerra arancelaria",
+    "detalle": "El gobierno estadounidense contempla aplicar o elevar aranceles a China, la India, la Unión Europea y otras 13 economías esta semana.",
+    "impacto": "Alto",
+    "links": [
+     {
+      "title": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
+     },
+     {
+      "title": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
+     },
+     {
+      "title": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMW0ydU1fNFpjazZlUE1hcXhfaGtSRUtQRlA0TWdBOTBNNVJsemMyLUhZVUFkSGZLRFltNFMwYlZHQllGWUdaVDlTZGFhRVY3ZXk5V2piQnFnQVptM3huTnlOQ2NNdm5XODB5VE1SZDdwWkNRUmhfZ3I0VXFyZEhmRVVlT3dPTm5XSXF6bXFWWVgzM2NKQkhJY1Qtb0FPblZSMXl2MUoyc2o1SlJseHBLdHU4Vkx0MHBwN0E?oc=5"
+     }
+    ]
+   },
+   {
+    "titulo": "Williams (Fed) advierte sobre inflación mientras los rendimientos ceden",
+    "detalle": "El presidente de la Fed de NY alertó sobre las presiones inflacionarias, aunque la rentabilidad del bono a 10 años cayó ligeramente al 4,906%.",
+    "impacto": "Medio",
+    "links": [
+     {
+      "title": "FlipItMoney",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVhCSmxCQ2Q3bDkybFo3S3A0bUoyZFBlNGtsMllnYTl1enE4b3AwVVZmWm1BM3d6dXNHTTdMaGZfSUwxSlFYQzItbUpIRm5aT01CV2oyQWlRR0xGZUNBR2pSenNlMXJUNF9TZGVNbE5zanN1QnNlM0lzQkNEZkpXYmZXTGhvdG9haGk4MVBpcFdOX0NrMndlYl84b0FFYUZvaG94cHMzUUFqa2dO?oc=5"
+     }
+    ]
+   }
+  ],
   "secciones": [
    {
     "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "AI and chip stocks lead Nasdaq selloff as Trump weighs wider trade tariffs",
+      "texto": "Nvidia se desploma un 7,15% y AMD cae un 8,29%, arrastrando a los grandes nombres de chips tras borrarse el impulso del lunes.",
       "links": [
        {
-        "title": "Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+       },
+       {
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+       },
+       {
+        "title": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
        }
       ]
      },
      {
-      "texto": "U.S. Tech Stocks Fall as Nvidia Pulls Back and Tariff Fears Grow",
+      "texto": "Las acciones de Anthropic caen un 12,6%, perforando su precio de salida a bolsa y acentuando las dudas sobre la valoración de la IA.",
       "links": [
        {
-        "title": "TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9EcTVkUnlUQ21pVDRQa290QVJOSV9oRUM5dVU2S0tBeTV5ajJnWHRmbkt1XzhjRHkwTmswejA5ckZDNU5aWHNkdVRHcm5nbkpheGd0U3hQRVdqbUx6WVRJZjVsZk9kQW9BRHA4UTR4cUhYd2VVV3hxa0lvUWphczlULVo2QnEwN3FLMV9qMnhEWnRPeFJneA?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "S&P 500 Morning Wrap 24-11- 2026 Tech Stocks Slide, NVIDIA Retreats, Tariff Fears Rise",
-      "links": [
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+       },
        {
-        "title": "Kalkine Media",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGg1clY4TjY4N2JWVW9JeldkT0dhRlNjQ1B6NDJiN1dsMjh3NTlSS3VoZzM5QnlCRTVDLUNaak9IZUZPZVMtUVhyeXUxeGNxR2JlbkR2R3FNY3BkSlFkRE1WUldfZjltN1BaSE1UaGNaNjQ2WmhBZDIyQWEtVnR0NUpyWVlmQkVFNHpvMl8wb1RqYWZ5Tm53MFZfd1ZBOE45TUR4YVBMY0VxSjItSlF5UUs0VmdwbHlkN1huMkZ5N210MjZsbTd3?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-      "links": [
-       {
-        "title": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds",
-      "links": [
-       {
-        "title": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "US markets reverse gains: NASDAQ 100 drops 2% as Trump's tariff threat hurt investor sentiments; Nvidia dips 6%, Anthropic falls below issue price",
-      "links": [
-       {
-        "title": "Upstox",
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQalVxc2dmWm5WZWlXcHBEQmM2RXI3dGRYRXk2U3EtNmd0ZkJpcHNTYnJudjBJMkQyYmhoVEFXSk82aFp6U1pLbE5VcmtjczFtUU9aSXRXa0tlcnJlREdNTk5UVWNWRThwQjRsOUNRdnJDWERyQXhMVUF5NVNhYWd6bi1LbkFfYzdNcF9MYWJVQzZ6Sm5CRjBobDRMdXgxTXRCSmNRNEVxOEFONXdHOUVvSlZvMXdIajV2Y0piTDBwdkNCYkdTNVhVVFo2Q2p2emJMNDktRzNvQTlfUzhVYy01dS1Fa29IZlpYU2JLV3lzdF8yanFtYWZFc2xwb1phZmxCRVB4d3JRSV9zdEtPRktkTWJCVWRPY0JvRk5oODB2YmUzLUd0SjdCWGdtYw?oc=5"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "nombre": "Fed y tipos",
-    "puntos": [
-     {
-      "texto": "Treasury yields dip after NY Fed's Williams warns on inflation; 5-year auction eyed",
-      "links": [
-       {
-        "title": "FlipItMoney",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVhCSmxCQ2Q3bDkybFo3S3A0bUoyZFBlNGtsMllnYTl1enE4b3AwVVZmWm1BM3d6dXNHTTdMaGZfSUwxSlFYQzItbUpIRm5aT01CV2oyQWlRR0xGZUNBR2pSenNlMXJUNF9TZGVNbE5zanN1QnNlM0lzQkNEZkpXYmZXTGhvdG9haGk4MVBpcFdOX0NrMndlYl84b0FFYUZvaG94cHMzUUFqa2dO?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "Will XAG rebound if Federal Reserve signals change and dollar momentum slows after inflation release?",
-      "links": [
-       {
-        "title": "Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHgzX1drZmxNSE5xZ05wN3liYmhMTEJubmdIdVhMb0FzSGdQV3BoLS1qSVdoZGgyZ3ZaTHpNaEZaU2JVNFUwR2tpNjRDTUR5ZGxNYXNsNmlmUkcycVpCVkRpYWpMUEdZbDhENnFYMy1QSkZucS0xaFBDbUNwY05tdUdWUk11Z3ha?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-      "links": [
-       {
-        "title": "24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5"
-       }
-      ]
-     },
-     {
-      "texto": "Gold and Silver Lower on Firm Dollar, Fed Rate Bets; PCE Inflation Data in Focus - News and Statistics",
-      "links": [
-       {
-        "title": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjFxTEJvUzZ6WlZZbXEtMG1PcGVyN0lMZ09nc09MN3BhTFhzSTUyOXQ1Mk8xYVU4MGd6WHBscVhCMFpkcmlHR1dEMndMRGp2YUFpeUY3eDhhNncxOUhzRXMyTnUwQ1ZsNUhveUJYZkhCeTBrOG42YmtEMHhwdHRvNUJpM3JXR01RRVVQTFUyUkFkX1E1ZXlLYlpCTmNVN05jNHNocnc0dFF1M19GZzdjYjVSdWdGSmxGWF93TFRrSHNreXZHWlhYamxYbkJRankwVmNQemRoZw?oc=5"
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlBXSmhhQmROeFFEVDI2NFpreTNPUWpaeHg0dG80U0YxYUQ2N1VGUVJwR2VKUlhxMW10dVFMM0dfTHBFek1NY25jaHFjSktOWkJZNU96MWNyeUg0ZFNSZERoOEdvaTFMVElaUU1xcUJ0YUMxREE?oc=5"
        }
       ]
      }
@@ -116,20 +101,64 @@
     "nombre": "Geopolítica y aranceles",
     "puntos": [
      {
-      "texto": "US stocks face tariff risks as Trump weighs higher duties on China, India, EU and 13 other economies | Hindustan Times",
+      "texto": "La retórica arancelaria de la administración Trump vuelve a golpear a los activos de riesgo globales, afectando especialmente al sector tecnológico.",
       "links": [
+       {
+        "title": "Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Fb2EwN3VpNmVsQ3NkbjZfR1Z4ckhvRjFiRDJsSTlzOVpVNERDU2tnWFZjTTJuRVU3ZFpPRGhuTjVEYkZEOHRKTWlPTXcwNnh2TFZGeWt0TnA1R194MExJMHNBbTMtaHE5?oc=5"
+       },
        {
         "title": "Hindustan Times",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
+       },
+       {
+        "title": "Aktualita.co",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Fed y tipos",
+    "puntos": [
+     {
+      "texto": "La atención se desplaza hacia los datos del PCE subyacente y el PIB del miércoles para evaluar los próximos pasos de la Fed antes del festivo bancario del jueves.",
+      "links": [
+       {
+        "title": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjFxTEJvUzZ6WlZZbXEtMG1PcGVyN0lMZ09nc09MN3BhTFhzSTUyOXQ1Mk8xYVU4MGd6WHBscVhCMFpkcmlHR1dEMndMRGp2YUFpeUY3eDhhNncxOUhzRXMyTnUwQ1ZsNUhveUJYZkhCeTBrOG42YmtEMHhwdHRvNUJpM3JXR01RRVVQTFUyUkFkX1E1ZXlLYlpCTmNVN05jNHNocnc0dFF1M19GZzdjYjVSdWdGSmxGWF93TFRrSHNreXZHWlhYamxYbkJRankwVmNQemRoZw?oc=5"
+       },
+       {
+        "title": "Around Prague",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTJ2djRDVUgzck5kdU1UOXVTQThfeUtmUkE3WkR6RFBYR1dxVXRqSGdWWFNXUzM1blhWY0d3emE2WElxZmdpYmlxZEd1bW5mdm1sVDdkSzJIbHVhdVlpNmItMWl4U0lMc3RWSUlwSHd1QnF3WW1qU21Xcml2eGNHRlpka3dkYlhidFloN1BPY2c0Nk8tTGVnZDBRUUxvMWowQ3ByNXozSWJjc0hfenJ5cnFwYkk?oc=5"
        }
       ]
      },
      {
-      "texto": "Trump Prepares New China Tariffs as US-China Trade War Threatens to Escalate",
+      "texto": "Un informe de la Fed advierte de que el desarrollo de la IA podría llegar a representar un riesgo significativo para la economía estadounidense.",
       "links": [
        {
-        "title": "Aktualita.co",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+        "title": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Trump",
+    "puntos": [
+     {
+      "texto": "La implicación del presidente Trump en la restitución de Jensen Huang en la junta de Nvidia suscita críticas sobre la injerencia política y la seguridad nacional.",
+      "links": [
+       {
+        "title": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xdndqbWpZQzBnYnZ6aGVqcS14OHY0MkRNNGlJYlFoNUVPNk5GYWZpZ20wd2tEdGdRV0VOQ282NERYZ3VoYUZvNE1YUVp4RlZ3M2RuQTlZc1dNTnpzUUE?oc=5"
+       },
+       {
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html"
        }
       ]
      }
@@ -138,22 +167,26 @@
   ],
   "agenda": [
    {
-    "hora": "Wed 25 14:30",
+    "hora": "Mié 25 14:30",
     "evento": "PCE subyacente m/m",
-    "por_que_importa": ""
+    "por_que_importa": "Es la métrica de inflación predilecta de la Reserva Federal y clave para el rumbo de los tipos de interés (previsión 0,3%)."
    },
    {
-    "hora": "Wed 25 14:30",
+    "hora": "Mié 25 14:30",
     "evento": "PIB preliminar t/t",
-    "por_que_importa": ""
+    "por_que_importa": "Determina el ritmo de crecimiento económico de EE. UU. (previsión 3,5%)."
    },
    {
-    "hora": "Wed 25 14:30",
+    "hora": "Mié 25 14:30",
     "evento": "Deflactor del PIB preliminar t/t",
-    "por_que_importa": ""
+    "por_que_importa": "Aporta visibilidad adicional sobre las presiones de precios en el conjunto del PIB (previsión 2,3%)."
    }
   ],
-  "riesgos": []
+  "riesgos": [
+   "Continuación de las ventas masivas en los gigantes de semiconductores (Nvidia, AMD, Broadcom).",
+   "Nuevos anuncios oficiales sobre incrementos arancelarios por parte del gobierno de EE. UU.",
+   "Lectura del PCE subyacente por encima de lo previsto en la sesión del miércoles."
+  ]
  },
  "archive": []
 }
