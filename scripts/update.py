@@ -757,7 +757,7 @@ def update_fed():
         fail("fed", "feeds de la Fed sin respuesta")
         return prev
     items.sort(key=lambda x: x["date"], reverse=True)
-    out = {"updated_at": iso(now_utc()), "items": items[:40]}
+    out = {"updated_at": iso(now_utc()), "items": items[:40], "summary": prev.get("summary")}
     save("fed.json", out)
     ok("fed", {"items": len(items)})
     return out
@@ -857,32 +857,104 @@ EARN_SYMBOLS = ["NVDA", "MSFT", "AAPL", "AMZN", "META", "AVGO", "GOOGL", "TSLA",
                 "NFLX", "COST", "AMD", "PLTR", "ASML", "QCOM", "ADBE", "MU"]
 
 
-def update_earnings():
-    prev = load("earnings.json", {"items": [], "enabled": False})
-    if not FINNHUB_KEY:
-        out = {"enabled": False, "items": [], "updated_at": iso(now_utc())}
-        save("earnings.json", out)
-        return out
-    if minutes_since(prev.get("updated_at")) < 360 and prev.get("enabled") and prev.get("items"):
-        return prev
+def yahoo_opener():
+    """Sesion con cookie + crumb de Yahoo Finance (necesaria para quoteSummary)."""
+    import http.cookiejar
+    cj = http.cookiejar.CookieJar()
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    op.addheaders = [("User-Agent", UA), ("Accept", "*/*"), ("Accept-Language", "en-US,en;q=0.9")]
+    for u in ("https://fc.yahoo.com", "https://finance.yahoo.com/"):
+        try:
+            op.open(u, timeout=20).read(1000)
+        except Exception:
+            pass
+    crumb = op.open("https://query1.finance.yahoo.com/v1/test/getcrumb", timeout=20).read().decode().strip()
+    if not crumb or "<" in crumb:
+        raise RuntimeError("sin crumb de Yahoo")
+    return op, crumb
+
+
+def rv(d, k):
+    v = (d or {}).get(k)
+    if isinstance(v, dict):
+        return v.get("raw")
+    return v
+
+
+def earnings_yahoo():
+    op, crumb = yahoo_opener()
+    items, last = [], []
+    for s in EARN_SYMBOLS:
+        try:
+            url = (f"https://query2.finance.yahoo.com/v10/finance/quoteSummary/{s}"
+                   f"?modules=calendarEvents,earningsHistory&crumb={urllib.parse.quote(crumb)}")
+            j = json.loads(op.open(url, timeout=20).read().decode("utf-8"))
+            res = (j.get("quoteSummary", {}).get("result") or [{}])[0]
+            ce = (res.get("calendarEvents") or {}).get("earnings") or {}
+            dates = ce.get("earningsDate") or []
+            if dates:
+                ts = rv(dates[0], "raw") if isinstance(dates[0], dict) else dates[0]
+                dt = datetime.fromtimestamp(ts, UTC).astimezone(NY)
+                h = dt.hour + dt.minute / 60
+                hour = "amc" if h >= 16 else ("bmo" if 0 < h < 9.5 else "")
+                items.append({
+                    "sym": s, "date": dt.strftime("%Y-%m-%d"), "hour": hour,
+                    "estimated": bool(ce.get("isEarningsDateEstimate")) or len(dates) > 1,
+                    "eps_est": rv(ce, "earningsAverage"), "rev_est": rv(ce, "revenueAverage"),
+                    "eps_act": None, "rev_act": None,
+                })
+            hist = (res.get("earningsHistory") or {}).get("history") or []
+            if hist:
+                hh = hist[-1]
+                q = rv(hh, "quarter")
+                last.append({
+                    "sym": s, "quarter_end": datetime.fromtimestamp(q, UTC).strftime("%Y-%m-%d") if q else "",
+                    "eps_act": rv(hh, "epsActual"), "eps_est": rv(hh, "epsEstimate"),
+                    "surprise": round(rv(hh, "surprisePercent") * 100, 1) if rv(hh, "surprisePercent") is not None else None,
+                })
+        except Exception as e:
+            print(f"[aviso] resultados {s}: {e}", file=sys.stderr)
+        time.sleep(0.4)
+    return items, last
+
+
+def earnings_finnhub():
     frm = (now_utc() - timedelta(days=10)).strftime("%Y-%m-%d")
     to = (now_utc() + timedelta(days=100)).strftime("%Y-%m-%d")
     items = []
+    for s in EARN_SYMBOLS:
+        url = (f"https://finnhub.io/api/v1/calendar/earnings?from={frm}&to={to}"
+               f"&symbol={s}&token={urllib.parse.quote(FINNHUB_KEY)}")
+        j = fetch_json(url, retries=1)
+        for e in j.get("earningsCalendar", []) or []:
+            items.append({
+                "sym": e.get("symbol"), "date": e.get("date"), "hour": e.get("hour") or "",
+                "eps_est": e.get("epsEstimate"), "eps_act": e.get("epsActual"),
+                "rev_est": e.get("revenueEstimate"), "rev_act": e.get("revenueActual"), "estimated": False,
+            })
+        time.sleep(1.1)
+    return items
+
+
+def update_earnings():
+    prev = load("earnings.json", {"items": [], "enabled": False})
+    if minutes_since(prev.get("updated_at")) < 360 and prev.get("enabled") and prev.get("items"):
+        STATUS["sources"]["resultados"] = PREV_STATUS.get("sources", {}).get("resultados", {"ok": True, "at": prev.get("updated_at")})
+        return prev
     try:
-        for s in EARN_SYMBOLS:
-            url = (f"https://finnhub.io/api/v1/calendar/earnings?from={frm}&to={to}"
-                   f"&symbol={s}&token={urllib.parse.quote(FINNHUB_KEY)}")
-            j = fetch_json(url, retries=1)
-            for e in j.get("earningsCalendar", []) or []:
-                items.append({
-                    "sym": e.get("symbol"), "date": e.get("date"), "hour": e.get("hour") or "",
-                    "eps_est": e.get("epsEstimate"), "eps_act": e.get("epsActual"),
-                    "rev_est": e.get("revenueEstimate"), "rev_act": e.get("revenueActual"),
-                    "quarter": e.get("quarter"), "year": e.get("year"),
-                })
-            time.sleep(1.1)
+        items, last = earnings_yahoo()
+        source = "Yahoo Finance"
+        if FINNHUB_KEY:
+            try:
+                fh = earnings_finnhub()
+                if fh:
+                    items, source = fh, "Finnhub"
+            except Exception as e:
+                print(f"[aviso] Finnhub: {e}", file=sys.stderr)
+        if not items and not last:
+            raise RuntimeError("sin datos de resultados")
         items.sort(key=lambda x: (x["date"] or "", x["sym"] or ""))
-        out = {"enabled": True, "items": items, "updated_at": iso(now_utc())}
+        out = {"enabled": True, "source": source, "items": items, "last": last, "updated_at": iso(now_utc())}
         save("earnings.json", out)
         ok("resultados", {"items": len(items)})
         return out
@@ -1011,6 +1083,69 @@ No inventes datos. Publicaciones:
     return trump
 
 
+FED_PROMPT = """Eres analista de la Reserva Federal para un trader de futuros del Nasdaq 100 (NQ) que NO quiere leer los comunicados.
+Fecha actual (Madrid): {now}.
+Con SOLO la información de abajo, resume en español, de forma muy sencilla y profesional, qué está diciendo la Fed.
+No inventes nada que no esté abajo. Fechas en formato "24 nov".
+Devuelve SOLO JSON:
+{{
+ "resumen": "2-3 frases muy sencillas: qué mensaje está dando la Fed últimamente",
+ "tono": "Halcón|Paloma|Neutral",
+ "tono_explicacion": "una frase sencilla: qué significa ese tono para el NQ (halcón = tipos altos más tiempo, suele pesar en tecnológicas; paloma = recortes, suele ayudar)",
+ "puntos": [{{"fecha": "24 nov", "quien": "Waller / FOMC / Powell…", "titulo": "título corto en español", "resumen": "1-2 frases sencillas", "impacto": "Alto|Medio|Bajo"}}],
+ "que_vigilar": "una frase: próxima cita o dato de la Fed a vigilar"
+}}
+Entre 3 y 8 "puntos", del más reciente al más antiguo; omite los que no tengan relación con la política monetaria.
+
+COMUNICACIONES RECIENTES DE LA FED:
+{items}
+
+PRÓXIMOS EVENTOS DE LA FED EN EL CALENDARIO:
+{agenda}
+"""
+
+
+def fed_page_text(url):
+    try:
+        raw = fetch(url, retries=1, timeout=20).decode("utf-8", "replace")
+        m = re.search(r'<div[^>]+id="article"[^>]*>(.*)', raw, re.S) or re.search(r"<main[^>]*>(.*)", raw, re.S)
+        txt = clean_text(m.group(1) if m else raw)
+        return txt[:2500]
+    except Exception:
+        return ""
+
+
+def update_fed_summary(fed, calendar):
+    if not GEMINI_KEY:
+        return fed
+    items = [f for f in fed.get("items", []) if parse_iso(f["date"]) >= now_utc() - timedelta(days=45)]
+    if not items:
+        return fed
+    sig = uid(*[f["id"] for f in items[:12]])
+    summ = fed.get("summary") or {}
+    if summ.get("sig") == sig and minutes_since(summ.get("generated_at")) < 24 * 60:
+        return fed
+    lines = []
+    for i, f in enumerate(items[:12]):
+        extra = fed_page_text(f["link"]) if i < 4 and f.get("link") else ""
+        lines.append(f"- {fmt_mad(f['date'], '%d/%m')} | {f['source']} | {f['title']} | {f.get('summary', '')[:200]}"
+                     + (f"\n  Extracto: {extra}" if extra else ""))
+    agenda = [f"- {fmt_mad(e['date'])} | {e['title']}" for e in calendar
+              if e.get("category") == "Fed" and parse_iso(e["date"]) >= now_utc()][:8]
+    prompt = FED_PROMPT.format(now=now_utc().astimezone(MAD).strftime("%d/%m/%Y %H:%M"),
+                               items="\n".join(lines), agenda="\n".join(agenda) or "(ninguno)")
+    try:
+        res, model = gemini_json(prompt, max_tokens=3000)
+        res["sig"] = sig
+        res["generated_at"] = iso(now_utc())
+        fed["summary"] = res
+        save("fed.json", fed)
+        ok("fed_ia", {"model": model})
+    except Exception as e:
+        fail("fed_ia", f"Gemini: {e}")
+    return fed
+
+
 # ----------------------------------------------------------------------------
 # 7) Periodico diario
 # ----------------------------------------------------------------------------
@@ -1112,6 +1247,7 @@ Reglas:
 Devuelve SOLO JSON con esta forma exacta:
 {{
  "titular": "titular principal (máx. 110 caracteres)",
+ "en_pocas_palabras": ["4-6 frases MUY sencillas, como si se lo explicaras a un amigo que no es economista: qué está pasando, por qué importa y qué puede significar para el NQ. Sin tecnicismos; si usas uno (por ejemplo PCE o FOMC), explícalo en la misma frase."],
  "resumen": "2-3 frases con lo esencial para el NQ",
  "tono": "Positivo|Negativo|Mixto|Neutral",
  "tono_motivo": "una frase",
@@ -1158,7 +1294,8 @@ def update_periodico(calendar, markets, news, trump, fed):
     start, eid, ename = ed
     edition_key = f"{start.strftime('%Y-%m-%d')}-{eid}"
     have_ai = per.get("ai") or not GEMINI_KEY
-    if per.get("edition_key") == edition_key and have_ai and not FORCE_PERIODICO:
+    needs_simple = bool(GEMINI_KEY) and per.get("ai") and "en_pocas_palabras" not in (per.get("content") or {})
+    if per.get("edition_key") == edition_key and have_ai and not FORCE_PERIODICO and not needs_simple:
         return per
 
     context, used_news = build_context(eid, calendar, markets, news, trump, fed)
@@ -1168,6 +1305,7 @@ def update_periodico(calendar, markets, news, trump, fed):
             prompt = PERIODICO_PROMPT.format(
                 edition_name=ename, now_mad=now_mad.strftime("%A %d/%m/%Y %H:%M"), context=context)
             content, model = gemini_json(prompt, max_tokens=6000)
+            content.setdefault("en_pocas_palabras", [])
             ai = True
 
             def links(idx):
@@ -1242,6 +1380,7 @@ def main():
     trump_res = safe(update_trump, "trump", (load("trump.json", {"posts": []}), []))
     trump, new_posts = trump_res
     trump = safe(lambda: classify_trump_ai(trump, new_posts), "trump_ia", trump)
+    fed = safe(lambda: update_fed_summary(fed, calendar), "fed_ia", fed)
     safe(update_earnings, "resultados", None)
     safe(lambda: update_periodico(calendar, markets, news, trump, fed), "periodico", None)
 

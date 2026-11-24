@@ -236,3 +236,14 @@ table.tbl{width:100%;border-collapse:collapse;font-size:13px}
   .alert .cd{font-size:17px}
   .clock{display:none}
 }
+
+/* Desplegables, introduccion y resumen sencillo */
+details.fold summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:44px}
+details.fold summary::-webkit-details-marker{display:none}
+details.fold[open] .fold-hint{visibility:hidden}
+details.faq{background:var(--inner);border:1px solid var(--border);border-radius:12px;padding:4px 14px}
+details.faq p{margin:0 0 12px;color:var(--muted2);font-size:14px;line-height:1.6}
+.intro-card p{margin:0 0 10px;font-size:14px;line-height:1.6;color:var(--muted2)}
+.intro-card p strong{color:var(--text)}
+.card.simple{border-color:var(--accent2)}
+.simple-list li{font-size:16px;line-height:1.6}

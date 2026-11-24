@@ -6,7 +6,7 @@
   var ET = 'America/New_York';
   var FILES = ['status', 'calendar', 'markets', 'news', 'trump', 'periodico', 'fed', 'earnings'];
   var REFRESH_MS = 60 * 1000;
-  var TABS = ['panel', 'calendario', 'periodico', 'trump', 'mercados', 'resultados', 'fed'];
+  var TABS = ['panel', 'calendario', 'periodico', 'trump', 'mercados', 'resultados', 'fed', 'introduccion', 'guia'];
 
   var S = {
     d: {}, tab: 'panel', loaded: false,
@@ -135,7 +135,7 @@
   function renderTab(t) {
     if (!S.loaded) return;
     var fn = { panel: renderPanel, calendario: renderCalendar, periodico: renderPeriodico, trump: renderTrump,
-      mercados: renderMarkets, resultados: renderEarnings, fed: renderFed }[t];
+      mercados: renderMarkets, resultados: renderEarnings, fed: renderFed, introduccion: renderIntro, guia: renderGuia }[t];
     fn && fn();
   }
 
@@ -417,6 +417,7 @@
       }
       html += '</div><div class="paper-head"><h1>' + esc(c.titular) + '</h1><p class="lead">' + esc(c.resumen) + '</p>' +
         (c.tono ? '<div><span class="tono ' + esc(c.tono) + '">Tono del mercado: ' + esc(c.tono) + '</span> <span class="sub">' + esc(c.tono_motivo || '') + '</span></div>' : '') + '</div></div>';
+      if (c.en_pocas_palabras && c.en_pocas_palabras.length) html += '<div class="card simple"><div class="card-h"><div><h2>En pocas palabras</h2><div class="sub">Lo esencial de esta edición, explicado de forma sencilla</div></div></div><ul class="pts simple-list">' + c.en_pocas_palabras.map(function (t) { return '<li>' + esc(t) + '</li>'; }).join('') + '</ul></div>';
 
       if (c.claves && c.claves.length) html += '<div class="card"><div class="card-h"><h2>Las claves</h2></div><div class="grid-auto">' + c.claves.map(claveHTML).join('') + '</div></div>';
 
@@ -434,15 +435,6 @@
       if (c.riesgos && c.riesgos.length) html += '<div class="card"><div class="card-h"><h3>A vigilar</h3></div><ul class="pts">' + c.riesgos.map(function (r) { return '<li>' + esc(r) + '</li>'; }).join('') + '</ul></div>';
       html += '</aside></div>';
     }
-    // titulares
-    var items = (S.d.news && S.d.news.items) || [];
-    var cats = ['Todas'];
-    items.forEach(function (n) { if (cats.indexOf(n.category) < 0) cats.push(n.category); });
-    var shown = items.filter(function (n) { return S.newsCat === 'Todas' || n.category === S.newsCat; });
-    html += '<div class="card"><div class="card-h"><div><h2>Titulares filtrados</h2><div class="sub">Últimas 48 h · solo noticias con impacto potencial en el NQ · ' + items.length + ' titulares</div></div>' +
-      '<div class="toolbar">' + cats.map(function (c) { return '<button class="fchip' + (S.newsCat === c ? ' on' : '') + '" data-act="cat" data-v="' + esc(c) + '">' + esc(c) + '</button>'; }).join('') + '</div></div>';
-    html += shown.length ? '<div class="list">' + shown.slice(0, 60).map(newsItem).join('') + '</div>' : '<div class="empty">Sin titulares en esta categoría.</div>';
-    html += '</div>';
     el.innerHTML = html;
   }
 
@@ -551,26 +543,31 @@
   /* ---------------- RESULTADOS ---------------- */
   var NAMES = { NVDA: 'Nvidia', MSFT: 'Microsoft', AAPL: 'Apple', AMZN: 'Amazon', META: 'Meta', AVGO: 'Broadcom', GOOGL: 'Alphabet', TSLA: 'Tesla', NFLX: 'Netflix', COST: 'Costco', AMD: 'AMD', PLTR: 'Palantir', ASML: 'ASML', QCOM: 'Qualcomm', ADBE: 'Adobe', MU: 'Micron' };
   function hourTxt(h) { return { bmo: 'Antes de la apertura', amc: 'Tras el cierre', dmh: 'Durante la sesión' }[h] || 'Hora por confirmar'; }
+  function money(v) {
+    if (v == null || isNaN(v)) return '—';
+    var a = Math.abs(v);
+    return a >= 1e9 ? num(v / 1e9, 1) + ' mil M$' : a >= 1e6 ? num(v / 1e6, 0) + ' M$' : num(v, 0) + ' $';
+  }
   function renderEarnings() {
     var er = S.d.earnings || {};
-    var html = '<div class="card"><div class="card-h"><div><h2>Resultados de las grandes del Nasdaq</h2><div class="sub">Nvidia, Microsoft, Apple, Amazon, Meta, Broadcom, Alphabet, Tesla y otras con mucho peso en el NQ</div></div></div>';
+    var html = '<div class="card"><div class="card-h"><div><h2>Resultados de las grandes del Nasdaq</h2><div class="sub">Las empresas con más peso en el NQ. Cuando presentan resultados, el índice entero puede moverse con fuerza, sobre todo tras el cierre.</div></div>' +
+      (er.updated_at ? '<span class="sub">' + esc(er.source || '') + ' · actualizado ' + ago(er.updated_at) + '</span>' : '') + '</div>';
     if (!er.enabled) {
-      html += '<div class="empty" style="text-align:left;line-height:1.6">Esta sección es opcional. Para activarla, crea una clave gratuita en <a href="https://finnhub.io/register" target="_blank" rel="noopener">finnhub.io</a> y guárdala en GitHub con el nombre <strong>FINNHUB_API_KEY</strong> (la guía explica cómo, son 2 minutos).</div>';
+      html += '<div class="empty">Los resultados aparecerán tras la próxima actualización del robot (se revisan cada 6 horas).</div>';
     } else {
       var today = dayKey(new Date());
-      var items = er.items || [];
-      var up = items.filter(function (x) { return x.date >= today; });
-      var past = items.filter(function (x) { return x.date < today; }).reverse();
-      html += up.length ? '<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Fecha</th><th>Empresa</th><th>Momento</th><th class="num">BPA estimado</th><th class="num">Faltan</th></tr></thead><tbody>' + up.map(function (x) {
+      var up = (er.items || []).filter(function (x) { return x.date >= today; });
+      html += up.length ? '<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Fecha</th><th>Empresa</th><th>Momento</th><th class="num">BPA estimado</th><th class="num">Ingresos estimados</th><th class="num">Faltan</th></tr></thead><tbody>' + up.map(function (x) {
         var days = Math.round((keyToDate(x.date) - keyToDate(today)) / 86400000);
-        return '<tr class="' + (days <= 7 ? 'soon' : '') + '"><td>' + cap(fmt(keyToDate(x.date), { weekday: 'short', day: 'numeric', month: 'short' })) + '</td><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong> <span class="sub">' + esc(NAMES[x.sym] || '') + '</span></td><td>' + hourTxt(x.hour) + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) : '—') + '</td><td class="num">' + (days === 0 ? '<span style="color:var(--high-ink)">HOY</span>' : days + ' d') + '</td></tr>';
-      }).join('') + '</tbody></table></div>' : '<div class="empty">No hay resultados programados en los próximos meses.</div>';
-      if (past.length) {
-        html += '<div class="section-label" style="margin-top:20px">Publicados recientemente</div><div class="tbl-wrap"><table class="tbl"><thead><tr><th>Fecha</th><th>Empresa</th><th class="num">BPA real</th><th class="num">Estimado</th><th class="num">Sorpresa</th></tr></thead><tbody>' + past.map(function (x) {
-          var s = x.eps_act != null && x.eps_est ? (x.eps_act - x.eps_est) / Math.abs(x.eps_est) * 100 : null;
-          return '<tr><td>' + cap(fmt(keyToDate(x.date), { weekday: 'short', day: 'numeric', month: 'short' })) + '</td><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong></td><td class="num">' + (x.eps_act != null ? num(x.eps_act, 2) : '—') + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) : '—') + '</td><td class="num">' + (s != null ? chg(s) : '—') + '</td></tr>';
+        return '<tr class="' + (days <= 7 ? 'soon' : '') + '"><td>' + cap(fmt(keyToDate(x.date), { weekday: 'short', day: 'numeric', month: 'short' })) + (x.estimated ? ' <span class="sub" title="Fecha estimada, pendiente de confirmar por la empresa">(est.)</span>' : '') + '</td><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong> <span class="sub">' + esc(NAMES[x.sym] || '') + '</span></td><td>' + hourTxt(x.hour) + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) + ' $' : '—') + '</td><td class="num">' + money(x.rev_est) + '</td><td class="num">' + (days === 0 ? '<span style="color:var(--high-ink);font-weight:800">HOY</span>' : days + ' d') + '</td></tr>';
+      }).join('') + '</tbody></table></div>' : '<div class="empty">No hay resultados programados todavía.</div>';
+      var last = er.last || [];
+      if (last.length) {
+        html += '<div class="section-label" style="margin-top:22px">Último trimestre presentado</div><div class="tbl-wrap"><table class="tbl"><thead><tr><th>Empresa</th><th>Trimestre</th><th class="num">BPA real</th><th class="num">Estimado</th><th class="num">Sorpresa</th></tr></thead><tbody>' + last.map(function (x) {
+          return '<tr><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong> <span class="sub">' + esc(NAMES[x.sym] || '') + '</span></td><td>' + (x.quarter_end ? fmt(keyToDate(x.quarter_end), { month: 'short', year: 'numeric' }) : '—') + '</td><td class="num">' + (x.eps_act != null ? num(x.eps_act, 2) : '—') + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) : '—') + '</td><td class="num">' + (x.surprise != null ? chg(x.surprise) : '—') + '</td></tr>';
         }).join('') + '</tbody></table></div>';
       }
+      html += '<p class="sub" style="margin-top:14px">BPA = beneficio por acción. Si el dato real supera lo estimado ("sorpresa" positiva) la acción suele subir, y si es una de las grandes, arrastra al NQ. Fechas marcadas "(est.)": aún sin confirmar por la empresa.</p>';
     }
     html += '</div>';
     $('tab-resultados').innerHTML = html;
@@ -583,21 +580,38 @@
       return /Federal Funds Rate|FOMC Rate Decision/.test(e.title_en) && D(e.date).getTime() > now - 3600000;
     })[0];
     var fedEv = events().filter(function (e) { return isFed(e) && D(e.date).getTime() > now - 3600000; }).slice(0, 14);
-    var items = (S.d.fed && S.d.fed.items) || [];
+    var fd = S.d.fed || {}, items = fd.items || [], sm = fd.summary;
     var html = '<div class="row"><div class="grow" style="display:flex;flex-direction:column;gap:20px">';
-    html += '<div class="card"><div class="card-h"><div><h2>Próxima decisión de tipos (FOMC)</h2><div class="sub">Comunicado a las ' + (dec ? hm(dec.date) : '20:00') + ' y rueda de prensa 30 min después (hora de Madrid)</div></div></div>';
-    if (dec) {
-      var t = D(dec.date).getTime();
-      html += '<div style="display:flex;flex-wrap:wrap;gap:24px;align-items:center"><div><div class="sub">Fecha</div><div style="font-size:20px;font-weight:800">' + cap(fmt(dec.date, { weekday: 'long', day: 'numeric', month: 'long' })) + ' · ' + hm(dec.date) + '</div></div>' +
-        '<div><div class="sub">Cuenta atrás</div><div class="big-count" data-cd="' + t + '">' + countdown(t - now) + '</div></div></div>';
-    } else html += '<div class="empty">Sin fecha disponible.</div>';
-    html += '<div class="toolbar" style="margin-top:14px"><a class="btn" href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noopener">Probabilidades CME FedWatch ↗</a><a class="btn" href="https://www.federalreserve.gov/newsevents/calendar.htm" target="_blank" rel="noopener">Calendario oficial de la Fed ↗</a></div></div>';
 
-    html += '<div class="card"><div class="card-h"><div><h2>Comunicados y discursos recientes</h2><div class="sub">Fuente: federalreserve.gov</div></div></div>';
-    html += items.length ? '<div class="list">' + items.slice(0, 20).map(function (f) {
+    html += '<div class="card"><div class="card-h"><div><h2>La Fed en 30 segundos</h2><div class="sub">Qué es, qué peso tiene en el NQ y cómo se relaciona</div></div></div><div class="grid-auto">' +
+      '<div class="clave"><h4>Qué es</h4><p>La Reserva Federal es el banco central de EE. UU. Decide el precio del dinero (los tipos de interés) en sus reuniones del FOMC, 8 al año.</p></div>' +
+      '<div class="clave"><h4>Qué peso tiene en el NQ</h4><p>Muy alto. Sus decisiones y su tono mueven los rendimientos de los bonos, y el Nasdaq es el índice más sensible a ellos porque las tecnológicas valen por sus beneficios futuros.</p></div>' +
+      '<div class="clave"><h4>Cómo se relaciona</h4><p><strong class="down">Tono halcón</strong> (tipos altos más tiempo) → bonos al alza → suele pesar en el NQ. <strong class="up">Tono paloma</strong> (recortes) → bonos a la baja → suele ayudar al NQ.</p></div></div></div>';
+
+    html += '<div class="card"><div class="card-h"><div><h2>Resumen de la Fed</h2><div class="sub">Lo que ha dicho la Fed últimamente, resumido automáticamente' + (sm && sm.generated_at ? ' · actualizado ' + ago(sm.generated_at) : '') + '</div></div>' +
+      (sm && sm.tono ? '<span class="tono ' + ({ 'Halcón': 'Negativo', 'Paloma': 'Positivo' }[sm.tono] || 'Neutral') + '">Tono: ' + esc(sm.tono) + '</span>' : '') + '</div>';
+    if (sm && sm.resumen) {
+      html += '<p class="lead" style="margin:0 0 6px;font-size:16px">' + esc(sm.resumen) + '</p>' + (sm.tono_explicacion ? '<p class="sub" style="margin:0 0 14px">' + esc(sm.tono_explicacion) + '</p>' : '');
+      if (sm.puntos && sm.puntos.length) html += '<div class="list">' + sm.puntos.map(function (p) {
+        return '<div class="today-ev" style="align-items:flex-start"><span class="tm" style="width:58px">' + esc(p.fecha) + '</span><span class="ti">' + esc(p.titulo) + (p.quien ? ' <span class="sub">· ' + esc(p.quien) + '</span>' : '') + '<div class="sub" style="font-weight:400;margin-top:3px">' + esc(p.resumen) + '</div></span>' + (p.impacto ? '<span class="pill ' + esc(p.impacto) + '">' + esc(p.impacto).toUpperCase() + '</span>' : '') + '</div>';
+      }).join('') + '</div>';
+      if (sm.que_vigilar) html += '<div class="post" style="margin-top:12px;padding:10px 12px"><div class="ai"><strong>A vigilar:</strong> ' + esc(sm.que_vigilar) + '</div></div>';
+    } else html += '<div class="empty">El resumen se genera automáticamente en la próxima actualización.</div>';
+    html += '</div>';
+
+    html += '<div class="card"><details class="fold"><summary><span><strong>Comunicados y discursos recientes</strong> <span class="sub">(' + items.length + ') · fuente: federalreserve.gov</span></span><span class="sub fold-hint">Mostrar</span></summary>';
+    html += items.length ? '<div class="list" style="margin-top:14px">' + items.slice(0, 25).map(function (f) {
       return '<div class="news-item"><div class="meta"><span class="chip">' + esc(f.source.replace('Fed · ', '')) + '</span><span>' + cap(fmt(f.date, { weekday: 'short', day: 'numeric', month: 'short' })) + ' (' + ago(f.date) + ')</span></div><a class="t" href="' + safeUrl(f.link) + '" target="_blank" rel="noopener">' + esc(f.title) + '</a></div>';
     }).join('') + '</div>' : '<div class="empty">Sin datos todavía.</div>';
-    html += '</div></div><aside class="side"><div class="card"><div class="card-h"><h3>Agenda de la Fed</h3></div>';
+    html += '</details></div></div>';
+
+    html += '<aside class="side"><div class="card"><div class="card-h"><h3>Próxima decisión de tipos</h3></div>';
+    if (dec) {
+      var t = D(dec.date).getTime();
+      html += '<div style="font-size:17px;font-weight:800">' + cap(fmt(dec.date, { weekday: 'long', day: 'numeric', month: 'long' })) + ' · ' + hm(dec.date) + '</div><div class="sub">Rueda de prensa 30 min después</div><div class="big-count" style="margin-top:8px" data-cd="' + t + '">' + countdown(t - now) + '</div>';
+    } else html += '<div class="empty">Sin fecha disponible.</div>';
+    html += '<div class="toolbar" style="margin-top:14px"><a class="btn" href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noopener">Probabilidades FedWatch ↗</a></div></div>';
+    html += '<div class="card"><div class="card-h"><h3>Agenda de la Fed</h3></div>';
     html += fedEv.length ? '<div class="list">' + fedEv.map(function (e) {
       return '<div class="today-ev' + (e.key ? ' key' : '') + '"><span class="tm" style="width:auto">' + cap(fmt(e.date, { weekday: 'short', day: 'numeric' })) + ' ' + hm(e.date) + '</span><span class="ti">' + esc(e.title) + '</span></div>';
     }).join('') + '</div>' : '<div class="empty">Sin eventos de la Fed en el calendario próximo.</div>';
@@ -605,10 +619,58 @@
     $('tab-fed').innerHTML = html;
   }
 
+  /* ---------------- INTRODUCCIÓN ---------------- */
+  function introCard(title, href, what, how, tip) {
+    return '<div class="card intro-card"><div class="card-h"><h2>' + title + '</h2><a class="link-more" href="' + href + '">Ir →</a></div>' +
+      '<p><strong>Qué es.</strong> ' + what + '</p><p><strong>Cómo usarlo.</strong> ' + how + '</p>' + (tip ? '<p class="sub"><strong>Consejo:</strong> ' + tip + '</p>' : '') + '</div>';
+  }
+  function renderIntro() {
+    var html = '<div class="card"><div class="paper-head"><div class="section-label">Introducción</div><h1>Tu mesa de noticias del NQ</h1>' +
+      '<p class="lead">NQ Desk reúne en un solo sitio todo lo que puede mover los futuros del Nasdaq 100: calendario económico, noticias, Trump, la Fed, resultados de las grandes tecnológicas y mercados relacionados. Un robot lo revisa todo cada ~10 minutos, filtra el ruido y la inteligencia artificial te lo resume en español. No tienes que buscar nada: entras y lo tienes.</p></div></div>';
+    html += '<div class="card"><div class="card-h"><h2>Elementos que verás en todas las secciones</h2></div><div class="grid-auto">' +
+      '<div class="clave"><h4>Franja roja superior</h4><p>El próximo evento clave (FOMC, IPC, NFP, PCE o el presidente de la Fed) con cuenta atrás en directo. Cuando se publica, cambia a "PUBLICADO AHORA" durante 20 minutos.</p></div>' +
+      '<div class="clave"><h4>Indicador "En vivo"</h4><p>Arriba a la derecha. Verde = datos al día. Amarillo = la última actualización tiene más de 25 min. Rojo = más de 45 min sin actualizar.</p></div>' +
+      '<div class="clave"><h4>Puntos de fuentes</h4><p>Al pie de la página, un punto por fuente. Verde = funcionó en la última actualización. Rojo = falló (pasa el ratón por encima para ver el motivo).</p></div>' +
+      '<div class="clave"><h4>Horarios</h4><p>Todas las horas están en horario de Madrid, con los cambios de horario de EE. UU. y Europa ya calculados.</p></div></div></div>';
+    html += '<div class="grid-auto">' +
+      introCard('Panel', '#panel', 'La portada. Un resumen de todo en una pantalla: mercados con su variación del día, semana y mes; los eventos de hoy y los de alto impacto de mañana; la edición actual del periódico; los últimos posts de Trump; y el estado de la sesión y del contrato.', 'Ábrelo al empezar la sesión: en 30 segundos sabes qué hay hoy y qué está pasando.', 'Los eventos en rojo con la etiqueta CLAVE son los que más mueven el NQ.') +
+      introCard('Calendario', '#calendario', 'Los eventos económicos de Forex Factory con tu filtro: solo USD, impacto alto y medio, y solo inflación, empleo, banco central, encuestas de consumidores y discursos. Vista semanal y mensual.', 'Cambia entre Semanal y Mensual, muévete con las flechas y filtra por impacto o por "Solo clave". En la vista mensual, pulsa un día para abrir su semana. Cada evento muestra previsión, dato anterior y, cuando sale, el dato real.', 'Los eventos ya pasados aparecen atenuados; el próximo evento clave lleva un borde destacado.') +
+      introCard('Periódico', '#periodico', 'Un periódico escrito por inteligencia artificial solo sobre el NQ, a partir de las noticias filtradas, el calendario, los mercados, Trump y la Fed. Sale 3 veces al día entre semana (07:00, 15:00 antes de la apertura de Nueva York y 22:00 tras el cierre), un resumen semanal el sábado y una previa de la semana el domingo.', 'Empieza por "En pocas palabras": la explicación más sencilla. Después tienes el titular, el tono del mercado, las claves, las secciones por tema, la agenda y los riesgos a vigilar. Con los botones de arriba puedes ver ediciones anteriores.', 'Cada punto lleva enlaces a la noticia original por si quieres ampliar.') +
+      introCard('Trump', '#trump', 'Solo las publicaciones de Trump en Truth Social que pueden mover el NQ (aranceles, China, la Fed, tecnológicas, guerra, impuestos, petróleo…). Cada una lleva su nivel de impacto (alto, medio o bajo) y una frase de la IA explicando por qué importa. Lo que no tiene relación con el mercado se descarta.', 'Cuando entra un post nuevo de impacto alto o medio verás un aviso en la esquina inferior derecha y un contador rojo en el menú. Al abrir la sección, el contador se pone a cero.', 'Los avisos llegan con 5-20 minutos de retraso respecto a la publicación original.') +
+      introCard('Mercados', '#mercados', 'NQ, ES, Dow Jones, bono a 10 años, petróleo, VIX y dólar con su variación diaria, semanal y mensual y un minigráfico de 30 días. También el mapa de calor del Nasdaq 100 y las 12 acciones con más peso en el índice.', 'Úsalo para ver el contexto: si los bonos suben con fuerza o el VIX se dispara, el NQ suele sufrir.', 'Los precios de futuros llevan 10-15 minutos de retraso: para operar, usa tu plataforma.') +
+      introCard('Resultados', '#resultados', 'Las fechas de resultados de las grandes del Nasdaq (Nvidia, Microsoft, Apple, Amazon, Meta, Broadcom, Alphabet, Tesla…), con el momento (antes de la apertura o tras el cierre), el beneficio por acción y los ingresos esperados, y cómo salió el último trimestre.', 'Las filas resaltadas son resultados en los próximos 7 días: ojo a la volatilidad del NQ esos días, sobre todo tras el cierre.', 'Las fechas con "(est.)" aún no las ha confirmado la empresa.') +
+      introCard('Fed', '#fed', 'Todo lo de la Reserva Federal resumido: qué es y cómo afecta al NQ, un resumen automático y actualizado de sus últimos comunicados y discursos con fechas, el tono (halcón, paloma o neutral), la cuenta atrás para la próxima decisión de tipos y la agenda de discursos.', 'Lee el resumen y el tono; solo si necesitas más detalle, despliega "Comunicados y discursos recientes" para ver los originales.', 'Halcón suele ser negativo para el NQ; paloma, positivo.') +
+      '</div>';
+    $('tab-introduccion').innerHTML = html;
+  }
+
+  /* ---------------- GUÍA ---------------- */
+  var FAQ = [
+    ['¿Cada cuánto se actualiza la web?', 'El robot revisa todas las fuentes cada ~10 minutos, aunque tengas el ordenador apagado. La página se refresca sola cada minuto mientras la tienes abierta. El calendario de Forex Factory se consulta cada ~30 minutos y los resultados cada 6 horas.'],
+    ['¿Los precios son en tiempo real?', 'No. Los futuros (NQ, ES, Dow, petróleo) llegan con 10-15 minutos de retraso porque los datos en directo de CME son de pago. Sirven para ver el contexto; para operar usa tu plataforma.'],
+    ['¿Qué significa un evento en rojo con "CLAVE"?', 'Es uno de los eventos que más mueven el NQ: decisión de tipos, comunicado, actas o rueda de prensa del FOMC, IPC, nóminas no agrícolas (NFP), PCE subyacente y comparecencias del presidente de la Fed.'],
+    ['¿Por qué no veo un evento que sí aparece en Forex Factory?', 'Porque el calendario aplica tu filtro: solo USD, impacto alto y medio, y solo inflación, empleo, banco central, encuestas de consumidores y discursos. El PIB o los PMI, por ejemplo, quedan fuera. Se puede cambiar cuando quieras.'],
+    ['¿En qué hora están los eventos?', 'Siempre en hora de Madrid. Los cambios de horario de EE. UU. y de Europa ya están calculados.'],
+    ['¿A qué hora sale el periódico?', 'Entre semana a las 07:00, 15:00 y 22:00. El sábado a las 10:00 (resumen de la semana) y el domingo a las 18:00 (previa de la semana). Puede tardar hasta 10-15 minutos más en aparecer.'],
+    ['¿Qué es el "tono del mercado" y el "tono de la Fed"?', 'Una valoración de la IA a partir de las noticias. Tono positivo o paloma suele favorecer al NQ; negativo o halcón suele pesar. Es orientativo, no una señal de trading.'],
+    ['¿Qué es el contador rojo junto a "Trump"?', 'El número de posts nuevos de impacto alto o medio desde la última vez que abriste la sección. Al entrar en ella se pone a cero.'],
+    ['¿Qué es el rollover?', 'El cambio del contrato de futuros que vence al siguiente. El panel "Sesión y contrato" muestra el contrato activo, la fecha estimada de rollover (unos 8 días antes del vencimiento) y el vencimiento.'],
+    ['Arriba pone "Sin actualizar". ¿Qué hago?', 'Espera unos minutos: GitHub a veces retrasa el robot. Si dura más de una hora, entra en tu repositorio de GitHub → pestaña Actions y revisa si hay una ✗ roja.'],
+    ['¿Alguno de los puntos de abajo está en rojo?', 'Esa fuente falló en la última revisión (pasa el ratón por encima para ver el motivo). Casi siempre se arregla sola en la siguiente actualización.'],
+    ['¿Esto es asesoramiento financiero?', 'No. Es información resumida para ayudarte a estar al día. Las decisiones de trading son tuyas.']
+  ];
+  function renderGuia() {
+    var html = '<div class="card"><div class="paper-head"><div class="section-label">Guía rápida</div><h1>Dudas frecuentes</h1><p class="lead">Respuestas cortas a lo más habitual. Pulsa una pregunta para ver la respuesta.</p></div></div>';
+    html += '<div class="card"><div class="list">' + FAQ.map(function (q) {
+      return '<details class="fold faq"><summary><strong>' + esc(q[0]) + '</strong><span class="sub fold-hint">+</span></summary><p>' + esc(q[1]) + '</p></details>';
+    }).join('') + '</div></div>';
+    $('tab-guia').innerHTML = html;
+  }
+
   /* ---------------- footer ---------------- */
   function renderFooter() {
     var st = S.d.status || {}, src = st.sources || {};
-    var names = { calendario: 'Calendario', mercados: 'Mercados', noticias: 'Noticias', fed: 'Fed', trump: 'Trump', periodico: 'Periódico', resultados: 'Resultados' };
+    var names = { calendario: 'Calendario', mercados: 'Mercados', noticias: 'Noticias', fed: 'Fed', fed_ia: 'Resumen Fed', trump: 'Trump', periodico: 'Periódico', resultados: 'Resultados' };
     $('footer').innerHTML = '<div class="srcrow">' + Object.keys(names).filter(function (k) { return src[k]; }).map(function (k) {
       var s = src[k];
       return '<span class="src' + (s.ok ? '' : ' bad') + '" title="' + esc(s.ok ? 'OK ' + ago(s.at) : (s.error || 'Error')) + '"><span class="dot-s"></span>' + names[k] + '</span>';
