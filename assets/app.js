@@ -533,7 +533,7 @@
     s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js'; s.async = true;
     s.textContent = JSON.stringify({
       exchanges: [], dataSource: 'NASDAQ100', grouping: 'sector', blockSize: 'market_cap_basic', blockColor: 'change',
-      locale: 'es', symbolUrl: '', colorTheme: 'dark', hasTopBar: false, isDataSetEnabled: false, isZoomEnabled: true,
+      locale: 'es', symbolUrl: '', colorTheme: 'light', hasTopBar: false, isDataSetEnabled: false, isZoomEnabled: true,
       hasSymbolTooltip: true, isMonoSize: false, width: '100%', height: '100%'
     });
     c.appendChild(s);
