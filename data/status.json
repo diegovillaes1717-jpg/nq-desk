@@ -1,0 +1,30 @@
+{
+ "demo": true,
+ "updated_at": "2026-11-24T13:52:55Z",
+ "sources": {
+  "calendario": {
+   "ok": true,
+   "at": "2026-11-24T13:52:55Z"
+  },
+  "mercados": {
+   "ok": true,
+   "at": "2026-11-24T13:52:55Z"
+  },
+  "noticias": {
+   "ok": true,
+   "at": "2026-11-24T13:52:55Z"
+  },
+  "fed": {
+   "ok": true,
+   "at": "2026-11-24T13:52:55Z"
+  },
+  "trump": {
+   "ok": true,
+   "at": "2026-11-24T13:52:55Z"
+  },
+  "periodico": {
+   "ok": true,
+   "at": "2026-11-24T13:52:55Z"
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "edition_key": "demo",
+ "edition": "manana",
+ "edition_name": "Edición de mañana",
+ "generated_at": "2026-11-24T11:52:55Z",
+ "ai": true,
+ "model": "demo",
+ "content": {
+  "titular": "[Ejemplo] El NQ espera al PCE y a las actas del FOMC en una semana corta",
+  "resumen": "Texto de demostración. Aquí la IA resumirá cada mañana en 2-3 frases lo esencial para el NQ a partir de las noticias filtradas, el calendario y los mercados.",
+  "tono": "Mixto",
+  "tono_motivo": "Ejemplo de explicación del tono.",
+  "claves": [
+   {
+    "titulo": "PCE subyacente mañana",
+    "detalle": "Ejemplo: el dato de inflación preferido por la Fed.",
+    "impacto": "Alto",
+    "links": [
+     {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/"
+     }
+    ]
+   },
+   {
+    "titulo": "Actas del FOMC",
+    "detalle": "Ejemplo: pistas sobre próximos recortes.",
+    "impacto": "Alto",
+    "links": []
+   },
+   {
+    "titulo": "Semana corta",
+    "detalle": "Ejemplo: menor liquidez por el festivo en EE. UU.",
+    "impacto": "Medio",
+    "links": []
+   }
+  ],
+  "secciones": [
+   {
+    "nombre": "Fed y tipos",
+    "puntos": [
+     {
+      "texto": "Punto de ejemplo sobre la Fed.",
+      "links": [
+       {
+        "title": "Reuters",
+        "url": "https://www.reuters.com/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Tecnológicas",
+    "puntos": [
+     {
+      "texto": "Punto de ejemplo sobre semiconductores.",
+      "links": []
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "hora": "Mié 16:00",
+    "evento": "PCE subyacente",
+    "por_que_importa": "Ejemplo."
+   },
+   {
+    "hora": "Mié 20:00",
+    "evento": "Actas del FOMC",
+    "por_que_importa": "Ejemplo."
+   }
+  ],
+  "riesgos": [
+   "Riesgo de ejemplo 1.",
+   "Riesgo de ejemplo 2."
+  ]
+ },
+ "archive": []
+}

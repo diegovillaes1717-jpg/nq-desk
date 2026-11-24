@@ -1,0 +1,33 @@
+{
+ "updated_at": "2026-11-24T13:52:55Z",
+ "posts": [
+  {
+   "id": "t1",
+   "text": "[Publicación de ejemplo] Aquí aparecerá el texto del post de Truth Social detectado por el filtro (por ejemplo, un anuncio sobre aranceles a China).",
+   "link": "https://trumpstruth.org/",
+   "date": "2026-11-24T13:27:55Z",
+   "detected_at": "2026-11-24T13:32:55Z",
+   "impact": "Alto",
+   "tags": [
+    "Aranceles",
+    "China"
+   ],
+   "ai_note": "Ejemplo: un anuncio arancelario contra China suele presionar a las tecnológicas y al NQ.",
+   "ai": true
+  },
+  {
+   "id": "t2",
+   "text": "[Publicación de ejemplo] Post sobre la Reserva Federal y los tipos de interés.",
+   "link": "https://trumpstruth.org/",
+   "date": "2026-11-24T10:52:55Z",
+   "detected_at": "2026-11-24T10:52:55Z",
+   "impact": "Medio",
+   "tags": [
+    "Fed"
+   ],
+   "ai_note": "Ejemplo: la presión pública sobre la Fed puede mover las expectativas de tipos.",
+   "ai": true
+  }
+ ],
+ "checked": 20
+}

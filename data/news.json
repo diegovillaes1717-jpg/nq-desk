@@ -1,0 +1,85 @@
+{
+ "updated_at": "2026-11-24T13:52:55Z",
+ "items": [
+  {
+   "id": "n0",
+   "title": "[Ejemplo] Los futuros del Nasdaq suben antes del dato de PCE",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "CNBC",
+   "date": "2026-11-24T12:52:55Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "n1",
+   "title": "[Ejemplo] Un miembro de la Fed ve margen para más recortes de tipos",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "Reuters",
+   "date": "2026-11-24T11:52:55Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "n2",
+   "title": "[Ejemplo] Las acciones de semiconductores lideran las subidas",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "MarketWatch",
+   "date": "2026-11-24T10:52:55Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "n3",
+   "title": "[Ejemplo] El consumo en EE. UU. resiste pese a la inflación",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "Bloomberg",
+   "date": "2026-11-24T09:52:55Z",
+   "score": 5,
+   "category": "Macro"
+  },
+  {
+   "id": "n4",
+   "title": "[Ejemplo] Nuevas conversaciones comerciales entre EE. UU. y China",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "Yahoo Finance",
+   "date": "2026-11-24T08:52:55Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "n5",
+   "title": "[Ejemplo] Los rendimientos del bono a 10 años caen antes del festivo",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "CNBC",
+   "date": "2026-11-24T07:52:55Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "n6",
+   "title": "[Ejemplo] El petróleo cae por la previsión de exceso de oferta",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "MarketWatch",
+   "date": "2026-11-24T05:52:55Z",
+   "score": 2,
+   "category": "Energía y dólar"
+  },
+  {
+   "id": "n7",
+   "title": "[Ejemplo] Gran tecnológica anuncia una inversión en centros de datos de IA",
+   "summary": "Texto de ejemplo del resumen de la noticia.",
+   "link": "https://www.cnbc.com/markets/",
+   "source": "Reuters",
+   "date": "2026-11-24T04:52:55Z",
+   "score": 1,
+   "category": "Tecnológicas"
+  }
+ ]
+}

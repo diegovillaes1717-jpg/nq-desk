@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NQ Desk · Noticias del Nasdaq 100</title>
+<meta name="description" content="Calendario, noticias, Trump y mercados filtrados para el trader del NQ.">
+<meta name="theme-color" content="#080B14">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2338BDF8'/%3E%3Ctext x='32' y='41' font-family='Arial' font-weight='800' font-size='26' text-anchor='middle' fill='%2304131F'%3ENQ%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Roboto+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#panel" aria-label="NQ Desk, inicio">
+    <span class="logo">NQ</span>
+    <span class="brand-name">NQ <span class="accent2">DESK</span></span>
+  </a>
+  <nav class="nav" aria-label="Secciones">
+    <a href="#panel" data-tab="panel">Panel</a>
+    <a href="#calendario" data-tab="calendario">Calendario</a>
+    <a href="#periodico" data-tab="periodico">Periódico</a>
+    <a href="#trump" data-tab="trump">Trump <span class="badge" id="trump-badge" hidden>0</span></a>
+    <a href="#mercados" data-tab="mercados">Mercados</a>
+    <a href="#resultados" data-tab="resultados">Resultados</a>
+    <a href="#fed" data-tab="fed">Fed</a>
+  </nav>
+  <div class="top-right">
+    <span class="live" id="live-status"><span class="dot"></span><span id="live-text">Cargando…</span></span>
+    <span class="mono clock" id="clock">--:--</span>
+  </div>
+</header>
+
+<div class="demo-banner" id="demo-banner" hidden>
+  DATOS DE DEMOSTRACIÓN · Se sustituyen automáticamente por datos reales en la primera actualización.
+</div>
+
+<main class="wrap">
+  <section class="alert" id="next-alert" hidden></section>
+
+  <section class="tab" id="tab-panel"></section>
+  <section class="tab" id="tab-calendario" hidden></section>
+  <section class="tab" id="tab-periodico" hidden></section>
+  <section class="tab" id="tab-trump" hidden></section>
+  <section class="tab" id="tab-mercados" hidden></section>
+  <section class="tab" id="tab-resultados" hidden></section>
+  <section class="tab" id="tab-fed" hidden></section>
+</main>
+
+<footer class="footer" id="footer"></footer>
+<div class="toasts" id="toasts" aria-live="polite"></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

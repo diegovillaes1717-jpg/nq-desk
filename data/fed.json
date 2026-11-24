@@ -1,0 +1,21 @@
+{
+ "updated_at": "2026-11-24T13:52:55Z",
+ "items": [
+  {
+   "id": "f1",
+   "title": "[Ejemplo] Discurso de un gobernador de la Fed sobre las perspectivas económicas",
+   "summary": "",
+   "link": "https://www.federalreserve.gov/newsevents/speeches.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-23T13:52:55Z"
+  },
+  {
+   "id": "f2",
+   "title": "[Ejemplo] Comunicado del FOMC",
+   "summary": "",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+   "source": "Fed · Política monetaria",
+   "date": "2026-10-28T13:52:55Z"
+  }
+ ]
+}
