@@ -1,5 +1,281 @@
 {
- "enabled": false,
- "items": [],
- "updated_at": "2026-11-24T19:44:31Z"
+ "enabled": true,
+ "source": "Yahoo Finance",
+ "items": [
+  {
+   "sym": "NVDA",
+   "date": "2026-11-17",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 2.88028,
+   "rev_est": 130825535680,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "ADBE",
+   "date": "2026-12-09",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 6.32884,
+   "rev_est": 6830578620,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "AVGO",
+   "date": "2026-12-09",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 3.83018,
+   "rev_est": 34903482540,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "COST",
+   "date": "2026-12-10",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 4.90364,
+   "rev_est": 74519076690,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "MU",
+   "date": "2026-12-17",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 38.24639,
+   "rev_est": 61756168190,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "NFLX",
+   "date": "2027-01-19",
+   "hour": "amc",
+   "estimated": true,
+   "eps_est": 0.67566,
+   "rev_est": 13446130180,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "ASML",
+   "date": "2027-01-27",
+   "hour": "bmo",
+   "estimated": false,
+   "eps_est": 15.38838,
+   "rev_est": 14816055140,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "META",
+   "date": "2027-01-27",
+   "hour": "amc",
+   "estimated": true,
+   "eps_est": 8.71875,
+   "rev_est": 75180008660,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "MSFT",
+   "date": "2027-01-27",
+   "hour": "amc",
+   "estimated": true,
+   "eps_est": 4.85492,
+   "rev_est": 96702371680,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "TSLA",
+   "date": "2027-01-27",
+   "hour": "amc",
+   "estimated": true,
+   "eps_est": 0.50473,
+   "rev_est": 29284898640,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "AAPL",
+   "date": "2027-01-28",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 2.91057,
+   "rev_est": 156429989490,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "PLTR",
+   "date": "2027-02-01",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 0.52023,
+   "rev_est": 2671797880,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "AMD",
+   "date": "2027-02-02",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 2.92794,
+   "rev_est": 17055205070,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "GOOGL",
+   "date": "2027-02-03",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 3.25312,
+   "rev_est": 142333501680,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "QCOM",
+   "date": "2027-02-03",
+   "hour": "amc",
+   "estimated": false,
+   "eps_est": 2.25456,
+   "rev_est": 10821305400,
+   "eps_act": null,
+   "rev_act": null
+  },
+  {
+   "sym": "AMZN",
+   "date": "2027-02-04",
+   "hour": "amc",
+   "estimated": true,
+   "eps_est": 2.49111,
+   "rev_est": 244980536200,
+   "eps_act": null,
+   "rev_act": null
+  }
+ ],
+ "last": [
+  {
+   "sym": "NVDA",
+   "quarter_end": "2026-10-31",
+   "eps_act": 2.68,
+   "eps_est": 2.47313,
+   "surprise": 8.4
+  },
+  {
+   "sym": "MSFT",
+   "quarter_end": "2026-09-30",
+   "eps_act": 4.89,
+   "eps_est": 4.72072,
+   "surprise": 3.6
+  },
+  {
+   "sym": "AAPL",
+   "quarter_end": "2026-09-30",
+   "eps_act": 2.1,
+   "eps_est": 1.98483,
+   "surprise": 5.8
+  },
+  {
+   "sym": "AMZN",
+   "quarter_end": "2026-09-30",
+   "eps_act": 1.89,
+   "eps_est": 1.95787,
+   "surprise": -3.5
+  },
+  {
+   "sym": "META",
+   "quarter_end": "2026-09-30",
+   "eps_act": 3.83,
+   "eps_est": 5.41956,
+   "surprise": -29.3
+  },
+  {
+   "sym": "AVGO",
+   "quarter_end": "2026-07-31",
+   "eps_act": 3.32,
+   "eps_est": 3.238,
+   "surprise": 2.5
+  },
+  {
+   "sym": "GOOGL",
+   "quarter_end": "2026-09-30",
+   "eps_act": 2.12,
+   "eps_est": 3.0089,
+   "surprise": -29.5
+  },
+  {
+   "sym": "TSLA",
+   "quarter_end": "2026-09-30",
+   "eps_act": 0.48,
+   "eps_est": 0.45114,
+   "surprise": 6.4
+  },
+  {
+   "sym": "NFLX",
+   "quarter_end": "2026-09-30",
+   "eps_act": 0.87,
+   "eps_est": 0.82268,
+   "surprise": 5.8
+  },
+  {
+   "sym": "COST",
+   "quarter_end": "2026-08-31",
+   "eps_act": 6.75,
+   "eps_est": 6.52731,
+   "surprise": 3.4
+  },
+  {
+   "sym": "AMD",
+   "quarter_end": "2026-09-30",
+   "eps_act": 2.09,
+   "eps_est": 1.94529,
+   "surprise": 7.4
+  },
+  {
+   "sym": "PLTR",
+   "quarter_end": "2026-09-30",
+   "eps_act": 0.44,
+   "eps_est": 0.40585,
+   "surprise": 8.4
+  },
+  {
+   "sym": "ASML",
+   "quarter_end": "2026-09-30",
+   "eps_act": 11.8193,
+   "eps_est": 10.75815,
+   "surprise": 9.9
+  },
+  {
+   "sym": "QCOM",
+   "quarter_end": "2026-09-30",
+   "eps_act": 2.17,
+   "eps_est": 2.15954,
+   "surprise": 0.5
+  },
+  {
+   "sym": "ADBE",
+   "quarter_end": "2026-08-31",
+   "eps_act": 6.13,
+   "eps_est": 6.08663,
+   "surprise": 0.7
+  },
+  {
+   "sym": "MU",
+   "quarter_end": "2026-08-31",
+   "eps_act": 33.42,
+   "eps_est": 31.81801,
+   "surprise": 5.0
+  }
+ ],
+ "updated_at": "2026-11-24T19:59:45Z"
 }

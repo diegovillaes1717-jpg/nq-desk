@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T19:44:30Z",
+ "updated_at": "2026-11-24T19:59:20Z",
  "items": [
   {
    "id": "093823af590d1c",
@@ -321,5 +321,50 @@
    "source": "Fed · Testimonios",
    "date": "2024-03-06T13:30:00Z"
   }
- ]
+ ],
+ "summary": {
+  "resumen": "Los miembros de la Fed destacan la complejidad de gestionar la inflación debido a shocks en los precios de la energía y riesgos geopolíticos. Reiteran que la prioridad sigue siendo devolver la inflación al objetivo del 2% mediante una comunicación clara y un seguimiento estricto de las condiciones económicas.",
+  "tono": "Halcón",
+  "tono_explicacion": "Un tono halcón indica tipos altos más tiempo, lo que suele pesar en las valoraciones tecnológicas y presionar a la baja al Nasdaq 100.",
+  "puntos": [
+   {
+    "fecha": "24 nov",
+    "quien": "Reserva Federal",
+    "titulo": "Actas de las reuniones del tipo de descuento",
+    "resumen": "Publicación de las actas relativas a las reuniones de la Junta sobre la ventanilla de descuento de octubre.",
+    "impacto": "Bajo"
+   },
+   {
+    "fecha": "20 nov",
+    "quien": "Cook",
+    "titulo": "Shocks globales y mandato monetario",
+    "resumen": "Subrayó que los conflictos geopolíticos y el encarecimiento del petróleo afectan a la economía global y complican el mandato de estabilidad de precios.",
+    "impacto": "Medio"
+   },
+   {
+    "fecha": "20 nov",
+    "quien": "Waller",
+    "titulo": "Herramientas de política y comunicación",
+    "resumen": "Explicó la evolución de las herramientas del FOMC y la relevancia de la comunicación clara para orientar las expectativas del mercado antes de decidir la postura monetaria.",
+    "impacto": "Bajo"
+   },
+   {
+    "fecha": "19 nov",
+    "quien": "Jefferson",
+    "titulo": "Gestión de shocks y riesgo de inflación",
+    "resumen": "Advirtió sobre el dilema que suponen los shocks de oferta energética, señalando que si la inflación supera el 2% se justifica una respuesta monetaria más firme.",
+    "impacto": "Medio"
+   },
+   {
+    "fecha": "18 nov",
+    "quien": "FOMC",
+    "titulo": "Actas de la reunión del FOMC",
+    "resumen": "Se publicaron las actas correspondientes a la reunión del comité celebrada a finales de octubre.",
+    "impacto": "Alto"
+   }
+  ],
+  "que_vigilar": "Próxima decisión de tipos de la Fed programada para el miércoles 9 a las 20:00.",
+  "sig": "cf85158e500270",
+  "generated_at": "2026-11-24T19:59:35Z"
+ }
 }
