@@ -7,23 +7,23 @@
   },
   "mercados": {
    "ok": true,
-   "at": "2026-11-25T15:18:44Z",
+   "at": "2026-11-25T15:23:30Z",
    "errors": 0
   },
   "noticias": {
    "ok": true,
-   "at": "2026-11-25T15:18:48Z",
+   "at": "2026-11-25T15:23:34Z",
    "items": 120,
    "feed_errors": 1
   },
   "fed": {
    "ok": true,
-   "at": "2026-11-25T15:18:49Z",
+   "at": "2026-11-25T15:23:34Z",
    "items": 45
   },
   "trump": {
    "ok": true,
-   "at": "2026-11-25T15:18:49Z",
+   "at": "2026-11-25T15:23:35Z",
    "new": 0
   },
   "resultados": {
@@ -33,7 +33,7 @@
   }
  },
  "gemini_model": "gemini-3.5-flash",
- "updated_at": "2026-11-25T15:18:49Z",
+ "updated_at": "2026-11-25T15:23:35Z",
  "demo": false,
  "gemini": true,
  "finnhub": false

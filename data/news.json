@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T15:18:48Z",
+ "updated_at": "2026-11-25T15:23:34Z",
  "items": [
   {
    "id": "141dc684988feb",
@@ -152,6 +152,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "61c2a36d63c43c",
+   "title": "Tech stock rout deepens; NASDAQ 100 falls 900 pts, S&P 500 and Dow Jones dips over 2%, PCE inflation rises to three-year high",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObFA3bG1GV0ZIa0t4Y2szRzJkUUVpQWh3a09wY3hNLW9pcU13TFVQME5MZmt2SUdqSllCYzZfeF9DeGVMTlhab0FIcXEyRkZzekxxbUZuNlRDbjFJZ21kcnJnaU95bXFVSjExU3ZJcFpaWENyX0E2a1F4RXpXQUtkdTRmRmgzR1ZhcXJuSUsxOUhEemlEMGcyMTJ5MVRuWWFKdkF6QnBQOU9YMzE3NTZGUjBkaHVzdWhtd2ZQWVd2dnF4MHB4TkxGTFNPdGVZa1pWbHBfcWh2WFR6OHJDeVM5UFBtaw?oc=5",
+   "source": "Upstox",
+   "date": "2026-11-25T15:01:06Z",
+   "score": 10,
+   "category": "Macro"
+  },
+  {
    "id": "f31b624c65a5dd",
    "title": "Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff",
    "summary": "",
@@ -159,6 +169,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-25T15:00:41Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "2d069588ebc7db",
+   "title": "Nvidia Is Facing a Potential Criminal Case in California. NVDA Investors Should Brace for Another Drawdown.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY252MmxlcHRNbzJNVDVLajZMWGpEVDZDRTVtcmxhLUpRZDdmSVY1QUgwb0JqSHBGemNNbENlVmtXcXZzUnhoMldNQWxOZk14aExSSUMzTTN4di1wbjN4V294VWJxdEpjSHRITFpndnNxUk81c1djY3Z2T1puN3Z0dWxXVmZJaFRzOFp0c0I1S1ZHelYtMFhXVW1NRVYtc05ZRG9YalRZaTBmNzRWUTczZjBUS212cnRmR0xZSkNOWEthR2FINjBPbnJiVWdGZjVlbmR6dUZmMnM5QjVjRWp0RE9MZw?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-11-25T15:00:03Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -309,6 +329,26 @@
    "source": "Yahoo Finance",
    "date": "2026-11-25T14:47:23Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "c13a4ad0b8fcaf",
+   "title": "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1VPMUY4dHUtcE5rWEF3SENCZUdzVnl2dW8xVnN6eTZaV0pGazNnRGRMZl9uQlRpZDlGUW9pOXR5eXpUZ0JEaEpQVERrU0FhS1dSbGR2Q0x3S1NzR0NTRzQweVotTTdVX1YxblJGTG1zNFhjd3FndU54SWFCZlNLLUU2dVFUZW43QVh3NHF3N0pWT1VWVVFacGxISHdua18xNlFtemtuSFRzdFJ2emctZDBjU21LTjRUNUd3VHdXV2k?oc=5",
+   "source": "France 24",
+   "date": "2026-11-25T14:47:16Z",
+   "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "917d1a13125323",
+   "title": "Strong growth and elevated inflation signal more Fed tightening",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREFUTXM4Wko2bjBhZFE2cWllM1dWVjlPSHRSLWhnYldSV3dNWGw3c2E4eG90cFJsY01nandkRUk5Vnp3NHcxUnNyZXZKUjdaYzZ3NDN5LVFmS1p0QmVYOHpSMzVsaDVKdURYMFNnNDRDb0loU215NWVRMlNCVzZYTDZlM1ZZem5fZ0RyT1p6Vk5pb1loSkh4cmRDaw?oc=5",
+   "source": "ING Think",
+   "date": "2026-11-25T14:45:48Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -510,16 +550,6 @@
    "date": "2026-11-25T14:29:00Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "c13a4ad0b8fcaf",
-   "title": "US Q3 GDP revised strongly upward, Fed’s inflation gauge hits three-year high",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR056dVotS1NjUzJUOU5mU2hVZHoxelU1dHlfUlNKRkp2UE5wc0J5MUtPVWN2emc3bTgySWVZbTZ2TmltbXpQWlNxejFMQ0RmS2NmU203VmxDQlZ6alNrNkVRbXpwNGdleXRucDJGOGZ0Vk9xVHd2SkhtZU1HdW5YcUt0RHZ4TXdmR1VuWVp4bnhGS3JIQjByOHZ0Yl9vLUtJRWFJMA?oc=5",
-   "source": "Macau Business",
-   "date": "2026-11-25T14:28:56Z",
-   "score": 10,
-   "category": "Fed y tipos"
   },
   {
    "id": "608e8ff185e2b0",
@@ -1072,16 +1102,6 @@
    "category": "Mercado"
   },
   {
-   "id": "594671dbf9b85f",
-   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T13:42:05Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "6f0c342e2b0577",
    "title": "The Parallels Between Nvidia and Enron Are Starting to Get Downright Bizarre",
    "summary": "",
@@ -1089,6 +1109,16 @@
    "source": "Futurism",
    "date": "2026-11-25T13:42:05Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "594671dbf9b85f",
+   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T13:42:05Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T13:41:00Z",
    "score": 3.5,
    "category": "Macro"
-  },
-  {
-   "id": "4da27a0b9eb1b8",
-   "title": "PCE Inflation Hits 3.8% as Expected, 3Q GDP Growth Revised Up to 4.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9qeDB4aXhub3VDbHZ6MVQyN2E0OUNVc3p1YjNXUF83UjRpWTNXOXlqMnh0NV9mQ1lZUzNpd2stWGZlLXpXdFROTUZTYlhrajF5bXVZY1Jkb1ZVRnJINl93SU50TFdHbWpWbG8wbUxjSVR3OE03Tmo2YW9SQjJ3VHVUT2MxMkRnRC11bC01OFh5SFVqV29jeEh1Y3lhLWZGUnVJbWR3?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T13:39:58Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "f3c8ecb469d0a6",
-   "title": "Fed's Preferred Inflation Gauge Hits 3.8% as Expected: Q3 GDP Growth Revised Up to 4.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9qeDB4aXhub3VDbHZ6MVQyN2E0OUNVc3p1YjNXUF83UjRpWTNXOXlqMnh0NV9mQ1lZUzNpd2stWGZlLXpXdFROTUZTYlhrajF5bXVZY1Jkb1ZVRnJINl93SU50TFdHbWpWbG8wbUxjSVR3OE03Tmo2YW9SQjJ3VHVUT2MxMkRnRC11bC01OFh5SFVqV29jeEh1Y3lhLWZGUnVJbWR3?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T13:39:58Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e85975c69b1faa",
-   "title": "US stock futures fall as Nvidia, Anthropic and other AI stocks extend losses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjhiWTdfaWhWcnlkc1hHWGJ1QzVNalRiZEVRajhZdGlRemJnR0hyTkl3X0dFUzI2TlBYbHJ6RDFneDhQdHZGY3RUME1yajJ3TzA0NFZfTEV3QlVIV290U0tjaWluNVVULTVrQWJBVFFjNllFa1lWaDVocm9SNnVjYg?oc=5",
-   "source": "Beinsure",
-   "date": "2026-11-25T13:39:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
