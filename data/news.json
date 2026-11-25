@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T19:47:23Z",
+ "updated_at": "2026-11-25T19:52:08Z",
  "items": [
+  {
+   "id": "f6981370bbec54",
+   "title": "US stocks tumble as AI rout and Trump tariffs rattle markets - ABC News & Headlines – Australian Broadcasting Corporation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1I0OVRsTUdvRUFJbnVucmthbXpiRWZHSHRuNmNFVDVMR1pjdGNqc09MTHBlMW42UFpzc0NDdTNjcFVMcjhkdWlTLThmaDloZGFVenFhdG1iVWItQmhfS282MzN0b3BjdTB1SnJSRW1VZ29iTmUyX3lQVDJ4WUdNam1UOVplMXBz?oc=5",
+   "source": "Google News",
+   "date": "2026-11-25T19:44:30Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
   {
    "id": "b600dd8ecbeac9",
    "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
@@ -622,6 +632,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "c048107e2f67af",
+   "title": "October PCE inflation hits 3.8%: 12 numbers on prices, spending and the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96UHdhZDFuVW9PM2FMUFZtck5OZlhrMkY4Nmwta2t3Z2Jjc0JLOF9IWWxRRDhvN25hLVBmYmNRZXY3dkNfTm5mRGFsOUdoVVdNQzFZbkNOV2h4Z185ZGQ4eQ?oc=5",
+   "source": "qz.com",
+   "date": "2026-11-25T18:23:12Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "a656a3b963147a",
    "title": "Stocks slide as inflation, Nvidia losses fuel Wall Street sell-off",
    "summary": "",
@@ -1122,6 +1142,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "823085dd37f361",
+   "title": "Trump Reignites Trade War With New Tariffs of Up to 20% Against the EU",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6QkJGdmZyTmpjM0RrWFVvVFBxRVk0Y19fdEEtb09SbF8xbTdYYUd0cjJLVTZJaE42eC1Sc3hHV0EwYUp5dHJUSTlIdUJBV1lNXzQ1VWQ3dkFtQmlLc0JTakt1YTJWMnA5ZGRUakd5UGxHZXdqTDdhZnJKT1Y?oc=5",
+   "source": "La Veu Lliure",
+   "date": "2026-11-25T17:28:22Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "7090de769c5396",
    "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It”",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T17:18:20Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "0b569808b9b5bd",
-   "title": "Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFZOdm5CaGt0V2doMkFCdVpTRUtzS1pDNmlDdjRMa0I1SzRhMEstWnd3akZRZlMxOTRTdFJDMVU4NUNGMDJLNVlmdDlPZUp3WTZhUnNER0JuRF9xeUpsdVdBQW1NV3R0eXh5RmFHU1pzZlB6akNxcFlKdTFjb2tOVzR4YlgzLUxIWTQxV09ZYXMwR0R1eWlSM2ozUWtDcnNCeHA0MmxrSDduQ3BDNjhtNVJxYk0?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T17:18:09Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "689e56a870a82b",
-   "title": "Treasury Yields Fall as Investors Seek Protection",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fbmcwUHA0bHJ4V25pWW1Bcnlsbm15dGxTdWVTUVNJWDY2Z2R4NGRaZVpVTkMtU0FRRm10THZqMTNpR0I1c0VzQU80V21oNE1Gcy1yUGdjWWd6ajFqeEliaEhWVGZsX2d0Q0g2RFJjdEVFcHc?oc=5",
-   "source": "Peradaban.id",
-   "date": "2026-11-25T17:16:00Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c8a0ee9d9df1cc",
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T17:15:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
