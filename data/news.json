@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T13:12:36Z",
+ "updated_at": "2026-11-25T13:17:23Z",
  "items": [
+  {
+   "id": "d0929f2cf287dd",
+   "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFdiZko5Z1ZuT09VRmV6ak5uZzdBMkUzNEFOWTl0c0dfNy1GNDladms2TXFPWExhZzFwZE5OQVlVWVFtUWlyVnJfVnNHanZlVlJ4UDM0TDVIRHVVRnBMUHEwX1FiUnpmRnloeUtVTm53VjQwTzVSakd4ZDZWbkxuU3BpakdsaGRMQnhwZWFPemEySXo4N2gwT3prcjM3amhrSGdkOE8tNUJhSV95cnc?oc=5",
+   "source": "Zacks Investment Research",
+   "date": "2026-11-25T13:12:32Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "29237cc5404922",
+   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
+   "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+   "source": "CNBC",
+   "date": "2026-11-25T13:11:09Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "e96522ae105dc6",
    "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
@@ -10,6 +30,16 @@
    "date": "2026-11-25T13:06:45Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "55730570ff22ee",
+   "title": "Stock Futures Slide As Traders Brace For New US Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3p5blZaZG5ROFRQTm9SZmFheEExYUNnQ05JTXd6Y21jdWtudFpYTUVkcVlHR1cwbkRaMU95UDlOTGFrTlNwMEZKR3UxSlJITXJLYzRpZzEwdjZXaWFONUdlVDU2ZkpkblNJR1FVM0JqenBWV0tMSGRsMHBKUjBYc2xXWldDdHVVZDZIRA?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-25T13:04:27Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "591aeaa6672a6c",
@@ -72,6 +102,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "d1bdf53304cf0e",
+   "title": "Nvidia Stock Looks Like a Screaming Buy Below $160. Here's Why.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzZCSHlLZnJQaDJzcm1XalIyd2huaUd1aklPTUxQQlFIM2htTjdzYkVqaXZfUnY5T2tqQ1QzLUExYW5lR3hZMnlpNnpwWG92a2NIVFAtT1d3ZWJhZEE2QlZRZkhzRW84Y1U2by1XM0gtOTRQcC1FUGtUWG43YkNqaldIeEtDdWp5OEpUU3BGVmJLZHpoOUJzR1B5Mzh0QQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T12:50:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "56a959fb18fad1",
    "title": "Nasdaq futures slide nearly 3% as NVIDIA and Anthropic tumble",
    "summary": "",
@@ -79,6 +119,16 @@
    "source": "NewsBytes",
    "date": "2026-11-25T12:48:48Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "594671dbf9b85f",
+   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T12:48:45Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -200,16 +250,6 @@
    "date": "2026-11-25T12:30:12Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "d1bdf53304cf0e",
-   "title": "Nvidia Stock Looks Like a Screaming Buy Below $160. Here's Why.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUthSHN1NzE4STZyUUczU2wxT2lYeG8ySDUwbFp5U01nVHRJQjVTNktOZkoxVmE4SnVsY05jdFdjS1VPc3hYbEZVOE5EWEU2TVlJVmdoaVVYX0tCRFdYOTNnc1NXRVc5bjdybFpJS29BeGllQ2pQVE1XQVJqTXBsTWhoOUVKclB4Z1lhM0toSmJXandlYjZ4NVl1SFZtNkF5TEFlQg?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T12:30:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "d84708b1ac5704",
@@ -352,16 +392,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "594671dbf9b85f",
-   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T12:10:35Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "68a6b054f1c6a5",
    "title": "Nasdaq Futures Drop Over 2% as Chipmakers Slide Ahead of PCE Data",
    "summary": "",
@@ -440,6 +470,16 @@
    "date": "2026-11-25T12:00:43Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "97bd29d09663e6",
+   "title": "Will US core PCE inflation fuel expectations of further Fed tightening?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-25T12:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "1bd49f08c1e3d9",
@@ -645,8 +685,8 @@
    "id": "68fb6b703c3e70",
    "title": "Anthropic shares crash further below their IPO price amid continuing AI worries; Nasdaq futures down 2%",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORWQtaEtvSklFSG9GSV90YWpfam9Ma2hHdE9xWXprenBScDV0LTU5SmE0UU1rdWxGU1ZEbmVBUzBoMXFrNHFmVmRwU3ZUbksyT1dtbmwtdzRDcGI1U2xlT3N4X1FHQUFyYkxWR3RBSFJKbkdma0ZIS3RXMzNIMVA2RUhPVWFndFZBbC1nNmpLOExkeW9KdXBleWE0MWdwVjgzTUpmcWg2bGhzdFkyNmxRMnk2YzY0aEEwN3NlZ0d0Rm5GRTAxYVBudmx0NU1ab1UyYmR5ZFJ5SWhYeUVrMnctbHNMNGppbzdzZDdxX0JxM2QtV2tyN1dkRF9R0gH_AUFVX3lxTE5hWU9kQjVGWVFMLVRwUS1rc05PR1ZMcDJOS0xURnBXVy1EcEhUNlBfQ3BJWE1PWjB4RF9FbEFsbHg4VTNoV1gwUGZ2azhMTjhrRk5YZEd1ZnpZeE9udFpPa2tEYkpRSlV3OE01c2ZUSThxVWtGOUdJZkcwaHJXWVVPa3ZPSzJvN0Z0VFMzUDN3R1pFTGlzdVM3aTgxVmEyZ0tySHY5UV9FS2hMTmR4U1d5YmVDSDZEV05xYWpmaFV2ZnlSMlJPWVdQSjd6Mk10SHlWSkxvYmYzLW8zX0FLdUprZFlnaVdOSUlmZzR3V2xyRC1nSVVGZldzRHRvdVZTbw?oc=5",
-   "source": "Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaVloRF85V3JHdXJLNndBTGVnZDA1NEEwSUt5WkpjTUZJYmJMWWRMREpsamtEanBoRUw3Q3ZhTkp5QzZ5MHNpTFdOUHlxX2I4bXB1NTR0cl9nNVRURmQyWmpEQ2FIcEU2SV93akJiMk13clN6bFVZTlJNWTJRbDFBSURUc3BTMlo3MzJ6Wl8zZlpwTGI3Slh6TXdHb0JFMk9rbnljdUtLM3dyaTR6QVkyVFNoa3paMDduVFVFcjlyZHY1V1c4UU83SmlQcWFuRjExbDJybWswTTZfSTluc3g0Um11RFU1ajUzQ0dTV0l2RGJ0c0NIblhj?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T11:33:07Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -852,6 +892,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "787749a1f88074",
+   "title": "Fed policymakers at odds over causes of high inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVB2NlMzU0RRUDVSeV9zYWNtcGlfdnNMUUVfR2IxV1JBSnRsRVdrTXNKTUNxcS00blMzWHIxbWdVbXFfSUE3aGxwdVpuSEY1cGJRdjZFb0djMS1aMTZaWEwwSnBhcVJ1M2xmRXVOR3ZMYU1kRnZtbUVYM095dWNwUDdmUkdzZw?oc=5",
+   "source": "Tacoma News Tribune",
+   "date": "2026-11-25T11:13:06Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "cc21f70d8e2894",
    "title": "3 Indian Export Stocks To Watch As US Tariffs Shift Orders From China",
    "summary": "",
@@ -900,16 +950,6 @@
    "date": "2026-11-25T11:02:03Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "787749a1f88074",
-   "title": "Fed policymakers at odds over causes of high inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEdpS2dmVC1jbGYxZ0dpM3diZW9DakstSnZ4djA5RjU5RGdaaHlFY29jOHhOSkY0WUNqOFI5bk5TMW01UUZud2ZIeTllRTFUY1Z4aHh6R1NGOVJ0NG9YWE8yaWNFYnZxempsYVROX0RGSjJYMHpLbEhuWHpxVGRRM2dVTDJTRG5jaDRrS0M0anF3cFdTUnA0NmNjTE41RHY1emdOMERGUWZySzZZZWhyQVE4RzJMYS1lYXJuN3h5a0I4VkFsVm9ER2xmTzdQSFEwMUJEb2laUWNfTEZQN3pDY19MR2IyVjNHRlE?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-25T11:01:39Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "f4c29e2e7f7086",
@@ -1062,16 +1102,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e1e55ff4daa059",
-   "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
-   "source": "Mining.com",
-   "date": "2026-11-25T10:36:17Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ce7aa42c3b35f3",
    "title": "Final PCE Report Before Fed's December Meeting Due Tonight; Core Inflation Seen Rising to 3.2%",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T10:19:44Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "70ecf49a05f412",
-   "title": "Most US Treasury Yields Fall Pre-Bell Ahead of Fed's Preferred Inflation Data, Q3 GDP Estimate, Durable Goods Orders",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGJuNk9xVWttcTN5NUdwWGl4RTBnZTlrQ2tMRFdBZm8zZ3BlZ2xwZnpCS1lKaGlZYUxGVVMzT2MwWGg4ekgzYzFIQ2R1bUFpWmpXRFl0c0FyOWdCTXVfNUZZYkJyekNRZXNFOGs4Z2ZGT21zaUxBZ3h5aXVkZTUzUnZrMWV5M3p4a2NPcGZBMjF0NTdBcXRpQ1R2dXhYdnVxclc5YnRqVzRjTkZuV0xoZm1uT0NSRHBILUJ3TUM3Qmkydk1Yc2VSMFhUUk9JWV94ZXJ6WGJ2ZWJ4WkRmN2o1bkh0T2M5UQ?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-25T10:18:44Z",
-   "score": 13,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "299f08d851f043",
-   "title": "Potential US tariffs weigh on Asia-Pacific stocks; STI falls 0.57% on Wednesday",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUpnY3BtTzVtR2hCcHcza3RPTVprdmRoWXZCZE1SWGNmUUpRVk8yd214S2lCeDNGMTd4Q3N4NUZPMmUwWmNuazJoeFlDa2RDY3dHbmRVWm5wYW1OaDJQZjVrZkctU2ZDSmxoQjZFNXFqQUdiWkdNQzlRYWdIbThBc1NZb2xBQUw4OURSSE1DaTRrZkgzdjlMMmw1cVNYZ0N0UHJESllTWnZXb00zS0VWVFVndEZoMTVLQnc?oc=5",
-   "source": "联合早报",
-   "date": "2026-11-25T10:12:36Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "054c7faac4dc3b",
-   "title": "US Dollar Index Price Forecast: Rally struggles to clear 61.8% Fibo retracement at 104.65",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa1R1Ul9TMm1hN2Yyb0JnaXU4TGhld0FGc0M0UE1ORUNqZG96VmVhSG1QbW5VVGkzM1hQY1FjT00zYU50RGUtMmFFUm1IaDBMSE8xUW9NNUgtaUFOSXFxTllMLVgxZkpLYk44WjdBTjlacURlUUhtNV9wT3NjWVpHZ3BXYlFWVlB5SFM2VVdjeUlaYlFSNGtBMi1vRER3NFYxN1NNYk9VSF9QaEEtX2ZUUTlqTjRsbmpTVkZGTFZRMGdUTk9mMTQ0VS1rYkFuZTFINENSWnFjUGNVTXFSZlhRTll3d09pTzE4NWJfVEVLNVEwWnlE?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T10:11:36Z",
-   "score": 3,
-   "category": "Energía y dólar"
   }
  ]
 }
