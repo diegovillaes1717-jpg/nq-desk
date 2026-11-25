@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T13:41:17Z",
+ "updated_at": "2026-11-25T13:46:05Z",
  "items": [
   {
    "id": "62f1ab9edd11bc",
@@ -7,8 +7,38 @@
    "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
    "source": "CNBC",
-   "date": "2026-11-25T13:39:51Z",
+   "date": "2026-11-25T13:44:13Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "8a6e5491a162c4",
+   "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-25T13:41:22Z",
+   "score": 6,
+   "category": "Macro"
+  },
+  {
+   "id": "1507fcb80ef99c",
+   "title": "Third-quarter GDP already looked great. Now it looks even better.",
+   "summary": "Consumer spending and AI investment fuel fastest economic growth in three years",
+   "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T13:41:00Z",
+   "score": 3.5,
+   "category": "Macro"
+  },
+  {
+   "id": "f3c8ecb469d0a6",
+   "title": "Fed's Preferred Inflation Gauge Hits 3.8% as Expected: Q3 GDP Growth Revised Up to 4.3%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9qeDB4aXhub3VDbHZ6MVQyN2E0OUNVc3p1YjNXUF83UjRpWTNXOXlqMnh0NV9mQ1lZUzNpd2stWGZlLXpXdFROTUZTYlhrajF5bXVZY1Jkb1ZVRnJINl93SU50TFdHbWpWbG8wbUxjSVR3OE03Tmo2YW9SQjJ3VHVUT2MxMkRnRC11bC01OFh5SFVqV29jeEh1Y3lhLWZGUnVJbWR3?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-25T13:39:58Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -55,7 +85,7 @@
    "id": "1cb99fea0fdaca",
    "title": "Inflation rose to 3.8% in October in Fed’s preferred gauge, adding to affordability woes",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY0ljUGhYWTdlWHhyTkF0WlJjLUc1blZkSkxIMnlCa1pKdUtEbUdoS2tueEJLQVpPNWZ3cWZCSXRyY1ZkaXpvUzlKNExxeUxrU3o5eEl4RjZzS3RaNEJBM2xlczBTMU9feVZiZkFKUDlIRVQ2aDR4Q2dXZS00ZklmUWRkRjZKeFk2SDNOeUd5MzNqVUpDaUdMRlFONUZVZUx5aGVOdUl0dUg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDZoMGZGTmswdlU2QVVJTjRIcFR4ZGdvWGFBalQtXzhHSXRSOEVOV1NINkI3dE5aYWxVVXp5dXE5VmJQY0VTRVV1YlNWaU1NeWpqVEJ4SkluajNPV2lYZ1ktRWhsZXJoeS11RGoxa3kwOUxiaThyZ1p6X3I2aWdRbGk4aXNldnk4dzBlMlE5WFVYSmg3SzhwVDNDV3RUZWk4SHZRMXFfMGJ3MUYzcGE2WGZ3UEhuMnNrQURLaW9qUnp6ck5FVWc?oc=5",
    "source": "Washington Examiner",
    "date": "2026-11-25T13:34:14Z",
    "score": 8,
@@ -392,6 +422,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "d89180cad873c5",
+   "title": "GLOBAL MARKETS-World stocks fall as new US tariffs loom, AI rebound fizzles",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdCMmE3VnpmMGpKVnJUTVpiYmI0UEFOQUZQN3hXRkdjQ3RkTVZodklGb1hqZHJfNmNpMTlqcEk0TTJ3aUU2NGtYbDloZUtoN2tQTVpYVUNCRVNIUi1fU2FNMXNvTWRwMFlpNnYwZ0VRNExreGM3UjVQc0dNX1ZqZHhtaWhWdUVHUzRUcnhILWJ5LXVMMVpJY3Iyb21zeWc5MFQtY1hRaVp0MmNmUlpSeG1SQmZLVmtTelBCRGxGTQ?oc=5",
+   "source": "London South East",
+   "date": "2026-11-25T12:40:00Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d966c117dd0766",
    "title": "Fed Divides Over Inflation as November PCE Report Looms",
    "summary": "",
@@ -600,6 +640,16 @@
    "date": "2026-11-25T12:14:19Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "0e1049ab51de6e",
+   "title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkMzT2xsNjR4clFHdHM1eG5kb3RVYWhhc0lsRldaNjJIaW1Ba2lOUXF1S2hMRUlSRWFLc25TSXoxc3RVbW15YWxQRTdvalNXWEl6bkdqMUlvN01FVFZvYXFCTDZyWklYaDBKY3dVUXhDOS1Hdi0wdFExbVRYRmd4RmlZNWJHZ0ZPcmJxWURsRWwzdWNqUDVoTkZpZUs2UGtpQjBFY2tXb1FiemNKMHFnSFpPRkw?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T12:13:47Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "cdd92b4c92723e",
@@ -1149,56 +1199,6 @@
    "source": "TradingView",
    "date": "2026-11-25T11:08:32Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "40774f4c454648",
-   "title": "Ed Yardeni Says Jensen Huang’s Return To Nvidia Could Ease AI Financing Concerns But Intensify Regulatory Scrutiny",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUg5aWxBMEc3SGVWeFFQeXRrdmJqZ1BEUHRweTh5TUhETmItVDZTeHFPcDVBdDdzSWNJWUxzVWR6Vy00djEyTVRReldrUDlHZWJ3U1NQV2xxbVY1UVRVbDc2TE1HbW1VTm5KWjlRejRYTUNRVjJNV0JqOURURXl1VFFkaExlVTZEQzlEWHVXbTFKd1lxOUVz?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T11:02:53Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "787749a1f88074",
-   "title": "Fed policymakers at odds over causes of high inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T11:02:09Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "fffd40e11ea8fc",
-   "title": "Wall Street Sees Red: Nasdaq Futures Tank Over 500 Points; Three Triggers Behind The Rout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmM0dktERGZkckdqQXFfZXZHa1ltREt0RDBjdVRaQnBPNTNza3ZCYUhCaG1kVGhwZ0o0ZHBHSENjWFE1cjEzekJ6NVJsUWxDNkZvUzFRTmI1ci15UUE4T3BvcE5tQU01bjhsT0pZV2hyOXF0ZW9YLTdPVGpydzNMVjM1d243b1gxaUtueEk1a0JtN0d2OHZBamE1cVpRbEZBb0Z3ZnJhSHRvRTZBUVBfM2RMb3FuR0c0YkN6NjA4QjdYaHFYZm5vR0NwY9IB0wFBVV95cUxOVWxRNFducVV0RXB1Mi1USXM2LWVKcENtU0lhN19fX3RYOGRrMk1aZ0pwNUZrM0pYeFhZS3p6b1FGRDR6VHk4TklfM2hfenhaUWdQN3JZS3Rid2Exenk0SGE5NlhCQVh2aWIwZ1JkY1FTcnpTRzFhWV9RLXMtTGhieWFsTUVqQzBBam0wcEYxLUdjRC12Z2NsMm9xekhqYjluLUFHV1NGZVlSUE5iRVN2WktUUmhSOFpxNUNpbkljb1BrSGNzdGplSHRXUlV5SEZfWTVN?oc=5",
-   "source": "NDTV Profit",
-   "date": "2026-11-25T11:02:03Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f4c29e2e7f7086",
-   "title": "Tech stocks slide as confidence in AI trade fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU4xMm9XeS02RlVfRHptOVoyRXNfa2cxRmxISXhnOFBrVnYtSk94bnVDWklKQzVhODdtbEViRThXVkdIYWw4aUpLME9fc3cxQ01WZ0ZTejdGTXJZdnNESmxlRl9Tb2ZEaElSRExXTWs3Ymg5QmxjZVdZNDdnT3ZNSWV3bDE?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-25T11:00:59Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "60a59c6a679b67",
-   "title": "Trump intervenes to protect his profits and Nvidia CEO Jensen Huang despite threats to U.S. security",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEFmczVXSThRQm9OcXF4SGp1aWowTTh4b21VXy1sQ0xfelVpQmhEbGhvY0MzRkFqTTc0enR2QW1YbWVYUjlFUjlheFQ2M01EeFduc0NJY0dJVFlLbEVkY0ZmX01LVFFZWEFOdDFtYVJPbkczclFCaW85bFdoRG0xejAyMHBfbGFoVjlsSGg5NHcwMkQ0SFBvb3hXSWVUX0xLM3BFSTAwUXVuU1RPVVZjVU1EU0RfTzVNLU1OOUc2U0ZWdjNwa1VtdG0zN0tUZW53dFBIWXl2Qklydw?oc=5",
-   "source": "Milwaukee Independent",
-   "date": "2026-11-25T11:00:22Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
