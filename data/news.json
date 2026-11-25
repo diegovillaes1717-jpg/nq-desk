@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-25T13:50:50Z",
+ "updated_at": "2026-11-25T13:55:37Z",
  "items": [
+  {
+   "id": "12f8972a705d03",
+   "title": "Consumer prices are the highest since May, rising 3.8% in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0FBRVB0TDVXeEprbXpxSm9xUXlSMXdBRDRueXJvMGxRR1J0Vko0MjN4T2VVXzNXV2JNZkpIYzV4YTFILWFSWHhMNlo3aFQwTHNXQ3hwaE81SFJ2MjNOTGg1TTFjdE5YTjlsWHBmUVh1QUFqSjBzclJMTUZwelJqVk9kRDA5a1R0bV9LQ29JdzFnTzlpSndUYWwwTHBlU0R5?oc=5",
+   "source": "The Guardian",
+   "date": "2026-11-25T13:54:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "914f98b305b9f9",
+   "title": "US PCE Inflation Hits 3.8%; Core Exceeds Forecast",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXNGQWo4TTExelUwQzZFRThoTGZlamFKeDVkRC00WFhMV2NlR0Z0YjN0bUVVOWZUNGp1MXN4LVFKYXEyZGRseEp0X2tMbEVCWDBwUXBfU21PM0MwVjdDdjhJMEZubTF3RGo3SDVlc3dORWZrMzFfMUstRDhXc3oyZWtybWdSTWlwT1E?oc=5",
+   "source": "The Defiant",
+   "date": "2026-11-25T13:53:29Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "0ca18776890fcd",
+   "title": "AI rout continues as market exuberance fades over improbable return of Nvidia’s Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwMGhjeEljNmFlZHJUQjdyNkdrV1ZGbmVuM0xJUi1OU0tPUWZ1ODdiZVBCUi1pWHdqTzZJRFZqUjZqaks1dXVpaTdnSktXdWxWeWlvLU1vS2pHVFFfODdUeVZMQnMyRDFW?oc=5",
+   "source": "Hartford Courant",
+   "date": "2026-11-25T13:51:53Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d557a7d0b74e9e",
+   "title": "Fed’s preferred inflation gauge rises 3.8% annually in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSExoTWM4TzRzR1NwVUtQUkU0aHVDNzdYeTRRdGVNSThyZjBqUjBkTWcxbDFtY1VSaUVqaHZKbThSdF9hb29OZ2hGcU54UVFtaGw2ZHBDODR6djVweEcxOEVKelU0dWd0NnNsa3ViQXlfa1BtbDlpWFZ4d3RpSVVzTVZxdVZ6WFFaM2pZVkFJZG1WajRodGdwaHV4bUFfWTRtZWUw?oc=5",
+   "source": "Anadolu Ajansı",
+   "date": "2026-11-25T13:49:28Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "5d9772a3b41902",
    "title": "Wall Street piles into TQQQ ETF, dumps SQQQ as AI bubble fears escalate",
@@ -29,6 +69,26 @@
    "source": "Yahoo Finance",
    "date": "2026-11-25T13:45:18Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "c11c159fe45639",
+   "title": "Fed’s preferred inflation metric rose in October as final 2026 rate meeting nears",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzN6eElDamI2VmhOcF8xNFFnam12a2hhb1ZSeG83cTRrRnNIN21BdGRXV21YYU1KRnBTNDdJWkc4R3V6aUhnYmZ5QTMzY0RuZmYzRlR3Z2JZS2d4ZWo3RU9mSVRHcTllcktSbzc3T3lhT2M1b2diUTNqOFhrRTAxMlpYejJvT1JjZDVPYU5Xc2VEZzBtbU1CUHRSdGMtdUNPV01PTXhCNkp1UU12QWlqNWIwczZVdEXSAbwBQVVfeXFMT2RjbFNGYjBUR0d3XzNmcUlaTV81ZHFQamxmeG0tNG93WmFQZ2RlLWxwU21BTEY2TTVPVDRxWVZJeE9uekFmMmxYRWVkMXY1ME8wUzRjX0ZtOUpZYW5xZVRvWGt1WU5HcUVYNEE3SlR1OGpHc3dFNDFGbnBabGNqVXFMUmZQdkk2SFR2LXJpVEtaeXhOQkVVUkhZNUlKM1M0R0F3UjVNQmY3cXJIUXBsbTBhTnRWSjZNMlA4aUw?oc=5",
+   "source": "WWLP",
+   "date": "2026-11-25T13:43:28Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "594671dbf9b85f",
+   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T13:42:05Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -92,16 +152,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0ca18776890fcd",
-   "title": "AI rout continues as market exuberance fades over improbable return of Nvidia’s Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNE12OVg3VzlSVXQyVEhQMjVaeDZ0VnZ5NmhrVXk4OVQwekNVeVpIZEtKbkxuMDltZlZRYTRibjVLMVNZZ3UxYjdzcERTaG5PZ3B2c3E1TE5FTUItU2hGTUpWdXhfaEdDUkxUTw?oc=5",
-   "source": "Orange County Register",
-   "date": "2026-11-25T13:38:35Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "29237cc5404922",
    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
    "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
@@ -132,6 +182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "e2129d4615a516",
+   "title": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YdFlCek5sa1NaUzBxcmVzSm43bVBNSHpXM1ppYlJKTjI3ckhlRzlTbVJLSEdIUks4Y21JS045OU9iR3ZFVVRaVk13VjVoT3FjRlZSTmVxcXVIYU9GUTNTeEhHM0ZaSjhsSHhndDU4TdIBdEFVX3lxTE9UekxtTTc4eGdNM25UcWVlSnU3dVI4SlhISngxcWwyci1xZllJR0hnX3dYZy1EVGVmZS13Y3BCRDFFdEJRWXVqQzBna0RBZkpEb2JhcGJzU3Q4VHFLb0NMazN2QnV3d1VvdWlyNHpTYi1CR25t?oc=5",
+   "source": "Fox Business",
+   "date": "2026-11-25T13:36:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "1cb99fea0fdaca",
    "title": "Inflation rose to 3.8% in October in Fed’s preferred gauge, adding to affordability woes",
    "summary": "",
@@ -150,6 +210,16 @@
    "date": "2026-11-25T13:34:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "e31fc89360892e",
+   "title": "US Consumer Spending Stalls, Core PCE Rises 0.3% for Third Month",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1JoMGFObENLZWRSNWZRb0F1MWRQU3VzM21ZdXQtdFBIR2hESUFWbFp3dzU4MDNFdEhRNkRoRWlONDRGYlBXOXBNckRpdWp3Tnp3aUVaZTNhWGNPMGtEM1hRc1lKWF94YjBmTHM4MUpZakRoT3c4UzFlVEc0WDRyMTRXekdDc2w0aUt2QUNkdTlOb0FCdFk5VVNKQi1ZcEZJUVJTc0ZtTkYzWjl1NnB2ejVaNA?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T13:33:38Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "bec1a452598b92",
@@ -262,16 +332,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "d0929f2cf287dd",
-   "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFdiZko5Z1ZuT09VRmV6ak5uZzdBMkUzNEFOWTl0c0dfNy1GNDladms2TXFPWExhZzFwZE5OQVlVWVFtUWlyVnJfVnNHanZlVlJ4UDM0TDVIRHVVRnBMUHEwX1FiUnpmRnloeUtVTm53VjQwTzVSakd4ZDZWbkxuU3BpakdsaGRMQnhwZWFPemEySXo4N2gwT3prcjM3amhrSGdkOE8tNUJhSV95cnc?oc=5",
-   "source": "Zacks Investment Research",
-   "date": "2026-11-25T13:12:32Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e96522ae105dc6",
    "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
    "summary": "",
@@ -302,12 +362,32 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "54d7fdb9eb4098",
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzJ3ZFJkcWF6RmREekh3OHplb1J3TC1peXFUamhkZ0VLNi1kZ29CWFA1elRxSzRYVVZtSkR1R3IteU94cHpWYl9TcXQtcnJtTkRYSllpeWw0NkwyQWF4R25vWjRPZnF1bFgwVU5BajVvRVJaQ2UyN3R3Q3V4Z1otM1Q2QUxwbUI1dDlPRlhFcThFc2NPNVJ1cWJRRlVxU2Rj?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T13:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e6423ae5a874b9",
    "title": "Nvidia, Anthropic and AMD Stocks Drop 5% & Nasdaq Futures Slide 2.4%",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM196X0M0V2dMakhLSk5xWWx6RkRQc2lpaXUwcUdtX3Fkdnd0RllyNUJkSWNjWDBaZFVTQ0VkV2dzdzR1YWZNQV9scWtYMFJFSnE3NDJRaFpIOWpkS01zVndDWDdxQW4yeVdORVZIT0thaVpkSGRQOG1Ha1VOUERxSDlhRnVUUWs3R1RWRHJXOVhObXhEM2plTVJpaXllUkV6WXNkeERHcF8?oc=5",
    "source": "CryptoRank",
    "date": "2026-11-25T12:58:20Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3f36a84b52dd7e",
+   "title": "Nasdaq futures fall 3% amid tech selloff, U.S. tariff reports By Investing.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMENGV1kxck9Wb1hiZWNXb0RBX2llYXVUUm9LTEtJNGNCSGdkWmJBdHM0a3VYNWRiZ25Fd3ZOZ011azR4TFVQa0tsOElSd3cwUnk5aXY4UWJZMll4Y0ZwOURuaXVRaVhiNlAtREhnempVYVJTSDktVmxnUmtEUWN6NE0zM3FuUkZNaDhVMG9UMEFhWFY2eGZKdzFtc3BxV2xXY1BMLXc1Y1E4VlZiTEdoYjNISmVhZ1E2Mk44SlpLTUtrWTNz?oc=5",
+   "source": "Investing.com Nigeria",
+   "date": "2026-11-25T12:56:53Z",
    "score": 11,
    "category": "Tecnológicas"
   },
@@ -379,16 +459,6 @@
    "source": "NewsBytes",
    "date": "2026-11-25T12:48:48Z",
    "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "594671dbf9b85f",
-   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T12:48:45Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -472,13 +542,13 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "d89180cad873c5",
-   "title": "GLOBAL MARKETS-World stocks fall as new US tariffs loom, AI rebound fizzles",
+   "id": "d0929f2cf287dd",
+   "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdCMmE3VnpmMGpKVnJUTVpiYmI0UEFOQUZQN3hXRkdjQ3RkTVZodklGb1hqZHJfNmNpMTlqcEk0TTJ3aUU2NGtYbDloZUtoN2tQTVpYVUNCRVNIUi1fU2FNMXNvTWRwMFlpNnYwZ0VRNExreGM3UjVQc0dNX1ZqZHhtaWhWdUVHUzRUcnhILWJ5LXVMMVpJY3Iyb21zeWc5MFQtY1hRaVp0MmNmUlpSeG1SQmZLVmtTelBCRGxGTQ?oc=5",
-   "source": "London South East",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUpydHZSTWFQNzdjd3htbEhldHBMSXUtaDZ0eEZKbDZhdG1WUE05ejRxTjJyOG1oSW9leWhpSC1BV19XLTZCQXhXS1ZEbFNteEx3MGFub2xlOTJDZFpnbnVTZnp6empIenFPemxQWFh2VHQyNW5jb0NxNXJWaUZ5MHVUVDVuWW9xbExXR0dSaFEtZ2lCbHN1UE5ORkk?oc=5",
+   "source": "Yahoo Finance",
    "date": "2026-11-25T12:40:00Z",
-   "score": 8,
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1015,8 +1085,8 @@
    "id": "68fb6b703c3e70",
    "title": "Anthropic shares crash further below their IPO price amid continuing AI worries; Nasdaq futures down 2%",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaVloRF85V3JHdXJLNndBTGVnZDA1NEEwSUt5WkpjTUZJYmJMWWRMREpsamtEanBoRUw3Q3ZhTkp5QzZ5MHNpTFdOUHlxX2I4bXB1NTR0cl9nNVRURmQyWmpEQ2FIcEU2SV93akJiMk13clN6bFVZTlJNWTJRbDFBSURUc3BTMlo3MzJ6Wl8zZlpwTGI3Slh6TXdHb0JFMk9rbnljdUtLM3dyaTR6QVkyVFNoa3paMDduVFVFcjlyZHY1V1c4UU83SmlQcWFuRjExbDJybWswTTZfSTluc3g0Um11RFU1ajUzQ0dTV0l2RGJ0c0NIblhj?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORWQtaEtvSklFSG9GSV90YWpfam9Ma2hHdE9xWXprenBScDV0LTU5SmE0UU1rdWxGU1ZEbmVBUzBoMXFrNHFmVmRwU3ZUbksyT1dtbmwtdzRDcGI1U2xlT3N4X1FHQUFyYkxWR3RBSFJKbkdma0ZIS3RXMzNIMVA2RUhPVWFndFZBbC1nNmpLOExkeW9KdXBleWE0MWdwVjgzTUpmcWg2bGhzdFkyNmxRMnk2YzY0aEEwN3NlZ0d0Rm5GRTAxYVBudmx0NU1ab1UyYmR5ZFJ5SWhYeUVrMnctbHNMNGppbzdzZDdxX0JxM2QtV2tyN1dkRF9R0gH_AUFVX3lxTE5hWU9kQjVGWVFMLVRwUS1rc05PR1ZMcDJOS0xURnBXVy1EcEhUNlBfQ3BJWE1PWjB4RF9FbEFsbHg4VTNoV1gwUGZ2azhMTjhrRk5YZEd1ZnpZeE9udFpPa2tEYkpRSlV3OE01c2ZUSThxVWtGOUdJZkcwaHJXWVVPa3ZPSzJvN0Z0VFMzUDN3R1pFTGlzdVM3aTgxVmEyZ0tySHY5UV9FS2hMTmR4U1d5YmVDSDZEV05xYWpmaFV2ZnlSMlJPWVdQSjd6Mk10SHlWSkxvYmYzLW8zX0FLdUprZFlnaVdOSUlmZzR3V2xyRC1nSVVGZldzRHRvdVZTbw?oc=5",
+   "source": "Moneycontrol.com",
    "date": "2026-11-25T11:33:07Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -1130,76 +1200,6 @@
    "date": "2026-11-25T11:23:08Z",
    "score": 5,
    "category": "Macro"
-  },
-  {
-   "id": "1c5d1e16ed8847",
-   "title": "Nvidia Shares Extend Losses as Rally Following Jensen Huang’s Return Loses Momentum",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1LdElZYmlnejRJc2NjXzZzeWJzXzFVOEZHS0s2MjV5RzdMY1doeHlfeVBCNnZXbzZQWVhVYTB4NWdaQUZaUmUyTTg2T0FRazZqQm5vY1NVa0xUTktHMzBXNDJRQjM3VmZYMzVlcDJuS3ljc19pNHFhM3QxWkF5Wi1lVUdnQncwTG5NZHZUV1lXRnZIdjRGTEtvMWNTM0k?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T11:22:48Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T11:16:46Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "24894c9b577164",
-   "title": "Global stocks fall as fresh US tariff threats, fading AI rally weigh on investor sentiment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSm42MV9fdFhyU3paU0JhMURuU3h2N2VPWnU2c01pckpLY2VQWHFLNXF3SzFQM2kzaUY0QXJrQVhmYmVOZGJWSFVaWUN2YTVGNU8tbklxYWpzQW95ZE9mOEQyRjUtaTJHSWVIaWFURE9zeElselJLVS1GaWZDdTVxSzAyYzZ5d29WejVyNHNqa2dhX0R4MzhDSzZjc3FOcEJCdmJDT3pBWGxTMzE1S0hfZWd2UFZrSVBHTGw3UTU0eEZ0Ny1zMmFTbEhqUkp3ei1KWXc?oc=5",
-   "source": "Profit by Pakistan Today",
-   "date": "2026-11-25T11:16:42Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9c228f4cc300a1",
-   "title": "Global stocks fall amid US tariff threats, fading AI rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSm42MV9fdFhyU3paU0JhMURuU3h2N2VPWnU2c01pckpLY2VQWHFLNXF3SzFQM2kzaUY0QXJrQVhmYmVOZGJWSFVaWUN2YTVGNU8tbklxYWpzQW95ZE9mOEQyRjUtaTJHSWVIaWFURE9zeElselJLVS1GaWZDdTVxSzAyYzZ5d29WejVyNHNqa2dhX0R4MzhDSzZjc3FOcEJCdmJDT3pBWGxTMzE1S0hfZWd2UFZrSVBHTGw3UTU0eEZ0Ny1zMmFTbEhqUkp3ei1KWXc?oc=5",
-   "source": "Profit by Pakistan Today",
-   "date": "2026-11-25T11:16:42Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "df421f165ade62",
-   "title": "Gold hovers near 14-month low as traders brace for US PCE inflation data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2VtWXBhcGM5al9QODJCV05OMTN0eXZYODVuVUU5cXVUSEVzbHNUS0NZclVxT3N5TDRfVFN4ZGZqMDJvMnFMWVJyRFRubU1ZbTJOTlBKVlVsbVFNazh4d2JEa0pTN1p1NV83Sy1FX3BhUlI2cjMtODFwTS10UnpiUThMMFZLMWdlUmxuTnlTR2huY0c4RTljMzR4Qkl3TUM3b2xWZFI1MmNBVHRNV1VhVmpvSFlQZFpDdWc5ZF9kb0dsWjFtclNVZHltMnI3am50cHRCNg?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T11:15:18Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "ffcfabd92f0247",
-   "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0hIaVZJVEZvZ2FMR3NpLU9DV3BYUHJzRDlsMUdtZ21BTTBRNFR2a1pVZVZlM2hZeTZsZ1kzdDV2a1l2Q3dWWEJ5SzI5NzFsSVJyRUxTTzhGdzZkYXhPdlVXemE4R29JaU95Yld6Nk1UU2l2UjBQbnY0S2RTOU1EeHdINmRsdXhiLUQtOGhINThVQVVFVUlGNg?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T11:15:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "696be7f32759ca",
-   "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQklld1lDZmR4ZzMzWlFxMUNoSU1vWFpkZVZaWnJ3RVctZV84S1RTVlRpZmhPRzg3MXdQQ29SWlV3WGxzWVlqSnBPZEc5ejdsSE1aLTdYeGdObHpJd3ZtM3NZb2VzUm1xSEttMDBsZl9paGZ3UG01eTdveUJLQmdKVkZzVU9oVGluRkF0dmRhVWdfbFp1MDVLXzdXRnowZXg4VkN1d0RjTQ?oc=5",
-   "source": "News On AIR",
-   "date": "2026-11-25T11:13:52Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
