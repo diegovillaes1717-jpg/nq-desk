@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T21:36:56Z",
+ "updated_at": "2026-11-25T21:41:39Z",
  "items": [
+  {
+   "id": "e8d6d2a89144f0",
+   "title": "Nvidia whiplash shows how much investors’ financial futures depend on tech as the AI boom falters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlpzTlhsUUpWNDFpbHlobWdGV1B5NlR1RE43QUdlckZUZENLdkNuckM3ZVV4NlFyWXFVN0RBQ2J5Wnc2TmIzRlFIQ3RwTjZIZjBZa3ZmekhQWXFJOE55aWZzaG83ZmJvLTFuRnJrQTNmTUNHZHExRE15RmFneS16SnJ4R3Z1RmI3SUZqb0w4YUFtbGtqNjdHUndZYjNYMGY4?oc=5",
+   "source": "Fortune",
+   "date": "2026-11-25T21:37:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8b10fe0ca06a4b",
+   "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+   "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
+   "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T21:36:00Z",
+   "score": 4.0,
+   "category": "Tecnológicas"
+  },
   {
    "id": "04d064e61a7091",
    "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
@@ -48,6 +68,16 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxa0h6bU9nRWJEb2M0SmpFRFZMVWpDWkNlWmo3Y2NyNTF6YVJybk9Pd0pOSGNvdHdWWkg1UmpydVpodmNUSlU4T21Ob251dUktc0d0VGV6cS00Tm8?oc=5",
    "source": "Fox Business",
    "date": "2026-11-25T21:07:23Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d5e7ab762700a3",
+   "title": "The AI trade is unraveling days after Jensen Huang's comeback sparked a monster rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-25T21:06:00Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -102,16 +132,6 @@
    "category": "Macro"
   },
   {
-   "id": "3cfd76b4dafa65",
-   "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXVkNElVU1pNQkdGQWF2d2FrdWJxcWIwVXlzS0ZIZjJCMlk1TG1tTzVnXzR3dzIwNXJTN2lnVE1FaFVaZ3RiNTJTOGh5X2ozYzJJaUF0LVJ5Z2NNRTNzVFBCalZYX1R4SHIyVDhCWmpCY05xWFNlbXZsWGxVSENjVkVPZ3YtWTFnMkxoNXhxQWZ2dVI3WElDN2lOLVJJaHdUTjZLOFlCMDd5dHJmUnNOWnlmM09QZlBC?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-25T20:59:52Z",
-   "score": 8,
-   "category": "Macro"
-  },
-  {
    "id": "eaf8676caa83b0",
    "title": "US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
    "summary": "",
@@ -150,6 +170,16 @@
    "date": "2026-11-25T20:52:44Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "3cfd76b4dafa65",
+   "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHRLd2VldzQ2VGtRMS1Bd0dJUDJvUzREY2J3Tlgycy0yMGdod1E2djZGOXFkbzMtRXFsLVcybXhrdWNqR1I2ODFpdEFwZWc0YkNIVjRzQ21SMGRyeXZEX3lWSF8ydElVckFoWW9pTTFrYlZDNnVsUDlidjVwdUNudE1hNGh4dkU1VHk2bUkyUGhFRDd0bHFJb3FwcHFuRGxNbGtSNExQTmFVdmdUSDFRM0pMSmlYRS15?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-25T20:51:54Z",
+   "score": 8,
+   "category": "Macro"
   },
   {
    "id": "787749a1f88074",
@@ -812,16 +842,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "ee953e2e825490",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-25T19:05:54Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "20c41f4f1e647e",
    "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years",
    "summary": "",
@@ -832,14 +852,14 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "d5e7ab762700a3",
-   "title": "The AI trade is unraveling days after Jensen Huang's comeback sparked a monster rally",
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5",
-   "source": "Business Insider",
-   "date": "2026-11-25T19:03:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGpxc1diLXMybGlNcHNrd05HNzl3TE5YbHRfbWVYdnNvS3dpS2pEcm1tbGRIczlzMDVIeWVFS3dqa1kxUlBWaW5uNGpYWXBHMVRQSDNTU1M5Y1NXc3UtaGdkcU5aenBjUlM0UzhpcWxORjRmTkctQ2t3YjktTVhMcjNUTUFWa2ZCRDJIWURHWWNQYnJJMjRNaW1iMzh3YURZN2Z4Nk1n0gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:02:52Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a416536b42411",
@@ -1178,26 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52dmZjTWNPRk9GUk1aM0pQTE5MMEE5dW5nNktvRlpEWDloZFVCb2VnNVNwVEp1clpWTEhnRGZMdzhXMUVwM2JjU3pKNWhEQXBpcWg3MGZ6ejhsdVoxeW9NVTE2dzlTZw?oc=5",
    "source": "bsinews.id",
    "date": "2026-11-25T18:26:00Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5a85389783d8b8",
-   "title": "AI-Linked Stocks Fall in Tandem; Nasdaq-100 Sheds ¥238 Trillion in a Single Day as Doubts Mount Over Returns on Massive Investment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ENDlMOWxoWjJLRVJsR0hWVjYzMllKUjdoMWNiMFBUTk56YXVRU0tjV2ZiNHE1RXBKTm5QVnhZYzg2QW5YMzVtbFZucmRCV1dQVUx1VTN2bThjQXhNMGZGbm9lZmNzSlZ1ZDJ4a0UzcGZGeURiVHc?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-25T18:25:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "68a6c362d39c08",
-   "title": "US Stocks Slide as AI Fears and Tariffs Rattle Investors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xOFdTWXlDb21IbXViekdaT21oU0stUGRNbkUxcjJqSjN0TmktdnVoZWlZRHNTSUV2bjB3aHZmb0NxTU5nMEx2cm54eGQ5Q1UzdDFqZVVyTnVjcXdybXc?oc=5",
-   "source": "Peradaban.id",
-   "date": "2026-11-25T18:24:00Z",
    "score": 8,
    "category": "Tecnológicas"
   }
