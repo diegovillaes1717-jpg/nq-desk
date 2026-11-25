@@ -1,12 +1,32 @@
 {
- "updated_at": "2026-11-25T22:33:55Z",
+ "updated_at": "2026-11-25T22:38:45Z",
  "items": [
+  {
+   "id": "88f10136ac00bb",
+   "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T22:32:45Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "4b36655822feee",
    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
    "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
    "source": "MarketWatch",
+   "date": "2026-11-25T22:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ca85da13f0b530",
+   "title": "S&P Discovers Nvidia’s Governance Lapses",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmRjYlJmdGRqMnB5d3V6TE1YdDk4akRmclpKMnlkdjVjSEExRnpObEItWjBTSmN0dUpjU3U3cWlqeFBRdllLcHkxOEpXM0F1V0o5ZzItMWVSX3Nqb1lDRzRHNjQ0eUJlZF9nQnlYSWdiSV90eGNwTkNILTJLQ3A2RmlBczZJVlN2bndHTERvdmJqbE11WUkzaXplWQ?oc=5",
+   "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -272,6 +292,16 @@
    "category": "Macro"
   },
   {
+   "id": "35c65a64e41953",
+   "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFdEWUhGNDRFUGdCb3hwQ0E2a3g5QTZsUUp3aUQzYU0zS055eUlLdXBfeFI1bUV2elNXMm1najVWVGhaR0owN2lwUlRIZWtqbWZXR0JkVXdNSGRzbVBEbTZjQVFFRkpWZ21SZS1BTlppZTcyQ2gwakZmaGFvOWZMdDVWOW15REZraEZWeU5YenVHdw?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-25T21:31:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "2e1d5195b9ea77",
    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
    "summary": "",
@@ -452,6 +482,16 @@
    "category": "Macro"
   },
   {
+   "id": "3cfd76b4dafa65",
+   "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXVkNElVU1pNQkdGQWF2d2FrdWJxcWIwVXlzS0ZIZjJCMlk1TG1tTzVnXzR3dzIwNXJTN2lnVE1FaFVaZ3RiNTJTOGh5X2ozYzJJaUF0LVJ5Z2NNRTNzVFBCalZYX1R4SHIyVDhCWmpCY05xWFNlbXZsWGxVSENjVkVPZ3YtWTFnMkxoNXhxQWZ2dVI3WElDN2lOLVJJaHdUTjZLOFlCMDd5dHJmUnNOWnlmM09QZlBC?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-25T20:59:52Z",
+   "score": 8,
+   "category": "Macro"
+  },
+  {
    "id": "eaf8676caa83b0",
    "title": "US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
    "summary": "",
@@ -480,16 +520,6 @@
    "date": "2026-11-25T20:53:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "3cfd76b4dafa65",
-   "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHRLd2VldzQ2VGtRMS1Bd0dJUDJvUzREY2J3Tlgycy0yMGdod1E2djZGOXFkbzMtRXFsLVcybXhrdWNqR1I2ODFpdEFwZWc0YkNIVjRzQ21SMGRyeXZEX3lWSF8ydElVckFoWW9pTTFrYlZDNnVsUDlidjVwdUNudE1hNGh4dkU1VHk2bUkyUGhFRDd0bHFJb3FwcHFuRGxNbGtSNExQTmFVdmdUSDFRM0pMSmlYRS15?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-25T20:51:54Z",
-   "score": 8,
-   "category": "Macro"
   },
   {
    "id": "787749a1f88074",
@@ -572,6 +602,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ec66b5062b6a80",
+   "title": "Fed Survey Shows Sticky Inflation in Recent Weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzBqVFhmTzJIMUpNc1dIM250bkVqa2dTSkhKbzdTNS1LaEJDTEdyRXJHbnZQblRIdUxSUnR4M2lxbXdLTC1rcFFwel9FblJ0UHhNLUJ1NXd2TFdINks2LV9PcE5jZXdJX1lIbmhFM2sxLUpKdjFUTjI1dVVDQ0VXaGpkZ0N5eEJfWWhTS0ozRTBLSFJHdWNJSEYweHFaQTdF?oc=5",
+   "source": "Newsmax",
+   "date": "2026-11-25T20:40:17Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "c11a62740d4fb9",
    "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer",
    "summary": "",
@@ -580,6 +620,16 @@
    "date": "2026-11-25T20:39:42Z",
    "score": 7,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "3c4ccfba101dfb",
+   "title": "Nasdaq Plunges as AI Jitters, Hot Inflation and Thin Holiday Liquidity Collide",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTRyNVkzTG9wanBNaTJVbmx6ZWpzenk2eFlpbG9EV0xyY3g1RThoeHNGbHhlUnJBQ2h6TXgzd2Vpb0s3OUNWYkpjV1ZXYktEMEFtV2ZkeUFzYkpxa1JoSGlUVkxNSzRpZEVMaU5xYmtIMmxXaVBNTVNteXR2WDdsQ2ctTkFJMXMzMDYtbjhNc28?oc=5",
+   "source": "Briefs Finance",
+   "date": "2026-11-25T20:38:42Z",
+   "score": 11,
+   "category": "Macro"
   },
   {
    "id": "61ec45f5bec932",
@@ -1149,56 +1199,6 @@
    "source": "24/7 Wall St.",
    "date": "2026-11-25T19:18:45Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c1cc096031bc3f",
-   "title": "What Nvidia-Gate Tells Us About Trump",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DWDc1NkFLdHB6bHdlMUxXYXZWRWYzSEs2YnZXWjRGc09Za3pja2tBQUZWbUszdjVuR1l0TlB0SHVXRmtfWXRyd0VnS3ZlNjJiRF9HdXdrajdCNjZMUVBZdnh6MkZZcTh2QnlGcjJ1Q25QQkFvN3FtZVZGcTc?oc=5",
-   "source": "Wake Up To Politics | Gabe Fleisher",
-   "date": "2026-11-25T19:18:04Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "daa6635f48a23c",
-   "title": "NASDAQ Index, SP500, Dow Jones Forecasts – Stocks Rebound From Session Lows After Strong Sell-Off",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnJOX1lFaGVaNm5yNko0SXdYdEJUZVI2VUZyTHhYNWwxWXZ0SUxpbC1qek1ES0ctQ0pPdl9lSnFmRjl4UWdRenJmWGVGLUwzYXVyVUc4aFdCem9LMDRHbURYSktVdHJTY2piTUYyNThXSzMyQzYwc2xoa0FRM05iNGt6LUNUYm9HQ1ZrZEJKTi1lRHdNSUxZU0dGdGZvWmJzV1dFUUxEWWVsLUE0YTdsNXZwWHkxWjlYLWM3NzQ3S01tWkx6UzZIVldlbTFtR1dreUw3WnM2b21CVGNj?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-25T19:18:03Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "397e7c4e6c8676",
-   "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-   "summary": "Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009",
-   "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T19:16:00Z",
-   "score": 4.0,
-   "category": "Macro"
-  },
-  {
-   "id": "e3807e71ce1ba7",
-   "title": "Michael Burry Loads Up on 3 Chinese Stocks; Sticks to Nvidia Bearish Bet",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUNHTm9Qakozcnczd2hxR21qUFRnYjBORTFjY09lblpNQnVSQ29kTFBDSFMzM1RiVUFFWTVrd2d4V05UMW1TTTJxSVlVYmxOOWczSHlQNDU0X09JVGxzVGdSeU05NDBKSERpc21IejNneXdieXZwTDZSdVhYdkxDb2NSSVFYMGtWZ0hNWksybjdkVVl1TkdLaFN3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T19:13:45Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7c27ae4579eba1",
-   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - ABC News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
-   "source": "Breaking News, Latest News and Videos",
-   "date": "2026-11-25T19:10:41Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
