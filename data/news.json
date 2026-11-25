@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T13:03:05Z",
+ "updated_at": "2026-11-25T13:07:50Z",
  "items": [
   {
    "id": "10f5a36d99c9c2",
@@ -222,6 +222,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "2823977b65a234",
+   "title": "Goldman Sachs: The market has already priced in four Federal Reserve rate hikes, but Warsh will continue to raise rates in December.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2ZNRlNIMVZyTlRvV0Q3VHl4SWpQYjNNY1pvWUplcnc4cXhpUkd2Mmx5OWhMeHNMRmlIV0hWWlBKLWFzY1BjcXlOemFJc3pTaTd5Sm1GeUJaZzlSSTYwSWVwWGsxXzZ4eF9mUF9RUEpBcXRUUzFRVmVnNDVyVGhSYWNWVXpJVkJKWHRaT0FYRDRPc010TlJIdl9vMDRLRC1MU2E4Mw?oc=5",
+   "source": "富途牛牛",
+   "date": "2026-11-25T12:26:01Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "5fbcf2b7cc8ebe",
    "title": "Nasdaq Futures Slide as AI Selloff and Tariff Fears Hit Markets",
    "summary": "",
@@ -270,6 +280,16 @@
    "date": "2026-11-25T12:16:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f071f79514e081",
+   "title": "Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEFPMjRtRGNYTHFHT2tCdjF2SHBMU3Awb3l5Y1EzajhoTmx3bGtZbldfZVdRZzNPYnBocUhiY0laOFRGUFhZb1dWR1NudER3dnU2R3Q3TnU5MFU2bVI4YTh2ZkgtTHZrakNBZUp5dWFOM1NSeTI0TlVZV3pUcEdWbGN6ZWg4ajduRjJoRjBaOVJZLXpYckJIVnE3eTRfTDVUaUtSd29aWEpTRGdEUmQ5bURYMA?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T12:15:24Z",
+   "score": 7,
+   "category": "Fed y tipos"
   },
   {
    "id": "e6423ae5a874b9",
@@ -342,11 +362,21 @@
    "category": "Macro"
   },
   {
+   "id": "fb572df4e7df69",
+   "title": "Asian stocks tank as US tariff reports spook investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmFMS1FQUldaU0Y3TXp2UjZrcDNRMXpKZ2dtSG5pcXNIeW1adGNFb2dsX3FOMVFDd1IybDUwdFl6LXpnREY3bmtpRXVldkxHVFM1c2Z1dUQxYmZnTG5WT1BnRVo2UEdhYVFIWkh3UmdoRFBQQy1JdV9zdDYxTGlnVzVKN2I4OG9qcnhvQ0ZEUkpiSGFqaXdMR0ZYcmNtVk5r?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T12:05:34Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "baed49013c127d",
    "title": "PCE preview: Final inflation test before expected Fed rate hike",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlNXTGpiYnVCc0FIalhNa25xNl83Uy11RjBEcVlCX3hFaFlaa2UzdzZ5R3pKRlduZFZmVEV3NDBYZXNvdEZQbi01NjBGV0hQQTFSYzVOWWZJWVJJcS10NWdSRWRYUmJSVGJILVRkVlFVeXY4SVBfOFY5YU5PNHA5OHZHelVkU1hndDF6U0NxSUtfQ04xLWFob1NZczdneEY4czhEaWdMMHd3OWVHaW9vRXdoSEdCZnRqd0xEYnpYUGRJNzg?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0paSGp5blczVUhEQm83VWprOFBELWgxOFhZVlJYb0l3VS1YZExQci1OM2JjdzZZMmJoXzJJeFBYRDd3RE1OZTdZR0xRZGtWcXBTSzRlOGFsWWFTREMydWhwN1pWR1pxUm1aU0hWbkt4YU5WV2dNUVZ1QzdQcDhIeF9IbnRPU25rdWV0bkxnb3E3QVU?oc=5",
+   "source": "Seeking Alpha",
    "date": "2026-11-25T12:03:39Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -992,6 +1022,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e1e55ff4daa059",
+   "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
+   "source": "Mining.com",
+   "date": "2026-11-25T10:36:17Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ce7aa42c3b35f3",
    "title": "Final PCE Report Before Fed's December Meeting Due Tonight; Core Inflation Seen Rising to 3.2%",
    "summary": "",
@@ -1000,6 +1040,16 @@
    "date": "2026-11-25T10:35:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "2ef12ae2526268",
+   "title": "Gold, Bitcoin, and Nasdaq-100 Futures Simultaneously Oversold for First Time This Century",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vTk5IcDVrc3pzTkh2OTdTN0xlV0FEdVpkN1FlbV84M3NQZWN2S3NsSnZiT0FGUUxmd2V6YUtfYVFOV2FTTUNFNkhaQ3VkYVNZUkdSdTFENVA1NnROSS1TMEhjN04?oc=5",
+   "source": "Binance",
+   "date": "2026-11-25T10:31:35Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "9320cc6067aba7",
@@ -1020,16 +1070,6 @@
    "date": "2026-11-25T10:29:35Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "2ef12ae2526268",
-   "title": "Gold, Bitcoin, and Nasdaq-100 Futures Simultaneously Oversold for First Time This Century",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vTk5IcDVrc3pzTkh2OTdTN0xlV0FEdVpkN1FlbV84M3NQZWN2S3NsSnZiT0FGUUxmd2V6YUtfYVFOV2FTTUNFNkhaQ3VkYVNZUkdSdTFENVA1NnROSS1TMEhjN04?oc=5",
-   "source": "Binance",
-   "date": "2026-11-25T10:28:31Z",
-   "score": 6,
-   "category": "Tecnológicas"
   },
   {
    "id": "d837f8643c1f7e",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-25T10:08:22Z",
    "score": 13,
    "category": "Macro"
-  },
-  {
-   "id": "1ecd995baab955",
-   "title": "Federal Reserve Bank of Dallas Projects Inflation Lasting Well in...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGdmbmkyeHVHQUFzTjhIYWJFNFh1WFdvaGtrSG41bXBKUWlQTWdLRlZ4Uk80bnk1N0doWUhRd1V2SERCQ2p0TzNfdnN5aWVZYUdsajFLWVUzTGE5ZFA5RjVtMFplSVVkelhVUF9VY0poLVQta0pfdlRzX2ZiY2VFR2d5ZTUyZVVYNGxqbFZEa2dWa2ZKSlNjTUpUODdPdW82OFAxWVdRRGhOQlNWUGhZWkFyX0hWNFdkNjdNTmJsRWNMWXRsbWR6OA?oc=5",
-   "source": "Industrial Info Resources",
-   "date": "2026-11-25T10:07:10Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "feb93546210e7f",
-   "title": "US STOCKS-Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdkF2SHhTUE5SbzVucXp6WVR6R3ZDdlpPUGFVeXpNcktjZU90czhTQXNfY1FLd3FYWThoUERJcXVxaS1TLWU3dWpuMENzMi02T1BvVFV4MDFlS2J0NWNrak5iVlZya293VUgzTXNUbm1MT0NnOVNWLTZDTGtlaDBUZjU4anVmcHpxSUowS2pLenluWFJGRnVmNTZuME9MWHJKZTMxSmRNc2VRRXlOOVc5SXI5UFVRdHlpM25XdFRkcUM5WWRZM1VOcWItckNfQ1ZLdVMxMHpEZkl2anBDZXJRbE9HN2pCZW_SAecBQVVfeXFMUHZBdkh4U1BOUm81bnF6ellUekd2Q3ZaT1BhVXl6TXJLY2VPdHM4U0FzX2NRS3dxWFk4aFBESXF1cWktUy1lN3VqbjBDczItNk9Qb1RVeDAxZUtidDVja2pOYlZWcmtvd1VIM01zVG5tTE9DZzlTVi02Q0xrZWgwVGY1OGp1ZnB6cUlKMEtqS3p5blhSRkZ1ZjU2bjBPTFhySmUzMUpkTXNlUUV5TjlXOUlyOVBVUXR5aTNuV3RUZHFDOVlkWTNVTnFiLXJDX0NWS3VTMTB6RGZJdmpwQ2VyUWxPRzdqQmVv?oc=5",
-   "source": "Devdiscourse",
-   "date": "2026-11-25T10:06:15Z",
-   "score": 13,
-   "category": "Macro"
-  },
-  {
-   "id": "96b736bd0e40f8",
-   "title": "Inflation report to provide Fed's preferred gauge of prices ahead of possible rate hike",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekRRcTNCUUVpVUN1WXpOVWZKWHdVbjZMTTF0Z09aVjdoWjV6MFFRd0dQV3ZRaS1JYU9FbmZiUEN4NUhqS1lGT2VSbk9xSnRfdTMzcTljcllycUFsOXdOTlY4MDR4REVMaGtCZGdPcVZrSkxrQ3dpNU9qUndjbkhxMURYRU9Gd292Y0tYQ2RnWm4zZ2VHYzNNSmtaZjk4UXhiTFA3RDhJSVZhU3BZZGRSampzd0xDZ0pKUHRoOHdPOUp5eU9NZ3VxdWEwdVNkM1hiVnYxYUhMT1JQWTlI0gHwAUFVX3lxTE1fWUZvQktEb0J1MVVIOEJoNnJWWXdJbl9RcllEMlV2eWJLSGdCOHExaWFFTzRBdlhPQm9JLXUwTklZVGlKUWh4LU1CVzZ6MkJwRXNDNHBWSFpiRy1RejRKZXFWU21ldzNZaWlXRVg0aHVRYjFKSl9PMXl1YWd2LThjdlFIQ05OWmRUOHg4b05QZFc1N214V2FYRjE5Vnl3SENrcjVycWc0U3Zoazd5WExjN3Y1b3NkanQwaWl5SUQ1cE44c3RSblFzVkRXdkllQVBnTmlvaFY0Y0hWR2tKZmpsOEJFOWhDUERZX2RLRXpYYQ?oc=5",
-   "source": "95.5 WSB",
-   "date": "2026-11-25T10:05:25Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "78b096096025b5",
-   "title": "Inflation report to provide Fed's preferred gauge of prices",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREh6X09FYWNTZ1pjSmlEc3ZhUVFyaXpsNGdacmY2MEVYZVIxZlYtakY2NnNlWXF0bktXSVFXc09VN2lFS1UxSTU4cWVaaEQwMEtyTUtvZWtzU3otT0RCV1ViTFZrTkNURTlSZ0pXQ3Z2S0R0NGlHbEZfSHhKSEtFeG1kay1LTjJqZnp3MVZqUWNBNEpNdnNZZnd2RUNkbHlvYVRTOA?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T10:05:05Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
