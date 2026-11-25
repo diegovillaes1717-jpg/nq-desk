@@ -1,0 +1,34 @@
+{
+ "weeks": {
+  "2026-11-23": {
+   "sig": "309b2ee59b4f11",
+   "generated_at": "2026-11-25T19:08:03Z",
+   "resumen": "Esta semana previa a Acción de Gracias nos deja datos clave de inflación como el PCE subyacente, que mide los precios que pagan los consumidores. Los movimientos del Nasdaq 100 dependerán de si la economía muestra signos de enfriamiento o si la presión de precios continúa.",
+   "items": [
+    {
+     "id": "7200f77608106e",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Mide el optimismo de los consumidores sobre la economía; si sale mejor de lo previsto, el NQ suele subir porque indica fortaleza en el consumo.",
+     "efecto_nq": "Depende"
+    },
+    {
+     "id": "a595931ad4bf4d",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Es el indicador de inflación favorito de la Reserva Federal (banco central); si sale más bajo de lo esperado, sería positivo para el NQ porque alejaría subidas de tipos de interés.",
+     "efecto_nq": "Depende"
+    },
+    {
+     "id": "6c11b2f5e02d6c",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Mide la variación de los precios en toda la economía; un dato más bajo de lo previsto aliviaría las preocupaciones inflacionarias y ayudaría al NQ.",
+     "efecto_nq": "Depende"
+    }
+   ],
+   "tries": 0
+  }
+ },
+ "updated_at": "2026-11-25T19:08:03Z"
+}
