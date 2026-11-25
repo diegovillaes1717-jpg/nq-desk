@@ -1,22 +1,42 @@
 {
- "updated_at": "2026-11-25T23:50:20Z",
+ "updated_at": "2026-11-25T23:55:03Z",
  "items": [
   {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "id": "120ba405c1eca2",
+   "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+   "summary": "Asia-Pacific markets were set to open higher Thursday, after Wall Street staged a dramatic recovery from session lows overnight.",
+   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "source": "CNBC",
+   "date": "2026-11-25T23:48:51Z",
+   "score": 4.0,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "7c27ae4579eba1",
+   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T23:43:45Z",
-   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmZrbTVDV04tT2F3aWRFaUxPQ3ptSXJfXzhVOTJYUExCMkVBcmRuRG5HcUlDQWhuZFB0dFdkNU9qUGJUbVRwazhqeU1zcmZPanc0ekg5NUZ6YXVVcVZlSVVBSkZ6eFNtMWRVcVU3WFdzYUhjMS1qd1A2dGdfcS1rNnRYRWg1S2NYQks5SWdKQWNoQ0hHUXdGbHl6bTJyUzVubFdLekJINHBkbTA?oc=5",
+   "source": "Deltaplex News",
+   "date": "2026-11-25T23:47:54Z",
+   "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "81777fe575f64e",
+   "title": "Fed Sees Inflation Pressure Ahead of December Rate Vote",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcERxS01jbjdhQTAwZWtQN0dWbnVTWERHVDRaUGd2dG1nZEc4Y01KSG03a2dUdDdoWVVvSVdtXy1ja2RETV9qRnhIUl9qVXJiZm00RXIzZjQ1SkVuMW5YUXc0bjgtS2V4SUdXMTdGbnJjWkE3Z3JTdU1Udzd4UVVVSU5hUVIwUk1wWnVGM3FnZjA?oc=5",
+   "source": "JournalArta",
+   "date": "2026-11-25T23:46:03Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "0e7e93b6f1eeca",
    "title": "AI Investment Return Doubts Intensify as Nasdaq-100 Briefly Breaks Bear Market Threshold",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fenh0eDlyWXRNMmhseHV0TmRZNlJQdU43OThFOG5MbEtNX1ZnalUyeFNmUXNRUlZUdUZ3ZENXRlNhNHNQZng5VXpnNVpmYm9xMlozSzY2MnJYaURHVHgxQmlmaUlTOGNtcmdMaG51WVFQOHhSdmc?oc=5",
-   "source": "finance.biggo.com",
+   "source": "BigGo Finance",
    "date": "2026-11-25T23:35:00Z",
    "score": 7,
    "category": "Tecnológicas"
@@ -99,6 +119,16 @@
    "source": "FXEmpire",
    "date": "2026-11-25T23:17:50Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3ee68500feb8d2",
+   "title": "Stock Market Shows Resilience Ahead Of Thanksgiving Holiday; Anthropic Rises, Nvidia Sinks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWdzYi1QZUoxZl9wbkNtMDZDeFBnSXNtUEV4Nkh5VTg5YndxWkxhTWFVZkdjcHlXRFdiOGdrS3ktNFZ3QzZCWHhJMjRiNFB6aDdPM0xuSlVPLURpaGx3aGRad2Nqa205OU1uUE5fdGJQQzNmTDB4Z1VQczRzM1hfdUVKMHNTam1vYnhncE8tRm9JaFJkMEpyUERIeEMwcGppdVBuWWx2UzRaQlF4M2lmaXVaR05fMzl0QUliU2I2WG8tXzBBM28zTURfTU45bngwTjM1SURzZENHWVZBM2c?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-11-25T23:05:00Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -212,16 +242,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e22d2467389f19",
-   "title": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa1JvM0RsUzFZeURHZ2hmWkhZY3pBc1NZTTY4ZTdiZnNhZjVQWGx6Q2w5d3V5VTJWMDJvLTBlTnZtVWJOeDBCbTlNRktkWVV1R2RjZTBid201UDBIdzdSUU5RUmVsOHdFMHMtenNwZWZIQjRKSkZHaV81UFRCdUIxajdZVFNQZ3hrT292T09leHdZbnNnenU0dERLUGxzdG0zWlhkQi1QUjZYcmxjOUlvYVZjMVZYbTh2VTBUQ2wwRTdYMVFaMmJ0TFhvYWZjcE5GUWgzRFUtMHVTY2JKMjl0TGZGVkczOEdMU1NHQWJhM1hGMjFVNVlqUmVaZzNOUGkycW9ScHQ2U01OeUx5?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-25T22:36:38Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
    "id": "c9fc4ff3aef859",
    "title": "Silver (XAG) Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
    "summary": "",
@@ -230,16 +250,6 @@
    "date": "2026-11-25T22:35:28Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
-   "source": "KONTAN",
-   "date": "2026-11-25T22:32:30Z",
-   "score": 11,
-   "category": "Tecnológicas"
   },
   {
    "id": "4b36655822feee",
@@ -332,6 +342,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbEFmX3dIZS1vVVM2VG1zRGd0YnA3Ql8xcjViQl83dEN6akpWeWlYUVFaWGV5SkdBVGx2MzFFUkZlS2xiS0FCdU1BZUtRVGJXSUJvTnlkQklpYjQwWUdvZ3lpeEVXRDMzUXpaRlZoSHdYX1JWY2NGV05XT0NkWENnWUJyT2dCdFo4OC02MEdfc3JLQzlXa21PZUd4bzFUNU82ZVlLb0FUQzA5TDUzMHhJYlhCaV9mamozMndaWms5VUpxU1dFNE1QVndRV3BwZl9JV0xQVkRXa0tFSTdv0gHcAUFVX3lxTFBsQWZfd0hlLW9VUzZUbXNEZ3RicDdCXzFyNWJCXzd0Q3pqSlZ5aVhRUVpYZXlKR0FUbHYzMUVSRmVLbGJLQUJ1TUFlS1FUYldJQm9OeWRCSWliNDBZR29neWl4RVdEMzNRelpGVmhId1hfUlZjY0ZXTldPQ2RYQ2dZQnJPZ0J0Wjg4LTYwR19zcktDOVdrbU9lR3hvMVQ1TzZlWUtvQVRDMDlMNTMweEliWEJpX2ZqajMyd1paazlVSnFTV0U0TVBWd1FXcHBmX0lXTFBWRFdrS0VJN28?oc=5",
+   "source": "Devdiscourse",
+   "date": "2026-11-25T22:12:52Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "de3bb99b9742c2",
    "title": "S&P 500, Nasdaq, Dow Forecast: Wall Street Rebound Faces Major Resistance—Bull Trap or Breakout?",
    "summary": "",
@@ -359,6 +379,16 @@
    "source": "bsinews.id",
    "date": "2026-11-25T22:11:00Z",
    "score": 10,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "22f29156c51572",
+   "title": "Pullback in AI Stocks Eases",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Zb2xYdHpGSDBEMzVXLXBHY3U0VE9QY0plb21INHNJTm5wZGJpQU51MG9UV011RWV5X0JTMF92MUQ0OG41d3BmZXB4a3VkZVJlN1RXWHY0RFlfVXhHMnpXSGRMUXJHZEF3Q3h1cWd1R0lKay1fRUV3?oc=5",
+   "source": "Newser",
+   "date": "2026-11-25T22:11:00Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -499,6 +529,16 @@
    "source": "MarketWatch",
    "date": "2026-11-25T21:50:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T21:49:55Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -740,16 +780,6 @@
    "date": "2026-11-25T21:09:36Z",
    "score": 14,
    "category": "Macro"
-  },
-  {
-   "id": "7c27ae4579eba1",
-   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGxsS2FQcFJqSzBpWU9Rc2hiVC1VOGhEYTdZMlVmUndCLW9sWGVUQVIyU3dybWZhb2Y3b3RIeW1YUFlwNDFVU1N1SG9rcE1VQUJTQ1NwVlpKVko5NHl3a2xQOElram5remtKT21mc0FkdVRsM3hhUVUwcmhLbFFUeDcyU1Rqc2RSXzBYRS1PdEJJTEtUUXVBWWEweHN6eTdXWUE?oc=5",
-   "source": "Everett Post",
-   "date": "2026-11-25T21:09:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "dce2933132f307",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T20:13:05Z",
    "score": 8,
    "category": "Macro"
-  },
-  {
-   "id": "96c39dcb9118a2",
-   "title": "Watch Nasdaq 100 Tumbles in ‘Sell First’ Mode",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGpTTGowUWNJaEFHLU5LX3VNZTh6M1Uxb0hLQl9MSVdVQWEzVXVRUXphVHBaUXRKdDN3RHRrODVRM3JWeW1zRVlpaDgzMnZLenZrTzh1WldjT040Y2dsVW5pRDRSOVk3QjhTRUxMejY4dmNISlB0aVY4WDNOZ2xLcjVJTXJWMW8?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T20:12:50Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ef1f9e52ff934c",
-   "title": "Fed Beige Book: Persistent Inflation Pressures and Tightening Labor Market - News and Statistics",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDlFVFNReWJFLVdxeTdXTHYtYmNDRXE4RlRXdHA4a0xwbHpHeWV0cGRMdkkyZ09TYkRyY0JfNXVzbk96T1RiTDlmLTdTYlFMTEJ4LWhhd0xMMU94ZXRtVDRKaUxXUXYzSUVlU0Nkcm5BVzhTSFptbVNRYXE2aTN4YV9HWFdIZlVnYlFheU9BUVNqaG10NVZ2YnFTVzNjZ2Z1dHc5Zw?oc=5",
-   "source": "IndexBox",
-   "date": "2026-11-25T20:11:41Z",
-   "score": 11,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f295f20177695d",
-   "title": "3.3% core PCE reading: Gold slides despite lower US yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekVCa1FVRGw2ZWlEZTRuNTdMSXl1eTZzTmlzMnBGSjZGRXI5QklURjVMcGhLcnpfX1NFU19ZVkotZzdtcXFneXdQUUpsQW1NdG1xeVU3dFlmRDhMVmdraDllcDFJbFpEUzNpYXdld2diY1FCUGdYb3ViTDZ6b2xmbVZpZ0c5QmMxbERiZVdjdllFNTdiWEdONDlLaUxINFhNNFd2MGJWZEJSeGNuVGJEVjlmWm5qdEVURGFFSHc0MlY?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T20:09:37Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
