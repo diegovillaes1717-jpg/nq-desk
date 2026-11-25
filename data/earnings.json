@@ -277,5 +277,54 @@
    "surprise": 5.0
   }
  ],
- "updated_at": "2026-11-25T09:25:26Z"
+ "updated_at": "2026-11-25T09:25:26Z",
+ "summary": {
+  "resumen": "Los últimos resultados de las grandes tecnológicas han sido mixtos, destacando el sólido beneficio de Nvidia que superó expectativas pero no logró calmar los nervios del mercado. La incertidumbre sobre el liderazgo y los riesgos macroeconómicos han provocado fuertes caídas en el Nasdaq.",
+  "puntos": [
+   {
+    "fecha": "24 nov",
+    "empresa": "Nvidia",
+    "titulo": "Rebrote de dudas bursátiles",
+    "resumen": "La acción se ha abaratado tras caer un 48%, a pesar de superar las estimaciones de beneficio con un 2.68 frente a 2.47 y elevar su perspectiva de ventas.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "22 nov",
+    "empresa": "Nvidia",
+    "titulo": "Valoración en mínimos de una década",
+    "resumen": "Nvidia cotiza a 15 veces beneficios tras un fuerte desplome, convirtiéndose en una opción más barata que Microsoft y Broadcom a pesar de sus sólidos fundamentales.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "20 nov",
+    "empresa": "Nvidia",
+    "titulo": "Pleno desplome bursátil",
+    "resumen": "La acción se hunde un 14% y extiende su mala racha semanal, arrastrando al mercado general pese al buen resultado trimestral presentado.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "19 nov",
+    "empresa": "Nvidia",
+    "titulo": "Efecto limitado en el sector",
+    "resumen": "El batido de expectativas en beneficios no logró impulsar al sector de semiconductores debido al peso de los riesgos macroeconómicos y de política comercial.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "18 nov",
+    "empresa": "Nvidia",
+    "titulo": "Resultados sólidos sin calmar al mercado",
+    "resumen": "Nvidia presentó un beneficio real de 2.68 frente a 2.47 estimado (sorpresa del 8.4%), pero las dudas sobre la sucesión en la dirección nublaron el ánimo inversor.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   }
+  ],
+  "proximos": "Los próximos resultados importantes corresponden a ADBE y AVGO el 9 de diciembre de 2026, seguidos por COST el 10 de diciembre.",
+  "que_vigilar": "Vigilar la estabilidad en la directiva de Nvidia y cómo los riesgos de China y políticas macro continúan afectando al sentimiento del Nasdaq.",
+  "sig": "cc7d48d1d65f17",
+  "generated_at": "2026-11-25T11:56:23Z"
+ }
 }
