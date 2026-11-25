@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T19:42:37Z",
+ "updated_at": "2026-11-25T19:47:23Z",
  "items": [
+  {
+   "id": "b600dd8ecbeac9",
+   "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+   "summary": "This tape has not been kind to Nvidia.",
+   "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T19:43:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c4fbd59ee144ed",
    "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
@@ -10,6 +20,16 @@
    "date": "2026-11-25T19:39:00Z",
    "score": 9.0,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "1d176f02d978dd",
+   "title": "Dow turns positive and Nasdaq pares a 4.6% drop to 0.6% by afternoon",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR21oRnZONjBJMUFCY3hsVjMwVFQyZGZ4d3NyWEstVVd0bE5xWHRGdDZqWjByajNTaElKSm5RVVd5bTFWaDFsZE5VdU9qRUJFTGNaTFVGS3ZlQTg1ZXhVWXBaUnROd0xVYWdZcWtSVFY5YzYzbWp1T0haRXNJbWszMXl4VGpEbnhyaWVpZ0JR?oc=5",
+   "source": "MLQ.ai",
+   "date": "2026-11-25T19:38:40Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "42022c12b27ca6",
@@ -22,14 +42,24 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "effdbe42672a91",
-   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+   "id": "7d0f33a8472380",
+   "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWMyUk5OZTlsaklLQURjT1d1aUozbFV1ZFc2cnFxcW1VWHYxc0JHUC1MNEl1R05KdDlab0pPLWMzaFZkTWkzOEVjcnN4aHVCVktEdkJSbmM1UnZRUVg1OFFvM3F3QWhvc1ppNXYwU0pBMXd4QmhFNTNRZjZwV0d3ZWVUOVJWdWEtUnhoVVBKNGpkbmIzb2tuMVNQQVFtX2RD?oc=5",
-   "source": "WKZO",
-   "date": "2026-11-25T19:35:22Z",
-   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWV5eGNLVEd2LU00RkQ2VlpWbGJqam5RUEVQd0dmN1lRYjBZOGVCYmxwTG5XV1huU3RfR2hNN0tuRV9iSW5NY2NxUUhsS1JORF90dF9wTnJBYTF5VEI3Y3BMd1luV2lMSFJseXdTQTVNTVk3eFRFdjM1ZWpmYVdCN0lnNEoxMWV3bUxFbjl0RVRDSmtidEhvS08wN29xRElHcVBiX2ZNa1l6bU5sWjB5NzFR?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T19:35:50Z",
+   "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "30cb1cf0507a16",
+   "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T19:32:35Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "ee1142debd4fb5",
@@ -110,6 +140,16 @@
    "date": "2026-11-25T19:21:09Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "effdbe42672a91",
+   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T19:19:43Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "da7ce3bd7b9769",
@@ -312,6 +352,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "0c1a8b06eee371",
+   "title": "Fresh EU trade war fears as Trump reveals plans for new wave of global tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnZORVlpWm1ybEtjZU1wTTNZWVFieTllOEFQVmV3MEl6eWZHR09jTWJWNUxxOU80akRJVFJkLXM3cTVvbHBHUkVEVDdMdmNldkFkOVBwZ09yRF81WEVJUmhNNWItYWN0MUJGZHRNQ1RpRnJlUkQ2eWxlTVdHeGFVc3NvTy1PcEJGRFNpSQ?oc=5",
+   "source": "The Irish Sun",
+   "date": "2026-11-25T18:59:13Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "1304e4d23c2221",
    "title": "Inflation Increases Slightly Last Month",
    "summary": "",
@@ -320,16 +370,6 @@
    "date": "2026-11-25T18:58:11Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "0c1a8b06eee371",
-   "title": "Fresh EU trade war fears as Trump reveals plans for new wave of global tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnZORVlpWm1ybEtjZU1wTTNZWVFieTllOEFQVmV3MEl6eWZHR09jTWJWNUxxOU80akRJVFJkLXM3cTVvbHBHUkVEVDdMdmNldkFkOVBwZ09yRF81WEVJUmhNNWItYWN0MUJGZHRNQ1RpRnJlUkQ2eWxlTVdHeGFVc3NvTy1PcEJGRFNpSQ?oc=5",
-   "source": "The Irish Sun",
-   "date": "2026-11-25T18:56:15Z",
-   "score": 4,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "2e0c0b79aa61a8",
@@ -743,12 +783,22 @@
   },
   {
    "id": "fe14a21b90635c",
-   "title": "Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
+   "title": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzItSUR4SzlJaHlBR0NFVVVqZjZsSnpzR1BGZy1QRk8tN0J3X1puRExQdWwyal90Y3NuZGlIakswU1BkQXkxMnl3cUc4NkZHS3NTdGxmNm01WGN5Mk9DalI1c3pvMjMwMnY2aE4tQXhYVjl3Slc2UlJkRGxMRmdNYkIyNkZWeWRRS3hNcmwxNXZmWGhkV1hZZEpETjh6Sk50b0RGd9IBqgFBVV95cUxPTERtVkRCekFTdThqeU9RQUNnbTRhYmE5VmxEUEpNcVhnZkNtRFc2V1IxX1BjR1Y0ejlfbmJvcTIyWXJTcDZzUVZldjVRTGdhRUJSaC1NMmRNeTV2VnFfMGFfekFuU184UnFUV3V1WnlxRjRobUlRQkJ0YTNXU1NKQjhITVJSRTdnYW42aXVOdUFBLTdOQmFWU0tFUUxfSnBPeE1rTzhIc3FWQQ?oc=5",
    "source": "CNBC",
    "date": "2026-11-25T18:02:45Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3f88de8e7ddb25",
+   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-25T18:01:25Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1148,56 +1198,6 @@
    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "date": "2026-11-25T17:15:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9d87927ae7d5b0",
-   "title": "Treasury Yields Fall as Investors Seek Protection From Inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQaUpsWXc3LTUyeTdiQ3Rvcl91Q1NCdkhRVENRQkl5Zng0VERCUU5XTkdpVFNxSWI1QVFHOFR2eVJ3ZFUxR3JOU3NWNjNKYUVyZzZMeDhuUWNQR2paUU83dUlITzJZQlljcVE0?oc=5",
-   "source": "cwibc.co.id",
-   "date": "2026-11-25T17:15:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "a3d94028dec845",
-   "title": "Core inflation rose to an annual 3.3% in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXZKck42UFVMYkJjWktMcGZlTWZqQWU2bjlkcEVnZ3l2Z3FRclh2ZEgwR2FJekVkZWJBSG5oZmZNbzdBLXd6TnBwcEZYS1ZOZlROR0t4U3I2MVFWekRnZVhBQnJwSnJZX01md21HUFl5dkFDbENkWWJVWDI2bkU4amlyMEpEcWFTdFN2OTBPYWlqN2ctTzR2XzdnbC1xSFdfeWtWWC1MRXUxa1ZuN2k0NzlLaHHSAboBQVVfeXFMUF91ZjRiNVM1ZjJYZzNwVVZMS3NudTMwOHhxUzM4TFowbTFfY3ZrTnRhc0o4YTMzUWhHdVcxMWpjTG15NHVLU2V6a3h3SElYeWJ0UWR5bnRKbjMzMG5pZ3Q4SnhjQ1pnZGtjRWlZaEREb1lGQUVYT2ZxcjNnWnZ5OVUxWjNDOEk5anBxS3V3QlBsOEhEX2xMa1pQNUlMNDVvY1NLOEFUVUpkWGdhOWpmUkhMOW1sZUs4SDlR?oc=5",
-   "source": "upi",
-   "date": "2026-11-25T17:13:54Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "b3897da61ae3c9",
-   "title": "U.S. PCE Inflation Bolsters December Rate Hike Prospects",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVl6b1ZkdnVPT3h5QWFFVnl1QVNXTW11MUU1ejkwNGdrc2JaaFpWRS14eVo4RnZZREJIUmE5LW5MVnpkT2FTWV9rd2paRDk3T0VBd1BRU2d5Si1wVkg2WjdPNE5IVzVzc0lzWU5RQk9JeWtZZm54VlBjSkJDYkxpa0NWTVcxdlE3X2R3bVdR?oc=5",
-   "source": "조선일보",
-   "date": "2026-11-25T17:12:41Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e89c230fa0c81d",
-   "title": "Microsoft (MSFT) Deepens Europe Sovereign AI Push With Expanded Public Sector Cloud Pact",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNG5icEJ2X2FHSlByQWNnS2EwUzVrM0F5NUhaZElKTGEzWUxwbFdnaEJETXc0U0RDMHktQ190RTRPVWZUOHg3S1psS1VPMVNvTEc0TXlfOFkzLURzMHh1X0VteVdlSjhpNVRpVEVzVlhNdmVJUHpENndWOFdOUXZnWExlUDVGQlZ0RWQ0SGdZODgxM1BqN1Jpd0dLRzBYWWF5U2pUZ0t3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T17:10:58Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "34135cbadf1cee",
-   "title": "Is NVIDIA (NVDA) Cheap After Jensen Huang’s Return Calmed Leadership Fears?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXZmeFVxVW1DNHBzU1ZNLXR6dXAtMGJYcHcyUUxKdFNPMUtiZFNMU0xCa0NxNWtzMXRyZnk0ZTB1S1JvcGtlMEVLWGJHLWpTeXltWUpiaWN0SnJmSlp1ZENpXzdCMXRtZkI4TWJ6UTVyY2s3akJTQzFHUDdoaHhXMnZ3WjNCcFNzRlplcjRGSDFESm5nU25LOWlydw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T17:10:40Z",
    "score": 3,
    "category": "Tecnológicas"
   }
