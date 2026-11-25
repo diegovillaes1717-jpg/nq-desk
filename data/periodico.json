@@ -1,72 +1,83 @@
 {
- "edition_key": "2026-11-24-cierre",
- "edition": "cierre",
- "edition_name": "Resumen del cierre",
- "generated_at": "2026-11-24T21:06:45Z",
+ "edition_key": "2026-11-25-manana",
+ "edition": "manana",
+ "edition_name": "Edición de mañana",
+ "generated_at": "2026-11-25T06:42:11Z",
  "ai": true,
  "model": "gemini-3.6-flash",
  "content": {
-  "titular": "El Nasdaq 100 cae un 2,06% arrastrado por el sector de los chips y la amenaza de nuevos aranceles",
+  "titular": "La rotación bajista en las tecnológicas y las dudas sobre la IA arrastran al NQ antes del dato del PCE",
   "en_pocas_palabras": [
-   "El índice Nasdaq 100 ha experimentado una caída del 2,06% debido a un severo retroceso en las grandes empresas de tecnología y semiconductores.",
-   "La euforia tras el regreso del consejero delegado de Nvidia se desvaneció rápidamente, provocando pérdidas considerables en valores de microchips como AMD o Broadcom.",
-   "Al mismo tiempo, han aumentado los temores a una escalada comercial por los planes de Donald Trump de aplicar nuevos aranceles a China y a otras economías.",
-   "Para los operadores del Nasdaq, la atención se centra ahora en el dato del PCE (el índice de precios del consumo personal, la medida de inflación preferida de la Reserva Federal), que se publicará este miércoles."
+   "Los valores del sector de la inteligencia artificial han sufrido caídas importantes tras desinflarse el impulso comprador previo, haciendo retroceder a los futuros del Nasdaq.",
+   "A este castigo en los valores tecnológicos se le suman las renovadas dudas y preocupaciones sobre los aranceles comerciales de Estados Unidos.",
+   "Hoy a las 14:30 se publica el PCE subyacente, que es el indicador de inflación preferido de la Reserva Federal (el banco central de EE. UU.) para decidir el rumbo de los tipos de interés.",
+   "Para el futuro del Nasdaq (NQ), este contexto se traduce en caídas y cautela a la espera de comprobar si los datos de inflación reactivan las tensiones en el mercado."
   ],
-  "resumen": "El futuro del Nasdaq 100 cayó un 2,06% hasta los 26.256,75 puntos arrastrado por fuertes caídas en el sector de semiconductores, encabezadas por AMD (-8,86%) y Nvidia (-5,86%). Las dudas sobre las valoraciones de la inteligencia artificial se combinaron con las amenazas arancelarias de Trump antes de la publicación clave del PCE.",
+  "resumen": "Los futuros del NQ caen un 1,5% arrastrados por el desplome en valores semiconductores como AMD (-8,86%) y Nvidia (-5,86%), junto al temor a nuevos aranceles comerciales. La atención de la jornada se traslada a la publicación del dato del PCE subyacente a las 14:30 en Madrid.",
   "tono": "Negativo",
-  "tono_motivo": "El desplome del sector de semiconductores y la renovada incertidumbre por aranceles comerciales ejercieron una fuerte presión bajista sobre el Nasdaq 100.",
+  "tono_motivo": "La corrección en el sector de inteligencia artificial y la incertidumbre previa al PCE aumentan la presión vendedora sobre el NQ.",
   "claves": [
    {
-    "titulo": "Fuerte corrección en el sector de microchips",
-    "detalle": "Las acciones de semiconductores sufrieron caídas severas lideradas por AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%), enfriando el rally reciente de la inteligencia artificial.",
+    "titulo": "Intensificación de las ventas en semiconductores e IA",
+    "detalle": "Valores clave del Nasdaq como AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%) lideran los números rojos al perder fuerza el rebote reciente.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9EcTVkUnlUQ21pVDRQa290QVJOSV9oRUM5dVU2S0tBeTV5ajJnWHRmbkt1XzhjRHkwTmswejA5ckZDNU5aWHNkdVRHcm5nbkpheGd0U3hQRVdqbUx6WVRJZjVsZk9kQW9BRHA4UTR4cUhYd2VVV3hxa0lvUWphczlULVo2QnEwN3FLMV9qMnhEWnRPeFJneA?oc=5"
+      "title": "Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUxsQTUyYVlIQ2hsc1Y3VTN4eUQ0SkxldnBzX1pPS1lIeE9wMzdweTlBUXVSNFhOc2xTWkR0UU1Ca3JGVTlwcnF1YXd2WFFPODFwSlEyOWxqLUpLcGFmZFVWbzUyZlgweHZnaVM5Qzhta3B3dmo3WC1KU2JVWVd6VGhjT25MZ2R4UHF0akQ1TmF3TTd1UVNiNzJ6S0s?oc=5"
      },
      {
-      "title": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+      "title": "FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5"
      },
      {
-      "title": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
+      "title": "tastylive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnNDdWpBS0hJU1QtcHd0N0xrTXZnTU05ZXNYZElBSzlESldyZGdhaVZESjlOaEdzMHRMYzl5Vl9iUFB4TE9YN1RtYlljcGR6WHNmV05VSEpSLTFYZ0o3Y1RseFpuNVdfQ1ZJZ0Fkc0RnMDVVRE82RVFUX21iR29EQlhkbWZFY1EtbEtDS01uS2ZXbTdWYUJaT0JRbDhucGYyZVpRSw?oc=5"
      }
     ]
    },
    {
-    "titulo": "Amenaza de nuevos aranceles comerciales",
-    "detalle": "Las tensiones comerciales se reavivaron al conocerse que Donald Trump evalúa imponer mayores aranceles a China, India, la Unión Europea y otros 13 países.",
+    "titulo": "Expectación máxima ante la inflación PCE",
+    "detalle": "El mercado aguarda el dato del PCE subyacente a las 14:30 (previsión del 0,3% m/m), factor determinante para las quinielas sobre los tipos de la Fed.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
+      "title": "Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
      },
      {
-      "title": "Aktualita.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
-     },
-     {
-      "title": "FXLeaders",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk13VnRfTWE2dU82eVRUMmhKU25fbl85cjlNWi05RERWREF5Q2RHLU5URzJncGJsUE9TbzJwTHNfQVpxam9lQlp1Yi1kN0ZJS2ZMa0dfNkM1eHpuQTAyaTJvNmxyMWllU1RPcVg4eTlfWkM0RlpSUnFQaXBKejlNcnFKLWdlZFlWUUVVbVhZc0pGV0k2bkc2ZzV0UmtLaDhfYjA1WXItUFE2eUlXOHc?oc=5"
+      "title": "富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUERYOGl5S3BNUnpyU3A5MU5NOW5FSldnZHo3X3o2M1ByNXFrMDVWcW1mdWF0YXRWSlVMNndLRDdicW00amdxaUtvX2IxeTNUTEt2Zy1lRXhfY1VjaTlYM3E1VlIwNFBON255elRfR2lRXzNsLTI1c0RjLUtKU2pXUWMtU2hYeFY0YTJlN3FfdDdPajJ2Q0E?oc=5"
      }
     ]
    },
    {
-    "titulo": "Escrutinio político sobre Nvidia en Washington",
-    "detalle": "Surgió una reacción bipartidista en el Congreso de EE. UU. cuestionando la intervención de Trump en el retorno de Jensen Huang, lo que podría derivar en nuevas restricciones comerciales a China.",
+    "titulo": "Regreso de los temores arancelarios",
+    "detalle": "Las amenazas sobre la aplicación de aranceles por parte de EE. UU. dañan el sentimiento en las bolsas asiáticas y globales.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzczN1VVbmtXRXpiVWdmZjlyUXllRTdXaDBlYm1PWXJpcGdVd0x5ejAwMVdyYXRTcmV2OS05bWl0MG50MUtoeGFoNjJlSjBxRnRWSlFNUnNFWm8?oc=5"
+      "title": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lpS2gxdmJfVkNSRTR2SUhNbjJCdUtMYVp4VGRiem91TUtUMGhCVlRRSEM1SzhmMC1HZGs2TkwzanE4c253SmNWTk4zOTVlcWdGX21xVmFlSW1SWi1ESGxnRGNKT0FySlBRX0R4VHBLcXdsaW1aUGEtSVpJWC1ySnVBSTQ3ellUX29XTll5LXFrMzdYeWVXOHczUEtxWUZXQlY4X2ZTemlRWEloRnJUWjhkclNEekhKRGtjeWVEOTFWOUU?oc=5"
      },
      {
-      "title": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories"
+      "title": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanFIWUdZeGFoUkJfd3FvUXRHNkNFcjY0T0JNZ040TDZiTHBKMmJVTGNXS2Q5SGhWbmFNWVJPYXU3WUlFcjFFWXR0djFWT1pQNVdwOHRPR0JpczZJdjBXM1RQS3RkNzl4ZUU4STJuTndzQkx2QW13SEU0am1FX3ByclZYYnVhVHNHSEJpeURyS3V0RVhmQVRxWjhHTWxzZHdZS2hXTFQzMm5qWElEeHA1LTZhb0tTSy1uSjdYcy1YZDVmWU9DWFdDTkMwT1lWRDQ?oc=5"
+     },
+     {
+      "title": "FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0VNczd3MDZMMUdTRFU1RXBkX294N2Q1TnM3RmRYNHpoWXpkZ1l4UXE0MWdUWUNaYmhnNkRDOVlOdHl1RVc4VkdJc1FjcFE4ZWI3Nzc2a2QxSjlhdVB4YWZUaTRsYmNVQzNZOEViWXA3c1JrcHNhdE8wek5EM3JkSnRCX212WFJfRk53WjBoeUVZQnlyWmUwb25oODJpYmNWMXRDNHQ3b0toVV9jak5Yck5vRQ?oc=5"
+     }
+    ]
+   },
+   {
+    "titulo": "Aumento de coberturas bajistas institucionales",
+    "detalle": "Fondos milmillonarios han incrementado las opciones put sobre el Nasdaq 100 como medida de protección ante la volatilidad tecnológica.",
+    "impacto": "Medio",
+    "links": [
+     {
+      "title": "Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk0xQktlM29UM2NqdEpCbGhwd0M3czZ1d0tMR0FRZWFJUnV3ZC1YeXdjWjgxUUQ1RzltUnNhbXFoSWVvVXBfV2lyMjhqUmJva1FLWExKTGFxYm1IcXl5YXlDYkYxWE9yTWoySEtfU0xOYTZRTGZ6ekhfcjk1ZUF0TkdiNXVVbUJTb1FrNWR4S19NS1hWdDFqZTFvUVJJbl9lRFpyWDhydGszUQ?oc=5"
      }
     ]
    }
@@ -76,46 +87,28 @@
     "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "El futuro del Nasdaq 100 cedió hasta los 26.256,75 puntos (-2,06%), mientras que empresas como Anthropic cayeron un 12,6% y se reabrió el debate sobre las altas valoraciones en IA.",
+      "texto": "Las caídas en los gigantes de los chips arrastran al resto del sector tecnológico, provocando también un desplome superior al 14% en SoftBank en la sesión asiática.",
       "links": [
        {
-        "title": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5"
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
        },
        {
-        "title": "BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
        },
        {
-        "title": "FOREX.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0RFU1N1ekZsa2RJV0ZlWURXQWxEanlqYnAzSV9jVFA2S1RrRkhUR1pET3B6Z3hvMHowblJ3XzlFRFFaenFreUhUMUV6ODRGVEwxVFgzNWFYakJUNG5tWEdsM0JOYUdBekU0ajVMSHJXS0JQXy1lbmFBUlZ2bGZ0Njg1YjhmR2dMN1U2TFRXeUEzbktmdllOUV90TDlzZGRlTWtMVTVMVEliQQ?oc=5"
+        "title": "FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5"
        }
       ]
      },
      {
-      "texto": "Apple (+1,43%) y Netflix (+1,33%) lograron cerrar en positivo, amortiguando ligeramente el impacto bajista del sector de los chips.",
+      "texto": "Aunque valores como Apple (+1,43%) y Netflix (+1,33%) cotizan en positivo, la presión sobre Nvidia y AMD decanta el saldo global a la baja.",
       "links": [
        {
-        "title": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "nombre": "Geopolítica y aranceles",
-    "puntos": [
-     {
-      "texto": "Los temores a un agravamiento de la guerra comercial afectaron directamente a empresas de microchips como Qualcomm, Intel y Micron tras la propuesta de nuevos aranceles por parte de Trump.",
-      "links": [
-       {
-        "title": "Aktualita.co",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
-       },
-       {
-        "title": "FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk13VnRfTWE2dU82eVRUMmhKU25fbl85cjlNWi05RERWREF5Q2RHLU5URzJncGJsUE9TbzJwTHNfQVpxam9lQlp1Yi1kN0ZJS2ZMa0dfNkM1eHpuQTAyaTJvNmxyMWllU1RPcVg4eTlfWkM0RlpSUnFQaXBKejlNcnFKLWdlZFlWUUVVbVhZc0pGV0k2bkc2ZzV0UmtLaDhfYjA1WXItUFE2eUlXOHc?oc=5"
+        "title": "Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUxsQTUyYVlIQ2hsc1Y3VTN4eUQ0SkxldnBzX1pPS1lIeE9wMzdweTlBUXVSNFhOc2xTWkR0UU1Ca3JGVTlwcnF1YXd2WFFPODFwSlEyOWxqLUpLcGFmZFVWbzUyZlgweHZnaVM5Qzhta3B3dmo3WC1KU2JVWVd6VGhjT25MZ2R4UHF0akQ1TmF3TTd1UVNiNzJ6S0s?oc=5"
        }
       ]
      }
@@ -125,11 +118,50 @@
     "nombre": "Fed y tipos",
     "puntos": [
      {
-      "texto": "El presidente de la Reserva Federal de Nueva York declaró que devolver la inflación al objetivo del 2% es fundamental y que podrían ser necesarias medidas adicionales.",
+      "texto": "El rendimiento del bono estadounidense a 10 años se sitúa en el 4,904% mientras los inversores mantienen la cautela previa a los datos macroeconómicos de EE. UU.",
       "links": [
        {
-        "title": "아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sazk1NktQdDYyS2FpN1o1YTFCWmxYWWdsS1lwdnRuSTEyRXZfMThmdlUwUC13VFFzSl81am8tYzNQY0lQTDM1VXpnRngyMlprejdpZUtUbVFjMnNfZGRZcDNlQUhzRVRmT2xsT2pSZk1PaTBCQWc0T0VEYmY?oc=5"
+        "title": "Demokratis.co.id",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdGc2MV9XeFJpY19UY0cwMnc0UkNIVkhfM1ByR1R4VUduckNlQWFKTV96ZlpIMU1VMWcwbmJDZWJ4dGlUaC0zOVc4SFF0cmVLeTZWcWZXZjlQb3NidndwN1JGaGlZRzJpR2c?oc=5"
+       },
+       {
+        "title": "cwibc.co.id",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56MzFXUjFUQXBuNzh1M0YyTkVQeHc1cDRNcndQempENHh6b3h4QVRHMG9Yeml6UXdNUWRZUlVoQ2x0aHBLMWVvMXhXbWFydjNWQ01CLWFBb1FpRzMzT0lwOWp1TQ?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Los participantes del mercado calibran la lectura del PCE junto al deflactor del PIB preliminar para anticipar los pasos del banco central.",
+      "links": [
+       {
+        "title": "Kotak Neo",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
+       },
+       {
+        "title": "BusinessToday Malaysia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1FvdW1pb3FpeEc0dDJzQ09nYzROclptX0pHcDBOVy1PaGVEVWx4enZXcWo3RTkyQ2g5XzQtbzNFY1AxY2daQ2d6aXRZcUIyR0xzaGFzbVI3dUd4UUFjTTlWUXNUTWk0YkNYaG1CTHNfMWFkSVZGNE9MSXVaay1FcXRfeGNGT00xeU1NcF9TOWRXYkl6Z3hFMTIxc0ROa21wSUpDMnhR?oc=5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Geopolítica y aranceles",
+    "puntos": [
+     {
+      "texto": "Los temores vinculados a la política arancelaria de Trump reaparecen en los mercados, penalizando la renta variable internacional.",
+      "links": [
+       {
+        "title": "Zee Business",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHUzVV9RRjZrTTRpUmhnNEpCdUY0bUpTOE1CdjFVUlpqSXhKdVpJNEYwR3RJWFRRMUF5a0xwR0UyMnR0TFd6OWgwY24yYVJmQlo4ZU5WTHlWazc3eEdTWi1zMVNEME9sUGYza0tJYW9scHRFQ3BGbVFndmhNNVZuTnIybU5vMFc5Wlh2MW13bjRHNjVqM2d2S0Y1TWJMRGJXMEhPelI2d3dIWFdWU19wYWpqMHVZUQ?oc=5"
+       },
+       {
+        "title": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lpS2gxdmJfVkNSRTR2SUhNbjJCdUtMYVp4VGRiem91TUtUMGhCVlRRSEM1SzhmMC1HZGs2TkwzanE4c253SmNWTk4zOTVlcWdGX21xVmFlSW1SWi1ESGxnRGNKT0FySlBRX0R4VHBLcXdsaW1aUGEtSVpJWC1ySnVBSTQ3ellUX29XTll5LXFrMzdYeWVXOHczUEtxWUZXQlY4X2ZTemlRWEloRnJUWjhkclNEekhKRGtjeWVEOTFWOUU?oc=5"
+       },
+       {
+        "title": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJ1MnFNV1NLNlMxbENCQUxMcTYxQm5OWEZ4WHlSWDJIaU12aTdYZGh4VmRPX1pWV096MFA5WU5zT2FQTTlKRXlvV2lrNmY5Ul85Z1ZRaVFrZDVRRW9DQ1BzU0M2cVRQRWxFbE4yaDFTS0hBRUVjZnVUZGQ4Z25XZWNLajFCY0xubkVNQlJLcmJpZE9vMGg3M3hNR1Z5Zw?oc=5"
        }
       ]
      }
@@ -139,22 +171,177 @@
   "agenda": [
    {
     "hora": "Mié 25 14:30",
-    "evento": "PCE subyacente m/m",
-    "por_que_importa": "Es la métrica de inflación más seguida por la Reserva Federal y afectará directamente las expectativas de tipos de interés."
+    "evento": "PCE subyacente m/m (Core PCE Price Index m/m)",
+    "por_que_importa": "Es la medida de inflación predilecta de la Reserva Federal y condicionará las expectativas de tipos de interés."
    },
    {
     "hora": "Mié 25 14:30",
-    "evento": "Deflactor del PIB preliminar t/t",
-    "por_que_importa": "Proporciona una lectura clave sobre las presiones de precios en la economía estadounidense."
+    "evento": "Deflactor del PIB preliminar t/t (Prelim GDP Price Index q/q)",
+    "por_que_importa": "Aporta información complementaria sobre las presiones de precios en la economía estadounidense durante el tercer trimestre."
    }
   ],
   "riesgos": [
-   "Nuevas restricciones comerciales o aranceles dirigidos al sector tecnológico y de microchips.",
-   "Lecturas de inflación en el PCE por encima de lo esperado que presionen al alza los rendimientos de los bonos.",
-   "Continuación de la toma de beneficios y corrección de valoraciones en el sector de la inteligencia artificial."
+   "Dato de PCE subyacente por encima del 0,3% estimado que reactive los temores de tipos de interés altos durante más tiempo.",
+   "Continuación de la racha vendedora en los pesos pesados de semiconductores (AMD, NVDA, AVGO) arrastrando al índice NQ.",
+   "Nuevas declaraciones sobre aranceles comerciales que incrementen la aversión al riesgo en la apertura de Wall Street."
   ]
  },
  "archive": [
+  {
+   "edition_key": "2026-11-24-cierre",
+   "edition": "cierre",
+   "edition_name": "Resumen del cierre",
+   "generated_at": "2026-11-24T21:06:45Z",
+   "content": {
+    "titular": "El Nasdaq 100 cae un 2,06% arrastrado por el sector de los chips y la amenaza de nuevos aranceles",
+    "en_pocas_palabras": [
+     "El índice Nasdaq 100 ha experimentado una caída del 2,06% debido a un severo retroceso en las grandes empresas de tecnología y semiconductores.",
+     "La euforia tras el regreso del consejero delegado de Nvidia se desvaneció rápidamente, provocando pérdidas considerables en valores de microchips como AMD o Broadcom.",
+     "Al mismo tiempo, han aumentado los temores a una escalada comercial por los planes de Donald Trump de aplicar nuevos aranceles a China y a otras economías.",
+     "Para los operadores del Nasdaq, la atención se centra ahora en el dato del PCE (el índice de precios del consumo personal, la medida de inflación preferida de la Reserva Federal), que se publicará este miércoles."
+    ],
+    "resumen": "El futuro del Nasdaq 100 cayó un 2,06% hasta los 26.256,75 puntos arrastrado por fuertes caídas en el sector de semiconductores, encabezadas por AMD (-8,86%) y Nvidia (-5,86%). Las dudas sobre las valoraciones de la inteligencia artificial se combinaron con las amenazas arancelarias de Trump antes de la publicación clave del PCE.",
+    "tono": "Negativo",
+    "tono_motivo": "El desplome del sector de semiconductores y la renovada incertidumbre por aranceles comerciales ejercieron una fuerte presión bajista sobre el Nasdaq 100.",
+    "claves": [
+     {
+      "titulo": "Fuerte corrección en el sector de microchips",
+      "detalle": "Las acciones de semiconductores sufrieron caídas severas lideradas por AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%), enfriando el rally reciente de la inteligencia artificial.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9EcTVkUnlUQ21pVDRQa290QVJOSV9oRUM5dVU2S0tBeTV5ajJnWHRmbkt1XzhjRHkwTmswejA5ckZDNU5aWHNkdVRHcm5nbkpheGd0U3hQRVdqbUx6WVRJZjVsZk9kQW9BRHA4UTR4cUhYd2VVV3hxa0lvUWphczlULVo2QnEwN3FLMV9qMnhEWnRPeFJneA?oc=5"
+       },
+       {
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+       },
+       {
+        "title": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Amenaza de nuevos aranceles comerciales",
+      "detalle": "Las tensiones comerciales se reavivaron al conocerse que Donald Trump evalúa imponer mayores aranceles a China, India, la Unión Europea y otros 13 países.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5"
+       },
+       {
+        "title": "Aktualita.co",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+       },
+       {
+        "title": "FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk13VnRfTWE2dU82eVRUMmhKU25fbl85cjlNWi05RERWREF5Q2RHLU5URzJncGJsUE9TbzJwTHNfQVpxam9lQlp1Yi1kN0ZJS2ZMa0dfNkM1eHpuQTAyaTJvNmxyMWllU1RPcVg4eTlfWkM0RlpSUnFQaXBKejlNcnFKLWdlZFlWUUVVbVhZc0pGV0k2bkc2ZzV0UmtLaDhfYjA1WXItUFE2eUlXOHc?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Escrutinio político sobre Nvidia en Washington",
+      "detalle": "Surgió una reacción bipartidista en el Congreso de EE. UU. cuestionando la intervención de Trump en el retorno de Jensen Huang, lo que podría derivar en nuevas restricciones comerciales a China.",
+      "impacto": "Medio",
+      "links": [
+       {
+        "title": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzczN1VVbmtXRXpiVWdmZjlyUXllRTdXaDBlYm1PWXJpcGdVd0x5ejAwMVdyYXRTcmV2OS05bWl0MG50MUtoeGFoNjJlSjBxRnRWSlFNUnNFWm8?oc=5"
+       },
+       {
+        "title": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories"
+       }
+      ]
+     }
+    ],
+    "secciones": [
+     {
+      "nombre": "Tecnológicas",
+      "puntos": [
+       {
+        "texto": "El futuro del Nasdaq 100 cedió hasta los 26.256,75 puntos (-2,06%), mientras que empresas como Anthropic cayeron un 12,6% y se reabrió el debate sobre las altas valoraciones en IA.",
+        "links": [
+         {
+          "title": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5"
+         },
+         {
+          "title": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcWhtZWFCTFB6YldjV0ltaWkwUk1EU3Y1RVFJZElMU3RhaWk1clFCN1U5bUZPZmxOd3VzWTQzOEw3UGhYSEQwdGNub3ZjVTROdnh5dDJZWTE1QzJQMnNWR29DLW5rdUdVdWZRcHBHXy1DSDB4R1E?oc=5"
+         },
+         {
+          "title": "FOREX.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0RFU1N1ekZsa2RJV0ZlWURXQWxEanlqYnAzSV9jVFA2S1RrRkhUR1pET3B6Z3hvMHowblJ3XzlFRFFaenFreUhUMUV6ODRGVEwxVFgzNWFYakJUNG5tWEdsM0JOYUdBekU0ajVMSHJXS0JQXy1lbmFBUlZ2bGZ0Njg1YjhmR2dMN1U2TFRXeUEzbktmdllOUV90TDlzZGRlTWtMVTVMVEliQQ?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "Apple (+1,43%) y Netflix (+1,33%) lograron cerrar en positivo, amortiguando ligeramente el impacto bajista del sector de los chips.",
+        "links": [
+         {
+          "title": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Geopolítica y aranceles",
+      "puntos": [
+       {
+        "texto": "Los temores a un agravamiento de la guerra comercial afectaron directamente a empresas de microchips como Qualcomm, Intel y Micron tras la propuesta de nuevos aranceles por parte de Trump.",
+        "links": [
+         {
+          "title": "Aktualita.co",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yNFhnNHJUUXFPc1UyWFprZVZWdEN3akpVWWVCbk40UHlzNXF1dm9kZTRITXNrWWM5UXVTT0xxRUhxVXU4eGZFV2FxdlE2NDhzcW41ejVIWWtMT280WlczY1NvR3NzSTFQVHJZTTlTX3BMMklPbS1uTnFR?oc=5"
+         },
+         {
+          "title": "FXLeaders",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk13VnRfTWE2dU82eVRUMmhKU25fbl85cjlNWi05RERWREF5Q2RHLU5URzJncGJsUE9TbzJwTHNfQVpxam9lQlp1Yi1kN0ZJS2ZMa0dfNkM1eHpuQTAyaTJvNmxyMWllU1RPcVg4eTlfWkM0RlpSUnFQaXBKejlNcnFKLWdlZFlWUUVVbVhZc0pGV0k2bkc2ZzV0UmtLaDhfYjA1WXItUFE2eUlXOHc?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Fed y tipos",
+      "puntos": [
+       {
+        "texto": "El presidente de la Reserva Federal de Nueva York declaró que devolver la inflación al objetivo del 2% es fundamental y que podrían ser necesarias medidas adicionales.",
+        "links": [
+         {
+          "title": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sazk1NktQdDYyS2FpN1o1YTFCWmxYWWdsS1lwdnRuSTEyRXZfMThmdlUwUC13VFFzSl81am8tYzNQY0lQTDM1VXpnRngyMlprejdpZUtUbVFjMnNfZGRZcDNlQUhzRVRmT2xsT2pSZk1PaTBCQWc0T0VEYmY?oc=5"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "agenda": [
+     {
+      "hora": "Mié 25 14:30",
+      "evento": "PCE subyacente m/m",
+      "por_que_importa": "Es la métrica de inflación más seguida por la Reserva Federal y afectará directamente las expectativas de tipos de interés."
+     },
+     {
+      "hora": "Mié 25 14:30",
+      "evento": "Deflactor del PIB preliminar t/t",
+      "por_que_importa": "Proporciona una lectura clave sobre las presiones de precios en la economía estadounidense."
+     }
+    ],
+    "riesgos": [
+     "Nuevas restricciones comerciales o aranceles dirigidos al sector tecnológico y de microchips.",
+     "Lecturas de inflación en el PCE por encima de lo esperado que presionen al alza los rendimientos de los bonos.",
+     "Continuación de la toma de beneficios y corrección de valoraciones en el sector de la inteligencia artificial."
+    ]
+   }
+  },
   {
    "edition_key": "2026-11-24-preapertura",
    "edition": "preapertura",
