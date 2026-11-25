@@ -285,53 +285,45 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de Nvidia superaron las expectativas con un fuerte crecimiento, aunque la incertidumbre por la salida de su CEO generó caídas y volatilidad en el mercado. El Nasdaq ha reaccionado a la baja arrastrado por estas dudas a pesar de los sólidos beneficios tecnológicos.",
+  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó expectativas a pesar de la incertidumbre sobre su liderazgo. El mercado ha reaccionado con volatilidad y movimientos mixtos en los futuros del Nasdaq, impulsados principalmente por el sector de chips.",
   "puntos": [
    {
-    "fecha": "24 nov",
+    "fecha": "18 nov",
     "empresa": "Nvidia",
-    "titulo": "Nvidia busca nuevos hitos",
-    "resumen": "Se analiza la velocidad con la que la acción podría alcanzar los $200 tras el regreso de Jensen Huang como CEO, intentando calmar la reciente volatilidad.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "22 nov",
-    "empresa": "Nvidia",
-    "titulo": "Fuerte corrección en la acción",
-    "resumen": "La acción acumula un desplome del 48% cotizando a múltiplos mínimos de una década, abaratándose frente a Microsoft y Broadcom.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "20 nov",
-    "empresa": "Nvidia",
-    "titulo": "Pleno desplome bursátil",
-    "resumen": "El valor se hunde un 14% cerrando su peor racha semanal desde 2008, arrastrando al conjunto de la bolsa a nuevos mínimos.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "19 nov",
-    "empresa": "Nvidia",
-    "titulo": "Acciones a la baja por la incertidumbre",
-    "resumen": "Los inversores muestran cautela ante el estreno de Nvidia en esta nueva etapa y la atención puesta en la salida a bolsa de Anthropic.",
+    "titulo": "Resultados sólidos con incertidumbre",
+    "resumen": "Presentó un beneficio por acción de 2.68 frente al 2.47 estimado, superando previsiones pero generando dudas en la acción por la salida de su CEO Jensen Huang.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
     "fecha": "18 nov",
-    "empresa": "Nvidia",
-    "titulo": "Resultados sólidos pero con dudas",
-    "resumen": "Nvidia presentó un sólido beneficio por acción de 2.68 superando lo estimado, pero la salida de Jensen Huang y los riesgos de China nublaron el optimismo.",
+    "empresa": "Apple",
+    "titulo": "Sube el interés corto",
+    "resumen": "Reportó un beneficio de 2.1 frente al 1.98 estimado y el interés corto de la acción aumentó tras la publicación de sus cuentas trimestrales.",
     "resultado": "Supera",
     "impacto": "Alto"
+   },
+   {
+    "fecha": "18 nov",
+    "empresa": "Broadcom",
+    "titulo": "Reacción mixta en el sector",
+    "resumen": "Sus acciones se mantuvieron mixtas y con correcciones previas en el mercado mientras el sector asimilaba el gran informe de Nvidia.",
+    "resultado": "Supera",
+    "impacto": "Medio"
+   },
+   {
+    "fecha": "18 nov",
+    "empresa": "AMD",
+    "titulo": "Movimiento mixto por chips",
+    "resumen": "Presentó un beneficio por acción de 2.09 frente al 1.94 estimado, registrando después un incremento en su interés corto.",
+    "resultado": "Supera",
+    "impacto": "Medio"
    }
   ],
-  "proximos": "Los próximos resultados importantes llegarán con Adobe y Broadcom el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la estabilidad del sector de IA, la evolución de los títulos tecnológicos tras las caídas y la resolución de las dudas de liderazgo en Nvidia.",
-  "sig": "09deb7a13ed455",
-  "generated_at": "2026-11-25T18:10:00Z"
+  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre y Costco el 10 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la evolución de los futuros del Nasdaq ante la resiliencia del sector de semiconductores y la incertidumbre directiva en Nvidia.",
+  "sig": "bf88266a3dfb0c",
+  "generated_at": "2026-11-25T21:13:01Z"
  },
  "updated_at": "2026-11-25T15:28:29Z"
 }
