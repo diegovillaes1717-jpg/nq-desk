@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:11:50Z",
+ "updated_at": "2026-11-25T23:16:33Z",
  "items": [
   {
    "id": "bdc39412d1ae3a",
@@ -7,7 +7,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnYtNUtvRXFyRV9qSEpBY3V2WFF6YzdDQzJDdGlzdjBwTkhpS2VLUktBemJhZDFiWUdQcEcyTzB5R2l6a3dZZnI5TFdxVlptMjA4Vk5KcHBqSWxOMmxxMDZVSUtMczViYU40Y081bDl6YXV2M1VhV25YNHgxTzhOX1BmT1NvcTZUZFpHeTJCNFZPODNEbms2d3lBdHhQcDVh?oc=5",
    "source": "Hoodline",
-   "date": "2026-11-25T23:01:49Z",
+   "date": "2026-11-25T23:03:45Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -152,6 +152,16 @@
    "category": "Macro"
   },
   {
+   "id": "7e9c4fed8f077b",
+   "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T22:19:49Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bf51f43db9eef8",
    "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
    "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
@@ -159,6 +169,16 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "55e8d530d877b2",
+   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFlrVUQyR0YzNlVXOWVidFh3STlEVEUzUDdPYVdMWUZOWGhrbTdDQUtZc3ZfU1VESDNTZVM3cERObThoSjBFcmZLMDZLd2ZyZzV0c29YVWxmVnc2NDJJTWpGdHZKbEh2czJ2Z2h6dGNQcENaLTVIRGNxRE9ZRlpzSXEwZC1jS3NmVDhLYlBnZHhxRFgwOWhDblktRWpWQks1emVGR1ZRV2hOcldlcmxQX0d3ZXZGOUkwbGNkLUxHYVFtaXNXT2x0UzZBWEpGVzJUR0E?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-25T22:12:29Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -212,6 +232,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "ef56cb8ece8255",
+   "title": "Inflation Refuses to Go Back into the Bottle: PCE Price Index Worst YoY since 2023, on Services, Electronics, Energy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDkxWGZ5MTk2cndYZEpsaWxqZ01KVTFHYUFFallnaFJCLTlKSFRFVzVyZWI3MUxQb210RFRRRVdIZFEzajRZcUlDdjRIQW0xMFhTN2NsSS1IZWlmaUNJR0Z3NTYxeUM5UVdkZ0lnNFdmSzNVOGRheExnVlhGTUY3NGRNNGxkYkxJMUZOam1adnMtenVSRDJzWEtMVW5HSVhDSGM0cDVwRzg1QjlQcnhiaEpnR2VmMEpqNE9hTjJpR2NPLThWOXdwbXJ4VXJvMERrZ25CNGtSWFktcXl6QnN6Qg?oc=5",
+   "source": "Wolf Street",
+   "date": "2026-11-25T22:06:36Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
    "id": "45f94a6ccfd47d",
    "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
    "summary": "",
@@ -220,16 +250,6 @@
    "date": "2026-11-25T22:06:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "7e9c4fed8f077b",
-   "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T22:04:08Z",
-   "score": 6,
-   "category": "Tecnológicas"
   },
   {
    "id": "049fb6e60f1e8a",
@@ -1012,16 +1032,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e166e6072af6b4",
-   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
-   "source": "The Detroit News",
-   "date": "2026-11-25T20:10:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "f295f20177695d",
    "title": "3.3% core PCE reading: Gold slides despite lower US yields",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-25T19:39:00Z",
    "score": 9.0,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "1d176f02d978dd",
-   "title": "Dow turns positive and Nasdaq pares a 4.6% drop to 0.6% by afternoon",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR21oRnZONjBJMUFCY3hsVjMwVFQyZGZ4d3NyWEstVVd0bE5xWHRGdDZqWjByajNTaElKSm5RVVd5bTFWaDFsZE5VdU9qRUJFTGNaTFVGS3ZlQTg1ZXhVWXBaUnROd0xVYWdZcWtSVFY5YzYzbWp1T0haRXNJbWszMXl4VGpEbnhyaWVpZ0JR?oc=5",
-   "source": "MLQ.ai",
-   "date": "2026-11-25T19:38:40Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
