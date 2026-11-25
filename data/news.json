@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T17:39:32Z",
+ "updated_at": "2026-11-25T17:44:16Z",
  "items": [
   {
    "id": "fa1344e9d4a3a5",
@@ -40,6 +40,16 @@
    "date": "2026-11-25T17:30:23Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "15355fccaea647",
+   "title": "Treasury Yields Fall as Investors Seek Bond Protection",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OQ2FyaWgwRng4bjE2YUpRaUlESXlaYnZ6QnEzUk51ODg3N0FBX2NzNWE3X25BSW42cFgzMmpWYVpDQjk0NXFFa1dhTmpOdEt4QmNyeGJEUVlJQm1aNWY3Ri1mZDQyQk1GOS1VWlVwekgxZw?oc=5",
+   "source": "Demokratis.co.id",
+   "date": "2026-11-25T17:30:00Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "f70ed71356e3b7",
@@ -1152,6 +1162,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "58532b3db23b3c",
+   "title": "Michael Burry Has a Urgent Message For Nvidia Stock Investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjZPUmlCd1BoSkxBREJldHRyTzV0a1BmMlBKTXFBbGN4NjRTUFhVWjRtaTFtclVtOXVVa1NiSE90dTcxcWRzd0dLakxDN0NqSGhsQ2dnaDBfZXZubTVOTUdMRjlDTk9mRlJaaU92TTFoMGlYWFdDT1V6eS1KT2doa0RQcnItbWIwTGR0TElWajdyQkRodk5NMFU5dHFFTnh6YmxuUXZhX1RlSVdvVzdtSXUzTWhrQ3ZTZllULXFn?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-25T15:22:21Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "1d2a94e0bed54a",
    "title": "Nebius Stock Falls Near 52-Week Low - Here's Why - Nebius Group (NASDAQ:NBIS)",
    "summary": "",
@@ -1178,26 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2pIWnI5b1R6RThocnEzekJJdjZPbTRLZENOdTFQZkhIRDJBVzRicmVrUmFBb3czcTMyRjFyWTRVak94bDZRY25ONTBXNlVjdkViSkk2NWZndFFFOGhxNndLQVA4VnBXRXhoSEl1T2ZPRGZGYkpIbDRCa0pNZE5PTTh4eUdkYktn?oc=5",
    "source": "Traders Union",
    "date": "2026-11-25T15:20:07Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5512d4275b2bed",
-   "title": "Autos Are Still The Sticking Point In The U.S.-Canada Trade War",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcldJaERIS2hTSlBkd3hLYVBoQjRmRnUtX1BXemc2cXFfeE11QTN3dkYxaTBPZWlrQWg2bTZyUHNnX2xrbkdCM3hNSGNoWkxwN0JkLWtSd2ZkOTJUb3RNX0ZxN3lpOUhqcVBxazVXTVlEdS1SQ2o4ZTg5akp6RXFsd0YzX3ZKYTJS?oc=5",
-   "source": "Jalopnik",
-   "date": "2026-11-25T15:19:26Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "69729a374a3edd",
-   "title": "Gold Falls as Inflation Data Boosts Fed Hike Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2hJZTBrY1E0RmdOTlZQTUNXbGtHalE1NWlnR2ZBUGNPRG9HWl82Mk5RdTVRVHVrbnFGbGwxMkk3alM1eTVNc0E4SDM4NEVuTU9odnVRZDdtSFlfZ1dwblZQYTFCZEJJd0FoVDBxdGlsMDdscUxyTkFWdW1LaFBOVHd4V1FYSDUyaDBRdTNIbw?oc=5",
-   "source": "Wisevoter",
-   "date": "2026-11-25T15:18:27Z",
    "score": 8,
    "category": "Fed y tipos"
   }
