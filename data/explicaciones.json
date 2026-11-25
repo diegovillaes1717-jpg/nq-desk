@@ -135,7 +135,36 @@
     }
    ],
    "tries": 0
+  },
+  "2026-11-16": {
+   "sig": "d7fc8c94bb67af",
+   "generated_at": "2026-11-25T19:17:56Z",
+   "resumen": "Esta semana los inversores del Nasdaq 100 analizaron las actas de la Reserva Federal para buscar pistas sobre los tipos de interés, datos de empleo mejores de lo esperado y una confianza del consumidor que cumplió con lo previsto. El tono general de los datos mantuvo al mercado atento a los próximos movimientos económicos.",
+   "items": [
+    {
+     "id": "affc78dbab8508",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Se publicarán las actas de la reunión de la Reserva Federal (el banco central de EE. UU.), donde se detallará el debate sobre los tipos de interés (el precio del dinero). Si muestran una postura más suave, el NQ podría subir, pero si son estrictas y prevén tipos altos por más tiempo, el NQ podría caer.",
+     "efecto_nq": "Depende"
+    },
+    {
+     "id": "78bebc6ba08620",
+     "estado": "Publicado",
+     "resultado": "Mejor de lo esperado",
+     "explicacion": "Las peticiones de desempleo (personas que piden el subsidio por trabajo) se situaron en 203,000, un dato positivo porque muestra que la economía sigue fuerte y hay menos despidos de los temidos.",
+     "efecto_nq": "Positivo"
+    },
+    {
+     "id": "1da29c269dd12c",
+     "estado": "Publicado",
+     "resultado": "En línea",
+     "explicacion": "El índice de confianza del consumidor (que mide el optimismo de los ciudadanos sobre la economía) quedó exactamente en 51.5 tal como se esperaba, sin causar sorpresas.",
+     "efecto_nq": "Neutral"
+    }
+   ],
+   "tries": 0
   }
  },
- "updated_at": "2026-11-25T19:12:59Z"
+ "updated_at": "2026-11-25T19:17:56Z"
 }
