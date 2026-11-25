@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:16:33Z",
+ "updated_at": "2026-11-25T23:17:01Z",
  "items": [
   {
    "id": "bdc39412d1ae3a",
@@ -119,6 +119,16 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -342,6 +352,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T21:49:55Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8848a87be62c05",
    "title": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
    "summary": "",
@@ -395,7 +415,7 @@
    "id": "fadc45924372ff",
    "title": "US Bond market down ahead of Thanksgiving holiday: Reasons why 10-year, 30-year, 2-year treasury notes fel",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN25FQUVjUDA1b3NDT2dIMFBFNkNiODdGSEZ1dTRaUGFKbXVRSi1CNzlVT20xcV9YUWprdzI3UXZaLVpjYkZXTFgxanFxT3dyR1doaUtadTVRMEgzdWNjRzIySFVTYVZUd2RFYWJ6SXZlQVdMOTN1N0ZfWDE3b1FSNnNJVDNsWldoTHBFN28zS1RsSVM4RE8xSFI1VmJDOHBHZ0xTS0wyZGRPUlhqOUJGbWJfVlA3SVNVUWRzUHpFYVNJMDN3bWVpMmJUaFhSNFBmd3llUXlkaVNBQk5DWEV1WHhYUnhzRnpVRDlnUVJmN1Q2MEQ1eW91WHNKYUN2dW4zZ2VsX3pmOWdtZnVNYkhsMXJoenZsSVB3VUVmUzFFRzDSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY1dfc1Vwc1RCYzY0VGFOZzdyY1hUV0xCZkZOM2x2Sng0Mm5yRWlUczFPc2l5TVdaRTdZMDRrZG9idEtkT3JmUF9IdXhmczk2bVEzM2JpYVNzRDZmbkV1YW1JZWlaZGI2ZGQyRjdVd0EtNjFuSVZjNjdWR01FMndONmt2X3g2Q3JVcUs3OTh6MTZOUlIySjY4cVNkNmtQaTA1QTVMT1kzUGlhbTNzMjFtNXlmVnk4U3RBMFppcGRRM1o4MjdYR1pXbUtHYUQ4OXB2Y3RMM2ZyLTBYdjRQQU9ubUJ0aWhoZFIyWF9BM0ZQT05uTDM1Q0ZzVFJxWE1mYnQ3cl92T3dNMVk2VXZOdXhFTG1QbkfSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
    "source": "The Economic Times",
    "date": "2026-11-25T21:34:12Z",
    "score": 3,
@@ -1032,6 +1052,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e166e6072af6b4",
+   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
+   "source": "The Detroit News",
+   "date": "2026-11-25T20:10:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f295f20177695d",
    "title": "3.3% core PCE reading: Gold slides despite lower US yields",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T19:44:30Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "b600dd8ecbeac9",
-   "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-   "summary": "This tape has not been kind to Nvidia.",
-   "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T19:43:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d7bcbf8ac5bf84",
-   "title": "AI rout drags Nasdaq into bear territory",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWhHZUx4QXBpd1c4RUlhUUZsTGc0NFBGQXFhbG8tNnVPSVBVQjNnR0Z3cXotam5GUUwwT1FmU0xrOEVzVEo2a2NOUXFFT0NEZ0dBYkVQcm5tSGRMZWM3T1JSRURqVk9kNHlvTGRiSGhscHphRzJxRUMxa3ZZcFhtazhzZnFDTTBXNmRLUVBiNHZmNDVCTlluNXNKZlhEcXVMSFRKVHRCTzRiSEV4UDNQdnZWZlo2YXZ5VHc?oc=5",
-   "source": "Capital Brief",
-   "date": "2026-11-25T19:42:36Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c4fbd59ee144ed",
-   "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-   "summary": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.",
-   "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T19:39:00Z",
-   "score": 9.0,
-   "category": "Fed y tipos"
   }
  ]
 }
