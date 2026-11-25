@@ -5,45 +5,35 @@
    "at": "2026-11-25T20:44:15Z",
    "events": 16
   },
-  "calendario_ia": {
-   "ok": true,
-   "at": "2026-11-25T21:03:12Z",
-   "actuals": 0
-  },
   "mercados": {
    "ok": true,
-   "at": "2026-11-25T21:03:20Z",
+   "at": "2026-11-25T21:08:09Z",
    "errors": 0
   },
   "noticias": {
    "ok": true,
-   "at": "2026-11-25T21:03:23Z",
+   "at": "2026-11-25T21:08:12Z",
    "items": 120,
    "feed_errors": 1
   },
   "fed": {
    "ok": true,
-   "at": "2026-11-25T21:03:23Z",
+   "at": "2026-11-25T21:08:12Z",
    "items": 45
   },
   "trump": {
    "ok": true,
-   "at": "2026-11-25T21:03:24Z",
+   "at": "2026-11-25T21:08:12Z",
    "new": 0
   },
   "resultados": {
    "ok": true,
    "at": "2026-11-25T15:28:29Z",
    "items": 16
-  },
-  "periodico": {
-   "ok": true,
-   "at": "2026-11-25T21:03:29Z",
-   "model": "gemini-3.5-flash-lite"
   }
  },
  "gemini_model": "gemini-3.5-flash-lite",
- "updated_at": "2026-11-25T21:03:29Z",
+ "updated_at": "2026-11-25T21:08:13Z",
  "demo": false,
  "gemini": true,
  "finnhub": false
