@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-25T22:10:10Z",
+ "updated_at": "2026-11-25T22:15:00Z",
  "items": [
+  {
+   "id": "de3bb99b9742c2",
+   "title": "S&P 500, Nasdaq, Dow Forecast: Wall Street Rebound Faces Major Resistance—Bull Trap or Breakout?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdklPRnp5aF8zbVJaTnU0QUJXNWpVUnJPUjRxUzNoUjNCVjFsVW5mQWpLbWFJMUo2SXo3empTdkl3S253eUZiZzIxXzhwVzlEa1NNNl94X2J1V0lVRDNrTjVncGhNTnlRYktqeXZUbjg5QzF0bFJlRXo1WlBFWnExWEJXTllQRDlRQmZmb20tMjFrX0hnQllORXN4azdVcmFXMnhIVG9EN2lnNWFzNzJhdGZTMGZVUFNQWkplTW40UFJQc1c3NW16WHFpejlBLTVyclN2ZUduSU95UQ?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:11:21Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "f7971d6634a764",
+   "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+   "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T22:11:00Z",
+   "score": 6.0,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "722944e6e16f62",
+   "title": "Wall street recovers most early losses as pullback in AI stocks eases",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDZiNkY1YWdKcjZ6a2VOMGthc1J1ei1hb3E3RG42QXJ0aklxQWtYSFFseEU2Mlp6dVUtekFlcElRSzh6aVhtaUhMMWVUWm1OX0RKMUpxaWZvdl9EMmVhX1VLWHVZLVpPU3RycUN3eEE2VHFaRHU2X056Q0tjTkpEZi1OSEtqeGViYVAwTDVZbFJvZ0hnc1RMMGxUUS1WQ05YeUk3a2tFdlRWQkdwd1pJcFJ3?oc=5",
+   "source": "WTOP News",
+   "date": "2026-11-25T22:10:39Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b8f6a0750b5a6a",
+   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZlgzZmphWlVib0xialQ4U0UzaFBPQ2JCUXM2d3ozRkV4MUVELXpheC1kUExudlFVUXVhbkc5cHFRY0hqWVluQ3kwNEwtZHZDT0Zic2ZfUm9BSGdrb3BIbXF1eS1PSzdBeVBNME54RnNlSWlBT2tuQk1kNnpueW1LTzltVzFYemxLdEJjcVY3QWZVSUFqMlRRVzJuZ0JjYmhhVHRCSlhEX2V3UEdUTVJ6b2VjQlZVR3IwdHZaMmJnYWNRSGs1UEgtd3d0RzRzd29uTWtINEY4aWloTUFEdVVCaXkxTkl6SEdQSElzQTNoUHdoMnh1SGVtbXA2QTJoQUhXcVZ2UmdUZXBTakJ1c3ZWbEtFbjZubXF4VENDR0E2dGtqVThzSFVRSWNB?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-25T22:09:30Z",
+   "score": 12,
+   "category": "Macro"
+  },
   {
    "id": "b20d2695d61456",
    "title": "News | US inflation climbs to 3.8%, moving further above Fed target",
@@ -10,6 +50,26 @@
    "date": "2026-11-25T22:06:52Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "45f94a6ccfd47d",
+   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
+   "source": "AP News",
+   "date": "2026-11-25T22:06:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "7e9c4fed8f077b",
+   "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T22:04:08Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "049fb6e60f1e8a",
@@ -82,26 +142,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "b8f6a0750b5a6a",
-   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSGtneWgzSmNKTlh1VUJPczN0LUdkak1Db2hCdktyLUhBbkRmVG5kRVV1eURkdFlqazE3MmlkZHZnSFhJWFUyMjFRWDVSU0xCX0R3c1BTMzFPNTFjMVVDeU5CYW1vT29JQS1tN2VJeGlNOVAteWkzNm1oQlA2cXE5OFA4MWV1c2R3d3NWdTFuNklMQjViZUszVm1MMGs2TWZicnpjQnNORmhrTmh5VWJmZVNIUVU0ejZPSEJMM3JRajNQc2VxWFdiZFZqZTFiS0RKaktBYy1xUURwb2o2cEdmSllBQl8xcnRKLW1JeWhhTHdXTUhkVHhfdUhidl84TmZVd0taVkFXQQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T21:46:45Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
-   "id": "45f94a6ccfd47d",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T21:46:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "e8d6d2a89144f0",
    "title": "Nvidia whiplash shows how much investors’ financial futures depend on tech as the AI boom falters",
    "summary": "",
@@ -136,10 +176,20 @@
    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-11-25T21:30:24Z",
    "score": 5,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "c7a6b2a7b00918",
+   "title": "Nasdaq Plunges 4.6% Before Dramatic Rebound. Wall Street Faces A Triple Threat From AI, Inflation And Trump Tariffs.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazFhMGwyY3hRdTJWZHUyTlZqWGpFRi1Kc2ZjZldIc1FDZGtQUHVRU1pmbk5qdkwxeVlqQTJPXzdGNTM3WUdqTl9fY0Q3SjVFaGtXTjE5a2h5R3hHRWRBVkFrQkltNGRzdkRsVE9KM3pWRE4yemRqcUtJWFFZTUtTcmJhNA?oc=5",
+   "source": "International Business Times",
+   "date": "2026-11-25T21:29:34Z",
+   "score": 17,
+   "category": "Macro"
   },
   {
    "id": "04d064e61a7091",
@@ -472,6 +522,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "5b3c9feb386b32",
+   "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeldqODRQRTNYOTNIYmNYSC1NREZjZTdvZUwwT1NkNWZ3TFJYMVQ5VF9FeDJmcG1nV0NGRFlscmpIR2ZmT1JteEdYLUxpa01yR3htWUJlbXJEVnM4dmRlNUF6ejdOTHh1N0RfQkpYTWhJTkdEYjExV1MxT3JDZWluLTJ2d0hYdXRmdWk0?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-25T20:27:36Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f4a3d414743ea0",
    "title": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records",
    "summary": "",
@@ -633,11 +693,11 @@
   },
   {
    "id": "e166e6072af6b4",
-   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
+   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains By Reuters",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T20:04:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM01tMi16Um5aYlVreU1iNGZ4Tkw5YjFhWGhCaGJjY2otVHJQRVdaWmlTdC1MM09kMmRnMjhsdHo3OUVhSXlsTFhkYUtGbFZTSEo5cVQtZEhnTUFhS1pmcFFUenNXa2JtOTVpcWdCN3h1WWwtRmc1U0VDejY5NUFhT3BXVWNMS3hpZ0p5U3VZdG0tNFNFTi1GMlpsLUxKMEZqN3dZQ1RtRURqMXdTSWNtc2VrbzNvX1VaUC1LOHpUa21sTnQ2Qldnemh3UQ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-25T20:03:45Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -1002,6 +1062,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:05:54Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "20c41f4f1e647e",
    "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years",
    "summary": "",
@@ -1010,16 +1080,6 @@
    "date": "2026-11-25T19:03:16Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "ee953e2e825490",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGpxc1diLXMybGlNcHNrd05HNzl3TE5YbHRfbWVYdnNvS3dpS2pEcm1tbGRIczlzMDVIeWVFS3dqa1kxUlBWaW5uNGpYWXBHMVRQSDNTU1M5Y1NXc3UtaGdkcU5aenBjUlM0UzhpcWxORjRmTkctQ2t3YjktTVhMcjNUTUFWa2ZCRDJIWURHWWNQYnJJMjRNaW1iMzh3YURZN2Z4Nk1n0gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-25T19:02:52Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a416536b42411",
@@ -1112,16 +1172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1304e4d23c2221",
-   "title": "Inflation Increases Slightly Last Month",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOek5hZFBnSXZTdl8xaVVzUnRwd3RFa1BBc2YwS2RMX21fTVhWYXlEZTI2aFVueTF5TmRVUjdoX3hOUXZuRHRXXzRfNkZhOG0yb003Xy1CN3JDMXpvSHMxdkRUYndIRmxoNEdybFI4RnQ2dklIZmJhUk1qczZQeXVJNC1NdGxMTF9YYXfSAZIBQVVfeXFMTkZZZmpsWDRybWMtLXJZNkhwZmJ0aWNDc3JsckxheC1jUGNfVVl5WDA2cS1XVk9zSTJWcEVuc21uVXZwRkg0a3l3RDdFcm5zeXF5dEo5bFUyR0lTRVhMTks4SzFqRUFSZUlmQVNXa21WVzNvaFZYRUZRUlBlU2FvT0ZoMUFVYmJWMnF5dkxvN1RjS3c?oc=5",
-   "source": "iHeart",
-   "date": "2026-11-25T18:58:11Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
    "id": "2e0c0b79aa61a8",
    "title": "Peter Schiff Says Fed Will Pivot on Financial-Market, Economic Collapse — Not Cooling Inflation",
    "summary": "",
@@ -1150,56 +1200,6 @@
    "date": "2026-11-25T18:55:08Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "d199b2c4972bca",
-   "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmtSaTA4azkycF9kUE9vTHd0aTVMcUZHOGhRRS1rdjBOZ2kzVEl6TUJEVGZvblBvakU3ZW5nUFVqTWlodW4xcGdtVWF3SjAtUXk1RDdjbjltbFY1TFBDRnRLTk1kcFBoQTBSMWRHN3RCYWJUOHhXaTJ2cFR1NVQwNmdsYU5RVTVwT0dKUGxNRHRscTBYXzZockVOLW5WOHZPaENxZk1fTEM1NUt5SUJNUlo3Z25mandlejJqQQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T18:53:34Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1d0b81ceaae584",
-   "title": "Why Nvidia Stock Is Falling Again",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnZYQmNDcUVPbkdnb3J6b2xpMU9DVFFqbTNBdDFnTUk2cDBHbTNXQnBuVk9vRWVVdmYwN3dCWjF5RTZRSXV3dENOVGRnLU9BYjkxelMxNi1jRVpneUVmOEdoVjVSUGszREFxNE0xVjM2b2FlOXF5UDJQV0VEVEJra2lCeC1iZUpIQmF1SnZpWklreDQ2MVpjZG90NA?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T18:53:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5c9532d417e138",
-   "title": "US Stocks Extend Losses Amid AI and Tariff Concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1POHdmVURrMlB6ZEdaVGdDTGJpMlk0VmdzYXNiajQ0SjV5TTNkVEp3bGJxVm1YTzZ0MndxT1ZKN29FdS1OYzFxbXlENVZJcTFWQUE2WHhKdUI1LTdobGJsQnJxVVQxVUh1ckJYRlhvVQ?oc=5",
-   "source": "Demokratis.co.id",
-   "date": "2026-11-25T18:53:00Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0a0dcbe12389e9",
-   "title": "Treasury Yields Dip As The AI Stock Slide Eases",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ1JnYmpNS0I4LVBjU3E0OUhoVXl3czhSQVRzWndiU3dJUEJxd3lYNWZYWG9oUEJ2aVZOOFZpWm1hVW1OcHFrVGRBc01TRDgzaFdYVXhhM2VGNUVMSU1Xckptb0hxcVhDbDVTNHJGd2JIUi1uM1dmU3VCNXhFa1hfNDBn?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-25T18:52:15Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "02b6870f1fa4b2",
-   "title": "Fed inflation jump lands right on your Thanksgiving table",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XYU05MXVtb3laQ3dmMVkxUEdEREk5ak8wOGdqbllmZEtldExPT3dKamdvdDRPd0ExeFhZTlpvTnMtSi1ZNFZKS1FfUldtbXhvRFNlZlhGNUVZS0RjYXViMS0zZUpUd3dEUFgyaXJXRnlxUEFYaTVuRTY5aVk?oc=5",
-   "source": "Rolling Out",
-   "date": "2026-11-25T18:52:09Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
