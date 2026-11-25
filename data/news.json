@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T20:16:00Z",
+ "updated_at": "2026-11-25T20:20:44Z",
  "items": [
+  {
+   "id": "3c2bea294ee13d",
+   "title": "Fed survey finds continued US growth and sticky inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3ZNZXJrYXpQZHhuQ0t0RElhUGdyWXNoaFNEWGFMZ1ZQT29pUDdjQ0s0bmVUY05NWjQxRzBublVuT1poVnhodUFWUFozQks4ZEJwYU5SVlk0M2l5T2tJWjk4UEJxMVFJbGtaN2VlaUVGQ2M5T3JSamVMU1h3ZDZzbw?oc=5",
+   "source": "Mezha.net",
+   "date": "2026-11-25T20:17:49Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "23a40c45336cfb",
+   "title": "Is Jensen Huang Really Worth $954 Billion to Nvidia?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUVyd2llVG4zZ09TUlU0cElYSXY3NjFHQ0Z0dVFDNUd4R2tUa3R0Y2FiZi02ZHZQMG1LN1doOHA3N2FLZmlIX0VDVlpJWFYtMHI4WEpYbmhxY1JGRWFTTHg4amRiTzB4QmRfR0NKSThvMXJIeEdnUWlNOUxVZlRfR2c0NWZoMEFsTHNVSjRjYVBiU0ttVksyRmIzR0s?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T20:15:01Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3cfd76b4dafa65",
    "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
@@ -10,6 +30,16 @@
    "date": "2026-11-25T20:14:41Z",
    "score": 8,
    "category": "Macro"
+  },
+  {
+   "id": "96c39dcb9118a2",
+   "title": "Watch Nasdaq 100 Tumbles in ‘Sell First’ Mode",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGpTTGowUWNJaEFHLU5LX3VNZTh6M1Uxb0hLQl9MSVdVQWEzVXVRUXphVHBaUXRKdDN3RHRrODVRM3JWeW1zRVlpaDgzMnZLenZrTzh1WldjT040Y2dsVW5pRDRSOVk3QjhTRUxMejY4dmNISlB0aVY4WDNOZ2xLcjVJTXJWMW8?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T20:12:50Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "e166e6072af6b4",
@@ -39,6 +69,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-25T20:00:02Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "36118dbe49c6e6",
+   "title": "Mysterious traders made $340,000 betting on Huang’s Nvidia return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmpyOUhUZFdsczFPeGpZRlNOTUFxMVA4MWJzcWp0VktoTVgxTWxaYVB4ZC15OWpMWmxTMkhFWFRmb3B3TnRiYkpkQWVzcmdIbUhsdDdqRGlnQ2JFZWlQSnRScUMyaWdtRWtRdHdlZzB6TVpUVzNDaHBScDJRR29zY2dpOWM0TlpsWTA3Wjg5TngtUGM0cU05TUxnNjk?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T20:00:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -270,6 +310,16 @@
    "date": "2026-11-25T19:16:00Z",
    "score": 4.0,
    "category": "Macro"
+  },
+  {
+   "id": "b9b2b41c20ec19",
+   "title": "Canadian auto sector moving away from U.S. imports amid trade war: DesRosiers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWQtM1VDakhTRWIxX0RmeWY3UWF3M0d0RnFzcE5yOVR1eWwwQVJacm5CclRJSURlTmFWVFp4WFk3R3ZMcFN6VTgzRjBJSWV5bGFLRkwwbk55Uk1Fbm54dElkRHRqMUctYy1xS1NtTVBMVW5KY29QMjlkai1kb3IxSVdOWENvM0ZQVGt3?oc=5",
+   "source": "Automotive News",
+   "date": "2026-11-25T19:16:00Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "e3807e71ce1ba7",
@@ -569,16 +619,6 @@
    "source": "Barchart.com",
    "date": "2026-11-25T18:45:32Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "96c39dcb9118a2",
-   "title": "Watch Nasdaq 100 Tumbles in ‘Sell First’ Mode",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGpTTGowUWNJaEFHLU5LX3VNZTh6M1Uxb0hLQl9MSVdVQWEzVXVRUXphVHBaUXRKdDN3RHRrODVRM3JWeW1zRVlpaDgzMnZLenZrTzh1WldjT040Y2dsVW5pRDRSOVk3QjhTRUxMejY4dmNISlB0aVY4WDNOZ2xLcjVJTXJWMW8?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T18:45:27Z",
-   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1012,16 +1052,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e7f919ba69d3fa",
-   "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T17:49:51Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "3222e3c47f607c",
    "title": "US stocks fall further as fears over AI intensify",
    "summary": "",
@@ -1132,6 +1162,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7d56f89a01dc00",
+   "title": "Nasdaq plunges about 4% amid AI rout and fresh Trump tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWh0S0stT2VoZWdIZ2F0ZUljbUdhNjE5VlNrT3M1cUd6WFlVR2VDSHJieE9oak1Na3A3NkF0ME5mUjdVdG02dm1HbHhTSkRqMDNkVXNqM3dZTVhWVmNoNHBaTk1zaFBUTGs1aWdNTURKT1VmeTdXamk2enk2cEpHOGpJM1VFV3N4Qmd6S1AxS1NBTTVCREdlWUlHdmNhMWxqc0d0N2FwbHQxOWZENEE?oc=5",
+   "source": "Business Day",
+   "date": "2026-11-25T17:37:35Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "895191eba4a78d",
    "title": "Two Measures of Inflation: October 2026",
    "summary": "",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-25T17:34:45Z",
    "score": 12,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "fb4e1a5ae59355",
-   "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVltVWRlVzBkeEZqbUR1eV9VQWhaUTNTZnFXLVE1UFgyRnp2OVRuT196cU93M3pheE1leFVza2p6ZEEtNjlBT0M5amp5d1VYOFpZQ0xfaXhqcEdPLTgySnVNanpQQ1pQeFNlMTAxUFMzS1BZa1RPajVYU1F4eE5pbm1CU0JwSVhMdnM2eFljMjhlLU1YRUx2Z09odm1BVDY1WDVIYUFOX1BYcUdQV0hDS0t1VmQ0Yno5cG1SWEhmaTVzTDFaQm9uR2V3SjNWRVBKcXpLeHplMA?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T17:33:22Z",
-   "score": 11,
-   "category": "Macro"
-  },
-  {
-   "id": "fa1344e9d4a3a5",
-   "title": "Chip Stock Sell-Off Deepens as Nvidia Falls 7% and Nasdaq 100 Nears Bear Market",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2JobWxlVENidXhhU3NXWWhnSXlZMXBibkk1dnRYcHNlb1VkUjdyaENJemhWYUt2b0FpUHFWSmVzcVVDQXRpQldiblc4cXl5UW1USEhhazZocmFaYXdUcHJLaC1VUUJnTFMybEhjamJrVkIzeVNTSElsZlRXOXdTRXRlVXFzajdWcVJoaUVGUEVCZVNhS1RlcnlJVEE0Z1VmQl9vMW9BRjVobDR4bWtkZi1HR0hOZw?oc=5",
-   "source": "Dawan Africa",
-   "date": "2026-11-25T17:31:45Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c1528caa4ab459",
-   "title": "Silver Falls 3% as Hot Inflation Fuels Fed Rate-Hike Fears",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVBpck5WTmZmRmZnYXpCeDQ0VFVLckpqN0hNVTAtTHQ4S0cwWGsyN1JpNks2RFhndmtDb3ZaSlRvNW5iV2VzODdBZHYyUnVydmZKTFJnRGJFNnhFR2NNcG52Y2NsczRWZXhrUG0wV1Y2cmVBdUpIZmpXcEwwNXpLcFdmbDJleU16N2M1cXBzR1ZQUGpGV0ZHYTNZWjk5eEhERzVIWms0anl5dE5yNzRBWjV6dHZVRnB0NEE?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T17:31:14Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "29cd31df653414",
-   "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-   "summary": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
-   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T17:31:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
