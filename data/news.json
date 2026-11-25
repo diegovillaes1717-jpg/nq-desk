@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:52:08Z",
+ "updated_at": "2026-11-25T19:56:52Z",
  "items": [
   {
    "id": "f6981370bbec54",
@@ -69,6 +69,16 @@
    "source": "Reuters",
    "date": "2026-11-25T19:32:35Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "052f301ab19fe6",
+   "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUVfLUtEeWswaEhGOHFkWVFXbVRKMlp6ZXlwZFRiTDE3bWQ0blJqbnBnbkxVUUhJaE5PV2hmZGlvVXFXVV9tNl9IRWw2d2hsM082aWNSWG5pa1hocnZsbXdHcmZZVktFYm5Hb3NlZ1hnWGhHeVJEN1JramtQdTVTd2NJT3VVa2M5NlJsOHliM2JjNEVWcVA0QmJB?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T19:28:54Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -322,6 +332,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "2e1d5195b9ea77",
+   "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T19:01:21Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "3f1e515309f71d",
    "title": "Stocks Took Inflation Data In Stride As Real Estate Led",
    "summary": "",
@@ -442,6 +462,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "0a0dcbe12389e9",
+   "title": "Treasury Yields Dip As The AI Stock Slide Eases",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ1JnYmpNS0I4LVBjU3E0OUhoVXl3czhSQVRzWndiU3dJUEJxd3lYNWZYWG9oUEJ2aVZOOFZpWm1hVW1OcHFrVGRBc01TRDgzaFdYVXhhM2VGNUVMSU1Xckptb0hxcVhDbDVTNHJGd2JIUi1uM1dmU3VCNXhFa1hfNDBn?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-25T18:52:15Z",
+   "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "02b6870f1fa4b2",
    "title": "Fed inflation jump lands right on your Thanksgiving table",
    "summary": "",
@@ -450,6 +480,16 @@
    "date": "2026-11-25T18:52:09Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "f3c5debb2f2388",
+   "title": "US economy roars ahead in third quarter, inflation remains high in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T18:50:40Z",
+   "score": 6,
+   "category": "Macro"
   },
   {
    "id": "1630b4d06f72e9",
@@ -852,16 +892,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "2e1d5195b9ea77",
-   "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T17:58:12Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "d06fcb8caaec45",
    "title": "Bitcoin briefly slips below $58K as hot PCE inflation fuels Fed rate hike bets",
    "summary": "",
@@ -1169,36 +1199,6 @@
    "source": "TipRanks",
    "date": "2026-11-25T17:21:29Z",
    "score": 17,
-   "category": "Macro"
-  },
-  {
-   "id": "66d74f45a007c5",
-   "title": "UK stocks fall as banks, miners track Wall Street selloff",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW1VcFBpakVFWW8xQ3dPdGNtZFRQRGJuX2tmOTVZOHBsa2hvQ3hkNHMwVmJvNmo1eHlxd0xkV2xDSFpuSGZqX2hUMWxQUV9xdVl5WTNfOXFRYnRYRGlKcF9xajludy1FQjY3R1dFT2pjYkEyXzRnYkd5amRiSDA4QkZyeFR3N0NKUGZsbDV2SW0xS085Qzl4bHdFSW1HNEVrX0hvbE5HUmo1QQ?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T17:20:52Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
-   "id": "c33a77734ddf54",
-   "title": "Michael Burry’s Nvidia Calls Just Doubled — And He Already Plans to Short It",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFdIQktuelZRejl1WGltRmV6bFAyT0RSb2tWUFp2QnlodWNZU1ByTVRjZDg0clg1RlcxQVZsempCczRLTTVhemgwRy02eFUxUEZwNlhGa0F1S3hMNk1KNEJwZTFfSVZTYmhwaUVaT18yeWhFVFd4OUh2S084YU9tLVRxeWR1SGgwb184YjRwVGE2dUpRaXgwbQ?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T17:19:22Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "759fd44ec9f809",
-   "title": "Bitcoin stuck below $60,000 as inflation picks up, ETF outflows near $5 billion",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSk9ZamJMdm9VdkNUZDNDUlRaenE5M0cxNWwyMzM5Tmt4REdLOUZLRmNXd05DQWFtb0N2QW5rRXNoMkh4MDJEb0lIeDhibGxmc25NdmVScy0?oc=5",
-   "source": "Cryptonews.net",
-   "date": "2026-11-25T17:18:20Z",
-   "score": 4,
    "category": "Macro"
   }
  ]
