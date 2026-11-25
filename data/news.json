@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T14:34:39Z",
+ "updated_at": "2026-11-25T14:39:25Z",
  "items": [
+  {
+   "id": "a3621967f865cc",
+   "title": "Nasdaq falls 3% at the open as AI rout intensifies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEdPMGhKdGVjSi00VGVFeWV4TkhtSHZ0LU9mSFJFMWdUbDM1dTRvWE9mdzBHbHBGNTdqSmxvLVhjbkVEWVRkWkhTcTRnTjJIbG9DeFJDZ21lbnNGRmNhWHdHeXB4UDIza2NGcXdZYjZnZUx3THJzN2hCZ19sRlNNdkpiZjU5X1lYUWpJVUczM2h0Z3M4dm5QMTFFOWkyOEVwZ3ljTQ?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-25T14:35:15Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "563126fb3fd907",
+   "title": "Trump Targets China With New Tariffs as S&P 500 and Nasdaq Futures Fall",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFA5TWZBQmhyZ05SeXlOMEYxUWJlUllkeTZVNzhrcjA4b1pzQnRkYUtoNmlNUVFDZ1hwWklZUGJHbFVhcXpBT3FHRFc1TGY5MzlhTlpnMDdQTUNKMFV4NWtTYnh1RWw0Zm95WmlLekVUVVlQQVEtbUVtSWVqM2J1NlhzdXp1dzdiVm5XbkhjR1I0RFlvWmxoYUgyNFZMSVlyZU9ld1Vn?oc=5",
+   "source": "Coinpaper",
+   "date": "2026-11-25T14:34:57Z",
+   "score": 12,
+   "category": "Tecnológicas"
+  },
   {
    "id": "d48642a381725a",
    "title": "PCE inflation gauge still running hot, as December rate hike looms",
@@ -62,16 +82,6 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "dcd2239ba1c713",
-   "title": "Wall Street set for lower open as AI losses deepen; inflation, tariffs weigh",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
-   "source": "The Detroit News",
-   "date": "2026-11-25T14:25:00Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
    "id": "a7a2beb8680f51",
    "title": "Core PCE Hits 3.3% in October, Cementing Bets on a December Fed Hike",
    "summary": "",
@@ -80,6 +90,16 @@
    "date": "2026-11-25T14:25:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "dcd2239ba1c713",
+   "title": "Wall Street set for lower open as AI losses deepen; inflation, tariffs weigh",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
+   "source": "The Detroit News",
+   "date": "2026-11-25T14:25:00Z",
+   "score": 12,
+   "category": "Macro"
   },
   {
    "id": "028fdf6130ad83",
@@ -182,16 +202,6 @@
    "category": "Macro"
   },
   {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQaXhKSzF1c01ZQjZQRXJxV1MzcHRiM05oeVo1V0tzZTJ3MjNkbVM0T3lZWlRWSjV3cmpuWXhPc2FtMTh2cXNTUE8ybURZblNnMXRBWFBLMF9JNnRnNFBtUktqUVVQVFlJak9TLUxZamtEYmdUMHR5SS1OMGhZT0FQaUY3MmVfbEg5eFV0bnBSZWpDQ0ZRM1dyWDZiRWdlMWlyQlhOejNCMjdJQ2JfZ3cySGRBS05JRVlCbGFzeEtiQ19HNHJFenVGTW9KLWgxVTNKbGFNSHRWYkoxdFBiZFVZTmtpMWxyZ0VwckhXMnFFS0lScWZSMFhLNnlaMkRPQ1BJZjlaSVoyOWhWckkxN0gtV1UwOEowcEdwWjlreWhGaHdxYWZYLXdV?oc=5",
-   "source": "KVUE",
-   "date": "2026-11-25T14:12:18Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "a9ae7593db122d",
    "title": "Fed monetary news linked to weaker rupee, higher G-sec yields: RBI study",
    "summary": "",
@@ -199,16 +209,6 @@
    "source": "Business Standard",
    "date": "2026-11-25T14:11:45Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "6a7f36a98646cd",
-   "title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LRDdBR2RiUGNtRlUxLUkyMDVKTnZROGo3dFBHT004ZEVqRlZQQmRqTU4zdnp5RTUwdklNZWh0TUYtTWtCT0xzZzNpWGphZ0RtYXA1azNTdjAzYTA0Q2tjZzBKamdvbG95cjNr?oc=5",
-   "source": "Boston Herald",
-   "date": "2026-11-25T14:11:37Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -322,6 +322,16 @@
    "category": "Macro"
   },
   {
+   "id": "6a7f36a98646cd",
+   "title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODk0OEJrUk5ITU01bURCX25tc0NKeHpSQ1l2Rm5TRGZ3eGdvVHJiSTJlekVXWnpRRHgxLWFlWFdNZUJRYVFDWlRkekF6UmJGejRRU2JnWXNyT3NNRDZSS3hjcWR6MnU3YkEtNnNtaDAwT1pqX2NVYWp4UGttTEdKc1NkZXk4UQ?oc=5",
+   "source": "Chicago Tribune",
+   "date": "2026-11-25T13:57:43Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "bd8b1f38187e15",
    "title": "Trump Eyes New Tariffs on China and the EU, with Chinese Imports Facing Up to 40%. Which Stocks Are at Risk?",
    "summary": "",
@@ -342,11 +352,21 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8b59b1dd98d75a",
-   "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+   "id": "0ea6f9f5112bbc",
+   "title": "PCE inflation heats up, solidifying a Fed rate hike in December, with more likely next year",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS0Ffb1NXV0I4RDR2N3VwanRPSDAzZFo1ZnhPZUp4VlB4QnJRNmdBT3JPd0tmZC1IcnNBSUVOTEc2TlFaZUpMa3RFWk1sRFYwNWQtYzFyRnhKTW83YU9OYXcxTXJ2Nlh5MUpLQmFIU0VxaExpMXVXUXBDeU9ZQzdqaWFDelZQQnFUajF4NkdTUTRPUV9SaU5XQ3NOeXVXOV9NYW5lTV9QWjN2WjN5djY1MHlOaG16Z18wcnpBZFFBZHRsX0hPNlRVd1h1VzZfT3EydG9DWQ?oc=5",
    "source": "Yahoo Finance Singapore",
+   "date": "2026-11-25T13:55:10Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "8b59b1dd98d75a",
+   "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemNTbHBvbmJmSDlUQkJfd2o0OW1ZZnIxdVBMb2dfYmZOQzVrdTJqVklSb2VMeWM1OElNeTNEQmZIUkxtQU44SkVKUWFOWFJzd0RsdHFvUmVNVndFVmhieWtYbkdmbzJ0MjJteVJjRi1hMXFHdlJOdWVPbmhSVXBlejNhYjU?oc=5",
+   "source": "AOL.com",
    "date": "2026-11-25T13:55:10Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -432,6 +452,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8a6e5491a162c4",
+   "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-25T13:46:56Z",
+   "score": 6,
+   "category": "Macro"
+  },
+  {
    "id": "b1a75cf52df2bd",
    "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
    "summary": "",
@@ -450,16 +480,6 @@
    "date": "2026-11-25T13:45:18Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "c11c159fe45639",
-   "title": "Fed’s preferred inflation metric rose in October as final 2026 rate meeting nears - KSN-TV",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkQ1TFh5NGlKTHJIV1ZvcEpOVHhucDdqR0VyWjdncEFlUS1UWHpxQlI0dUc0RVhHMEhYZ3FtWVFJbTdpNy1FTU5Yd0twQ0F3OUNnMmRWV25aUEhyWWYta1JOVEdQWjFFUnZIWld5cXZyeUc0V0h0a3VnRm5qTUdWM1I2SWdWVzlvdWpXQWdPbHQwSzRsRENSTGJQX0dCTGNSYUlFMkhqci1YZ9IBuwFBVV95cUxOaTdhbXVtNFRLNW9odmNhaTFaOUF4U2FFbUZsb0J2bG5yWmJzMFZUd3poYkJ5TmNUWmJfVkhrSWd0YlpJS2Z3dkJtem9BNjV4UGNrcnBWdE9vcWEzaUhmRkxRNGQteWZOMWlhc25mU1dCTGU1LWRFZ1ZrVnhpelM3Q014T0I5aVk3S3VhYlFQNXd1VU1RZUxrc1NkXzY4aFdmTDVqdW1sSjRQamx2d2hVeG1kdmYtcEJabTdv?oc=5",
-   "source": "Google News",
-   "date": "2026-11-25T13:43:52Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "ce61ca05434e1d",
@@ -502,16 +522,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8a6e5491a162c4",
-   "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-25T13:41:22Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
    "id": "5e5e8aae728c9b",
    "title": "Huang Is Back, But Nvidia Still Has Mountains to Climb",
    "summary": "",
@@ -549,6 +559,16 @@
    "source": "Benzinga",
    "date": "2026-11-25T13:41:00Z",
    "score": 11,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "c11c159fe45639",
+   "title": "Fed’s preferred inflation metric rose in October as final 2026 rate meeting nears",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zU1FaUXkzR3EycDZWWmhkQTJObGZVM05LRnk0dTVMVkI4VWdnOUZPOG05REdUaVYtcmlfWWpzeHp5WXpnMTloVEZiMUtrNTItWUhsblhrcHNOVEpfejJUbjNBbGNYMjZCb2tmYVR0ek9oZ9IBd0FVX3lxTE80US04UWpZdEVnYnJEYXVzcTd2YmVTUDlOeTN2ekhmaTBtbDFiU3RtbjZWc1ZDaWdPMVBOdVdNUTVieE02aFBpbWNXSjRCTVVOUHgxSUJzYnU1aC04cnlVOUhqSWxCVW1RMFlTSXNvUWo5cGZycG5J?oc=5",
+   "source": "The Hill",
+   "date": "2026-11-25T13:41:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -600,6 +620,16 @@
    "date": "2026-11-25T13:37:19Z",
    "score": 6,
    "category": "Macro"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdGRMT3AzZENmOXZtckt1a2tIVXhDUzE3VzU0TFY1ekhKMVRBclF2LUNqZFVzNmFuc3A3SnVRNkxTVzNIWllQa3V5R2FoNF9qWmUxU1lhNnRLVXJYRnpweDZ4MVhSNTU2bUx4UllPY1ZzdmwwT2NsNkE0Y1hONDJjckJody1OUTkyNWMzcEFVdTZiUEwwRTJYZlNNZ1F5b0U2OGtWQ3djSzBOZGVhMkpiVWkyUjBLbWgzcUl6RWh2TGlTQkF3ZTBmNQ?oc=5",
+   "source": "WPLG Local 10",
+   "date": "2026-11-25T13:37:18Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "82f78f878c94ff",
@@ -872,6 +902,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3f36a84b52dd7e",
+   "title": "Nasdaq futures fall 3% amid tech selloff, U.S. tariff reports By Investing.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMENGV1kxck9Wb1hiZWNXb0RBX2llYXVUUm9LTEtJNGNCSGdkWmJBdHM0a3VYNWRiZ25Fd3ZOZ011azR4TFVQa0tsOElSd3cwUnk5aXY4UWJZMll4Y0ZwOURuaXVRaVhiNlAtREhnempVYVJTSDktVmxnUmtEUWN6NE0zM3FuUkZNaDhVMG9UMEFhWFY2eGZKdzFtc3BxV2xXY1BMLXc1Y1E4VlZiTEdoYjNISmVhZ1E2Mk44SlpLTUtrWTNz?oc=5",
+   "source": "Investing.com Nigeria",
+   "date": "2026-11-25T12:56:53Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "570a9a0d0edf37",
    "title": "Global Stocks Slide as Trump Tariff Sweep Nears, AI Rally Loses Steam",
    "summary": "",
@@ -940,6 +980,16 @@
    "date": "2026-11-25T12:48:48Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "2fdb71f0aa8954",
+   "title": "U.S. Stock Futures Fall as Tech Shares Slide Ahead of Inflation Data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SXQzU25HeW5WajNoaDRNbVNWUERoQzRwQXc3U2ZXXzAwWXpTYTBqLWhqTE9aSjE2TFF3WHhaRE9ibng0VUV5RFo1LTFNU2FjbEdzYlJiam5zYXFEQ1ZlVGRadmdCQ3NfWVpoYVRR?oc=5",
+   "source": "SuaraGarut.ID",
+   "date": "2026-11-25T12:47:31Z",
+   "score": 10,
+   "category": "Macro"
   },
   {
    "id": "39670f29d40798",
@@ -1150,56 +1200,6 @@
    "date": "2026-11-25T12:26:41Z",
    "score": 5.0,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "00f4d52187c7b4",
-   "title": "Nvidia stock falls 5.2% as tech selloff extends after Huang's return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DcHRhOVdQQjRQcERRVkJ2dHJLNXVTdmlIYk1GVUJrQ2oyQVJBQmhzSDdDZHJmS2lqbndmWUV6ZjB4Y3pTU0dMOUlQTWJlbVJHcUhVLWs4WDZZdzd3dWQ1VGUzVFR5bGhCQkNlR0UxREpHMklvTUxHWVp3?oc=5",
-   "source": "qz.com",
-   "date": "2026-11-25T12:26:25Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2823977b65a234",
-   "title": "Goldman Sachs: The market has already priced in four Federal Reserve rate hikes, but Warsh will continue to raise rates in December.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2ZNRlNIMVZyTlRvV0Q3VHl4SWpQYjNNY1pvWUplcnc4cXhpUkd2Mmx5OWhMeHNMRmlIV0hWWlBKLWFzY1BjcXlOemFJc3pTaTd5Sm1GeUJaZzlSSTYwSWVwWGsxXzZ4eF9mUF9RUEpBcXRUUzFRVmVnNDVyVGhSYWNWVXpJVkJKWHRaT0FYRDRPc010TlJIdl9vMDRLRC1MU2E4Mw?oc=5",
-   "source": "富途牛牛",
-   "date": "2026-11-25T12:26:01Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5fbcf2b7cc8ebe",
-   "title": "Nasdaq Futures Slide as AI Selloff and Tariff Fears Hit Markets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybEVGZk9WdWpMUTNmeFdkNEVGV0RPVVNLblBwUTktcHZJVnl1M1VfQTl0Wl9sdUozRGRwRHc3blRyamhtclJBQkZGYzI4aWc2T3FDei1vbHZhaGN3OU9ndm9WOU53ZnJQ?oc=5",
-   "source": "Limapagi",
-   "date": "2026-11-25T12:23:28Z",
-   "score": 14,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2696417c3db19b",
-   "title": "Should You Buy the Invesco QQQ ETF With the Nasdaq-100 Plummeting? Here's What History Says.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFEtazk2Q0N6MGdOSXh4TmtiYnlZVHdlcGlTd2cweUhnbXJFVVBrWDhzQ0ZTdzJQSDY0Y3o1NURpWk1Ic1pzTmhhRXFsOXAwVG9hTTJjbUZ2WEt2bDQwbDIwbmF4SklIQkg5V2R1S0F5eUVTWU9pYUZiUFVXWm9UWUVOUG5PaXBYRE00RktHZHZGSm1nZzIwendraUthbXBWc1FxQkhqLWhCbVl5cTR0bFVXQQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T12:22:02Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8f4bb81c406367",
-   "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2s0ak5QRUUzVDBKTzB4angtVVVGbHZXWERKeXFiaXZYTHA5ZGdYa09ZbkdrT1dBN1pJejkyaGdINE94Q3VRTHp5bk8wTWw3cmM3bnNWZVJwZS1QTU9BVVVYU2xwTW1XNmVRcWpMT2lVZEF6dll1RHFOUEJ2czMyX1dUd2NoLUcyME1rX2pmX0Y4ZXFnN0xEazVrRVlPYnBFSVBteWZ6a3lDUjJ3M29vNi1lcw?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T12:20:58Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
