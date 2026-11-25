@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T17:29:37Z",
+ "updated_at": "2026-11-25T17:34:23Z",
  "items": [
+  {
+   "id": "29cd31df653414",
+   "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+   "summary": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
+   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T17:31:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "f70ed71356e3b7",
    "title": "Nasdaq Sinks as Hot Inflation and Trump Tariffs Hit AI Shares",
@@ -92,16 +102,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "920a814d4d4470",
-   "title": "Nvidia’s Board Is Useless, Gutless, and a Sham",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84c1BXNTF1QzhaM3M1MGpsSXFiaFlDUXRHWEZ5YXJxVE53T1pUbFRMREdXSnF2LVFlNnRudHBybmo4RFNjXzNnT3NOLXVNVjdqYWs5M0x4c3NUNnNUblZrNWk2X3pxdmhuWFppazR0MXYyRDA?oc=5",
-   "source": "Substack",
-   "date": "2026-11-25T17:04:17Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "f92e8e81f0e17f",
    "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
    "summary": "",
@@ -110,6 +110,16 @@
    "date": "2026-11-25T17:04:17Z",
    "score": 13,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "920a814d4d4470",
+   "title": "Nvidia’s Board Is Useless, Gutless, and a Sham",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84c1BXNTF1QzhaM3M1MGpsSXFiaFlDUXRHWEZ5YXJxVE53T1pUbFRMREdXSnF2LVFlNnRudHBybmo4RFNjXzNnT3NOLXVNVjdqYWs5M0x4c3NUNnNUblZrNWk2X3pxdmhuWFppazR0MXYyRDA?oc=5",
+   "source": "Substack",
+   "date": "2026-11-25T17:04:17Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "6f25767ecbbdb9",
@@ -272,6 +282,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "99307a3c749d1b",
+   "title": "VC Funding Keeps Flowing as Nvidia Whiplash & Market Gyrations Shadow the AI Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xeUwyQ0FWUEtqLVNIUlM2MlM3MmVZS1A1M0pmMDVYSzBrYXBHQkJEanB1QVlPTlFZc0R2R0MtSVNYRUNOX2FKQWRoWURtd2xMcUc1eU5LcWpwU0h1Q0w0Q1Y1dzhhMVBoWnhpcA?oc=5",
+   "source": "Newcomer | Substack",
+   "date": "2026-11-25T16:48:12Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "666f76053df7e9",
    "title": "Why is Nasdaq 100 down 4.5% today?",
    "summary": "",
@@ -380,6 +400,16 @@
    "date": "2026-11-25T16:37:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "693a45cd1e50b3",
+   "title": "Craig Shapiro: Treasury yields rise despite hot PCE, strong GDP and widening AI credit spreads",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGtVZmw4RXpmSVVQaC1zSTVkNE1xaU1WMFZhb0xtWllNaUlGR2dmcmpKUnBUS195aTZHdGhheFo5blJpOXg1ZjRTcVd4b1hSb1d4NFJtRkFxb1hIc0RpVnF0N0RrZkRkMElOdXMzRWYyUWhfb2N1QXg2bUNFR2plOXlILTZzck1idzU5Nw?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-25T16:35:10Z",
+   "score": 12,
+   "category": "Fed y tipos"
   },
   {
    "id": "8b527ebd6d5079",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T15:12:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "b5d7ba69910b47",
-   "title": "Dan Ives: Nvidia sell-off a 'growth scare,' not a demand problem",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmU2eGRQam9mbmVjQlVxRWZrUWg1azQ2dnpDT2g2TEgybnB4eEtSaHJWajFzYnFsY1dfazZITkhEYVZ6ZTdtTHd6bGVkRzRTQTdVNGstRlVKTURvUmJtbEVEOXBVMmFPcDNvRjliQW5YbFNNYmVXQzAyNVh4YjNIZDlNVkNvWWp6dHNjQlByTWNCem5hcWl2TzZ2akVDdnBSeGdJUWZ2LTJnTms?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T15:11:40Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1f1d59ec75563d",
-   "title": "Inflation remains un­com­fortably high despite a retreat in gas prices as chal­lenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3J4R0lzUWFBalg0SmU3eF9zbkZzRUhQb194Wm4tbHpERFAxMGNqUG1QdENya28xNkZPRk10ZTdBYjBucGhPcWl5Nm5qMDhxWkFHZGx6Um5YT1I5RGJwT0NhM1I3TWMzWE9JZktJRElTNXdTam5ldXRNMEdCS3dJVVZOel9USVJhX1MxM0YzV2VKWExGbkFYb1RsaG9TdzVyWlJIOXJhRQ?oc=5",
-   "source": "Spectrum News",
-   "date": "2026-11-25T15:11:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4a77428219283a",
-   "title": "Stock Market Today: S&P 500, Nasdaq Fall After Trump Proposes New Tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUlkWk43WnllYWhELTNTWVpETWJwbmlyUXdZS3FRZVJBcktYWXpQYWlkdzBpdTBCVVdmVERBTWhHMWw5MzR2T0dQQUt0TVRNLU51RUpwajRrVVZfQTVINGk4OFJoZUNDTy1oN2k4N29udXRwaEltYWRLakExUktSOEhkQjBvU3AwQkNLRVlPLWtKcVhDdktlTEJsZmpzb1Vhc0ppSER3?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-25T15:09:57Z",
-   "score": 10,
-   "category": "Tecnológicas"
   }
  ]
 }
