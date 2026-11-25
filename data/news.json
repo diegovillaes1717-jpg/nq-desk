@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T17:34:23Z",
+ "updated_at": "2026-11-25T17:34:49Z",
  "items": [
   {
    "id": "29cd31df653414",
@@ -10,6 +10,16 @@
    "date": "2026-11-25T17:31:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "6c8b6a4518f514",
+   "title": "The Trump administration proposed a slate of new tariffs on Wednesday targeting imports from dozens of countries, including China, Japan and the members of the European Union. This marks the latest expansion of a global trade war. https://nyti.ms/4fVg5nl",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdkVrTHN2bzUwMXVyckJKeXplNFNRZ3VSSm9YVTVQUGZEc3NUbzRCUnFoeF83MGQ5d2RDRzY4T0RydUNuQk40Y01GOFhmQUJiSWNMVmNjeHZDeDJBU3JHZGZ5ZHdLYWp0MmM0TXBlU3RtNkMxcllWeENPRXZxZ0t6VFh0VWxUWE55LURuaVA3OC1nRmhkd3pwOHNVdTZHMXZUQVJMajVIYjI0X3FUeDJ3T2djSW5aS1EtbkV4eGZpZXBVWFgzZUpVYVluOVhHWXJkRXc?oc=5",
+   "source": "Facebook",
+   "date": "2026-11-25T17:30:23Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "f70ed71356e3b7",
@@ -102,16 +112,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f92e8e81f0e17f",
-   "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
-   "source": "Hindustan Times",
-   "date": "2026-11-25T17:04:17Z",
-   "score": 13,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "920a814d4d4470",
    "title": "Nvidia’s Board Is Useless, Gutless, and a Sham",
    "summary": "",
@@ -120,6 +120,16 @@
    "date": "2026-11-25T17:04:17Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f92e8e81f0e17f",
+   "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
+   "source": "Hindustan Times",
+   "date": "2026-11-25T17:04:17Z",
+   "score": 13,
+   "category": "Fed y tipos"
   },
   {
    "id": "6f25767ecbbdb9",
@@ -852,6 +862,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "e6513f22d7285c",
+   "title": "U.S. October PCE Inflation Rises 3.8%, Solidifying Rate Hike Expectations",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02enNqWWFIQm16dXN1cnAtQUdVeldBVUpjQlRETVV5WXVxaEV4eWlXN0ZFdnZvUXJ1TjRHNnlxb2JqSGtsQ0Y2TFUtYW9QcW55bzlXT2Z3djRxREdpdF91N01wUzRvUkdIX1dfN3FB?oc=5",
+   "source": "news.sbs.co.kr",
+   "date": "2026-11-25T15:42:51Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "736d2be4214bd0",
    "title": "Why Nvidia Stock Continues to Fall After the Jensen Huang Pop",
    "summary": "",
@@ -920,6 +940,16 @@
    "date": "2026-11-25T15:33:57Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "714d48a7846c6d",
+   "title": "Nasdaq 100 down 20% from peak, on track for bear market, Bloomberg reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qX1JUM1cwd0FJX1c1eklpZXVoREFkV3llVWpYdktEYWFzZHMtWlNTZkpoamhObEpZbTc4TUxQMEdBc3RT?oc=5",
+   "source": "Digg",
+   "date": "2026-11-25T15:33:54Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "917d1a13125323",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T15:15:41Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "cb6072122659e3",
-   "title": "Treasury Yields Extend Fall After U.S. Data Flurry -- 2nd Update",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkNHUWNIWEJYTG9DTm5henkwejBXV1d0bnZ0NzVCbURPVndNU2F1Y0JjSm5XUUVDUE0wREcwTVpsVGNiYmc1S2ZOQUNVWHpVNUhaUXBKbG45WFB4QmU0UTBOM19Ja1R6OEVvLTVZNWpXWjdUYW5QbWRXQjBpZEgwcUdMYThfbGZJanZpUHhyVzhyY0J3ak5uY2pfWWttZklvVmQzR0ZxNFp3WFZjZWg4NFhzaw?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-25T15:14:20Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "ca0153ad5950f1",
-   "title": "US PCE inflation keeps Fed on course for more tightening",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PRFBSb2VsUUJKLUswaWxQVWNsbExmci1mc2dlUEpsT19SaFpzc0NmMUlvb3RnbFB4VkU1Y1ByUk1XX1lDYTRITHZjdTk2MGJpWUJlME9HeVlHVGlPZjZwdV9PNVFoZEdaU0llcUZ6QXg?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-25T15:12:01Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "eb2f4c25dc2f55",
-   "title": "US open: Stocks tumble as investors weigh fresh tariffs, heavy macro slate",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYW9vY3JVNnE2MW5uSC0zUWFlMmtMUnRheWhvQlI4WDRZTWMxaHU4MDNKT1NtcEQ2UzZDTVYtSDVQNjNBMC14d0IwOTd1RF9CT2xOSnBpTEVxUU5sREtpUWNqeWNtQUFmWEZ6MzZyNTg1ZFB5OGdPVmhlY195QTU2d19YWXJsTzUzQjdRdFVJQzNhanNBc3Raa19NMU02eUFxQlRWNk9sZFJIQVlVdEw0R3hXSFNTZGRxUVVuUA?oc=5",
-   "source": "London South East",
-   "date": "2026-11-25T15:12:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
