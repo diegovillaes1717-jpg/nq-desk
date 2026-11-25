@@ -1,15 +1,45 @@
 {
- "updated_at": "2026-11-25T19:37:53Z",
+ "updated_at": "2026-11-25T19:42:37Z",
  "items": [
   {
-   "id": "effdbe42672a91",
-   "title": "Fed survey shows continued growth and sticky inflation in recent weeks - KELO-AM",
+   "id": "c4fbd59ee144ed",
+   "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+   "summary": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.",
+   "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T19:39:00Z",
+   "score": 9.0,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "42022c12b27ca6",
+   "title": "UPDATE: California teacher pension fund vulnerable to stock market’s Nvidia-fueled AI turmoil",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczlRUHlraEh3aXMzTjVVekNFdmItRGhiYzFvU19iSmZsYlMzY1U1bEd0VEtlbVBVWURxVFhVZmQwcWVWMWdocG5mcHVmZU5uTzYyM0kyREZQQmhnaHpTNWwwMlIwVXgyN0lXdGVNeHcyb2RKSzVwRkdyLUppNE9QbUh0UTJZaHdOVjM4Q0U4YkZ5ck01Rl95ZUZZc0laWGxl?oc=5",
-   "source": "Google News",
-   "date": "2026-11-25T19:35:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWtrQjRIVThOZDczS0hNZVlKUWtBRzk5T002Q1Z0NW9HdmRBS0FWbE5LQWhiZEpHbUZNcTlKTnpKVXllSWZBN19mdXBqWkhwUkx5VFpwaVNEc2JZTmV1RWpaQUJhWlFOVnNYRWNhYlFhLW5ZWnpQUHItTzJZa2ppaERXNU1Xb1lHdnN6dXdrVjNEMUpwd3A2alY1WmNWcFc4NThYWGF1U2VON1J1d3FqbllXYw?oc=5",
+   "source": "EdSource",
+   "date": "2026-11-25T19:37:11Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "effdbe42672a91",
+   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWMyUk5OZTlsaklLQURjT1d1aUozbFV1ZFc2cnFxcW1VWHYxc0JHUC1MNEl1R05KdDlab0pPLWMzaFZkTWkzOEVjcnN4aHVCVktEdkJSbmM1UnZRUVg1OFFvM3F3QWhvc1ppNXYwU0pBMXd4QmhFNTNRZjZwV0d3ZWVUOVJWdWEtUnhoVVBKNGpkbmIzb2tuMVNQQVFtX2RD?oc=5",
+   "source": "WKZO",
+   "date": "2026-11-25T19:35:22Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "ee1142debd4fb5",
+   "title": "S&P puts NVIDIA on CreditWatch over governance concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGRNNUlFRUR0V3hPWU82dFd6YTBocjhHQV9CZThldmJpZGRhR29XV24yWW1fVWtILVF1YUJuUUVvb0liQ1J2MTFiTHJkTHZaWTg3SHlmbDF1T19OYzRocUlvRm1DeE1tTDN3eThlNHR6UmIzY0tPajZRR1dJeGFkZ2VpcURIc2piMk1kTFA3LWJWcEtCQWpMTk1Udw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T19:26:25Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "3e1ee2dc79a128",
@@ -42,6 +72,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "aaf1218e64b638",
+   "title": "Fed Faces a Policy Dilemma as Williams Sees Inflation Falling Without Slower Growt",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjhvd21nTE81WWM0NFo2NV9ET0dUQTNNcGZraUN5OGlKMmpZSzdueGF5RUpPNlBGT3RjZE9GYUw4U0JNTnYwWklpS0c1cjlhSlA4MUFrcFdXVGk3MG9pcW9OcUlzTDJPZWVBc2lKMWhqc1d1NmRyd3pQWkpwZ0hrMERNRC1YRERteEJOZE5MaEFLRUdWYXRYZk5DMkRBWFMxdEpQaUhlSnluUlhhNVYtMWJwaV9mY1hpZ0RjMkI3Zy1QZktiNlE?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-25T19:22:26Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "2548b4b11859f9",
    "title": "Nvidia is cheap on paper, so why won't the market buy it?",
    "summary": "",
@@ -59,6 +99,16 @@
    "source": "KQ2",
    "date": "2026-11-25T19:21:39Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3de825344fc202",
+   "title": "Bitcoin slips as Nasdaq surges: Is leverage taking over?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSWJYNTdMVGhZd0ZkdDk2T0lHWVp1UUd0Q213X3NRTlk0bXNqUUZkMXVhMFpFbkFNdjZWY1puYXRLTHVyUjB4SUVYZWVjVkhISW51REVsY2pOYlJSNlpRQVF2TkVQWVVQ?oc=5",
+   "source": "Crypto News",
+   "date": "2026-11-25T19:21:09Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -162,16 +212,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "d91818e098c884",
-   "title": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs - Seattle Post-Intelligencer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMm5OV1pUQXNqXzBpVlIwUFlFMEFCOFNCLWNaXzc2VW85VVNLd3B0b0h5dmlaNlVKX2lnTnJzaGpCWk5MYzFUNjhUbUVzcUF2RTk3QzQyYUVqbEtYZE9KRHhTZ1J1SlpHUHp3UV9FNHU5WUtzc2Z6UjlHdXJMY3JZT1BxSEk5cC00c3Z1RXdxQV9rN1poSnZN?oc=5",
-   "source": "Google News",
-   "date": "2026-11-25T19:07:30Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
    "id": "a13349ef2c37af",
    "title": "Update: US Equity Indexes Mixed While Treasury Yields Drop Amid Sharp Sell-Off in Chipmakers",
    "summary": "",
@@ -190,6 +230,16 @@
    "date": "2026-11-25T19:03:16Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "d91818e098c884",
+   "title": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPd0lPU0JYTGQ2SUVaNmJELXlsXy02b1k3eDI4NWc2ZDhXRUZ3QUZJcmE4RmN2MTJUYk1LWDdqTkcxOUZIRXJETUM1Q0cwZHlSazF4Q3BpSGlUaW5UOUllcXVwX0VuM1lxLVp5UzFMMWhoX0lQV1k3M0NwV2l1R0VqZHhwNS1JSldRdDh5NUZNZkxvS0RyME9EZTVoMVV4QlUxZ1lyaXRvcG9CUjhGY0pQVGNVX2ZIRkw3NzVpY3l4MVktT3FuYlJCS3p6cXBfNTc1Z2w3Zlp6NnF0Q2pqQ0pQcXhreW9odkg4VXRvVmFHTFR4WHFHOFRaUmRLZ2dqbG9OWEhaalZoV1pUS0ZZVWl4bmg2ZjY0MnNldXc?oc=5",
+   "source": "Herald Bulletin",
+   "date": "2026-11-25T19:03:10Z",
+   "score": 12,
+   "category": "Macro"
   },
   {
    "id": "d5e7ab762700a3",
@@ -662,6 +712,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "600be4ab999ba9",
+   "title": "Bangladesh faces addl tariffs up to 18pc on exports to US",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVRVNVlKS011UGlQZlRXRU5XZ0kyNk5Yb2M4Vmk5SWRLMC03UTU0dWdwaDU0eUJJNEtiN1hZclZBMVhrTXFMeTlCRzZQMHJaZUVnVGVrLWxKaUlPUnRwS2NRTlBDMXdFcWMzR1ktTkRDbHhuQ3VWdmpyUHk1MXFqbFR1cWhxYTZGYURhZDlIWER0cFhqbndxNk0xNTh0VHJfREI2U1pjMG5nTFE?oc=5",
+   "source": "The Financial Express",
+   "date": "2026-11-25T18:06:03Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "bdadf6a4207d0e",
    "title": "Inflation Holds at 3.8% as Energy Prices Rise",
    "summary": "",
@@ -719,16 +779,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T18:00:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkRuVUJjcEZkZXh4Ny1TeHlnSEJralloRlRGUVpqbTY2cVFGTjlUZVNDS3BLMFdNMTNZNmhQT3FPTFVaZ0d1MEl6NDczRC1DdlRyTm5zSFRocDNvQjdBZGVLdl9CRHpubk5DMlRuRTBSaGpvN3VSaG9QZGdVeDNUWUZkUUgwa1pMMGFPQW02ZzBWSHktbnNpekdlQzBHYTVqMzQ2dHJ6Rm40M1VuaHc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T17:58:57Z",
-   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -1148,56 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXZmeFVxVW1DNHBzU1ZNLXR6dXAtMGJYcHcyUUxKdFNPMUtiZFNMU0xCa0NxNWtzMXRyZnk0ZTB1S1JvcGtlMEVLWGJHLWpTeXltWUpiaWN0SnJmSlp1ZENpXzdCMXRtZkI4TWJ6UTVyY2s3akJTQzFHUDdoaHhXMnZ3WjNCcFNzRlplcjRGSDFESm5nU25LOWlydw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-25T17:10:40Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e4189c783c1496",
-   "title": "White House tariffs announced on China, Vietnam, as inflation data comes back hot",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWVHVE9zZ0YwZURJTU1TcTB0SmctN1FqWlljNlFsUEdvUHRMSDRtcnU3YXFBZjlicFhuaEJRNXgzTTd1emdhYzB2Y2dubEJwUUFpQk9VUEo1QmlhM3ZvMG1Lb0tOeVF0SDZrc3VvUUlqZFhDQndtc1dJUl9JUm8zc0EyZ3dJRnRjOG9OY0VOS1I?oc=5",
-   "source": "Fortune",
-   "date": "2026-11-25T17:06:00Z",
-   "score": 10,
-   "category": "Macro"
-  },
-  {
-   "id": "700f3b8602feaf",
-   "title": "Stock Market Today: Nasdaq IXIC Sinks 4.2%, S&P 500 SPX Tests 7,000, Dow DJI Slips; 7,240 Reclaim Target",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFlJQ2sxUER6UkpOU2gycXBEUEhXck5CZUJOLVVTbUdFN3VWeFlWazhXMkhQTnZIekVfWi1BTUhaTll0WG4xZkdtbGVoR3A4N1VDQ1A1U3pSV3hhZ3VYem03eDh5R3dEaUt0RG1DNlItQnAyZVRjWENMZFluVWNndTJfRzBVZ05LUUh2TlRzanZacWFnZVNLcnFwOVhlT1R1Z2VBYWRuUFdCNjNYSk5qYlFHNVk4cHo1ZHJhcnBKMEptZ3M?oc=5",
-   "source": "TradingNEWS",
-   "date": "2026-11-25T17:05:34Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a8b93cade56304",
-   "title": "Stock Market Today: S&P 500 SPX -2.8%, Nasdaq IXIC -4.2%, Dow DJI -1.5%, NVDA -8%; SPX 7,240 Target",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFlJQ2sxUER6UkpOU2gycXBEUEhXck5CZUJOLVVTbUdFN3VWeFlWazhXMkhQTnZIekVfWi1BTUhaTll0WG4xZkdtbGVoR3A4N1VDQ1A1U3pSV3hhZ3VYem03eDh5R3dEaUt0RG1DNlItQnAyZVRjWENMZFluVWNndTJfRzBVZ05LUUh2TlRzanZacWFnZVNLcnFwOVhlT1R1Z2VBYWRuUFdCNjNYSk5qYlFHNVk4cHo1ZHJhcnBKMEptZ3M?oc=5",
-   "source": "TradingNEWS",
-   "date": "2026-11-25T17:05:34Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f92e8e81f0e17f",
-   "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
-   "source": "Hindustan Times",
-   "date": "2026-11-25T17:04:17Z",
-   "score": 13,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "920a814d4d4470",
-   "title": "Nvidia’s Board Is Useless, Gutless, and a Sham",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84c1BXNTF1QzhaM3M1MGpsSXFiaFlDUXRHWEZ5YXJxVE53T1pUbFRMREdXSnF2LVFlNnRudHBybmo4RFNjXzNnT3NOLXVNVjdqYWs5M0x4c3NUNnNUblZrNWk2X3pxdmhuWFppazR0MXYyRDA?oc=5",
-   "source": "Substack",
-   "date": "2026-11-25T17:04:17Z",
    "score": 3,
    "category": "Tecnológicas"
   }
