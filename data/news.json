@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:07:05Z",
+ "updated_at": "2026-11-25T23:11:50Z",
  "items": [
   {
    "id": "bdc39412d1ae3a",
@@ -10,6 +10,16 @@
    "date": "2026-11-25T23:01:49Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "aea23eba608b33",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUhzVmRIbGQxLW1ZQ2gyMnpQZUFlRzVjMzFFSVVJLWRGazdKVHNLbnlTa2psUjRhams4M2lIRnNfOVdRSzl3YUV4d3h6T20weWRscG5CWm9lRWhibUZRMmgwc0I2MzR4T05aak5vdzNCWUd1Wkk2NW1La0NkajVVZFg3ZGU1MExlLWFfcUFmcDlsQ1RkcmFUU05IUzl6OXJUYXJ5RllKaWI2dXhzbzI5RVNtUmlPT1E4WnRnUGRibE1kSlIxWTE0b0R5a0NSNHJZNE9BQkdnRjBZOWVVakJucF9vN24?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T23:00:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "488ff7f4a02fe2",
@@ -239,6 +249,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-25T22:00:02Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e15f67508ac327",
+   "title": "Nvidia engineer who quit in protest of Jensen Huang's ouster says he 'may have moved too quickly,' is open to returning",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnlmNUFVS0p2NXdXdk9JOGQ4WnlPT0lGdTA5RXNQNUZqTEt5QXRxQWNmeWkzU3VUZmduNVdnRlJ5dHpOZ09zaWZpVkdWTXd5VUNZOWRZYW0tdGx6T1Mtbkh1OVJoNTU1dmRFOUtiR0piTzNXSjB6aVo4M0U3bEZBQ2d0dXVma2hoUTg4dlVpbGpFX3ZHbUhLTm5PZ3pPc0Vzbnc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T22:00:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -530,6 +550,16 @@
    "date": "2026-11-25T21:09:36Z",
    "score": 14,
    "category": "Macro"
+  },
+  {
+   "id": "7c27ae4579eba1",
+   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGxsS2FQcFJqSzBpWU9Rc2hiVC1VOGhEYTdZMlVmUndCLW9sWGVUQVIyU3dybWZhb2Y3b3RIeW1YUFlwNDFVU1N1SG9rcE1VQUJTQ1NwVlpKVko5NHl3a2xQOElram5remtKT21mc0FkdVRsM3hhUVUwcmhLbFFUeDcyU1Rqc2RSXzBYRS1PdEJJTEtUUXVBWWEweHN6eTdXWUE?oc=5",
+   "source": "Everett Post",
+   "date": "2026-11-25T21:09:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "dce2933132f307",
@@ -1092,6 +1122,16 @@
    "category": "Macro"
   },
   {
+   "id": "642b646d8047af",
+   "title": "Stocks close mixed after Wall Street erases sharp decline: Nvidia drops 4% - ABC News",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
+   "source": "Breaking News, Latest News and Videos",
+   "date": "2026-11-25T19:54:39Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "2abc95919263e2",
    "title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
    "summary": "",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-25T19:38:40Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "42022c12b27ca6",
-   "title": "UPDATE: California teacher pension fund vulnerable to stock market’s Nvidia-fueled AI turmoil",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWtrQjRIVThOZDczS0hNZVlKUWtBRzk5T002Q1Z0NW9HdmRBS0FWbE5LQWhiZEpHbUZNcTlKTnpKVXllSWZBN19mdXBqWkhwUkx5VFpwaVNEc2JZTmV1RWpaQUJhWlFOVnNYRWNhYlFhLW5ZWnpQUHItTzJZa2ppaERXNU1Xb1lHdnN6dXdrVjNEMUpwd3A2alY1WmNWcFc4NThYWGF1U2VON1J1d3FqbllXYw?oc=5",
-   "source": "EdSource",
-   "date": "2026-11-25T19:37:11Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7d0f33a8472380",
-   "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWV5eGNLVEd2LU00RkQ2VlpWbGJqam5RUEVQd0dmN1lRYjBZOGVCYmxwTG5XV1huU3RfR2hNN0tuRV9iSW5NY2NxUUhsS1JORF90dF9wTnJBYTF5VEI3Y3BMd1luV2lMSFJseXdTQTVNTVk3eFRFdjM1ZWpmYVdCN0lnNEoxMWV3bUxFbjl0RVRDSmtidEhvS08wN29xRElHcVBiX2ZNa1l6bU5sWjB5NzFR?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T19:35:50Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f741b6c643058e",
-   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3lNSXJsTVNvNVpGT08tV2pLNV9RQ2MwSnZvbU5Nd2l6OWY2Y1lNQTZSRTExTkZCdnFCLU1ScHY2RXRlQU5OQnF2eEJWRnVOd1dWejI1eng5RHdJMi15YlhMb3A0V2loMjExN1FkLTd4X2hxTHI1MFpQSDVGQ1lYbWhWV29tekhwVW51NlNLeGt5Z1MwRjZNSEplTUdnWndy?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-25T19:33:39Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "ee953e2e825490",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-25T19:31:28Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
