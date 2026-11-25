@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:55:03Z",
+ "updated_at": "2026-11-25T23:59:47Z",
  "items": [
   {
    "id": "120ba405c1eca2",
@@ -10,16 +10,6 @@
    "date": "2026-11-25T23:48:51Z",
    "score": 4.0,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "7c27ae4579eba1",
-   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmZrbTVDV04tT2F3aWRFaUxPQ3ptSXJfXzhVOTJYUExCMkVBcmRuRG5HcUlDQWhuZFB0dFdkNU9qUGJUbVRwazhqeU1zcmZPanc0ekg5NUZ6YXVVcVZlSVVBSkZ6eFNtMWRVcVU3WFdzYUhjMS1qd1A2dGdfcS1rNnRYRWg1S2NYQks5SWdKQWNoQ0hHUXdGbHl6bTJyUzVubFdLekJINHBkbTA?oc=5",
-   "source": "Deltaplex News",
-   "date": "2026-11-25T23:47:54Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "81777fe575f64e",
@@ -79,6 +69,16 @@
    "source": "FXStreet",
    "date": "2026-11-25T23:26:01Z",
    "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "8f9a2cdfb9bf52",
+   "title": "US Capital Spending Surge Keeps Stock Rebound Hopes Alive as Inflation Tests Fed Patience",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWTV2YnlUYnVyajFFenNINWt0LW9IRU5GeUNoZmdFVS16UXlfQXk5MnVCLUZ6NUhSSnRXdk9vUXRIZUlxVlgxU05ON0JKcDh1TTlLX1dhWEt6SGFiZ0o4M0JVSjZQQXYtNlUzVUFia3ItMzRVdEE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-25T23:25:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -176,7 +176,7 @@
    "title": "Rising inflation strengthens case for Fed rate hikes",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXpJVTkyNUl6U3BfVzhQWWdFVXpSSFEyaFRVajhVODNha0M2clBwUjBfN2EtZWdOaGlHTTJiakVXUWRnR3M3VThsdm1sMlk1cHhvVkFEcHdJa2hmZ0trMWctTmpLQlg1Mk4zR0xrcTVjNGNlbm9rUHVVbm90UU44NnhTX0NneXNQMkhLZmlRVFlFaXEtU3c?oc=5",
-   "source": "www.marketplace.org",
+   "source": "Marketplace.org",
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -252,6 +252,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
+   "source": "KONTAN",
+   "date": "2026-11-25T22:32:30Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "4b36655822feee",
    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -269,16 +279,6 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T22:30:21Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -339,16 +339,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbEFmX3dIZS1vVVM2VG1zRGd0YnA3Ql8xcjViQl83dEN6akpWeWlYUVFaWGV5SkdBVGx2MzFFUkZlS2xiS0FCdU1BZUtRVGJXSUJvTnlkQklpYjQwWUdvZ3lpeEVXRDMzUXpaRlZoSHdYX1JWY2NGV05XT0NkWENnWUJyT2dCdFo4OC02MEdfc3JLQzlXa21PZUd4bzFUNU82ZVlLb0FUQzA5TDUzMHhJYlhCaV9mamozMndaWms5VUpxU1dFNE1QVndRV3BwZl9JV0xQVkRXa0tFSTdv0gHcAUFVX3lxTFBsQWZfd0hlLW9VUzZUbXNEZ3RicDdCXzFyNWJCXzd0Q3pqSlZ5aVhRUVpYZXlKR0FUbHYzMUVSRmVLbGJLQUJ1TUFlS1FUYldJQm9OeWRCSWliNDBZR29neWl4RVdEMzNRelpGVmhId1hfUlZjY0ZXTldPQ2RYQ2dZQnJPZ0J0Wjg4LTYwR19zcktDOVdrbU9lR3hvMVQ1TzZlWUtvQVRDMDlMNTMweEliWEJpX2ZqajMyd1paazlVSnFTV0U0TVBWd1FXcHBmX0lXTFBWRFdrS0VJN28?oc=5",
-   "source": "Devdiscourse",
-   "date": "2026-11-25T22:12:52Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -430,6 +420,16 @@
    "date": "2026-11-25T22:06:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "674a566e92dde7",
+   "title": "This Is When AI’s Circular Deals Bite Back",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T22:05:28Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "9728826c45f58f",
@@ -742,6 +742,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3e94727199aade",
+   "title": "Stomach-Churning Swings Rock Wall Street as AI Doubts Creep In",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3FJdzdJWVNPMUVVQVFuZUJfbGpWaXNfamU4RkVzVzNubGNySXFPYWlaZzdzR3VzVUNJYllhQWtOSFRKOF9uOGduTHRKcm0xOHgtVkNFajQzZXljc2xkdVp4bnU1d0tLcVRrSzNmTDNGZHBFcU12eHF0M0M3RlgxVEJXd3JBX3E4aFVRYllUTk90VFI4cHNkLVp0NXUzTm5KU0VWUFBOY2daSGhqV1A1dG1LMA?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T21:17:13Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "691743122a1c4f",
    "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
    "summary": "",
@@ -780,6 +790,16 @@
    "date": "2026-11-25T21:09:36Z",
    "score": 14,
    "category": "Macro"
+  },
+  {
+   "id": "7c27ae4579eba1",
+   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGxsS2FQcFJqSzBpWU9Rc2hiVC1VOGhEYTdZMlVmUndCLW9sWGVUQVIyU3dybWZhb2Y3b3RIeW1YUFlwNDFVU1N1SG9rcE1VQUJTQ1NwVlpKVko5NHl3a2xQOElram5remtKT21mc0FkdVRsM3hhUVUwcmhLbFFUeDcyU1Rqc2RSXzBYRS1PdEJJTEtUUXVBWWEweHN6eTdXWUE?oc=5",
+   "source": "Everett Post",
+   "date": "2026-11-25T21:09:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "dce2933132f307",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T20:15:08Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "23a40c45336cfb",
-   "title": "Is Jensen Huang Really Worth $954 Billion to Nvidia?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUVyd2llVG4zZ09TUlU0cElYSXY3NjFHQ0Z0dVFDNUd4R2tUa3R0Y2FiZi02ZHZQMG1LN1doOHA3N2FLZmlIX0VDVlpJWFYtMHI4WEpYbmhxY1JGRWFTTHg4amRiTzB4QmRfR0NKSThvMXJIeEdnUWlNOUxVZlRfR2c0NWZoMEFsTHNVSjRjYVBiU0ttVksyRmIzR0s?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T20:15:01Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4a74530f68705f",
-   "title": "Trump imposes new tariffs as inflation continues to rise",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0oxRkc1TVd1RFBpdVAxTVY5ZzAwVEs1OWczUTlja1BiTnEzclFBOHM1YVo3azVfUXZmdlZoR1Vfb1hqemNQcUM3cTQ1a3FlZjV3eDdZcTQweVlyT0xLVkFfQ2trRFFIRW1yUVJRLXBFRnVubmMxU2NDcHE0SlBWQ1pjdk92NmFlMGZVX2dDcjIyWFJsaUpJQTlSaFN2RC1ERjVRTjl0azVHbUNUMURMRDMyUnZNdGVtRlBDVWRHZXZZUm0wcURBR1ExOTk3RmlRUm53cmZ2Z2I1UDl2ckE?oc=5",
-   "source": "Deseret News",
-   "date": "2026-11-25T20:13:05Z",
-   "score": 8,
-   "category": "Macro"
   }
  ]
 }
