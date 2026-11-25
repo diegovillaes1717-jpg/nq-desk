@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-25T19:23:35Z",
+ "updated_at": "2026-11-25T19:28:25Z",
  "items": [
+  {
+   "id": "e81ce39117f4b2",
+   "title": "US Stocks Pare Losses as Tariffs and Inflation Pressure Markets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jWVdqVVdROHdTTWl4VmFhSnU2VWgybkdRWllDOFhval9OMXJhekdIZDB5WmdpamlSN1BYS19Rd0Y4MFZ4ZnJ6a2hOTS03T2J6eExrWTQ2a0psalBuY2toV3lMMDRtMHJzblZ3WVZn?oc=5",
+   "source": "SuaraGarut.ID",
+   "date": "2026-11-25T19:23:00Z",
+   "score": 9,
+   "category": "Macro"
+  },
+  {
+   "id": "effdbe42672a91",
+   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2o1UU1xWnBFRjNxdkl0ZTVJWWtWT0VPNWlmd0FwVlItZzJVRWRvcFRDYkFsZndKV0EyeWZzaUpJeHk5Z3c2V2lrR3N4OVd3RS1PdHhsMnFhdk50WWswSW9Qak1OdXE2QWFVWmZEdG5oVlFkdVdnY29IRVREYkcwby14akdJaFd3TnBFWGxyZjlqUGNpZnRJX181c2MxcTVuRXdrME15SE9RVWphclVncVNIRTBzaHloRnFEYjFZZw?oc=5",
+   "source": "StreetInsider",
+   "date": "2026-11-25T19:21:56Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "4fa84f3359a0b7",
+   "title": "Tech stock sell-off persists as AI fears outweigh Huang’s Nvidia return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXdRRE1SWGhNQUlVSXpFYjNmU0NDOWI4NmNjdHJUOGpMUFd2a1o2TlNZVncyN1cwVTFyeUdpTEtWMDg4QkdydDJzeS1wZUduUHowRWdHTjBMUV9sZW4xVE9OLVFjUk42Q3dhNGdqeFVySFRWZFhFbWhXQWU4SUI2YURFcGpJMmVOWE0wb1RJaUR2YkFVZWNWZVBrZTlmVHM0WnVWM2xVOWZ1VTN3a2t1aDdhdFpZT1RfN05EaXVKNUs?oc=5",
+   "source": "KQ2",
+   "date": "2026-11-25T19:21:39Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "da7ce3bd7b9769",
    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -42,13 +72,13 @@
    "category": "Macro"
   },
   {
-   "id": "1ade0a17e178e9",
-   "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers By Investing.com",
+   "id": "e3807e71ce1ba7",
+   "title": "Michael Burry Loads Up on 3 Chinese Stocks; Sticks to Nvidia Bearish Bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclVOZjdVc2JNTGZ3TF9pbGZtR3NEMjZJSHZnNlZzU3psYTEySThPbWhfeGQ3NmJKeWlpT1RzZ1FoRnhkWXYzM3hlSnl3OEh2MFNBU0dhUFpVR09FVmYwZU9PM0h0aEZZaDdZNW1rWElCbk80MmZCaWlmS3BBWG43WDNzaFl0eUx2RVJldnFQVHQ3UHhZZG1MRTdPbEVRQ3E5SVNTNlVvVUMxbzZjYjJCbHE3X2RnNElCN0REZm1LeVI1TWM2?oc=5",
-   "source": "Investing.com India",
-   "date": "2026-11-25T19:07:30Z",
-   "score": 6,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUNHTm9Qakozcnczd2hxR21qUFRnYjBORTFjY09lblpNQnVSQ29kTFBDSFMzM1RiVUFFWTVrd2d4V05UMW1TTTJxSVlVYmxOOWczSHlQNDU0X09JVGxzVGdSeU05NDBKSERpc21IejNneXdieXZwTDZSdVhYdkxDb2NSSVFYMGtWZ0hNWksybjdkVVl1TkdLaFN3?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T19:13:45Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -57,8 +87,18 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
    "source": "Breaking News, Latest News and Videos",
-   "date": "2026-11-25T19:07:30Z",
+   "date": "2026-11-25T19:10:41Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1ade0a17e178e9",
+   "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers By Investing.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclVOZjdVc2JNTGZ3TF9pbGZtR3NEMjZJSHZnNlZzU3psYTEySThPbWhfeGQ3NmJKeWlpT1RzZ1FoRnhkWXYzM3hlSnl3OEh2MFNBU0dhUFpVR09FVmYwZU9PM0h0aEZZaDdZNW1rWElCbk80MmZCaWlmS3BBWG43WDNzaFl0eUx2RVJldnFQVHQ3UHhZZG1MRTdPbEVRQ3E5SVNTNlVvVUMxbzZjYjJCbHE3X2RnNElCN0REZm1LeVI1TWM2?oc=5",
+   "source": "Investing.com India",
+   "date": "2026-11-25T19:07:30Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -98,6 +138,16 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5",
    "source": "Business Insider",
    "date": "2026-11-25T19:03:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "5a416536b42411",
+   "title": "Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGpXUGNVWTZLU2ZRbGtlR1RJSTRQdng2N2hnWW94aS1reGJVRVp1MXpSQUg5Qi1WSE1MYzJJTTZOS0xFRnRMRUhZbklQM2k1SF9mYzRDeXl3emdoVW5IN055NC1RV1liREs0SlFkWXA2Q3M3VlZmc0pnall4SGJXX0Q2V1RIMVRyUGF5YnJ3U3RvOV9pZFhSRzdUUkVFdzBzZkVtX3hR?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T19:02:23Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -482,6 +532,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e3157457a5a365",
+   "title": "GS Finance Nasdaq-100 Auto-Callable Notes Due 2029",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFNDWEs5YnVrR3JXRjk3VC13eW5CMDZCa2VjTHdIVm9tSVVzRm9pNk1icXhzM1NDUEtHOVJTcDY0VWRSSGhDVkcyMUI4dUdxanlzRGdEWGQybTFVcUo0MXJLMUVxby14b09TRjVnT1NLejc2SHA4VXN4d1hveUNRRFd1UEY4ZEJRdko1OTJBWlNrRkE?oc=5",
+   "source": "kalkine.com",
+   "date": "2026-11-25T18:11:24Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "58c0d4a8e4678d",
    "title": "Watch Nasdaq 100 Enters Bear Market",
    "summary": "",
@@ -602,16 +662,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkRuVUJjcEZkZXh4Ny1TeHlnSEJralloRlRGUVpqbTY2cVFGTjlUZVNDS3BLMFdNMTNZNmhQT3FPTFVaZ0d1MEl6NDczRC1DdlRyTm5zSFRocDNvQjdBZGVLdl9CRHpubk5DMlRuRTBSaGpvN3VSaG9QZGdVeDNUWUZkUUgwa1pMMGFPQW02ZzBWSHktbnNpekdlQzBHYTVqMzQ2dHJ6Rm40M1VuaHc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T17:58:57Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "2e1d5195b9ea77",
    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
    "summary": "",
@@ -682,16 +732,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "81c08b91b47b87",
-   "title": "Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVZEZVVpM2pKb2t2dDktNWRNZ2xTXzc5aUN3SjNzM1dRbGRHUkZoYjFJY2hRaGZCd1dsNGNXckIxOWg1el9oZnhVVjRNSlpwcjJFLTQxSzZqSFZ1bVZGczJWR2RTT1BUU3BLenB0amhsQWFqRlJWNlNTdkR0dGRlcmNzWDg0R19lMDVwQ2lUdVF5YTQ0SnZKWElqbGwwa3VIemV3WDhVWEpiQQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T17:51:32Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e7f919ba69d3fa",
    "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
    "summary": "",
@@ -740,6 +780,16 @@
    "date": "2026-11-25T17:44:57Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "81c08b91b47b87",
+   "title": "Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVZEZVVpM2pKb2t2dDktNWRNZ2xTXzc5aUN3SjNzM1dRbGRHUkZoYjFJY2hRaGZCd1dsNGNXckIxOWg1el9oZnhVVjRNSlpwcjJFLTQxSzZqSFZ1bVZGczJWR2RTT1BUU3BLenB0amhsQWFqRlJWNlNTdkR0dGRlcmNzWDg0R19lMDVwQ2lUdVF5YTQ0SnZKWElqbGwwa3VIemV3WDhVWEpiQQ?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-25T17:44:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "fcebaf5dfd085a",
@@ -1065,7 +1115,7 @@
    "id": "f92e8e81f0e17f",
    "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQejE3UnloTXVKYllqT3RoLWhiX1N6QXJTb2RZSlFFVTBQUllfbHV6dFBtdTZxdE1jWUJJT0pBYkZhWmtqeVlyTGpiRHVYenZIbmw5eWhmYUxMVGs3ZURhU1J2dHlyNVB2eC1CZWF2QTg4QkwtQVZYbG1ZMm5tYUZmYk9iX2lXeDMtLXg0X2QxUlJHamtsNUd0WWRRWEIzbWFLalJLWE8zS0txd2g4WU1Qd3NxM3p3dFp4M3l4WlFNSHQzV3d0NU1HVkQ0RjhaWjB2Sl9zQWV5V1kzUWxJSmc3Rlh3RDdlUmpkMHREWE1BUVZqTVRwWDJTUzl30gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
    "source": "Hindustan Times",
    "date": "2026-11-25T17:04:17Z",
    "score": 13,
@@ -1150,56 +1200,6 @@
    "date": "2026-11-25T16:59:00Z",
    "score": 6.5,
    "category": "Macro"
-  },
-  {
-   "id": "08fb93f8225b20",
-   "title": "US STOCKS-Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVFVpWllHRW9HbXpCUGVrLUdXNWtCUW1iNlF1dUw1VFFzdVlnR3hRX3NvSnIxaGZSOERQTkp2TWV0bFplOWtMdGNLUE1UVWNMMFRqb0NTY0FLckM5WnNCVkVQMWJRNXdGcDJ0a25sRXZDNF9JSHA4UFJXNUh2YTNDUS1LczBMMjJUVF9sc081UEVRWFdHVWlkTWJ4dnVLSGY1RDV3Vkd4X3M2Vk9GZTZ2aFlrbEZIdEhHLTlOWkMxUTB2T3BCRDducUVIa2w3X0nSAdQBQVVfeXFMT3JfU1p1UVJRYkpaZ1BEaFh3RzFzUVVxR1FXaHFCdjZEUnpMNjdHNDUzcjY4T2t0VU0zcGEtYlM0d2I5bGdHREtOLTlWdXdycUNoZDA2bE80dFRTeUFwdkhvZUN4UkpkczhsTk9yVUtxdjVZOVZCZXZEUnJRa2RGd2k5UHQzSnF3UWxPalNESG9zdkNvSjY0WHg0a2pickZna056SWFidWtxcWVmWXRaV3lmYUhMb0dBWjI3bEJ3S0Q1SDZlQUU0eVlVcThDaVRNczBrYmg?oc=5",
-   "source": "Devdiscourse",
-   "date": "2026-11-25T16:58:05Z",
-   "score": 13,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "996c43246b4f58",
-   "title": "New US tariffs and a drop in the Nasdaq: European stocks in the red",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUk4UHRrZXp6Q3llU082bWhtZ291Tk1pOEtyOEstQXVtTUlkQ0IxcjB5NnNOeUZqTkNCZWRtVjc2XzRCclkxb3hGVFBtbmhOcFdkNUdZSHBpN0V1cUxtSUhfdGl4cDVyeV9MUWkzLS1LQTNFdXVDYTJhb21hSkVqa3IyX016elQ3SEFTYzltcTFSRll6aU95MWxVeW9HYm9tcVNYNlA3VEPSAbABQVVfeXFMUGdTY1NOdXpZODVSRDRSdS1PVU9BMTRsQmx5ZHFDREdhWFc3WFJHSnpYUDJ2SW54NVFSblpGcXFnN2JDQjlQT3J4YkdpOG4wMS1aMFRXT3R6cWUzTzRjbFdfdWZRd1NWYi01VW1lMVhCTkw0VktZdXZRdEVqRDhtaW5yX184WlNkLWpEUzA1dVY2aFVQY21nNGlfOVh1bXJUNnNUSEU4SHRSeUswak8zZUg?oc=5",
-   "source": "L'Unione Sarda",
-   "date": "2026-11-25T16:57:02Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a22fcc1348f7cb",
-   "title": "Nasdaq falls 4% as AI stock sell-off and US tariff fears hit Wall Street",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOHdhWHdvLVV1M205Z2diSHpYRFcybXkzZEtYaVMyaTBnUmhaTWg5T3djY1p2WXhTUFMtejZWajZFcGpScDEwRUotMkVzOUJ3cl9CNlpMVDI3QUFwZTN0dU5XWC1ucnozMlVoNUdfZm5fc3RjMHZOSlhSMDNFcDFfNkJzNmk5TkZiTkVVOW95MFNyeE5uNVhjZTJIa29lMHNkN0xoR044ZXZna0JubThqalcxVllaeUkyWXhnLU9QMmxpaUJEdDNpLTctblF2djdWZ1dMNFhEUlJ5SmxyVEHSAeQBQVVfeXFMUFRGQmpqNGZubWtRa2lBV1ZBU3JtZjBIMjNTLVFfWEsxbXE5dms0Rkc0Z3JJUXItWTZjOUkxcnE3RjU2bHVOalVxWmpBb3FwdEM0MWd6YjNpclhuYzl0VzlwX09mOFJ2ei04LXZja2Z3ZXBjb25fNDNMN01VNkY0dGFlSG1wbzFnZVhMMGZ5UmV5Z2lHb0ttTjRuVzdFY250azRXb3U1THFCdVBrbkRZNGs3dEdLbVFSNDlOYnVxWEJxdGxDVVJVY1o2eXppaFFoc2traWwwRnQ3alJ1TVg5ODdicEE2?oc=5",
-   "source": "BusinessLine",
-   "date": "2026-11-25T16:56:49Z",
-   "score": 14,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3f517df645dd56",
-   "title": "Nasdaq 100 Faces Bear Market Fears Amid AI Investment Concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTExSmJrTkJIT2J2NEtNUFljS09FdXM4OEJ0NUhjNU1tLVlsTFBLU3h6Zmo5S0NzMUstRHZfZFNaNkw4UVpGNFVuRWRnX1F0bkVpNFpWR1U5ZG03UUR1WnN5bWYzU2Vuc3hXRmlCbXBNczc4STJWMTBBMXJRZDJaVWl4QndGVWZTY2tBRURFNFF0a1RTa2xzbEtWalZiYTRjdmNB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-25T16:54:11Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e806f3acc58f4e",
-   "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTRKS2cyd00wMi1QWGRfYlVWbXNjNHc3SHVRT0VUSVRxWVdTQXdGOVJjeFdoZ2l4aXlVcmhNc1Jxd0drclk4eEN1SnpQQkNreVRHTTlVc2NXU1RXcUxsRjcyTnVacjhzZzJHcGxaaFB1MUFvWHA3YnpWcWVsbzdBOU1KWHBSX0pXcTJ2aUkzOWpCTVlwdnkwbUJhR3V5cmJP?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T16:53:59Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }

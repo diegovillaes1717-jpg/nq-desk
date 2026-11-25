@@ -45,57 +45,57 @@
    "tries": 0
   },
   "2026-11-02": {
-   "sig": "bca0162f3f6283",
-   "generated_at": "2026-11-25T19:12:59Z",
-   "resumen": "Esta semana el mercado se centra en los datos de empleo de Estados Unidos y la confianza de los consumidores. Al haber pasado ya la semana, los datos publicados muestran cómo ha reaccionado la economía, guiando los movimientos del Nasdaq 100.",
+   "sig": "a6db7a89a42564",
+   "generated_at": "2026-11-25T19:28:25Z",
+   "resumen": "Dado que nos encontramos en un momento posterior a la semana analizada (noviembre de 2026), los datos muestran una serie de publicaciones de empleo y confianza de los consumidores ya cerradas. Estas cifras pintan el panorama económico general que el mercado del Nasdaq 100 evaluó en su momento para tomar dirección.",
    "items": [
     {
      "id": "ea15ec8b58817d",
      "estado": "Pendiente",
      "resultado": "Pendiente",
-     "explicacion": "Mide las ofertas de empleo disponibles. Si saliera un número mayor al esperado, mostraría una economía fuerte que podría asustar al mercado por posibles subidas de tipos de interés.",
+     "explicacion": "Al no haber datos de previsión ni reales disponibles en la lista para este evento, se mantiene a la espera de futuras referencias.",
      "efecto_nq": "Depende"
     },
     {
      "id": "ee3ce5b6ddeac3",
      "estado": "Publicado",
      "resultado": "Pendiente",
-     "explicacion": "Muestra el empleo privado creado con un dato real de 86K. Como no tenemos previsión con la que comparar, su lectura directa ayuda a medir la salud del mercado laboral.",
-     "efecto_nq": "Neutral"
+     "explicacion": "Se publicaron 86K nuevos empleos privados según el informe de ADP, pero sin una previsión oficial para comparar directamente en esta lista.",
+     "efecto_nq": "Depende"
+    },
+    {
+     "id": "7e843192098986",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Al faltar los datos de previsión y el valor real en el registro, no se puede determinar el impacto exacto en este indicador de confianza.",
+     "efecto_nq": "Depende"
     },
     {
      "id": "3122a0373aa1b8",
      "estado": "Publicado",
      "resultado": "Pendiente",
-     "explicacion": "Mide las nuevas solicitudes de subsidio por desempleo con un dato real de 189K. Unas peticiones bajas indican un mercado laboral resistente.",
-     "efecto_nq": "Neutral"
+     "explicacion": "Se registraron 189K peticiones de desempleo, reflejando cuántas personas solicitaron ayudas estatales en ese momento.",
+     "efecto_nq": "Depende"
     },
     {
      "id": "899c4840c1a423",
      "estado": "Publicado",
      "resultado": "Pendiente",
-     "explicacion": "El informe oficial de empleo muestra la creación de 165K puestos de trabajo (NFP). Es un dato clave para que la Reserva Federal decida el rumbo de los tipos de interés.",
-     "efecto_nq": "Neutral"
+     "explicacion": "El informe principal de empleo mostró la creación de 165K puestos de trabajo (Nóminas no agrícolas o NFP).",
+     "efecto_nq": "Depende"
     },
     {
      "id": "f7b823c2701aab",
      "estado": "Publicado",
      "resultado": "Pendiente",
-     "explicacion": "La tasa de desempleo se sitúa en el 4.1%. Un desempleo controlado suele ser bien recibido por los inversores en tecnología.",
-     "efecto_nq": "Neutral"
+     "explicacion": "La tasa de desempleo oficial se situó en el 4.1% de la población activa.",
+     "efecto_nq": "Depende"
     },
     {
      "id": "2d5ccdf4ddec9e",
      "estado": "Publicado",
      "resultado": "Pendiente",
-     "explicacion": "El índice de confianza del consumidor se sitúa en 51.0 puntos. Refleja el ánimo de los ciudadanos sobre su situación financiera y la economía general.",
-     "efecto_nq": "Neutral"
-    },
-    {
-     "id": "e6e3ebd310f004",
-     "estado": "Pendiente",
-     "resultado": "Pendiente",
-     "explicacion": "Mide lo que los consumidores esperan que suban los precios en el futuro. Si las expectativas de inflación bajan, es muy positivo para el Nasdaq 100 porque aleja el fantasma de tipos altos.",
+     "explicacion": "El indicador preliminar de confianza de los consumidores de la Universidad de Michigan marcó 51.0 puntos.",
      "efecto_nq": "Depende"
     }
    ],
@@ -131,5 +131,5 @@
    "tries": 0
   }
  },
- "updated_at": "2026-11-25T19:23:36Z"
+ "updated_at": "2026-11-25T19:28:25Z"
 }

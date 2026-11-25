@@ -175,8 +175,8 @@
    "actual": "",
    "source": "Forex Factory",
    "type": "Encuestas de consumidores",
-   "_tries": 1,
-   "_tried_at": "2026-11-25T19:06:39Z"
+   "_tries": 2,
+   "_tried_at": "2026-11-25T19:28:12Z"
   },
   {
    "id": "a595931ad4bf4d",
@@ -191,8 +191,8 @@
    "actual": "",
    "source": "Forex Factory",
    "type": "Inflación",
-   "_tries": 1,
-   "_tried_at": "2026-11-25T19:06:39Z"
+   "_tries": 2,
+   "_tried_at": "2026-11-25T19:28:12Z"
   },
   {
    "id": "6c11b2f5e02d6c",
@@ -207,8 +207,8 @@
    "actual": "",
    "source": "Forex Factory",
    "type": "Inflación",
-   "_tries": 1,
-   "_tried_at": "2026-11-25T19:06:39Z"
+   "_tries": 2,
+   "_tried_at": "2026-11-25T19:28:12Z"
   },
   {
    "id": "240f620a9d1be6",
