@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T21:46:23Z",
+ "updated_at": "2026-11-25T21:51:16Z",
  "items": [
   {
    "id": "e8d6d2a89144f0",
@@ -172,16 +172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1c5fc6e333af37",
-   "title": "Has the Nasdaq 100 Bottomed? Burry Clears Index Puts as 12 Historical Rebounds Offer Clues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0trU1VCRGpJUFlDeWpXRUpINWJaQThpbm9pUjBnMHdKNVVxek1ZVEJORnRfT09xVGtqUGFtSU15eHd6VURlLTZGTzA4aFlFYmg2QVdfR056ZjNiblBESC05UmNJaVc4Qnk1UXBUQ2tmWWZmcnQxWXR0Xy02T2NMcEhEU095dF9QSVd5dUR2YVVwU1RaM05ZZ2g2NktFRktDUHNhTVR3ZmN2ZVhnT2huV1MwSDA3a2s3MS1SaHdR?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-25T20:52:44Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "3cfd76b4dafa65",
    "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
    "summary": "",
@@ -210,6 +200,16 @@
    "date": "2026-11-25T20:49:15Z",
    "score": 14,
    "category": "Macro"
+  },
+  {
+   "id": "1c5fc6e333af37",
+   "title": "Has the Nasdaq 100 Bottomed? Burry Clears Index Puts as 12 Historical Rebounds Offer Clues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa3FtZHE3ekVmMU12djV3eno3ekdpM2VrZ2dUTWFjVi10ZTBiWXE3bWhocFNMQ3VWTEJCTXV1dWY3OW0xaVlfYmNpUFR0LVdJeUVjUVRWcTVtNlZlRTNfbWI0QVhOWVRBNWpnWk5YQzRLYm1VYVpfTVRNSTZxSTd1bGVMUHI3eUlqbnA4SXhDclRzYTlDSHVxd0hKN1V3ZkxqNWVfdmw5WW9JelRkQ0VDbDlleUtJUmctNFVnRzlwcHdmWTFqeTZ0WVdTNm8yQ3BZVTJSOUZUc3ExN3pqYTQ2MXRsWng?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "date": "2026-11-25T20:48:48Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "3e1ee2dc79a128",
@@ -260,16 +260,6 @@
    "date": "2026-11-25T20:38:42Z",
    "score": 11,
    "category": "Macro"
-  },
-  {
-   "id": "663a0fc223d2c8",
-   "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU3JGdnMxWXVwUVRieUVGMzFCVDdHM3NieHdIcnV4Y0t3MnpPMmpoMlpaOHM3UlliSkhFYVQ0dU95WVRna3hXYl81UHZsNC1QNklPdFB4cjRmREgtakxYTzgtXzB0YXVmZFdLWHNwdFJ4VzFBa3BoaF9YakZkbWZoTmszTy14Uk1CaWNOSUdLWHBsNElXeGxSS0pQN3JjYVN3UHZTbEN4cGg3bmtuT3Jab3ZRcGZoMmxDSTBwWTFYUFZ6dWxvRXY5cER1THZ6a3pCOE5QbEJHOEc2TUFVdVJueEU2ekZ4YXFBdVQwX2hhV2hqS2tPSzBiU1FIOHZhTUZnVXE2OXRB?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-25T20:38:29Z",
-   "score": 10,
-   "category": "Fed y tipos"
   },
   {
    "id": "e9af5d5d55bf81",
@@ -382,6 +372,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "e6bf22995ad29d",
+   "title": "US inflation hits 3.8 per cent, so will interest rates rise again?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhHU09qa1JVbzhBY2JsT2VYS2pYZm5PdVB0d0FXdW81VEZLaXVyVmJnQnREa1IxandUaUdCTTY2b1BnT01MNGxSdGtwbUlfUXRDZDJoNmR5TGUxcVZaeG5NSWZpckV6b3VibHdGMW8tZTRhaFk2LUdoV1k1V3VUclZn?oc=5",
+   "source": "India Weekly",
+   "date": "2026-11-25T20:17:51Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "3c2bea294ee13d",
    "title": "Fed survey finds continued US growth and sticky inflation",
    "summary": "",
@@ -389,16 +389,6 @@
    "source": "Mezha.net",
    "date": "2026-11-25T20:17:49Z",
    "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "9d09185dbf1c54",
-   "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T20:17:01Z",
-   "score": 3,
    "category": "Fed y tipos"
   },
   {
@@ -592,6 +582,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f741b6c643058e",
+   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSk9NaVVvblBodW84ZXNUNE9pb2w3VkRiOUJkNTVtNGU4T1ZrU2FuMEVzazczaS1KWThLTUxzYll2cVBEWWNoaGZmcWVsTE5GRWVUR3lWa21HcFJjeGs2bzhKWGtDUU9GMnVJZkNrZjBpTlZ5dnNXTTdiY1ZnTjV6WFA1N01lT3A5ekNvVENib2psdjdXcnNHZmFyaWMwM0VWV2pjVlpwdVVnbjBwZnNLM0djeW05RHAxb0RXS1B6UFFxOU0?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-25T19:49:21Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f6981370bbec54",
    "title": "US stocks tumble as AI rout and Trump tariffs rattle markets - ABC News & Headlines – Australian Broadcasting Corporation",
    "summary": "",
@@ -640,16 +640,6 @@
    "date": "2026-11-25T19:38:40Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "f741b6c643058e",
-   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUNhS3F6d3VXVW9ZMXdhQlhRMTViSEZaMmVLUl9VaVIyb2NPVVA2dzgwN0k5YlhiZTlna25lZk5wSF9rR3dGaDE3Q2liWWo4TEhyelp4UkhnM3hEMXJmV0xZLWxVMVpmMmlNZm5Cd183N1V6QWJCaklteGk0MEh4Tm03ZzNyU0pDSTdLTlcwVWpVT2VKWmQwOWlVMktPOHFpNnRsbU1MNi1NUkJNQ1lqSjMzZGpDVVpxclVpclZDV1dYTGM?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T19:37:21Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "42022c12b27ca6",
@@ -769,6 +759,16 @@
    "source": "Reuters",
    "date": "2026-11-25T19:19:43Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "663a0fc223d2c8",
+   "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Belleville News-Democrat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CeC00Q3FhbUVva2Rhd0gweXJZNVd2S3RtSmstN05iNmVzLVNpdkpGZTltQmh1ZXFkTGVNeGxTYy1iZmlONk54TmdTYUJsOVNwTktvN0Z4Ull5TEZOb0EwTTNVRzRjQQ?oc=5",
+   "source": "Google News",
+   "date": "2026-11-25T19:19:00Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
