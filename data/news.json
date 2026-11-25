@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T12:53:35Z",
+ "updated_at": "2026-11-25T12:58:20Z",
  "items": [
+  {
+   "id": "10f5a36d99c9c2",
+   "title": "Nasdaq Futures Fall, Watch Anthropic Market Value Barron's Daily 25 November",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnhfb0Nlb0E4X0Vtc1NoSl8taW1KdjJ3dVhyQ1gySmlmX1JJLTg3Ukl6RTZ5REpTY0VxX3h5MmFlU240QllZWG5YVENxMUstajA0bGhfNi1oWnBYZVJZczBZdWdzMlBINjVxUnczNVA4WjNVb0sxSVBzUEl0dlZObQ?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-25T12:52:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "02efb2605a5d1a",
+   "title": "Trump's portfolio had 44 Nvidia stock trades in 2026; he said CEO's return isn't a bad idea",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUm9SYkcydFY4dlVXa08xX3ozSUwxdWEta0NRUDBpNmI2OTN2TFdQQUpkUmsyMGRVSmV5Q0xNcENHTHZ3NHBnOW95Z0RsMU83THhROFhmWmxmMTU0c2tSYXZBNTg5S3dVd28xUWRRLURZeThBeFRpRnhR?oc=5",
+   "source": "Quartz",
+   "date": "2026-11-25T12:51:33Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c15f95c298a1cf",
    "title": "Trump's portfolio had 44 Nvidia stock trades in 2026, analysis shows",
@@ -32,6 +52,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "636a83a31903d4",
+   "title": "Stock Market Update: S&P 500, Nasdaq 100, Dow Futures Slip Ahead of Key Inflation Report",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1I2c2xZUUNBRDVkaEpFUUZqYjV1QVVJYnBuY043a0RRU25sWDNwVDRjMUJmMDhyYzMyd0laSUd0ZnBHbWlUN1NWLVI5OVZBZ2lNSnlmMzRqNngxNTF4VTRrLTU4elF2LWkwQi1QaGJZa082SGJkaXpYVU52dUNXdDMtdkpmYWh2UklQZ2d4V1BsRm5RbTBEVWNGQkZSOFMtdjEwZ1Z4TmtIMmNnVEFoZkxWN3lTVkxvSGptalFn?oc=5",
+   "source": "CoinCodex",
+   "date": "2026-11-25T12:46:00Z",
+   "score": 10,
+   "category": "Macro"
+  },
+  {
    "id": "c918b4b159d402",
    "title": "Trump's New Tariffs Threaten US Farmers as Trade Losses and Production Costs Mount",
    "summary": "",
@@ -40,6 +70,16 @@
    "date": "2026-11-25T12:45:00Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "fea26226cdef4c",
+   "title": "Why Does Currency Hedging Alter Tech-Heavy Returns in the Betashares Nasdaq 100 ETF – Currency Hedged (ASX:HNDQ)?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM1VoblQ4UGQzYzNjaG1zZFZRZmMtcmpGVEZQSG85YldpZ2c1ZUtFRWlwLWtGdUdzYzk2aGc4NmxNbUJmcElXVUpHZDYyb3htc3ctYXNGNmROOU5IQ2dFaS1lQWFidEpueDVHajc4aEpGckdRX1VLQi1hRDg1bks3NXFoTHZ2V1YtQzVaSmtPbmRiZmM5TXJvbDRWMW50YmR6WjZHdFlDSE5nSUxIMlZKWmpYVml2RzZsSkZwSzdDaEtwa0xJWlVoSzFZcVdwTHZkTTZMUzktZU1lbEo1T043OVBoYlBIdGR5?oc=5",
+   "source": "Kalkine",
+   "date": "2026-11-25T12:44:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "012c5da0de20a6",
@@ -133,7 +173,7 @@
   },
   {
    "id": "d84708b1ac5704",
-   "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+   "title": "This strategist’s bond-trading model is outperforming by a wide margin. A Fed that’s slowing the economy is a good thing, he says.",
    "summary": "Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
    "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
    "source": "MarketWatch",
@@ -206,7 +246,7 @@
    "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2s0ak5QRUUzVDBKTzB4angtVVVGbHZXWERKeXFiaXZYTHA5ZGdYa09ZbkdrT1dBN1pJejkyaGdINE94Q3VRTHp5bk8wTWw3cmM3bnNWZVJwZS1QTU9BVVVYU2xwTW1XNmVRcWpMT2lVZEF6dll1RHFOUEJ2czMyX1dUd2NoLUcyME1rX2pmX0Y4ZXFnN0xEazVrRVlPYnBFSVBteWZ6a3lDUjJ3M29vNi1lcw?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-11-25T12:20:58Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -305,8 +345,8 @@
    "id": "baed49013c127d",
    "title": "PCE preview: Final inflation test before expected Fed rate hike",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlNXTGpiYnVCc0FIalhNa25xNl83Uy11RjBEcVlCX3hFaFlaa2UzdzZ5R3pKRlduZFZmVEV3NDBYZXNvdEZQbi01NjBGV0hQQTFSYzVOWWZJWVJJcS10NWdSRWRYUmJSVGJILVRkVlFVeXY4SVBfOFY5YU5PNHA5OHZHelVkU1hndDF6U0NxSUtfQ04xLWFob1NZczdneEY4czhEaWdMMHd3OWVHaW9vRXdoSEdCZnRqd0xEYnpYUGRJNzg?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0paSGp5blczVUhEQm83VWprOFBELWgxOFhZVlJYb0l3VS1YZExQci1OM2JjdzZZMmJoXzJJeFBYRDd3RE1OZTdZR0xRZGtWcXBTSzRlOGFsWWFTREMydWhwN1pWR1pxUm1aU0hWbkt4YU5WV2dNUVZ1QzdQcDhIeF9IbnRPU25rdWV0bkxnb3E3QVU?oc=5",
+   "source": "Seeking Alpha",
    "date": "2026-11-25T12:03:39Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -795,7 +835,7 @@
    "id": "60a59c6a679b67",
    "title": "Trump intervenes to protect his profits and Nvidia CEO Jensen Huang despite threats to U.S. security",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEFmczVXSThRQm9OcXF4SGp1aWowTTh4b21VXy1sQ0xfelVpQmhEbGhvY0MzRkFqTTc0enR2QW1YbWVYUjlFUjlheFQ2M01EeFduc0NJY0dJVFlLbEVkY0ZmX01LVFFZWEFOdDFtYVJPbkczclFCaW85bFdoRG0xejAyMHBfbGFoVjlsSGg5NHcwMkQ0SFBvb3hXSWVUX0xLM3BFSTAwUXVuU1RPVVZjVU1EU0RfTzVNLU1OOUc2U0ZWdjNwa1VtdG0zN0tUZW53dFBIWXl2Qklydw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVN0Ym9yLWxtNGVndG5MSFUzbzRxNkEtSVpZRXFPTXN3NExvZDJnN3lmNE5OS1N2Y3RUbzhJbTVmMFA2Rnh3R3R2QVZyOFJ1ZmFPVTJ2T0FQYnRGUGdaeFVMQkY2Z1pDWDBXS1RkazZPMGlkeF8zaUI1cklNTmZGODVOSDJQVDdTSDR4Uk51SjJKMEZRLTFQRXZGS0JONHVUUnRQYU96SUJyWHNTRVdTZGRfS2QtcEl5NlhzSVJpUDJFZHgxQWxaazBHRmlPRWV3Z01tM001QVU?oc=5",
    "source": "Milwaukee Independent",
    "date": "2026-11-25T11:00:22Z",
    "score": 4,
@@ -852,16 +892,6 @@
    "category": "Macro"
   },
   {
-   "id": "636a83a31903d4",
-   "title": "Stock Market Update: S&P 500, Nasdaq 100, Dow Futures Slip Ahead of Key Inflation Report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1I2c2xZUUNBRDVkaEpFUUZqYjV1QVVJYnBuY043a0RRU25sWDNwVDRjMUJmMDhyYzMyd0laSUd0ZnBHbWlUN1NWLVI5OVZBZ2lNSnlmMzRqNngxNTF4VTRrLTU4elF2LWkwQi1QaGJZa082SGJkaXpYVU52dUNXdDMtdkpmYWh2UklQZ2d4V1BsRm5RbTBEVWNGQkZSOFMtdjEwZ1Z4TmtIMmNnVEFoZkxWN3lTVkxvSGptalFn?oc=5",
-   "source": "CoinCodex",
-   "date": "2026-11-25T10:55:00Z",
-   "score": 10,
-   "category": "Macro"
-  },
-  {
    "id": "48eda8b426ccdd",
    "title": "Burry Exits Nasdaq-100 Puts, Holds 25% Cash and Sets Sights on Nvidia Short Near $200",
    "summary": "",
@@ -888,6 +918,16 @@
    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNQ1dsUVVqWHhJYXRDazZqcDg4dUczRFJGbjk3M29Rd3RZV2gzNzFDTE9mbUpES0xCZ3Flb0REb01GUHNTdUo4QXZJbXFiRjdzOGhuNDhJbUJNT1lNWFdIMUlUU2dLZUl1VVotZXNZUXFMMFNIeE9NSHQwX1JRYVh4ZkQtREdiVV80S2hidkN2a0F4ak9iWk5obFlQTGZnU3NzUzFmcDRqalVFWlFMaVlTMWxGUU85bDdhR1FUbi1Eb1Jqd0ZpM2dWRlhpUE5rNzdwZllOWU1jM2xxN2djT281ekkxMDhDVjhiV241azZ0N1B2TlI4aTU1NFl3cS1WSXhwMlhyckFYb04xbkh1TkRJcjgxZXlnNXJpWEpfQWZ4NGxvMi1VczF6ZXR0VG95QVJpWjhPV3pqcDRoWHI0MlRPYVA4RzY?oc=5",
    "source": "24/7 Wall St.",
    "date": "2026-11-25T10:52:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "4cadb93738ae4d",
+   "title": "Michael Burry Sells All Nasdaq-100 Puts as Portfolio Turns Almost Entirely Long",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xaFViWDZyOFRTeEJ3UVI2VGVhdzhKUWtfaVJ6R2diaGZZbHpKY3VZODhjZU4zbXFNcXdndmZobW0zNzRyTUhjZlpmSmZGNXcyV0lXYkRnWjF4bk9qX2VfajBBRzA?oc=5",
+   "source": "Binance",
+   "date": "2026-11-25T10:50:03Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1065,7 +1105,7 @@
    "id": "3566dc686c3058",
    "title": "US stocks set for fresh fall as Nvidia, Anthropic slide and AI fears return",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZllqNy1wc0FNWnFMb0hsTnFlb2otQS1TTEJDWG1IQXIyVU80dURWMUtLVkNodkdwWi1xTWxPZzZiVGNlNVNZbmQ5MTFaU0xiN0IxT2JGYU5UM2I1Yms1ZEJES3VsUmdkS2FxdEdFUHBkOW84b253SnhTQmNPVmUyaHFCZkY0cVlUY3VxaklQd29JZjNMeTJjaEdYLWNxR3pSMlROSTFiZXh0cVpKdGJwdUV2MjlrS1NVMk5fakpZcXhIdWpiZEVzWEtjRGExOTVJS1EwNWVCcmpwbW9aZDJoUGdXUFUyTk8wdzBxRjhrcXdwOENKV0paYlJHQUVNMEFNWlpucENSYUNCQdIBigJBVV95cUxPZllqNy1wc0FNWnFMb0hsTnFlb2otQS1TTEJDWG1IQXIyVU80dURWMUtLVkNodkdwWi1xTWxPZzZiVGNlNVNZbmQ5MTFaU0xiN0IxT2JGYU5UM2I1Yms1ZEJES3VsUmdkS2FxdEdFUHBkOW84b253SnhTQmNPVmUyaHFCZkY0cVlUY3VxaklQd29JZjNMeTJjaEdYLWNxR3pSMlROSTFiZXh0cVpKdGJwdUV2MjlrS1NVMk5fakpZcXhIdWpiZEVzWEtjRGExOTVJS1EwNWVCcmpwbW9aZDJoUGdXUFUyTk8wdzBxRjhrcXdwOENKV0paYlJHQUVNMEFNWlpucENSYUNCQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMUlzU1VSclI2aDd6eGhMOTUxM1NVZHczd3FWMkkyZ1FGN0hBbjB5QkEzVXZvUVFSMkxoYjVjd19tN2JBNThlYlpCd3dRR0R4aTZoa2MyQTROeGZlRC1oQ1ZGYzl5c0thWFRIMW9hZm1vT19ld19pcmZvTjUzWmlWWDFDYkJXUkYwLWR6a09ZaENXa2NUME5OSWpCLWFaVHB0Qi1mMFFxc3l4c01MVkRpZjBqZ0d6ZjdUMmNVYUM2cVk0MWRWbUpvS0hUR0tzRkZmQ3VUQkEtOS1IUWhkQnRLMkZMSjJ2MklDQTBhSXJoVUZmRFZON2IyTFFFdGtRb1BYS3Zn0gGKAkFVX3lxTE9mWWo3LXBzQU1acUxvSGxOcWVvai1BLVNMQkNYbUhBcjJVTzR1RFYxS0tWQ2h2R3BaLXFNbE9nNmJUY2U1U1luZDkxMVpTTGI3QjFPYkZhTlQzYjViazVkQkRLdWxSZ2RLYXF0R0VQcGQ5bzhvbndKeFNCY09WZTJocUJmRjRxWVRjdXFqSVB3b0lmM0x5MmNoR1gtY3FHelIyVE5JMWJleHRxWkp0YnB1RXYyOWtLU1UyTl9qSllxeEh1amJkRXNYS2NEYTE5NUlLUTA1ZUJyanBtb1pkMmhQZ1dQVTJOTzB3MHFGOGtxd3A4Q0pXSlpiUkdBRU0wQU1aWm5wQ1JhQ0JB?oc=5",
    "source": "The Financial Express",
    "date": "2026-11-25T10:09:25Z",
    "score": 5,
@@ -1160,46 +1200,6 @@
    "date": "2026-11-25T10:01:43Z",
    "score": 8,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "9320cc6067aba7",
-   "title": "Bill Ackman warns the Fed’s obsession with 2% inflation will plunge the world into recession: ‘Tell me why I am wrong’",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmpveXJaYTZXZ3FBbmdFQmd6Smp4WENDWlZxb0RqOVFUNkdzTHUzbW1XQm5FM1lIQ1k1WDYwVEFLOG02YjF0bEl5QUdBRDF6ZGprTEpJV216Zkg4RDVJZF9oS2pqekZ2ZWZqRC1vV3kta20xYWJNeDZKVVNYZ0VBNF9WeGU0d1REcVZzUjRVdkhKVzJXREZfNjctNA?oc=5",
-   "source": "MoneyWise.com",
-   "date": "2026-11-25T10:00:56Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "b65b2bb2d0657f",
-   "title": "Gold Falls to $3,522.68 as Strong Dollar and Fed Tightening Expectations Pressure Metals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jeHVBOV9xUVo3VVp3QnJKV3ZDNF9YQk84dkk5QjJmZnFhdUFPVFJibmNzUUs0bmwzMk1UMUJMSG00MUVKek5FWUVnRXNncjBHcGFfUjJKNW9YNGtXb0w1aUZyTGRkQkRwTHpVRlF5bnFRa29qMDdz?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-25T10:00:04Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "74892f56b85148",
-   "title": "‘Haven’t we had enough?’ Florida Gov. DeSantis reveals simple plan to lower inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTRYVExYajdwTy1VMW5rLUxnT3F3anZPZDFkLXJnTENfSnZQTkI1N3lCelRiRUpyUmJUQlJtMjNXaXJ0MEZYV2VlVFF6WjllOGJTaUdNcFl6cFMtZjNYUHVrTi12M05FRWdFTFBoR0VReHBnUFZPX1pubGlwSUE0THRYNmdVYkZlRHdoZGFYZjQwV3pocVdfdlpuNUlWODYwTzFJNjZxU3RsNXdmZlVmVG1fUWlydllsck45clloZVVLTTBkM2E1bHlFR0E0dFU?oc=5",
-   "source": "WKMG",
-   "date": "2026-11-25T10:00:01Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "4d9f60be72088b",
-   "title": "Stock Market Today, Nasdaq Falls 1.5% Ahead of PCE Data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUlWQUNMNWpodEtGMmxYVl83Q2dfUlhSQUlfSjZxX29hUmN0X2N0MkZ3bThERzl3TmV3ZE1TWlVTQmN2dHpmdDNBS1Z1QjV6alJaTk1VVmRLLW5XUDNqV3A1czhwc3U4VC1LRC1OMm1wMjJ0SFpwbjJxYXdxRlRGTV9nVVZmSTJleFVOTGp3?oc=5",
-   "source": "Gotrade",
-   "date": "2026-11-25T10:00:00Z",
-   "score": 10,
-   "category": "Macro"
   }
  ]
 }
