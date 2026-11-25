@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T22:43:28Z",
+ "updated_at": "2026-11-25T22:48:11Z",
  "items": [
+  {
+   "id": "c8a0ee9d9df1cc",
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-25T22:45:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "063dc44bb7f241",
    "title": "Inflation heats up before the holidays, putting Fed in pressure cooker",
@@ -142,16 +152,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "b8f6a0750b5a6a",
-   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T22:06:45Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
    "id": "45f94a6ccfd47d",
    "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
    "summary": "",
@@ -260,6 +260,26 @@
    "date": "2026-11-25T21:47:09Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "b8f6a0750b5a6a",
+   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSGtneWgzSmNKTlh1VUJPczN0LUdkak1Db2hCdktyLUhBbkRmVG5kRVV1eURkdFlqazE3MmlkZHZnSFhJWFUyMjFRWDVSU0xCX0R3c1BTMzFPNTFjMVVDeU5CYW1vT29JQS1tN2VJeGlNOVAteWkzNm1oQlA2cXE5OFA4MWV1c2R3d3NWdTFuNklMQjViZUszVm1MMGs2TWZicnpjQnNORmhrTmh5VWJmZVNIUVU0ejZPSEJMM3JRajNQc2VxWFdiZFZqZTFiS0RKaktBYy1xUURwb2o2cEdmSllBQl8xcnRKLW1JeWhhTHdXTUhkVHhfdUhidl84TmZVd0taVkFXQQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T21:46:45Z",
+   "score": 12,
+   "category": "Macro"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aU0toRXhCaW1aNFFrTG5NNFFLRkZkal9VcTB0TWVtNTQtOFY1QnZ4Y19aRHNUSFhpTFRsdWg1d1REdTBJUEJXM1FEZ2JkajRFS0FjbzJVc2V0VEV0SHhYaDlXMjl2QXVsa21J?oc=5",
+   "source": "Daily Freeman",
+   "date": "2026-11-25T21:46:13Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "30de72e88173b4",
@@ -582,16 +602,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "ed7b2dff08cd01",
-   "title": "U.S. plans to hike tariffs on China, EU, Brazil and others over subsidized production",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-11-25T20:46:33Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "b5319adb43c3be",
    "title": "Fed Beige Book shows slight growth, sticky inflation ahead of Dec meeting",
    "summary": "",
@@ -892,6 +902,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e166e6072af6b4",
+   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
+   "source": "The Detroit News",
+   "date": "2026-11-25T20:10:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f295f20177695d",
    "title": "3.3% core PCE reading: Gold slides despite lower US yields",
    "summary": "",
@@ -990,16 +1010,6 @@
    "date": "2026-11-25T19:54:48Z",
    "score": 12,
    "category": "Macro"
-  },
-  {
-   "id": "30cb1cf0507a16",
-   "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T19:54:35Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "2abc95919263e2",
@@ -1189,16 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-25T19:22:15Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3de825344fc202",
-   "title": "Bitcoin slips as Nasdaq surges: Is leverage taking over?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSWJYNTdMVGhZd0ZkdDk2T0lHWVp1UUd0Q213X3NRTlk0bXNqUUZkMXVhMFpFbkFNdjZWY1puYXRLTHVyUjB4SUVYZWVjVkhISW51REVsY2pOYlJSNlpRQVF2TkVQWVVQ?oc=5",
-   "source": "Crypto News",
-   "date": "2026-11-25T19:21:09Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
