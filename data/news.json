@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T21:22:27Z",
+ "updated_at": "2026-11-25T21:27:16Z",
  "items": [
+  {
+   "id": "ca232f8a7ffa3e",
+   "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+   "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+   "link": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+   "source": "CNBC",
+   "date": "2026-11-25T21:26:47Z",
+   "score": 3.0,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "d91818e098c884",
    "title": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs",
@@ -312,16 +322,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "9d09185dbf1c54",
-   "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T20:17:01Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ef1f05e311f1d2",
    "title": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP",
    "summary": "",
@@ -542,6 +542,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "d7bcbf8ac5bf84",
+   "title": "AI rout drags Nasdaq into bear territory",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWhHZUx4QXBpd1c4RUlhUUZsTGc0NFBGQXFhbG8tNnVPSVBVQjNnR0Z3cXotam5GUUwwT1FmU0xrOEVzVEo2a2NOUXFFT0NEZ0dBYkVQcm5tSGRMZWM3T1JSRURqVk9kNHlvTGRiSGhscHphRzJxRUMxa3ZZcFhtazhzZnFDTTBXNmRLUVBiNHZmNDVCTlluNXNKZlhEcXVMSFRKVHRCTzRiSEV4UDNQdnZWZlo2YXZ5VHc?oc=5",
+   "source": "Capital Brief",
+   "date": "2026-11-25T19:42:36Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "ed10f3d1f0d70b",
    "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
    "summary": "",
@@ -740,16 +750,6 @@
    "date": "2026-11-25T19:13:45Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "ca232f8a7ffa3e",
-   "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-   "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
-   "link": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-   "source": "CNBC",
-   "date": "2026-11-25T19:12:45Z",
-   "score": 3.0,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "7c27ae4579eba1",
