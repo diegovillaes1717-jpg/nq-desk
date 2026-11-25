@@ -285,45 +285,53 @@
   }
  ],
  "summary": {
-  "resumen": "A pesar de que Nvidia superó estimaciones en su último informe, la incertidumbre directiva y los riesgos macroeconómicos han provocado fuertes caídas en el mercado. El Nasdaq ha reaccionado a la baja con desconfianza ante los problemas de gobernanza y las decepciones previas en gigantes como Alphabet y Meta.",
+  "resumen": "Los últimos resultados de Nvidia superaron las expectativas con un fuerte crecimiento, aunque la incertidumbre por la salida de su CEO generó caídas y volatilidad en el mercado. El Nasdaq ha reaccionado a la baja arrastrado por estas dudas a pesar de los sólidos beneficios tecnológicos.",
   "puntos": [
+   {
+    "fecha": "24 nov",
+    "empresa": "Nvidia",
+    "titulo": "Nvidia busca nuevos hitos",
+    "resumen": "Se analiza la velocidad con la que la acción podría alcanzar los $200 tras el regreso de Jensen Huang como CEO, intentando calmar la reciente volatilidad.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
    {
     "fecha": "22 nov",
     "empresa": "Nvidia",
-    "titulo": "Fuerte desplome y ajuste de valoración",
-    "resumen": "La acción acumula un desplome del 48% cotizando a 15 veces beneficios, su nivel más barato en más de una década.",
+    "titulo": "Fuerte corrección en la acción",
+    "resumen": "La acción acumula un desplome del 48% cotizando a múltiplos mínimos de una década, abaratándose frente a Microsoft y Broadcom.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
     "fecha": "20 nov",
     "empresa": "Nvidia",
-    "titulo": "Caída del 14% y mínimos en los mercados",
-    "resumen": "La cotización cayó un 14% en su peor racha semanal desde 2008, arrastrando al mercado a nuevos mínimos pese al batir de resultados.",
+    "titulo": "Pleno desplome bursátil",
+    "resumen": "El valor se hunde un 14% cerrando su peor racha semanal desde 2008, arrastrando al conjunto de la bolsa a nuevos mínimos.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
     "fecha": "19 nov",
     "empresa": "Nvidia",
-    "titulo": "Sin impulso para el sector semiconductor",
-    "resumen": "El superar estimaciones de beneficio no fue suficiente para impulsar al sector de chips debido a los riesgos macroeconómicos.",
+    "titulo": "Acciones a la baja por la incertidumbre",
+    "resumen": "Los inversores muestran cautela ante el estreno de Nvidia en esta nueva etapa y la atención puesta en la salida a bolsa de Anthropic.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
     "fecha": "18 nov",
     "empresa": "Nvidia",
-    "titulo": "BPA supera estimaciones entre dudas directivas",
-    "resumen": "Reportó un BPA de 2.68 frente a los 2.47 estimados (+8.4%), pero la marcha del CEO Jensen Huang y la investigación de la SEC pesaron sobre la acción.",
+    "titulo": "Resultados sólidos pero con dudas",
+    "resumen": "Nvidia presentó un sólido beneficio por acción de 2.68 superando lo estimado, pero la salida de Jensen Huang y los riesgos de China nublaron el optimismo.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes comenzarán en diciembre con Adobe y Broadcom el 9 de diciembre, Costco el 10 de diciembre y Micron el 17 de diciembre.",
-  "que_vigilar": "Habrá que vigilar la evolución del liderazgo en Nvidia y si los resultados de Broadcom y Micron logran estabilizar al sector de semiconductores.",
-  "sig": "0d6fbe85112341",
-  "generated_at": "2026-11-25T14:59:44Z"
+  "proximos": "Los próximos resultados importantes llegarán con Adobe y Broadcom el 9 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la estabilidad del sector de IA, la evolución de los títulos tecnológicos tras las caídas y la resolución de las dudas de liderazgo en Nvidia.",
+  "sig": "09deb7a13ed455",
+  "generated_at": "2026-11-25T18:10:00Z"
  },
  "updated_at": "2026-11-25T15:28:29Z"
 }

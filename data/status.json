@@ -7,23 +7,23 @@
   },
   "mercados": {
    "ok": true,
-   "at": "2026-11-25T18:03:07Z",
+   "at": "2026-11-25T18:09:51Z",
    "errors": 0
   },
   "noticias": {
    "ok": true,
-   "at": "2026-11-25T18:03:10Z",
+   "at": "2026-11-25T18:09:55Z",
    "items": 120,
    "feed_errors": 1
   },
   "fed": {
    "ok": true,
-   "at": "2026-11-25T18:03:10Z",
+   "at": "2026-11-25T18:09:55Z",
    "items": 45
   },
   "trump": {
    "ok": true,
-   "at": "2026-11-25T18:03:11Z",
+   "at": "2026-11-25T18:09:55Z",
    "new": 0
   },
   "resultados": {
@@ -32,14 +32,13 @@
    "items": 16
   },
   "resultados_ia": {
-   "ok": false,
-   "at": "2026-11-25T18:05:12Z",
-   "error": "Gemini: The read operation timed out",
-   "last_ok": null
+   "ok": true,
+   "at": "2026-11-25T18:10:00Z",
+   "model": "gemini-3.5-flash-lite"
   }
  },
  "gemini_model": "gemini-3.5-flash-lite",
- "updated_at": "2026-11-25T18:05:12Z",
+ "updated_at": "2026-11-25T18:10:00Z",
  "demo": false,
  "gemini": true,
  "finnhub": false

@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T18:03:10Z",
+ "updated_at": "2026-11-25T18:09:55Z",
  "items": [
+  {
+   "id": "8b3d0e222ac2f2",
+   "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+   "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
+   "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+   "source": "CNBC",
+   "date": "2026-11-25T18:08:08Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
   {
    "id": "4b36655822feee",
    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -19,6 +29,16 @@
    "source": "WLUK",
    "date": "2026-11-25T17:57:38Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "39fc353e076dd1",
+   "title": "Nasdaq 100 Drops 2.5% on AI Credit Fears, Nvidia Sinks 7%: Stock Market Today",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0x2RXFpWTUwd3pGNG1yNHFad3QxVy1tYzkwWXFSdUsyVGRLYVBidTZCSENObDVzNV9IWklqSTM0QVhxdUg5eHpmYWJQVGY1NWFvYy0yaC12aEFYc3pfTHZoR1FGOWRjb25ESmNPejJ6UVE1bXplU0hmbENuOGZWVHNJR0JOcEdRbzFNVWNMRk1rNDJnSllDS0huV1Rzb3IyQ2I4YWlwOEJJU2FFQWUxeXdZNWc5amFwU19tdkxzcEk1dW9PS0tV?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-25T17:57:14Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -442,16 +462,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjFKVU92YjgtRlZKS1BWWTFDYWthODExQ0VMLXJ0OHY5T2tzamlmemN0akZCS0RKaGR4MGRlamtQbzFzUUsxWURPRHVqZWMtd3VnOHFldzdPYnVEcVNNZDBJLTIxMHFlOUE2ZjAza2UxZkFmbG55N04wSS1hR1JUcWNyNXVaaGFkUUFNc0JRekpqZTUzR0JWMzJwdmxKMmVWS3JXeQ?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T16:56:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "3f517df645dd56",
    "title": "Nasdaq 100 Faces Bear Market Fears Amid AI Investment Concerns",
    "summary": "",
@@ -469,16 +479,6 @@
    "source": "Benzinga",
    "date": "2026-11-25T16:53:59Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "55e8d530d877b2",
-   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUdQVlFQRFM5QzNPOHdEWGdnRFgzSFQ1YUtLMW5FWVhRbkJoTWZRdnptNmtzc1hNOWlueFYyNHVHQS13cTd0U0V6bkVHR05EcjYyU3cwb2dSMVJsTzV3ZG1FREZuUFJFbEVkZTNRQVZmcEhaekxpTEVvSHJmbjlrRW0xR1pnU1BqV2ZEWU1rek5BcTFBWGl1elhNN2hGZWI4c3d3cmtkekItcVphYnZ0dWVhdEE5ZDZGOW96ZHNpUlRtZjdkcS1NSXgxdDFZaFI0c2luZTBlTlBXNW56QkFST1dwczJFeWRMbmFvM29SZzl4ejR2Q2Zocnln?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-25T16:52:13Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -802,16 +802,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8b3d0e222ac2f2",
-   "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-   "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
-   "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-   "source": "CNBC",
-   "date": "2026-11-25T16:20:57Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "e2ac26fb9522af",
    "title": "Zacks.com featured highlights include NVIDIA, Arrow Electronics, Super Micro Computer, BP and Ingram Micro",
    "summary": "",
@@ -890,16 +880,6 @@
    "date": "2026-11-25T16:07:13Z",
    "score": 6,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T16:06:57Z",
-   "score": 8,
-   "category": "Tecnológicas"
   },
   {
    "id": "5fcc1f8fc29c3b",
@@ -1200,6 +1180,26 @@
    "date": "2026-11-25T15:38:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "141dc684988feb",
+   "title": "Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnBrSnhaQ1QxUUdqN3lZSlNnVkRUUklZeXhMbHBtMEZsZE10bmxwYmNOOTl1UFJUR1gxSVFjaVJ0ODZ2TXRleFlGVzRVMFI5Q2V6cHdScmRmZWxmajNHaHVVeEFYZGhZREpkVFNUdXV3M0kwRzFJaFE1YktHdEU2SHlYY1ZtV1JRNXZqQlloZFlsREN0NUNSZQ?oc=5",
+   "source": "The Defiant",
+   "date": "2026-11-25T15:33:58Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d7ddb07310c7c0",
+   "title": "TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkNJOWM0ZGE1aE8xQ3ZycVR6ZXVFeGtTMExncGtSMFJEbXdxbzBYTjdaZWhSbmlDa1NpWUtSVEUxSFJUbE1GREh0Q1FOa0loLWpGQzVESHR3YzdLU29BajBDc3BmRDU0dG5OVjYyMzlTNm1nOFVTeFVRZEZMclVQTnlCb1RTN1FRSENneU9FWUFKOUMwUnlfT002a0otOWYzdnREWm1PaXB4cXZpNEFaT2Vvd3VaUlE?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-25T15:33:57Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   }
  ]
 }
