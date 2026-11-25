@@ -1451,9 +1451,22 @@ def update_periodico(calendar, markets, news, trump, fed):
 VAL_RE = re.compile(r"^[<>]?-?\$?\d[\d.,]*\s?(%|K|M|B|T|pb|bps)?$", re.I)
 
 
-def clean_val(v):
+def clean_val(v, title_en=""):
     v = str(v or "").strip().replace(" ", "")
-    return v if v and len(v) <= 12 and VAL_RE.match(v) else ""
+    m = re.fullmatch(r"(-?)(\d{1,3}(?:,\d{3})+|\d{4,})", v)
+    if m:  # 203,000 -> 203K
+        n = int(m.group(2).replace(",", ""))
+        v = f"{m.group(1)}{round(n / 1000)}K" if n < 1_000_000 else f"{m.group(1)}{round(n / 1e6, 2)}M"
+    if not (v and len(v) <= 12 and VAL_RE.match(v)):
+        return ""
+    # control de cordura: un dato mensual/trimestral en % rara vez supera el 2,5 %
+    if re.search(r"m/m|q/q", title_en) and v.endswith("%") and "GDP" not in title_en:
+        try:
+            if abs(float(v.rstrip("%").replace(",", "."))) > 2.5:
+                return ""
+        except ValueError:
+            return ""
+    return v
 
 
 SEARCH_TERMS = [
@@ -1491,7 +1504,7 @@ ACTUALS_PROMPT = """You extract the ACTUAL released values of United States econ
 For each release below you get its forecast/previous and recent headlines. If the headlines clearly state the
 released value, return it in the same format/units as the forecast (for example "0.3%", "228K", "92.4").
 Be careful: month-over-month (m/m) vs year-over-year (y/y), and core vs headline, are different numbers.
-If the value is not clearly stated, return "". Never guess.
+If the value is not clearly stated for THIS release date, return "". Never guess.
 Return ONLY JSON: {{"items": [{{"id": "...", "actual": "..."}}]}}
 
 {blocks}
@@ -1505,7 +1518,9 @@ UoM Consumer Sentiment, UoM Inflation Expectations) and speeches (Fed Chair, FOM
 Use the exact Forex Factory English event names and their usual release time in New York time (ET), for example 08:30 for CPI,
 PPI, payrolls and jobless claims, 10:00 for consumer confidence, consumer sentiment and JOLTS, 14:00 for FOMC.
 Include actual, forecast and previous values only if the headlines state them; otherwise "". Only include an event if a headline
-shows it was released that week. Never invent events or values.
+shows it was released between that Monday and Friday: each headline starts with its publication date (dd/mm), and a headline
+published early in the week about the previous Friday's data belongs to the PREVIOUS week, so exclude it. Do not confuse
+month-over-month (m/m) with year-over-year (y/y) values. Never invent events or values.
 Return ONLY JSON: {{"items": [{{"title": "CPI m/m", "datetime_et": "2026-11-12T08:30", "impact": "High", "actual": "0.3%", "forecast": "0.2%", "previous": "0.4%"}}]}}
 
 HEADLINES:
@@ -1549,7 +1564,7 @@ def calendar_ai():
             got = 0
             for it in res.get("items", []):
                 e = events.get(it.get("id"))
-                v = clean_val(it.get("actual"))
+                v = clean_val(it.get("actual"), e.get("title_en", "") if e else "")
                 if e and v:
                     e["actual"], e["actual_source"] = v, "Noticias (IA)"
                     got += 1
@@ -1570,19 +1585,19 @@ def calendar_ai():
             mon = month_start - timedelta(days=month_start.weekday())
         done = cal.setdefault("backfilled", {})
         calls = 0
-        while mon < cover_start and calls < 2:
+        while mon < cover_start and calls < 3:
             key = mon.isoformat()
             st = done.get(key) or {}
-            if st.get("v") != 2:
+            if st.get("v") != 3:
                 st = {}
             if not st.get("ok") and st.get("tries", 0) < 4 and minutes_since(st.get("at")) >= 120:
                 calls += 1
                 fri = mon + timedelta(days=4)
-                st = {"v": 2, "tries": st.get("tries", 0) + 1, "at": iso(now), "ok": False}
+                st = {"v": 3, "tries": st.get("tries", 0) + 1, "at": iso(now), "ok": False}
                 try:
                     heads = []
                     for q in BACKFILL_QUERIES:
-                        heads += news_headlines(q, mon - timedelta(days=1), fri + timedelta(days=2), 8)
+                        heads += news_headlines(q, mon - timedelta(days=1), fri + timedelta(days=1), 8)
                     res, _ = gemini_json(BACKFILL_PROMPT.format(mon=mon.isoformat(), fri=fri.isoformat(),
                                                                 heads="\n".join("- " + h for h in heads)), max_tokens=4000)
                     raw = []
@@ -1593,10 +1608,21 @@ def calendar_ai():
                             continue
                         if not (mon <= dt.date() <= fri):
                             continue
-                        raw.append({"title": str(it.get("title", "")).strip()[:80], "country": "USD", "date": dt.isoformat(),
-                                    "impact": it.get("impact", ""), "forecast": clean_val(it.get("forecast")),
-                                    "previous": clean_val(it.get("previous")), "actual": clean_val(it.get("actual"))})
+                        t = str(it.get("title", "")).strip()[:80]
+                        raw.append({"title": t, "country": "USD", "date": dt.isoformat(),
+                                    "impact": it.get("impact", ""), "forecast": clean_val(it.get("forecast"), t),
+                                    "previous": clean_val(it.get("previous"), t), "actual": clean_val(it.get("actual"), t)})
                     norm = normalize_ff(raw)
+                    # quita duplicados: mismo evento y mismo dato que en la semana anterior (titulares rezagados)
+                    prev_week = {(e["title_en"], e.get("actual")) for e in events.values()
+                                 if mon - timedelta(days=7) <= parse_iso(e["date"]).astimezone(NY).date() < mon and e.get("actual")}
+                    norm = [e for e in norm if not (e.get("actual") and (e["title_en"], e["actual"]) in prev_week)]
+                    seen_t = set()
+                    norm = [e for e in norm if not (e["title_en"] in seen_t or seen_t.add(e["title_en"]))]
+                    # sustituye lo reconstruido antes para esa semana
+                    for k in [k for k, v in events.items() if v.get("source") == "Noticias (IA)"
+                              and mon <= parse_iso(v["date"]).astimezone(NY).date() <= fri]:
+                        del events[k]
                     for e in norm:
                         e["source"] = "Noticias (IA)"
                         if e.get("actual"):
