@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T20:01:41Z",
+ "updated_at": "2026-11-25T20:06:26Z",
  "items": [
   {
    "id": "1ac3fb10d0b5b2",
@@ -272,16 +272,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "1ade0a17e178e9",
-   "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers By Investing.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclVOZjdVc2JNTGZ3TF9pbGZtR3NEMjZJSHZnNlZzU3psYTEySThPbWhfeGQ3NmJKeWlpT1RzZ1FoRnhkWXYzM3hlSnl3OEh2MFNBU0dhUFpVR09FVmYwZU9PM0h0aEZZaDdZNW1rWElCbk80MmZCaWlmS3BBWG43WDNzaFl0eUx2RVJldnFQVHQ3UHhZZG1MRTdPbEVRQ3E5SVNTNlVvVUMxbzZjYjJCbHE3X2RnNElCN0REZm1LeVI1TWM2?oc=5",
-   "source": "Investing.com India",
-   "date": "2026-11-25T19:07:30Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "a13349ef2c37af",
    "title": "Update: US Equity Indexes Mixed While Treasury Yields Drop Amid Sharp Sell-Off in Chipmakers",
    "summary": "",
@@ -320,6 +310,16 @@
    "date": "2026-11-25T19:03:00Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGpxc1diLXMybGlNcHNrd05HNzl3TE5YbHRfbWVYdnNvS3dpS2pEcm1tbGRIczlzMDVIeWVFS3dqa1kxUlBWaW5uNGpYWXBHMVRQSDNTU1M5Y1NXc3UtaGdkcU5aenBjUlM0UzhpcWxORjRmTkctQ2t3YjktTVhMcjNUTUFWa2ZCRDJIWURHWWNQYnJJMjRNaW1iMzh3YURZN2Z4Nk1n0gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:02:52Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a416536b42411",
@@ -1112,6 +1112,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "fb4e1a5ae59355",
+   "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVltVWRlVzBkeEZqbUR1eV9VQWhaUTNTZnFXLVE1UFgyRnp2OVRuT196cU93M3pheE1leFVza2p6ZEEtNjlBT0M5amp5d1VYOFpZQ0xfaXhqcEdPLTgySnVNanpQQ1pQeFNlMTAxUFMzS1BZa1RPajVYU1F4eE5pbm1CU0JwSVhMdnM2eFljMjhlLU1YRUx2Z09odm1BVDY1WDVIYUFOX1BYcUdQV0hDS0t1VmQ0Yno5cG1SWEhmaTVzTDFaQm9uR2V3SjNWRVBKcXpLeHplMA?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-25T17:33:22Z",
+   "score": 11,
+   "category": "Macro"
+  },
+  {
    "id": "fa1344e9d4a3a5",
    "title": "Chip Stock Sell-Off Deepens as Nvidia Falls 7% and Nasdaq 100 Nears Bear Market",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-25T17:28:22Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "7090de769c5396",
-   "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It”",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbV83dGYwVUhHT1NlRW5lY3dRRGpRQmlrRW1ub2VWSnJzMzc2SS1Ud1N6cjdFYUhsb0FqUFNFRVlzRGZvcE05Tk1RS2RtRTRacFd6ZFVya0RRMmU0Sk1MUk1UNndFeHFvX0h1al9aV0tIaFpnUXh3WVlfMlJBMG5BazJOM0F6dzZEZ0VzLXRXRnROblJkMFE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T17:24:16Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
