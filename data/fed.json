@@ -1,6 +1,14 @@
 {
- "updated_at": "2026-11-25T12:24:56Z",
+ "updated_at": "2026-11-25T12:29:41Z",
  "items": [
+  {
+   "id": "ffb89bb62f963e",
+   "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
+   "summary": "Speech At the ASBA–BCBS–FSI High-Level Meeting for the Americas on Banking Supervision, Brasília, Brazil (via pre-recorded video)",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+   "source": "Fed · Discursos",
+   "date": "2026-11-25T12:25:00Z"
+  },
   {
    "id": "093823af590d1c",
    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -162,14 +170,6 @@
    "date": "2026-10-06T14:45:00Z"
   },
   {
-   "id": "67d0938dd8e13b",
-   "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
-   "summary": "Speech At the Atlantic Council 2026 CEO & Senior Management Summit, Washington, D.C.",
-   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
-   "source": "Fed · Discursos",
-   "date": "2026-10-01T19:00:00Z"
-  },
-  {
    "id": "8ec4b2fe77072d",
    "title": "Federal Reserve issues FOMC statement",
    "summary": "Federal Reserve issues FOMC statement",
@@ -323,48 +323,55 @@
   }
  ],
  "summary": {
-  "resumen": "Los miembros de la Fed destacan la complejidad de gestionar la inflación debido a shocks en los precios de la energía y riesgos geopolíticos. Reiteran que la prioridad sigue siendo devolver la inflación al objetivo del 2% mediante una comunicación clara y un seguimiento estricto de las condiciones económicas.",
-  "tono": "Halcón",
-  "tono_explicacion": "Un tono halcón indica tipos altos más tiempo, lo que suele pesar en las valoraciones tecnológicas y presionar a la baja al Nasdaq 100.",
+  "resumen": "La Reserva Federal mantiene su enfoque en vigilar los riesgos económicos globales y la estabilidad del sistema financiero, mientras evalúa los datos para sus próximas decisiones de política monetaria. Las comunicaciones recientes se han centrado en la supervisión bancaria y en cómo las dinámicas internacionales afectan a la economía estadounidense.",
+  "tono": "Neutral",
+  "tono_explicacion": "un tono neutral significa que la Fed no da señales claras ni de bajadas ni de subidas inminentes, manteniendo a la espera a los inversores del NQ.",
   "puntos": [
    {
+    "fecha": "25 nov",
+    "quien": "Bowman",
+    "titulo": "Modernización de la supervisión bancaria",
+    "resumen": "La vicepresidenta de supervisión destacó la importancia de que los marcos regulatorios sean prospectivos y aborden de manera efectiva los riesgos financieros antes de que se materialicen.",
+    "impacto": "Bajo"
+   },
+   {
     "fecha": "24 nov",
-    "quien": "Reserva Federal",
-    "titulo": "Actas de las reuniones del tipo de descuento",
-    "resumen": "Publicación de las actas relativas a las reuniones de la Junta sobre la ventanilla de descuento de octubre.",
+    "quien": "FOMC",
+    "titulo": "Actas de las reuniones de la tasa de descuento",
+    "resumen": "Se publicaron las actas de las reuniones del consejo para revisar las tasas de descuento aplicadas a las instituciones depositarias.",
     "impacto": "Bajo"
    },
    {
     "fecha": "20 nov",
     "quien": "Cook",
-    "titulo": "Shocks globales y mandato monetario",
-    "resumen": "Subrayó que los conflictos geopolíticos y el encarecimiento del petróleo afectan a la economía global y complican el mandato de estabilidad de precios.",
+    "titulo": "La economía de EE.UU. en contexto global",
+    "resumen": "La gobernadora señaló que la Fed debe prestar mucha atención a los acontecimientos geopolíticos y choques internacionales, como los precios de la energía, que impactan la economía interna.",
     "impacto": "Medio"
    },
    {
     "fecha": "20 nov",
     "quien": "Waller",
-    "titulo": "Herramientas de política y comunicación",
-    "resumen": "Explicó la evolución de las herramientas del FOMC y la relevancia de la comunicación clara para orientar las expectativas del mercado antes de decidir la postura monetaria.",
-    "impacto": "Bajo"
+    "titulo": "Comentarios en el College Fed Challenge",
+    "resumen": "Señaló que el FOMC evaluará próximamente los datos económicos disponibles para determinar la postura de política monetaria que mejor cumpla con el mandato dual de la Fed.",
+    "impacto": "Medio"
    },
    {
     "fecha": "19 nov",
     "quien": "Jefferson",
-    "titulo": "Gestión de shocks y riesgo de inflación",
-    "resumen": "Advirtió sobre el dilema que suponen los shocks de oferta energética, señalando que si la inflación supera el 2% se justifica una respuesta monetaria más firme.",
-    "impacto": "Medio"
+    "titulo": "Política monetaria ante shocks frecuentes",
+    "resumen": "Discurso centrado en los retos de la política monetaria en un entorno de choques complejos y globales.",
+    "impacto": "Bajo"
    },
    {
     "fecha": "18 nov",
     "quien": "FOMC",
-    "titulo": "Actas de la reunión del FOMC",
-    "resumen": "Se publicaron las actas correspondientes a la reunión del comité celebrada a finales de octubre.",
+    "titulo": "Actas del FOMC",
+    "resumen": "Publicación de las actas de la reunión del Comité Federal de Mercado Abierto de finales de octubre.",
     "impacto": "Alto"
    }
   ],
-  "que_vigilar": "Próxima decisión de tipos de la Fed programada para el miércoles 9 a las 20:00.",
-  "sig": "cf85158e500270",
-  "generated_at": "2026-11-24T19:59:35Z"
+  "que_vigilar": "La próxima decisión de tipos de la Fed programada para el miércoles 9 de diciembre a las 20:00.",
+  "sig": "5a62876453179b",
+  "generated_at": "2026-11-25T12:29:48Z"
  }
 }
