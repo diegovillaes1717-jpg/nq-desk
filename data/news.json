@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T22:52:54Z",
+ "updated_at": "2026-11-25T22:57:37Z",
  "items": [
   {
    "id": "c8a0ee9d9df1cc",
@@ -10,6 +10,16 @@
    "date": "2026-11-25T22:45:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "9722d28b666f7b",
+   "title": "Inflation makes US interest rate rise ‘near certain’",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmM2bmx5bERZdDdqZktFWDJiVFVjOTQwWmxGTE9XdGZZdF9fQUktNjVkck5BUXh2NFA0MDlmRVkyOHVaSmFENjVhVmljZzh1cmF2MXpyQzljSENjeE1WeTdVX19Ua19MdEpSbXpyM0Ruby04RmpzSXV5UTBrTnp6X0tiUlRnbmgyVGo3ME9jeFVrMFlxeHdTczFXZTkyUXdkampCWm9FamJWQQ?oc=5",
+   "source": "The Times",
+   "date": "2026-11-25T22:45:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "722944e6e16f62",
@@ -140,6 +150,16 @@
    "date": "2026-11-25T22:11:00Z",
    "score": 10,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f3c5debb2f2388",
+   "title": "US economy roars ahead in third quarter, inflation remains high in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T22:06:55Z",
+   "score": 6,
+   "category": "Macro"
   },
   {
    "id": "b20d2695d61456",
@@ -442,6 +462,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "691743122a1c4f",
+   "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3FJdzdJWVNPMUVVQVFuZUJfbGpWaXNfamU4RkVzVzNubGNySXFPYWlaZzdzR3VzVUNJYllhQWtOSFRKOF9uOGduTHRKcm0xOHgtVkNFajQzZXljc2xkdVp4bnU1d0tLcVRrSzNmTDNGZHBFcU12eHF0M0M3RlgxVEJXd3JBX3E4aFVRYllUTk90VFI4cHNkLVp0NXUzTm5KU0VWUFBOY2daSGhqV1A1dG1LMA?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T21:17:13Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "47f1273ee80278",
    "title": "US Inflation Accelerates; December Rate Hike Seen as 'Fait Accompli'",
    "summary": "",
@@ -600,6 +630,16 @@
    "date": "2026-11-25T20:48:48Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ed7b2dff08cd01",
+   "title": "U.S. plans to hike tariffs on China, EU, Brazil and others over subsidized production",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ?oc=5",
+   "source": "BNN Bloomberg",
+   "date": "2026-11-25T20:46:33Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "b5319adb43c3be",
@@ -1102,6 +1142,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:31:28Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "009ca4f091d69c",
    "title": "S&P 500 Futures Slip to 7,199 as Tech Selloff Weighs",
    "summary": "",
@@ -1149,56 +1199,6 @@
    "source": "CBS News",
    "date": "2026-11-25T19:25:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e81ce39117f4b2",
-   "title": "US Stocks Pare Losses as Tariffs and Inflation Pressure Markets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jWVdqVVdROHdTTWl4VmFhSnU2VWgybkdRWllDOFhval9OMXJhekdIZDB5WmdpamlSN1BYS19Rd0Y4MFZ4ZnJ6a2hOTS03T2J6eExrWTQ2a0psalBuY2toV3lMMDRtMHJzblZ3WVZn?oc=5",
-   "source": "SuaraGarut.ID",
-   "date": "2026-11-25T19:23:00Z",
-   "score": 9,
-   "category": "Macro"
-  },
-  {
-   "id": "ead640d6dafe66",
-   "title": "S&P 500, Nasdaq and Dow Futures Diverge Amid Tech Selloff",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUJtSnFJT1Jfbm5EZzdGN3FRN1luMEc2SHlDVVdPWW96ZG41ZGpzdHo3ckZ6RUFWRXBWaHVyUTRHZE1mRHhRRnUtSDF5LXZYTEZ6dlVONmV0M3dkaUZkVy1SMFd0elpvdEFKRXYtc2g5d1pUZk01ODh0SS1GTGo1UkVfb190N2NLcmpIVEY4T0tJUkM2LUY1QQ?oc=5",
-   "source": "JournalArta",
-   "date": "2026-11-25T19:22:42Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "aaf1218e64b638",
-   "title": "Fed Faces a Policy Dilemma as Williams Sees Inflation Falling Without Slower Growt",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjhvd21nTE81WWM0NFo2NV9ET0dUQTNNcGZraUN5OGlKMmpZSzdueGF5RUpPNlBGT3RjZE9GYUw4U0JNTnYwWklpS0c1cjlhSlA4MUFrcFdXVGk3MG9pcW9OcUlzTDJPZWVBc2lKMWhqc1d1NmRyd3pQWkpwZ0hrMERNRC1YRERteEJOZE5MaEFLRUdWYXRYZk5DMkRBWFMxdEpQaUhlSnluUlhhNVYtMWJwaV9mY1hpZ0RjMkI3Zy1QZktiNlE?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-25T19:22:26Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2548b4b11859f9",
-   "title": "Nvidia is cheap on paper, so why won't the market buy it?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnhZOXlLbXVyQ3hFQTZVMnJYcUlScEJpUFVhYy1yMFJGUFA1NnZGc09VTUFMYU1nYWRua3dyYmRxbmYtbEl3OVI1NXB6Z0dlRjV5Sm5kVENhc3FoNmY0elJNSFBZclJmT1BZQmhCcGRKUVEtRmR6STVoUXhSbDdNRWduRGpDdWpxR2NNQVBkdWVfNHMySm9QLU5Rek9MUGtTYmxn?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T19:22:15Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3de825344fc202",
-   "title": "Bitcoin slips as Nasdaq surges: Is leverage taking over?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSWJYNTdMVGhZd0ZkdDk2T0lHWVp1UUd0Q213X3NRTlk0bXNqUUZkMXVhMFpFbkFNdjZWY1puYXRLTHVyUjB4SUVYZWVjVkhISW51REVsY2pOYlJSNlpRQVF2TkVQWVVQ?oc=5",
-   "source": "Crypto News",
-   "date": "2026-11-25T19:21:09Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
