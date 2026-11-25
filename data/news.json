@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-25T12:15:25Z",
+ "updated_at": "2026-11-25T12:20:10Z",
  "items": [
+  {
+   "id": "77c5ce4dadb97f",
+   "title": "Nasdaq 100.Forecast: Nasdaq falls as Nvidia AI rally cools",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGxSeUZoOC0tU3JVbkNJWUN6bFlUanVDanVTaFQwM2I0OHhiYUVzeWpOTXZPQjZ0NzJqck5NNWRtdmM4cm1CbXdjVjI1YVRuNHBJaGREb2RScXIxYUd1NmpaRlhHUFV1aFpSa3R0bFFaVjRfSkEyUl9XRDlycmF3VEc2dHJiUEFMcGMtLWpWU1R2d1lJbFdBQmthcTUwRlV5SGZnMGdIYw?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-25T12:16:18Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "f3b1a154a8cda2",
+   "title": "Meet Jensen Huang's Children, Son-in-Law Who Work at Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGVlQ1B4cm5xQml5Q0RkSkF1Y0Vpek50QzlUeW9yZ0wtUDBERTcwcjR4eTYydFpLMmc1QkU3UGZXam5nSm5ySmV0WUN0RkFjbFgxYXdQVWhIZ2ktUHIxem9OODBfUXV2czYyOE9jQnJnUHJpbWpxeHd1czdnSjBPdA?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-25T12:16:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e6423ae5a874b9",
+   "title": "Nvidia, Anthropic and AMD Stocks Drop 5% & Nasdaq Futures Slide 2.4%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2J0TE03eUpieWp3R3k4UHNMdWxXa0pPT3ZCQTc4QUNkYTQycENxR2FvWXpiTTU2eUV5RmRuVVFVbVkwb01wNjFaZ0MzN1pNT3pFMmxkSE93ZTlsekhMc1hScGhkeUlBMUVSUWNXRUNOQl82VVA0UnBzVWNORVRxZW9jc0F3ZzJPRFc4NkN2UWE4emRQMTdzOThaRQ?oc=5",
+   "source": "Coinpaper",
+   "date": "2026-11-25T12:14:53Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
   {
    "id": "68a6b054f1c6a5",
    "title": "Nasdaq Futures Drop Over 2% as Chipmakers Slide Ahead of PCE Data",
@@ -25,8 +55,8 @@
    "id": "baed49013c127d",
    "title": "PCE preview: Final inflation test before expected Fed rate hike",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0paSGp5blczVUhEQm83VWprOFBELWgxOFhZVlJYb0l3VS1YZExQci1OM2JjdzZZMmJoXzJJeFBYRDd3RE1OZTdZR0xRZGtWcXBTSzRlOGFsWWFTREMydWhwN1pWR1pxUm1aU0hWbkt4YU5WV2dNUVZ1QzdQcDhIeF9IbnRPU25rdWV0bkxnb3E3QVU?oc=5",
-   "source": "Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlNXTGpiYnVCc0FIalhNa25xNl83Uy11RjBEcVlCX3hFaFlaa2UzdzZ5R3pKRlduZFZmVEV3NDBYZXNvdEZQbi01NjBGV0hQQTFSYzVOWWZJWVJJcS10NWdSRWRYUmJSVGJILVRkVlFVeXY4SVBfOFY5YU5PNHA5OHZHelVkU1hndDF6U0NxSUtfQ04xLWFob1NZczdneEY4czhEaWdMMHd3OWVHaW9vRXdoSEdCZnRqd0xEYnpYUGRJNzg?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T12:03:39Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -122,6 +152,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "01814733c2c2d2",
+   "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-25T11:52:31Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "64b1aa5ae26d5e",
    "title": "Stock Market Today: Nasdaq, S&P 500 and Dow Futures Slide as AI Chip Selloff Deepens",
    "summary": "",
@@ -150,6 +190,16 @@
    "date": "2026-11-25T11:45:33Z",
    "score": 12,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "ca6bc7c20c85ea",
+   "title": "Futures sink further into the red as tech worries resurge",
+   "summary": "Huang defies calls for Nvidia succession planning, sending shares lower premarket",
+   "link": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
+   "source": "CNBC",
+   "date": "2026-11-25T11:43:37Z",
+   "score": 3.5,
+   "category": "Tecnológicas"
   },
   {
    "id": "6fe75d4025ce0c",
@@ -702,6 +752,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "5f2ccef6c8bf26",
+   "title": "3 U.S. Importer Stocks To Watch As New Tariffs Reshape Supply Chains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWxvaFFoUmVoWmFCdF93NGV0a3RoSHgxNHZyT2NsU1Z5djY4RDBUQU1GTmN1Rks1ZDB6N3liTWI0ZGRQcWpfZktLb19lbVBwTU1sZlZ1RGl6LVBReWMtUXI3STE0eXRnRUNHY3BEWXpHek1qVnRxQjB3Nnl0c0l5eXI1QXVuTjBzSnZtWl83X3VLUUpF?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T10:10:04Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "17fe0600f7488b",
    "title": "Michael Burry Sells Remaining Nasdaq-100 Puts, Eyes Fresh Nvidia Short Near $200: ‘I Am Long Undervalued Common Stocks’",
    "summary": "",
@@ -740,6 +800,16 @@
    "date": "2026-11-25T10:07:10Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "feb93546210e7f",
+   "title": "US STOCKS-Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ1NmV2pYQ0hhOGhpWkNxZUtmRmlnUGUyTV9UaVUzT0JPWDhXbTBGTlgxWDY4Y2tUZlVMY3llNEVRems5dWNTeWFxclFza01OeXN2VDltS0U3b2czRHAybzBWR1EydWJrbGxVX1NiellHN3RJOHlzU2RxbHVCRFpZTFZDVk5VOXFrZk94T2VPeGNjc1pGTmwtSHE2bEtOQXF4RWtlRElpR3JKcThfMjJZNHhlNGZRaFVSQTgtQ0E5ektINjh2ckx3c3RhTWpMYlFlQnlEUmVkR0dLTWl0dEhOclNR0gHnAUFVX3lxTFB2QXZIeFNQTlJvNW5xenpZVHpHdkN2Wk9QYVV5ek1yS2NlT3RzOFNBc19jUUt3cVhZOGhQRElxdXFpLVMtZTd1am4wQ3MyLTZPUG9UVXgwMWVLYnQ1Y2tqTmJWVnJrb3dVSDNNc1RubUxPQ2c5U1YtNkNMa2VoMFRmNThqdWZwenFJSjBLakt6eW5YUkZGdWY1Nm4wT0xYckplMzFKZE1zZVFFeU45VzlJcjlQVVF0eWkzbld0VGRxQzlZZFkzVU5xYi1yQ19DVkt1UzEwekRmSXZqcENlclFsT0c3akJlbw?oc=5",
+   "source": "Devdiscourse",
+   "date": "2026-11-25T10:06:15Z",
+   "score": 13,
+   "category": "Macro"
   },
   {
    "id": "78b096096025b5",
@@ -920,16 +990,6 @@
    "date": "2026-11-25T09:47:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "01814733c2c2d2",
-   "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T09:43:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
   },
   {
    "id": "ea947438c6604d",
@@ -1139,66 +1199,6 @@
    "source": "XTB.com",
    "date": "2026-11-25T08:51:24Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1f509f73b48c71",
-   "title": "China Urges US To Avoid New Tariffs, Warns Against Trade War",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGJtcE5PWG5fZkhQbDloVUdPTy0tenVUZTZoTjVrc3FJbEVhM1hJM1h6dE9yYzNMaFRiNzlLMzlxcHcyRkp2QXNrcHpROFFPT21rU3dTNGhKY2NIWHp2bW5IQXRQNnhkcFBfME1fNzRwbm4wLWJ2M1FoRk80cXl2N0pXeWZCN1c3YkhKamVDZw?oc=5",
-   "source": "WE News English",
-   "date": "2026-11-25T08:50:26Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "1bcdedb50d496a",
-   "title": "Anthony Scaramucci Says Jensen Huang's Return Tests Fairness - NVIDIA (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0VlQ0E3aGNOZXE0WU1hNDJTeHpXSm9EWHUtWTlmclVrOXlTSzJzYUpBYlk2TFpZblZ6MEU2dzJuLVNsX0FXcExMMndNc0J4c1NZejJqN25DbFNWRUM0WFp4QUFiM0hqaThfUFYwZ05jT1J6dHMwQzBaSFhSR3dYZnhNTkV5SElGejZ0WXc3VVU1M1JzRDAwbWtwM3c0X1R4ZEU5RVpHX3JQY2dfcGVUVFY2LXJXZEs0Ti1vaktld0Vpdw?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T08:47:37Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5bb450bdd51b23",
-   "title": "Jensen Huang’s Nvidia Return Put an 8-Figure Sum in Donald Trump’s Pocket — Report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXJGSnNGVGRzbkpBNzlyRzFTX3h6SGhDWEZRZFFRNV81eGlSdkFIRERMYlA2NHpXVUJiUHI5Vjg2UTJaak8ybW1kQlVLbFdxdERmVTVTN0ZSdk1MQzdFSXMzQUtwdGFIN2lNWENDY1NrRWlweE82T3IwOXc2OHhweW1hOVh2Y2NnZUJ5a3N0LU9DbmhGenVDaDhGWQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T08:47:15Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "aa5b99e1e54a14",
-   "title": "European shares rise as consumer stocks gain, markets await U.S. tariffs and inflation data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmNwU042SThVd0NleHZIYzY3Q0dWRGRlTkQ1dFpuN3BQLTJrSlVfWmtWMHhFaE5qeWtjQ3pjOTY1R0dwYUQyang2QTJFSVFTeE5fbG4xM0t4eEZSQkE5QjVLYXZHT1JvWUdmNlluVFgyQzhkaWJjT0lVNlBrNENsb2NfWFg5RWtoSFcyc0NQVWE0ZXV4Ym9z?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-25T08:39:30Z",
-   "score": 9,
-   "category": "Macro"
-  },
-  {
-   "id": "ce7bf431c2473e",
-   "title": "The Federal Reserve's preferred inflation indicator is set to be released tonight, subjecting AI-driven trading strategies to another critical stress test.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzFyYUxhanJNY0VYa3ItTF9RWWFjQ1RYbWRZbWE3VE9xdUpNXzEzUVVZenMxRlpFZi1WeE1vX0JTU0d5NzFTMGZmX29pakpMQldYSDlyNkVRUTZOUVpYOWFHclZTaWtxOUpMV01VMlNKeGdSclJ5aWZnOXVFa1hGTEctSWtOcEFJcURsYklGai10X1hUOEI5VE5JQVRxT1NHczZ6RnRIa1k?oc=5",
-   "source": "Moomoo",
-   "date": "2026-11-25T08:30:44Z",
-   "score": 11,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c265aa31cb9614",
-   "title": "What a ‘Disciplined and Selective’ Nvidia Could Mean for AI Startups",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmI1LWJkSWZzTnQ1SE1yMkNDV20zUl9IY0l6bUpaYm9oM21GdFh4MXlvQjIwQk1jZ0twcExRVGRKRHhpMm9BRVE5TElXcngtTFFvc3dsVWkzUUxoY2ZMWENFR0ljMEptRzlSaVJ2Zy1KNFpieWhpTXB3OC1iVHpKVHBvaXBpcVg3NWRtWDBZYXJPRWtxbjVGM0x4UUJ4VEFFZVE?oc=5",
-   "source": "Morningstar",
-   "date": "2026-11-25T08:29:12Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
