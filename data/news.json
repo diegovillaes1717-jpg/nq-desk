@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T23:31:18Z",
+ "updated_at": "2026-11-25T23:36:07Z",
  "items": [
+  {
+   "id": "cc4b32ed04e566",
+   "title": "Nasdaq Futures Fall 2% on Tariff Fears, Inflation Data Due",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXQ1WVlIbzF0OExtUTQ5azEwSEM0VWRqVmVscXU0YXRKaU5rLVZXT2lzOWF3S3FnaVlhR05tbHFpX216RklGT0NrWTY5Z0JrVWJWc2tRaDlreWgwQTZFNTdEX2NvdmI3TXN3dVpOb1p4dU1TSmg3aGtZVm9FT0ZIazJCbWdjNWwybW80Ym92SzFNX3hpWkJ4YWJTaHZSUQ?oc=5",
+   "source": "Hoodline",
+   "date": "2026-11-25T23:32:10Z",
+   "score": 13,
+   "category": "Macro"
+  },
+  {
+   "id": "c57ffca28d5d2b",
+   "title": "How Jensen Huang’s return may cost Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzBleEZ1S2xGaEZ2Q2RqYlUya1dCcXFlTzlxYlNvUlpEbms1c3VIYkJqRTRhUzRWenVLN0dZUTNTbnJkY01EQlBOakl5ZDZINXlIZHpmOVlmaV9RUURLTDMtaEhvMzg1aWVHNWZUMzZhM205TE9tQ25VaDdmNnA5WmJHZjh6T2lsekE?oc=5",
+   "source": "KRDO",
+   "date": "2026-11-25T23:31:55Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "65123ac2003a5c",
    "title": "Materials Down as Inflation Data Seen Spurring Fed Rate Hike -- Materials Roundup",
@@ -10,6 +30,16 @@
    "date": "2026-11-25T23:20:29Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "488ff7f4a02fe2",
+   "title": "The Nvidia Scandal Set Off a Chip Crackdown in Congress. Which Stocks Are Most at Risk?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ080MUVCYUxiMVpjODdXWmJuX1hNbDFGMHVfUkk4d3ZjZlYzc1lrM0dUSTAxNWNlZ3prdTNnUWwtcGYxVFFGU3FYZXhrUDRuaEdwWlUyaUFkbEd1Y3loODBkQ1gzYXN4Y0lsb2dHckFLVGZTRmlGT3EtTm01N0pHWmMtdnBwT0R3OEpvenR6WWkwaks3elRz?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T23:18:05Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "daa6635f48a23c",
@@ -52,16 +82,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "488ff7f4a02fe2",
-   "title": "The Nvidia Scandal Set Off a Chip Crackdown in Congress. Which Stocks Are Most at Risk?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmY3V2JoR0IzcVhFcDNDaVF2OHc0Nl95RzhESG5jQlV4ZHdMQnFoOVdlaTQ2STk0NGdYWG5MNnB1TDdKVEQzbVNEZjBGZXdUZjdjdHNKU0dYOVVybGlOMi00LWlPSjBMbjVjNnltektFRGJ1dDh6eUptR1B6VEp1V0lnSVdJVS0xa0hOT1Z5OVdGdGt1ZC1HNWd0d2MwZ1JqX2xCQ2VvcjdwYzAzTERVRVlJVUtmRWtHUC00cVVlampCME5kVVVZ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T22:58:05Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "53f8ae3ac38648",
    "title": "Nvidia credit rating put on negative watch as S&P questions oversight",
    "summary": "",
@@ -80,6 +100,16 @@
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "b20071c2525c52",
+   "title": "Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzF1ZWR2RmZ4eWotR3ZrQWVPbFd0aHpQS2lQUXI3eXJSTW4yNTlvWlBkNHZCd0pJaDFXQldhWWVNd1l2dFp2WVpidG5YZHE5SHBNelA1TWdDaXRkWHVOTVdFMlRVSjRIeHpsMlN5YmdnQ2dYeFpTa0Zka2Y5RXRybmRJQ1Q3cVliOHZmWmdmTkpjejUxcnlMZmJ4MzlkVkZWOVVzZnRsWmoxWTZCZG5PWGx5WQ?oc=5",
+   "source": "Houston Style Magazine",
+   "date": "2026-11-25T22:45:32Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "c8a0ee9d9df1cc",
@@ -469,6 +499,16 @@
    "source": "Fortune",
    "date": "2026-11-25T21:37:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "5b3c9feb386b32",
+   "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeldqODRQRTNYOTNIYmNYSC1NREZjZTdvZUwwT1NkNWZ3TFJYMVQ5VF9FeDJmcG1nV0NGRFlscmpIR2ZmT1JteEdYLUxpa01yR3htWUJlbXJEVnM4dmRlNUF6ejdOTHh1N0RfQkpYTWhJTkdEYjExV1MxT3JDZWluLTJ2d0hYdXRmdWk0?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-25T21:36:24Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -962,16 +1002,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "5b3c9feb386b32",
-   "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeldqODRQRTNYOTNIYmNYSC1NREZjZTdvZUwwT1NkNWZ3TFJYMVQ5VF9FeDJmcG1nV0NGRFlscmpIR2ZmT1JteEdYLUxpa01yR3htWUJlbXJEVnM4dmRlNUF6ejdOTHh1N0RfQkpYTWhJTkdEYjExV1MxT3JDZWluLTJ2d0hYdXRmdWk0?oc=5",
-   "source": "The New York Times",
-   "date": "2026-11-25T20:27:36Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "f4a3d414743ea0",
    "title": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records",
    "summary": "",
@@ -1122,6 +1152,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e166e6072af6b4",
+   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
+   "source": "The Detroit News",
+   "date": "2026-11-25T20:10:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f295f20177695d",
    "title": "3.3% core PCE reading: Gold slides despite lower US yields",
    "summary": "",
@@ -1158,46 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Z2Zja3BIbE8xajVKdFVpeEpacHkzVEdYVTVwMFU0dHkxbS10V2FyVmNFOWFBX0xvVGJBMG9PNFp5cl9XOWVySE5TYWNGMFFYVHBIREVyYnk0bk0?oc=5",
    "source": "Fox Business",
    "date": "2026-11-25T20:00:54Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "36118dbe49c6e6",
-   "title": "Mysterious traders made $340,000 betting on Huang’s Nvidia return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmpyOUhUZFdsczFPeGpZRlNOTUFxMVA4MWJzcWp0VktoTVgxTWxaYVB4ZC15OWpMWmxTMkhFWFRmb3B3TnRiYkpkQWVzcmdIbUhsdDdqRGlnQ2JFZWlQSnRScUMyaWdtRWtRdHdlZzB6TVpUVzNDaHBScDJRR29zY2dpOWM0TlpsWTA3Wjg5TngtUGM0cU05TUxnNjk?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T20:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1ac3fb10d0b5b2",
-   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2plWUFXaHpwVXBqc3BUOUV6OVVMc2tTeFlPVWZLVktLR0xxWGdkaWxxT0IyTDl0YjZ5Sk5ER2Z6S0tkQ1RMWWN6M2VqSzNiRm96ay1UZVJGT3U1Nk9oZmlEaElzOUQ4WVdGUi1MR1Zpc3NFd3dERjk5VTBCbHUtV2dKZ1Z3RmIyb1RYTmFWZGRiRGQyd2NPWFAxQTNjaC11aDJUT0tSUlVWT1ExamRrdDJteUxManF0ZFk4TDAyT3piZ9IBzgFBVV95cUxQcGYzXzVNTzZxaFdIYlhpempfdGVsWkNLek0wVHdvckpqMy1FTUh1cG16Z2o2SURmUndCa2FyRlE3RUUyenltMGhCMGt2cDZ2YTRCckNqWjdveUFxUUd0bEpWLTFLdU5VbXZ6c2RnUU1PQnFwVXo3UnB4ZVlPSXBpWHdXaXdXVVZlXzdCWXBrZVVBN0FER1N3bXRRNHA2Zmp5WXc1dXNsS1hpMXhvUk82dU9XZkhrb1FMVER4V3EwYnZZVWJvSkZmMEw3RWhVZw?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T19:58:46Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4fa84f3359a0b7",
-   "title": "Tech stock sell-off persists as AI fears outweigh Huang’s Nvidia return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekZlSGRId25EV0czTmlZV2hQU21vd2toV0l3WFNwZFJNTEhaVmZpbERCSjlCbEFVRUFUVlExd3Vib3dkeVdBbUhwY0VtczVjeVJWREVoYTVyWC1MS0RjSkJBMklwME5jRkNlTEdRWTVENWhvZHNJcG5Fck56VWdtZ1laQmpXVFprNHo2RkJ5Y1ZwVWl2WTVYejR2MlFTMEstMnlxUXkzRWlDR0YyRjFnX3o2Y21qZkhsQWg1bnEwNjh3enFYVFU4R0VJdWRHcndEOXpBZGQ1Vmc5SDBW?oc=5",
-   "source": "KVIA",
-   "date": "2026-11-25T19:55:39Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5eec80558c5991",
-   "title": "Fed Beige Book: \"Modest Growth in 8 Districts... Inflation Pressures Persist\"",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiRVJFYWNZTWR3Qjl4TTMwOUtjakdVbHR2di00b0ZaZ0d1TlBHMU9uelBDSkJpZFNRYnlSS1N2WnNNSWRIcVBoUXNIZnNqWlJZMFpwRWVnM0tRZFhMQW84WWVUdGlicjlVRldTS0JJVzg2V0Y2dnc?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-25T19:55:00Z",
    "score": 8,
    "category": "Fed y tipos"
   }
