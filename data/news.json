@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:45:35Z",
+ "updated_at": "2026-11-25T23:50:20Z",
  "items": [
   {
    "id": "3f50104cc0613f",
@@ -69,6 +69,16 @@
    "source": "marketscreener.com",
    "date": "2026-11-25T23:20:29Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "a35bc9a322d507",
+   "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzZGOEtwOFNQVHdlem80bTBsdnZBajZwZUVHY2U2a21yOExCUVhIWGxzR0Q5cEVfVGRZUmNXTllBLVhKLTdJR1BkNWQ2M0lsWnA3TFdQMlZ4QlhvOGg1bzhKUXZEcjdjV25acXd4OGNPR0JoVWF2WDFxSXY1XzBvN3hQanJiN2VEUHltTVNfTnBYckc2RjFqelk2Vlo0aWdMWVJ0b2ZmOFF6Q1R1MC1NNEJDRTZSNFZEV1JkNWVCLUhnWFh5T1NDTXlOUnh3MjFuWUpNcU5JNTdLLTkyc1dr?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-25T23:19:38Z",
+   "score": 6,
    "category": "Fed y tipos"
   },
   {
@@ -1180,16 +1190,6 @@
    "date": "2026-11-25T20:11:41Z",
    "score": 11,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "e166e6072af6b4",
-   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
-   "source": "The Detroit News",
-   "date": "2026-11-25T20:10:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
   },
   {
    "id": "f295f20177695d",
