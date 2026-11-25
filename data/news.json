@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T16:25:54Z",
+ "updated_at": "2026-11-25T16:30:40Z",
  "items": [
+  {
+   "id": "ca3e36203632a6",
+   "title": "10-Year Treasury Yield Falls to 4.824% as Investors Buy Bonds",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlE0NHpGZTdENDAwWEhFVGZkcEdxUDNUZGxfWVBWYk5EcnBTQ0pSdzdJSTJKbGNxT0g4U1JmbHlUTTdlLWxfSWRZMEhKdXZYcDluRi1LdXI0cnQ3RFJtZmI2SzhaclFCenV6b0xuRHJBcTRqSjQzODIyWS1NZEFlMnJ2YVN2Y2pNdlppX19R?oc=5",
+   "source": "JournalArta",
+   "date": "2026-11-25T16:25:39Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "99960c4a684709",
+   "title": "Trump Just Floated Taking a Stake in Nvidia. An Intel-Style Deal Could Be Worth $380 Billion",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEFKSU9QeTJqZXJpSXhDWktLUTRnNHZmLVlwc3lHXzBBd0ZnS2JDVk5scHlGV3dzNGNLcWticlZFRnRBNnpSeTV1cmpDdlV5Yi1pMHFoZFM4UmlkUHBPTlpSQkc0QWdEdUdTRk0zRUFOZUhCV1RhZHpsajBoWU0xek11YnNIcFgzRXhyelZqQ3pGRGItb0gxT0xmWm8tVmhwc1JCbWxsTldna2RiY05vcHpmV0w0UTYxWHVBZ3pvakhjenFxWHlzZlptd24xdjQ?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-25T16:25:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "8b3d0e222ac2f2",
    "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
@@ -69,6 +89,16 @@
    "source": "Traders Union",
    "date": "2026-11-25T16:07:31Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2edc98a8be275e",
+   "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3R4eVpFN2VlYjJKVXJvNlZuYzd4RVkxZ25DUGRhVE1WQkFZNTZpcENETUdXZXlSbkwzVGI3Z0VIZExHUDI0STVHQ2JWa1AtS1FsWG40WlRIUWFnTVdYeV80eFN0bVlTUnpNSG5veFdvaHczcUwxWWx5R1lKd01CbXE3Ums?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-25T16:07:13Z",
+   "score": 6,
    "category": "Fed y tipos"
   },
   {
@@ -472,6 +502,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "5512d4275b2bed",
+   "title": "Autos Are Still The Sticking Point In The U.S.-Canada Trade War",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcldJaERIS2hTSlBkd3hLYVBoQjRmRnUtX1BXemc2cXFfeE11QTN3dkYxaTBPZWlrQWg2bTZyUHNnX2xrbkdCM3hNSGNoWkxwN0JkLWtSd2ZkOTJUb3RNX0ZxN3lpOUhqcVBxazVXTVlEdS1SQ2o4ZTg5akp6RXFsd0YzX3ZKYTJS?oc=5",
+   "source": "Jalopnik",
+   "date": "2026-11-25T15:19:26Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "69729a374a3edd",
    "title": "Gold Falls as Inflation Data Boosts Fed Hike Bets",
    "summary": "",
@@ -680,16 +720,6 @@
    "date": "2026-11-25T15:05:34Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXVaV0ZnQ3RpSFdfSFBiWTdMdFI0VXRVQlRXbGs0NzBHbFNMdl84ZWdlMVZNVHZUQjVTTW1tTEU3VVFVaXdOZ21hcW4tTkxMdmZiQU9iMGJVZkVIeGZxY0Z2NzJGWXItNi1kdXlFM2NWQXNfdlA0STBxRDJ5Szk1LWs4eWZpYXJVOW1CNU91Qko4bVVQM2otRHNCSkx3Q19SMm5YekI1VW90Z9IBtgFBVV95cUxPRFZ0dV84ODQ2akZOakpIWjh0SDRRb3dlenByeE9NcnpYTXAydkxWczE2a2V2T0V2akp0RnloT1ZTd3FZaElMejJOSVJvTHFUQUFqQzNtR0JXa3ZiM1NrMUR5VXB4LWEwbXUtUDVWaU9sazdVSy1HRldTQ041M1hRNWxoeGJ1S1NHTnNzUkZhd3RLRkN4eGNOZVFodHdfMEI3RVRndGFxdV80UFRBbmc5NWZzT1NFQQ?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T15:05:22Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "e37cc7db70f13a",
@@ -962,6 +992,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFRJN3BCVzE1MXpYWmx5TU9LenJlYl9UeHRaZEpRNDRZemxBZFMtNDhYZGZ1NnZxZXJrOFRSNW9UVjZRdnFnS0RERzQxQUE1UU9maXE5bkx0Yl8zdFltVjNoNGk0VVVwM1VWMHVmNlJSOURBQnlDVEVlaWNwam9KbmMwdzZZRXhPX3ZIYjN6V0lXYTJpX3E5d0tjdjd2ekFHSUQxZlJheGdSMzZqNVpUUlUzQVhhM21EeVHSAboBQVVfeXFMTVBUSTdwQlcxNTF6WFpseU1PS3pyZWJfVHh0WmRKUTQ0WXpsQWRTLTQ4WGRmdTZ2cWVyazhUUjVvVFY2UXZxZ0tEREc0MUFBNVFPZmlxOW5MdGJfM3RZbVYzaDRpNFVVcDNVVjB1ZjZSUjlEQUJ5Q1RFZWljcGpvSm5jMHc2WUV4T192SGIzeldJV2EyaV9xOXdLY3Y3dnpBR0lEMWZSYXhnUjM2ajVaVFJVM0FYYTNtRHlR?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-25T14:51:20Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "15371ffb47ce67",
    "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
    "summary": "",
@@ -982,16 +1022,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "fe9e13cbf914de",
-   "title": "Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
-   "source": "The New York Times",
-   "date": "2026-11-25T14:47:47Z",
-   "score": 9,
-   "category": "Macro"
-  },
-  {
    "id": "bef92cc32c6391",
    "title": "US PCE rises 3.8% in October: experts say Fed rate hike in December a done deal",
    "summary": "",
@@ -1000,6 +1030,16 @@
    "date": "2026-11-25T14:47:47Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "fe9e13cbf914de",
+   "title": "Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-25T14:47:47Z",
+   "score": 9,
+   "category": "Macro"
   },
   {
    "id": "9842a18de8a818",
@@ -1022,16 +1062,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "141a9c5543d5bd",
-   "title": "Jim Bianco Calls Nvidia “the Federal Reserve of AI.” Here’s What That Means for Your Portfolio",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlAxVnNyOFdRM0FPaEs1aVMxZ2hkN1g5RGpIYUF3RUx2VnNROXVCWFBGeFNDOGJma1Bqc2ZjUzVodjNxa3Q4NVJNSTJYNXgzc2lsZWJFRXY2dEVxamlZblBhWEJnV2dJWm5vckducDFPMXBLSGhHMXBGVktOUG5VR0hkNEdxYmt6eUFrVmtkaU5MYTJUOUhvdHl4VE4?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T14:47:23Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c13a4ad0b8fcaf",
    "title": "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
    "summary": "",
@@ -1042,14 +1072,14 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "d0929f2cf287dd",
-   "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow?",
+   "id": "141a9c5543d5bd",
+   "title": "Jim Bianco Calls Nvidia \"the Federal Reserve of AI.\" Here's What That Means for Your Portfolio",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb2JkdElFMjV2dUQxY18tYVlPTWdfbGNSRGpXSDRGbm9YYXRfWHBLa0hJWVJqWlNzTjM2czItR2N1ZFlXVjRNcjRRRWpOQVpFLUp3NDNKWDV2R3ktakpKR2RTNEpHTXdYRGxTRURmdF9sbm9ma25Jd1Q3aXVjNl9zOXJNeDdIUDZmYVBXRFFPWm9ETXJ0NnhhbWw0aENqUVE2UllSYlZhQkJ6TUlfTDhwY2tUTVZCTS1GU3VKdlAycHZLQlBsU1BoaWxacU9rZm1hTFliOWdZbU5xNFFDX3VDOW40VFdobm54?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-25T14:46:27Z",
-   "score": 5,
-   "category": "Tecnológicas"
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSk91RmhUODZhalJLRHZJaFc4YW5TQk1DcDBRTVhHd0pXTm5ZZ1JBTmJleER4MzAzcUEzUXBWbTZ6NTYwR2t6ODd3dThFZFJMa1EwNVluM09OWF95N1p5TnVNNDBiT2RKNXMwY1c2Nno0NkoxV2twWjVrcU5IcERWQUFKcTctUkJ2aGNEQTJmVUlYeVRnYi00M3BkWGVfLVFOZXd4c2xiMVcxWmJVWUFzblRfSlVUUmVrdlVkSDgtSG5tQklEUTB3RktyMGUzNXM?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-25T14:47:00Z",
+   "score": 7,
+   "category": "Fed y tipos"
   },
   {
    "id": "917d1a13125323",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T14:36:28Z",
    "score": 10,
    "category": "Macro"
-  },
-  {
-   "id": "5d9772a3b41902",
-   "title": "Wall Street piles into TQQQ ETF, dumps SQQQ as AI bubble fears escalate",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWNlaVloYzktRlBDazFDS19NOVpLQ0JUTHR0ZXFhMUxfTDMtOV93S2w3NG9FRU5NQTdVQVl4ek5tUWxzcHYzeGdvNFdtMzNrYmREN3Q1YUM2dFdMVVNuT2JuV0VVTmlUWTU1V2RXWG93M2NabUNoUERwNmhiRjJ6Z3hBMGVFNFkxT045VVJTZEJ6SGNHc20tVGpEM3RrTjBkdnVTLXktYk8xMi1UVEE?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-25T14:35:51Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2e1d5195b9ea77",
-   "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-25T14:35:50Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "a3621967f865cc",
-   "title": "Nasdaq falls 3% at the open as AI rout intensifies",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEdPMGhKdGVjSi00VGVFeWV4TkhtSHZ0LU9mSFJFMWdUbDM1dTRvWE9mdzBHbHBGNTdqSmxvLVhjbkVEWVRkWkhTcTRnTjJIbG9DeFJDZ21lbnNGRmNhWHdHeXB4UDIza2NGcXdZYjZnZUx3THJzN2hCZ19sRlNNdkpiZjU5X1lYUWpJVUczM2h0Z3M4dm5QMTFFOWkyOEVwZ3ljTQ?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-25T14:35:15Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
