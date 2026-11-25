@@ -30,51 +30,16 @@
    "tries": 0
   },
   "2026-11-09": {
-   "sig": "105d83482e0dcd",
-   "generated_at": "2026-11-25T19:12:59Z",
-   "resumen": "Esta semana los datos de empleo y precios ya se han publicado, mostrando una economía que sigue resistiendo con creación de empleo y una inflación controlada pero presente. Para el Nasdaq 100, esto significa que el mercado digiere los datos paso a paso sin grandes sobresaltos recientes, valorando la estabilidad.",
+   "sig": "bfe9eacb5435bc",
+   "generated_at": "2026-11-25T19:23:36Z",
+   "resumen": "Como la fecha actual en Madrid es posterior a la semana analizada del 9 al 13 de noviembre de 2026, el evento disponible ya ha ocurrido. Las peticiones de desempleo se situaron en 200K, un dato que ayuda a medir la salud del mercado laboral estadounidense.",
    "items": [
-    {
-     "id": "4fb003be53a82b",
-     "estado": "Publicado",
-     "resultado": "En línea",
-     "explicacion": "El IPC mensual (que mide la subida de los precios que pagan los consumidores) se situó en el 0.4%, mostrando que la inflación sigue ahí. Para el Nasdaq 100, una inflación moderada es aceptable siempre que no se dispare.",
-     "efecto_nq": "Neutral"
-    },
-    {
-     "id": "d80f12bf036f40",
-     "estado": "Publicado",
-     "resultado": "Mejor de lo esperado",
-     "explicacion": "Las nóminas no agrícolas (la creación de empleo en EE.UU., excluyendo el campo) alcanzaron los 165K, mostrando un mercado laboral fuerte. Al Nasdaq 100 le sienta bien un empleo sólido porque indica que la economía no se frena en seco.",
-     "efecto_nq": "Positivo"
-    },
-    {
-     "id": "4608034c606beb",
-     "estado": "Publicado",
-     "resultado": "Mejor de lo esperado",
-     "explicacion": "La tasa de desempleo se mantuvo en un bajo 4.1%. Un desempleo bajo da confianza a los inversores y suele apoyar las subidas en el Nasdaq 100.",
-     "efecto_nq": "Positivo"
-    },
-    {
-     "id": "579692339a12d5",
-     "estado": "Publicado",
-     "resultado": "En línea",
-     "explicacion": "El salario medio por hora subió un 3.1%, indicando que los sueldos crecen de forma controlada. Esto es bueno para el Nasdaq 100 porque evita que los costes salariales presionen demasiado la inflación hacia arriba.",
-     "efecto_nq": "Neutral"
-    },
     {
      "id": "4e19a3b8d9a4f4",
      "estado": "Publicado",
      "resultado": "En línea",
-     "explicacion": "Las peticiones de desempleo (personas que piden la ayuda por primera vez) se quedaron en 200K, una cifra baja que refleja estabilidad laboral. Esto ayuda a mantener la calma en el Nasdaq 100.",
+     "explicacion": "Se registraron 200 mil nuevas solicitudes de subsidio por desempleo, mostrando un mercado laboral estable sin sorpresas bruscas.",
      "efecto_nq": "Neutral"
-    },
-    {
-     "id": "13516c4a66dde1",
-     "estado": "Publicado",
-     "resultado": "En línea",
-     "explicacion": "El IPP mensual (la inflación de los precios que pagan los productores antes de llegar al consumidor) subió un 0.3%. Un dato moderado de costes para las empresas suele ser bien recibido por las tecnológicas del Nasdaq 100.",
-     "efecto_nq": "Positivo"
     }
    ],
    "tries": 0
@@ -137,34 +102,34 @@
    "tries": 0
   },
   "2026-11-16": {
-   "sig": "d7fc8c94bb67af",
-   "generated_at": "2026-11-25T19:17:56Z",
-   "resumen": "Esta semana los inversores del Nasdaq 100 analizaron las actas de la Reserva Federal para buscar pistas sobre los tipos de interés, datos de empleo mejores de lo esperado y una confianza del consumidor que cumplió con lo previsto. El tono general de los datos mantuvo al mercado atento a los próximos movimientos económicos.",
+   "sig": "50ddd85e9b1f9e",
+   "generated_at": "2026-11-25T19:23:36Z",
+   "resumen": "La semana estuvo marcada por la cautela debido a las actas de la Reserva Federal y unos datos de desempleo que mostraron solidez laboral. La confianza del consumidor se mantuvo sin sorpresas, dejando un tono mayormente neutral para el Nasdaq 100.",
    "items": [
     {
      "id": "affc78dbab8508",
      "estado": "Pendiente",
      "resultado": "Pendiente",
-     "explicacion": "Se publicarán las actas de la reunión de la Reserva Federal (el banco central de EE. UU.), donde se detallará el debate sobre los tipos de interés (el precio del dinero). Si muestran una postura más suave, el NQ podría subir, pero si son estrictas y prevén tipos altos por más tiempo, el NQ podría caer.",
+     "explicacion": "Se esperan las actas de la reunión de la Reserva Federal (banco central de EE. UU.) para conocer pistas sobre los tipos de interés (precio del dinero). Si muestran un tono más suave, el NQ suele subir; si son estrictos, suele bajar.",
      "efecto_nq": "Depende"
     },
     {
      "id": "78bebc6ba08620",
      "estado": "Publicado",
      "resultado": "Mejor de lo esperado",
-     "explicacion": "Las peticiones de desempleo (personas que piden el subsidio por trabajo) se situaron en 203,000, un dato positivo porque muestra que la economía sigue fuerte y hay menos despidos de los temidos.",
+     "explicacion": "Las peticiones de desempleo (personas que piden el subsidio por desempleo) se situaron en 203K, lo que demuestra que la economía sigue fuerte y con buena salud laboral.",
      "efecto_nq": "Positivo"
     },
     {
      "id": "1da29c269dd12c",
      "estado": "Publicado",
      "resultado": "En línea",
-     "explicacion": "El índice de confianza del consumidor (que mide el optimismo de los ciudadanos sobre la economía) quedó exactamente en 51.5 tal como se esperaba, sin causar sorpresas.",
+     "explicacion": "La confianza del consumidor de la Universidad de Michigan cumplió exactamente con lo previsto en 51.5 puntos, reflejando que el optimismo de la gente no ha cambiado respecto a lo calculado.",
      "efecto_nq": "Neutral"
     }
    ],
    "tries": 0
   }
  },
- "updated_at": "2026-11-25T19:17:56Z"
+ "updated_at": "2026-11-25T19:23:36Z"
 }
