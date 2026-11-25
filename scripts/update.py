@@ -388,11 +388,17 @@ def update_calendar():
                     dates = [parse_iso(e.get("date")) for e in raw if parse_iso(e.get("date"))]
                     lo, hi = min(dates), max(dates)
                     # Sustituye la semana entera (por si un evento se mueve o se elimina)
+                    keep = {}
                     for k in [k for k, v in events.items()
                               if v.get("source") == "Forex Factory"
                               and lo <= parse_iso(v["date"]) <= hi]:
-                        del events[k]
+                        keep[k] = events.pop(k)
                 for e in norm:
+                    old = keep.get(e["id"]) if raw else None
+                    if old and not e.get("actual"):
+                        for f in ("actual", "actual_source", "_tries", "_tried_at"):
+                            if old.get(f):
+                                e[f] = old[f]
                     events[e["id"]] = e
                 got_any = True
             except Exception as ex:
@@ -979,10 +985,15 @@ def update_earnings():
 GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
 
 
+_MODELS_CACHE = []
+
+
 def gemini_models():
     """Lista de modelos candidatos, del preferido al menos preferido."""
     if GEMINI_MODEL:
         return [GEMINI_MODEL]
+    if _MODELS_CACHE:
+        return _MODELS_CACHE
     cached = PREV_STATUS.get("gemini_model")
     cands = []
     try:
@@ -1013,20 +1024,21 @@ def gemini_models():
     if not names:
         names = [cached] if cached else []
         names += ["gemini-flash-latest", "gemini-flash-lite-latest"]
-    return names[:5]
+    _MODELS_CACHE[:] = names[:5]
+    return _MODELS_CACHE
 
 
-def gemini_json(prompt, max_tokens=4096):
+def gemini_json(prompt, max_tokens=4096, search=False):
+    """Llama a Gemini y devuelve JSON. Con search=True usa la busqueda de Google
+    (grounding) para datos recientes; en ese modo el JSON se extrae del texto."""
     if not GEMINI_KEY:
         raise RuntimeError("sin GEMINI_API_KEY")
-    body = {
-        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.3,
-            "maxOutputTokens": max_tokens,
-            "responseMimeType": "application/json",
-        },
-    }
+    gen = {"temperature": 0.1 if search else 0.3, "maxOutputTokens": max_tokens}
+    if not search:
+        gen["responseMimeType"] = "application/json"
+    body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": gen}
+    if search:
+        body["tools"] = [{"google_search": {}}]
     last = None
     for model in gemini_models():
         url = f"{GEMINI_BASE}/models/{model}:generateContent"
@@ -1041,6 +1053,9 @@ def gemini_json(prompt, max_tokens=4096):
             text = text.strip()
             if text.startswith("```"):
                 text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.M).strip()
+            if search:
+                a, b = text.find("{"), text.rfind("}")
+                text = text[a:b + 1] if a >= 0 and b > a else text
             STATUS["gemini_model"] = model
             return json.loads(text), model
         except Exception as e:
@@ -1430,6 +1445,206 @@ def update_periodico(calendar, markets, news, trump, fed):
 
 
 # ----------------------------------------------------------------------------
+# 8) Calendario con IA: datos reales, historial del mes y explicaciones
+# ----------------------------------------------------------------------------
+
+VAL_RE = re.compile(r"^[<>]?-?\$?\d[\d.,]*\s?(%|K|M|B|T|pb|bps)?$", re.I)
+
+
+def clean_val(v):
+    v = str(v or "").strip().replace(" ", "")
+    return v if v and len(v) <= 12 and VAL_RE.match(v) else ""
+
+
+ACTUALS_PROMPT = """Search the web (official releases, Forex Factory, Investing.com, Reuters, MarketWatch…) for the ACTUAL
+released values of these United States economic data releases. Use the same format/units as the forecast
+(for example "0.3%", "228K", "92.4"). If a value has not been released yet or you cannot confirm it, return "".
+Never guess. Return ONLY JSON: {{"items": [{{"id": "...", "actual": "..."}}]}}
+
+RELEASES (id | date-time UTC | Forex Factory name | forecast | previous):
+{rows}
+"""
+
+BACKFILL_PROMPT = """Search the web for the United States (USD) economic calendar of the week from Monday {mon} to Friday {fri}
+as it appeared on Forex Factory. List ONLY events with Forex Factory impact High or Medium in these categories:
+inflation (CPI, PPI, PCE…), employment (Non-Farm, Unemployment Rate, Unemployment Claims, ADP, JOLTS, Average Hourly Earnings…),
+central bank (FOMC statement, rate decision, minutes, press conference), consumer surveys (CB Consumer Confidence,
+UoM Consumer Sentiment, UoM Inflation Expectations) and speeches (Fed Chair, FOMC members, Treasury Secretary).
+Use the exact Forex Factory English event names. Include actual, forecast and previous values as published. Never invent events or values:
+if unsure of a value, use "". Times in New York time (ET).
+Return ONLY JSON: {{"items": [{{"title": "CPI m/m", "datetime_et": "2026-11-12T08:30", "impact": "High", "actual": "0.3%", "forecast": "0.2%", "previous": "0.4%"}}]}}
+"""
+
+
+def calendar_ai():
+    """Rellena los datos reales y reconstruye las semanas pasadas del mes."""
+    cal = load("calendar.json", {"events": []})
+    if not GEMINI_KEY or not cal.get("events"):
+        return cal.get("events", [])
+    now = now_utc()
+    events = {e["id"]: e for e in cal["events"]}
+    changed = False
+
+    # a) datos reales de lo ya publicado
+    pend = [e for e in events.values()
+            if e["impact"] in ("Alto", "Medio") and not e.get("actual")
+            and now - timedelta(days=10) < parse_iso(e["date"]) < now - timedelta(minutes=12)
+            and e.get("_tries", 0) < 10 and minutes_since(e.get("_tried_at")) >= 20
+            and "scheduled" not in e.get("title_en", "")
+            and not re.search(r"Speaks|Testifies|Minutes|Statement|Press Conference|Projections", e.get("title_en", ""))]
+    pend = sorted(pend, key=lambda e: e["date"])[:12]
+    if pend:
+        rows = "\n".join(f"{e['id']} | {e['date']} | {e['title_en']} | {e.get('forecast') or '-'} | {e.get('previous') or '-'}" for e in pend)
+        for e in pend:
+            e["_tries"] = e.get("_tries", 0) + 1
+            e["_tried_at"] = iso(now)
+        changed = True
+        try:
+            res, _ = gemini_json(ACTUALS_PROMPT.format(rows=rows), max_tokens=1500, search=True)
+            got = 0
+            for it in res.get("items", []):
+                e = events.get(it.get("id"))
+                v = clean_val(it.get("actual"))
+                if e and v:
+                    e["actual"], e["actual_source"] = v, "Google (IA)"
+                    got += 1
+            ok("calendario_ia", {"actuals": got})
+        except Exception as ex:
+            fail("calendario_ia", f"datos reales: {ex}")
+
+    # b) reconstruir las semanas pasadas del mes que Forex Factory ya no ofrece
+    ff_dates = [parse_iso(e["date"]) for e in events.values() if e.get("source") == "Forex Factory"]
+    if ff_dates:
+        first_ff = min(ff_dates).astimezone(NY).date()
+        cover_start = first_ff - timedelta(days=first_ff.weekday())
+        today = now.astimezone(NY).date()
+        month_start = today.replace(day=1)
+        if month_start.weekday() >= 5:  # el mes empieza en fin de semana: primera semana = el lunes siguiente
+            mon = month_start + timedelta(days=7 - month_start.weekday())
+        else:
+            mon = month_start - timedelta(days=month_start.weekday())
+        done = cal.setdefault("backfilled", {})
+        calls = 0
+        while mon < cover_start and calls < 2:
+            key = mon.isoformat()
+            st = done.get(key) or {}
+            if not st.get("ok") and st.get("tries", 0) < 4 and minutes_since(st.get("at")) >= 120:
+                calls += 1
+                fri = mon + timedelta(days=4)
+                st = {"tries": st.get("tries", 0) + 1, "at": iso(now), "ok": False}
+                try:
+                    res, _ = gemini_json(BACKFILL_PROMPT.format(mon=mon.isoformat(), fri=fri.isoformat()),
+                                         max_tokens=4000, search=True)
+                    raw = []
+                    for it in res.get("items", []):
+                        try:
+                            dt = datetime.fromisoformat(str(it.get("datetime_et", ""))[:16]).replace(tzinfo=NY)
+                        except Exception:
+                            continue
+                        if not (mon <= dt.date() <= fri):
+                            continue
+                        raw.append({"title": str(it.get("title", "")).strip()[:80], "country": "USD", "date": dt.isoformat(),
+                                    "impact": it.get("impact", ""), "forecast": clean_val(it.get("forecast")),
+                                    "previous": clean_val(it.get("previous")), "actual": clean_val(it.get("actual"))})
+                    norm = normalize_ff(raw)
+                    for e in norm:
+                        e["source"] = "Google (IA)"
+                        if e.get("actual"):
+                            e["actual_source"] = "Google (IA)"
+                        events[e["id"]] = e
+                    st["ok"] = bool(norm)
+                    st["events"] = len(norm)
+                except Exception as ex:
+                    print(f"[aviso] historial {key}: {ex}", file=sys.stderr)
+                done[key] = st
+                changed = True
+            mon += timedelta(days=7)
+
+    if changed:
+        evs = sorted(events.values(), key=lambda e: (e["date"], {"Alto": 0, "Medio": 1, "Bajo": 2, "Festivo": 3}.get(e["impact"], 4)))
+        cal["events"] = evs
+        save("calendar.json", cal)
+    return cal["events"]
+
+
+EXPLAIN_PROMPT = """Eres el analista de confianza de un trader de futuros del Nasdaq 100 (NQ) que quiere entender el calendario económico SIN tecnicismos.
+Semana: del lunes {mon} al viernes {fri}. Fecha y hora actual en Madrid: {now}.
+Para cada evento de abajo:
+- Si ya tiene dato REAL: compáralo con la previsión y explica en 1-2 frases muy sencillas qué significa y cómo suele afectar al NQ.
+- Si aún NO tiene dato real: explica qué se espera y qué pasaría si sale mejor o peor de lo previsto (1-2 frases, en condicional).
+Al final, un resumen de la semana en 2-3 frases sencillas (si la semana aún no ha empezado, una previa de lo que se espera).
+No inventes datos: usa solo los de abajo. Si usas un término técnico, explícalo en la misma frase. Horas en hora de Madrid.
+Devuelve SOLO JSON:
+{{
+ "resumen": "2-3 frases",
+ "items": [{{"id": "id del evento", "estado": "Publicado|Pendiente", "resultado": "Mejor de lo esperado|Peor de lo esperado|En línea|Pendiente",
+            "explicacion": "1-2 frases sencillas", "efecto_nq": "Positivo|Negativo|Neutral|Depende"}}]
+}}
+"resultado" se valora desde el punto de vista del NQ (por ejemplo, una inflación más alta de lo esperado es "Peor de lo esperado" para el NQ).
+
+EVENTOS (id | día y hora Madrid | evento | impacto | real | previsión | anterior):
+{rows}
+"""
+
+
+def update_explanations(events):
+    if not GEMINI_KEY:
+        return
+    ex = load("explicaciones.json", {"weeks": {}})
+    weeks = ex.setdefault("weeks", {})
+    now = now_utc()
+    today = now.astimezone(MAD).date()
+    this_mon = today - timedelta(days=today.weekday())
+    # semanas con eventos: del mes actual hacia delante (pasadas solo si faltan)
+    by_week = {}
+    for e in events:
+        if e["impact"] == "Festivo":
+            continue
+        d = parse_iso(e["date"]).astimezone(MAD).date()
+        mon = d - timedelta(days=d.weekday())
+        by_week.setdefault(mon, []).append(e)
+    todo = []
+    for mon, evs in sorted(by_week.items()):
+        key = mon.isoformat()
+        sig = uid(*[f"{e['id']}{e.get('actual', '')}" for e in evs])
+        w = weeks.get(key) or {}
+        if w.get("sig") == sig:
+            continue
+        is_future = mon > this_mon
+        if is_future and today.weekday() < 4 and mon - this_mon > timedelta(days=7):
+            continue  # semanas lejanas: no merece la pena todavia
+        if mon < this_mon and w and (w.get("tries", 0) >= 3):
+            continue
+        todo.append((mon, evs, sig))
+    # primero la semana actual, luego la siguiente, luego las pasadas
+    todo.sort(key=lambda t: (0 if t[0] == this_mon else 1 if t[0] > this_mon else 2, abs((t[0] - this_mon).days)))
+    for mon, evs, sig in todo[:2]:
+        key = mon.isoformat()
+        rows = "\n".join(
+            f"{e['id']} | {fmt_mad(e['date'], '%a %d %H:%M')} | {e['title']} ({e['title_en']}) | {e['impact']}{' CLAVE' if e.get('key') else ''} | "
+            f"{e.get('actual') or '-'} | {e.get('forecast') or '-'} | {e.get('previous') or '-'}" for e in sorted(evs, key=lambda x: x["date"]))
+        prompt = EXPLAIN_PROMPT.format(mon=mon.isoformat(), fri=(mon + timedelta(days=4)).isoformat(),
+                                       now=now.astimezone(MAD).strftime("%A %d/%m/%Y %H:%M"), rows=rows)
+        w = weeks.get(key) or {}
+        try:
+            res, model = gemini_json(prompt, max_tokens=4000)
+            ids = {e["id"] for e in evs}
+            res["items"] = [i for i in res.get("items", []) if i.get("id") in ids]
+            weeks[key] = {"sig": sig, "generated_at": iso(now), "resumen": res.get("resumen", ""),
+                          "items": res["items"], "tries": 0}
+            ok("explicaciones", {"week": key})
+        except Exception as e:
+            w["tries"] = w.get("tries", 0) + 1
+            weeks[key] = w
+            fail("explicaciones", f"Gemini: {e}")
+    # conservar ~4 meses
+    cutoff = (this_mon - timedelta(days=120)).isoformat()
+    ex["weeks"] = {k: v for k, v in weeks.items() if k >= cutoff}
+    ex["updated_at"] = iso(now)
+    save("explicaciones.json", ex)
+
+
+# ----------------------------------------------------------------------------
 # Principal
 # ----------------------------------------------------------------------------
 
@@ -1458,6 +1673,7 @@ def main():
             return default
 
     calendar = safe(update_calendar, "calendario", load("calendar.json", {}).get("events", []))
+    calendar = safe(calendar_ai, "calendario_ia", calendar)
     markets = safe(update_markets, "mercados", load("markets.json", {"main": [], "heavy": []}))
     news = safe(update_news, "noticias", load("news.json", {"items": []}))
     fed = safe(update_fed, "fed", load("fed.json", {"items": []}))
@@ -1468,6 +1684,7 @@ def main():
     safe(update_earnings, "resultados", None)
     safe(update_earnings_summary, "resultados_ia", None)
     safe(lambda: update_periodico(calendar, markets, news, trump, fed), "periodico", None)
+    safe(lambda: update_explanations(calendar), "explicaciones", None)
 
     STATUS["updated_at"] = iso(now_utc())
     STATUS["demo"] = False

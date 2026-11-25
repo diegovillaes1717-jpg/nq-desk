@@ -4,7 +4,7 @@
 
   var TZ = 'Europe/Madrid';
   var ET = 'America/New_York';
-  var FILES = ['status', 'calendar', 'markets', 'news', 'trump', 'periodico', 'fed', 'earnings'];
+  var FILES = ['status', 'calendar', 'markets', 'news', 'trump', 'periodico', 'fed', 'earnings', 'explicaciones'];
   var REFRESH_MS = 60 * 1000;
   var TABS = ['panel', 'calendario', 'periodico', 'trump', 'mercados', 'resultados', 'fed', 'introduccion', 'guia'];
 
@@ -268,7 +268,7 @@
   /* ---------------- eventos ---------------- */
   function valsHTML(e) {
     var v = [];
-    if (e.actual) v.push('Real <b>' + esc(e.actual) + '</b>');
+    if (e.actual) v.push('Real <b>' + esc(e.actual) + '</b>' + (e.actual_source ? '<span title="Dato real obtenido con búsqueda de Google (IA)">*</span>' : ''));
     if (e.forecast) v.push('Prev. <b>' + esc(e.forecast) + '</b>');
     if (e.previous) v.push('Ant. <b>' + esc(e.previous) + '</b>');
     return v.length ? '<div class="vals">' + v.join(' · ') + '</div>' : '';
@@ -342,8 +342,38 @@
       ['Alto', 'Medio'].map(function (i) { return '<button class="fchip' + (S.imp[i] ? ' on' : '') + '" data-act="imp" data-v="' + i + '"><span class="dot-i ' + i + '"></span>' + i + '</button>'; }).join('') +
       '<button class="fchip' + (S.onlyKey ? ' on' : '') + '" data-act="key"><span class="dot-i" style="background:var(--key)"></span>Solo clave (FOMC, IPC, NFP, PCE…)</button></div>';
   }
+  var weekExplainHTML = '';
+  function explainHTML(monday, keys, byDay) {
+    var ex = (S.d.explicaciones && S.d.explicaciones.weeks) || {};
+    var w = ex[monday];
+    var today = dayKey(new Date());
+    var evs = [];
+    keys.forEach(function (k) { (byDay[k] || []).forEach(function (e) { if (e.impact !== 'Festivo') evs.push(e); }); });
+    var past = keys[6] < today, future = monday > today;
+    var html = '<div class="card"><div class="card-h"><div><h2>' + (future ? 'Previa de la semana' : 'Explicación de la semana') + '</h2><div class="sub">Qué ha salido, qué significa y cómo afecta al NQ, en lenguaje sencillo' + (w && w.generated_at ? ' · actualizado ' + ago(w.generated_at) : '') + '</div></div></div>';
+    if (!w || !w.items) {
+      html += '<div class="empty">' + (future ? 'La previa aparecerá cuando Forex Factory publique los eventos de esta semana.' : past ? 'Todavía no hay explicaciones para esta semana; se generan automáticamente.' : 'Las explicaciones se están generando; aparecerán en unos minutos.') + '</div></div>';
+      return html;
+    }
+    if (w.resumen) html += '<p class="lead" style="margin:0 0 14px;font-size:16px">' + esc(w.resumen) + '</p>';
+    var byId = {}; w.items.forEach(function (i) { byId[i.id] = i; });
+    var rows = evs.filter(function (e) { return byId[e.id]; });
+    html += rows.length ? '<div class="list">' + rows.map(function (e) {
+      var it = byId[e.id], pub = it.estado === 'Publicado' || !!e.actual;
+      var rc = { 'Mejor de lo esperado': 'Positivo', 'Peor de lo esperado': 'Negativo', 'En línea': 'Neutral' }[it.resultado] || 'Mixto';
+      var ef = { 'Positivo': 'up', 'Negativo': 'down' }[it.efecto_nq] || 'flat';
+      return '<div class="today-ev' + (e.key ? ' xkey' : '') + '" style="align-items:flex-start"><span class="tm" style="width:86px">' + cap(fmt(e.date, { weekday: 'short' })) + ' ' + hm(e.date) + '</span>' +
+        '<span class="ti">' + esc(e.title) + (e.key ? ' <span class="pill key" style="border:1px solid var(--key)">CLAVE</span>' : '') +
+        '<div class="vals" style="margin-top:3px">' + (e.actual ? 'Real <b>' + esc(e.actual) + '</b> · ' : '') + (e.forecast ? 'Prev. <b>' + esc(e.forecast) + '</b> · ' : '') + (e.previous ? 'Ant. <b>' + esc(e.previous) + '</b>' : '') + '</div>' +
+        '<div style="font-weight:400;margin-top:5px;font-size:14px;color:var(--muted2)">' + esc(it.explicacion) + '</div></span>' +
+        '<span style="display:flex;flex-direction:column;gap:5px;align-items:flex-end">' + (pub ? '<span class="tono ' + rc + '" style="font-size:10px;padding:3px 8px;white-space:nowrap">' + esc(it.resultado || '').toUpperCase() + '</span>' : '<span class="pill Info">PENDIENTE</span>') +
+        (it.efecto_nq ? '<span class="sub ' + ef + '" style="font-size:11px;font-weight:700;white-space:nowrap">NQ: ' + esc(it.efecto_nq) + '</span>' : '') + '</span></div>';
+    }).join('') + '</div>' : '<div class="empty">Sin eventos que explicar esta semana.</div>';
+    return html + '</div>';
+  }
   function renderCalendar() {
     var el = $('tab-calendario');
+    weekExplainHTML = '';
     var html = '<div class="card">';
     var evs = events().filter(evPass);
     var nk = nextKey(), nextId = nk && !nk.now ? nk.e.id : null;
@@ -366,6 +396,8 @@
       html += '</div></div>';
       var hasAny = show.some(function (k) { return byDay[k].length; });
       if (!hasAny && S.weekOff > 0) html += '<p class="sub" style="margin-top:12px">Forex Factory publica el calendario semana a semana: esta semana aparecerá automáticamente cuando esté disponible.</p>';
+      if (show.some(function (k) { return byDay[k].some(function (e) { return e.source === 'Google (IA)'; }); })) html += '<p class="sub" style="margin-top:12px">Semana reconstruida con búsqueda de Google (IA), porque Forex Factory ya no la ofrece en su feed. * = dato real obtenido con búsqueda de Google.</p>';
+      weekExplainHTML = explainHTML(monday, keys, byDay);
     } else {
       var tp = today.split('-'), y = +tp[0], m = +tp[1] + S.monthOff;
       while (m > 12) { m -= 12; y++; } while (m < 1) { m += 12; y--; }
@@ -386,9 +418,9 @@
             return '<span class="mev' + (e.key ? ' key' : '') + '">' + (e.key ? '' : '<span class="dot-i ' + e.impact + '"></span>') + '<span class="tm">' + hm(e.date) + '</span><span class="txt">' + esc(e.title) + '</span></span>';
           }).join('') + (list.length > 5 ? '<span class="mmore">+' + (list.length - 5) + ' más</span>' : '') + '</button>';
       }
-      html += '</div></div><p class="sub" style="margin-top:12px">Pulsa un día para verlo en la vista semanal. Las semanas futuras se completan automáticamente cuando Forex Factory las publica; las reuniones del FOMC programadas ya aparecen.</p>';
+      html += '</div></div><p class="sub" style="margin-top:12px">Pulsa un día para verlo en la vista semanal, con su explicación. Las semanas futuras se completan automáticamente cuando Forex Factory las publica; las semanas pasadas del mes se reconstruyen con búsqueda de Google.</p>';
     }
-    html += '</div>';
+    html += '</div>' + weekExplainHTML;
     el.innerHTML = html;
   }
 
