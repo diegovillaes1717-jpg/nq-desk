@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T21:17:44Z",
+ "updated_at": "2026-11-25T21:22:27Z",
  "items": [
   {
    "id": "d91818e098c884",
@@ -240,16 +240,6 @@
    "date": "2026-11-25T20:33:00Z",
    "score": 11,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "effdbe42672a91",
-   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclhZdHJiT1hoQ1Vka2hsNU5xQjhzOXdzNWNHRnVzUVRoNUNzMHc2R1VNc2xSZEo4RnIyNEMtZF9hSExyS1FqcHR2SmZfZFhqYThNSXRGb0RfVTl2am12aTZpNDF2cEJ4NVpEZ3JLREtwaUd0b0VCRXdhbV82aDJJYkVIbDNMb0RmWEdJNzAyZGYzSndzYkNRZEZER2o1UDVqZ3lR?oc=5",
-   "source": "WTVB",
-   "date": "2026-11-25T20:30:27Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "f4a3d414743ea0",
@@ -692,6 +682,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "effdbe42672a91",
+   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T19:19:43Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "e37cc7db70f13a",
    "title": "S&P 500 Opens Down 2.2% as Nasdaq Drops 4.5% in Broad Selloff",
    "summary": "",
@@ -782,16 +782,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "ee953e2e825490",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-25T19:05:54Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "20c41f4f1e647e",
    "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years",
    "summary": "",
@@ -810,6 +800,16 @@
    "date": "2026-11-25T19:03:00Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGpxc1diLXMybGlNcHNrd05HNzl3TE5YbHRfbWVYdnNvS3dpS2pEcm1tbGRIczlzMDVIeWVFS3dqa1kxUlBWaW5uNGpYWXBHMVRQSDNTU1M5Y1NXc3UtaGdkcU5aenBjUlM0UzhpcWxORjRmTkctQ2t3YjktTVhMcjNUTUFWa2ZCRDJIWURHWWNQYnJJMjRNaW1iMzh3YURZN2Z4Nk1n0gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:02:52Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a416536b42411",
