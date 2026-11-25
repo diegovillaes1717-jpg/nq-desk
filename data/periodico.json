@@ -1,147 +1,157 @@
 {
- "edition_key": "2026-11-25-manana",
- "edition": "manana",
- "edition_name": "Edición de mañana",
- "generated_at": "2026-11-25T06:42:11Z",
+ "edition_key": "2026-11-25-preapertura",
+ "edition": "preapertura",
+ "edition_name": "Previa de la apertura de Nueva York",
+ "generated_at": "2026-11-25T14:01:20Z",
  "ai": true,
  "model": "gemini-3.6-flash",
  "content": {
-  "titular": "La rotación bajista en las tecnológicas y las dudas sobre la IA arrastran al NQ antes del dato del PCE",
+  "titular": "Los futuros del NQ se hunden un 3% por el desplome en los chips de IA y un PCE que impulsa subidas de tipos",
   "en_pocas_palabras": [
-   "Los valores del sector de la inteligencia artificial han sufrido caídas importantes tras desinflarse el impulso comprador previo, haciendo retroceder a los futuros del Nasdaq.",
-   "A este castigo en los valores tecnológicos se le suman las renovadas dudas y preocupaciones sobre los aranceles comerciales de Estados Unidos.",
-   "Hoy a las 14:30 se publica el PCE subyacente, que es el indicador de inflación preferido de la Reserva Federal (el banco central de EE. UU.) para decidir el rumbo de los tipos de interés.",
-   "Para el futuro del Nasdaq (NQ), este contexto se traduce en caídas y cautela a la espera de comprobar si los datos de inflación reactivan las tensiones en el mercado."
+   "Los futuros del Nasdaq están cayendo con fuerza antes de la apertura debido a la venta masiva en empresas de inteligencia artificial y al temor por nuevos aranceles en EE. UU.",
+   "Además, el PCE (el medidor de inflación preferido por la Reserva Federal o Fed) ha subido al 3,8% anual en octubre.",
+   "Este repunte de los precios es relevante porque reduce las esperanzas de bajadas de tipos y refuerza la posibilidad de que la Fed vuelva a subir los tipos de interés en su reunión de diciembre.",
+   "Para el NQ, la combinación de tipos de interés altos durante más tiempo y las abultadas caídas en fabricantes de semiconductores como AMD y Nvidia supone una fuerte presión bajista."
   ],
-  "resumen": "Los futuros del NQ caen un 1,5% arrastrados por el desplome en valores semiconductores como AMD (-8,86%) y Nvidia (-5,86%), junto al temor a nuevos aranceles comerciales. La atención de la jornada se traslada a la publicación del dato del PCE subyacente a las 14:30 en Madrid.",
+  "resumen": "Los futuros del NQ retroceden un 3,17% arrastrados por una liquidación violenta en el sector semiconductor de IA y temores arancelarios. El PCE de octubre repuntó al 3,8% interanual, consolidando las expectativas de una subida de tipos de la Fed en diciembre y disparando el VIX por encima de 30.",
   "tono": "Negativo",
-  "tono_motivo": "La corrección en el sector de inteligencia artificial y la incertidumbre previa al PCE aumentan la presión vendedora sobre el NQ.",
+  "tono_motivo": "Fuerte caída del NQ (-3,17%), descalabro en los principales valores de semiconductores de IA y un dato de inflación PCE que presiona a la Fed a subir tipos.",
   "claves": [
    {
-    "titulo": "Intensificación de las ventas en semiconductores e IA",
-    "detalle": "Valores clave del Nasdaq como AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%) lideran los números rojos al perder fuerza el rebote reciente.",
+    "titulo": "Castigo severo en semiconductores e IA",
+    "detalle": "Las acciones de AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%) sufren duras caídas antes de la apertura, arrastrando al sector tecnológico.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUxsQTUyYVlIQ2hsc1Y3VTN4eUQ0SkxldnBzX1pPS1lIeE9wMzdweTlBUXVSNFhOc2xTWkR0UU1Ca3JGVTlwcnF1YXd2WFFPODFwSlEyOWxqLUpLcGFmZFVWbzUyZlgweHZnaVM5Qzhta3B3dmo3WC1KU2JVWVd6VGhjT25MZ2R4UHF0akQ1TmF3TTd1UVNiNzJ6S0s?oc=5"
+      "title": "Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUJWb01KUEU4MUtXeHJ2aDVRLVA4OEZiN3dLcFc4NTctbXpfZ25IT0VKSWZrYU52MVFDd1lkcGFLNTU4VkpvRHJBdzBqVEJodE50enVONHZ0RkZYR2p0WHhqYzhsTDBXTVpyOHlORVdZT3R1Q2QyUXBTMUVYZ1FXY1pzUW9ISVdodWZaZXBTMzZOOHRnMlNLZ0Y3WlFZMGdKbzY3MFptY3VHY2xyMUhnY3lEME1NNlR0NlN2cmpIdjJ1Zzh4?oc=5"
      },
      {
-      "title": "FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5"
+      "title": "Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVnYtNDRjbjRURXZnNkJfT2w2Vk5QTFZDRDhNeHNyYkwtZjc2dnI2NGdxUDhkbTh4TTVWdHRfNFFrNUVCZThYQTR1eXh4NDBEUDh1LVpCWmxJQXNBcHJPMGpkbGo?oc=5"
      },
      {
-      "title": "tastylive",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnNDdWpBS0hJU1QtcHd0N0xrTXZnTU05ZXNYZElBSzlESldyZGdhaVZESjlOaEdzMHRMYzl5Vl9iUFB4TE9YN1RtYlljcGR6WHNmV05VSEpSLTFYZ0o3Y1RseFpuNVdfQ1ZJZ0Fkc0RnMDVVRE82RVFUX21iR29EQlhkbWZFY1EtbEtDS01uS2ZXbTdWYUJaT0JRbDhucGYyZVpRSw?oc=5"
+      "title": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM196X0M0V2dMakhLSk5xWWx6RkRQc2lpaXUwcUdtX3Fkdnd0RllyNUJkSWNjWDBaZFVTQ0VkV2dzdzR1YWZNQV9scWtYMFJFSnE3NDJRaFpIOWpkS01zVndDWDdxQW4yeVdORVZIT0thaVpkSGRQOG1Ha1VOUERxSDlhRnVUUWs3R1RWRHJXOVhObXhEM2plTVJpaXllUkV6WXNkeERHcF8?oc=5"
      }
     ]
    },
    {
-    "titulo": "Expectación máxima ante la inflación PCE",
-    "detalle": "El mercado aguarda el dato del PCE subyacente a las 14:30 (previsión del 0,3% m/m), factor determinante para las quinielas sobre los tipos de la Fed.",
+    "titulo": "El PCE repunta al 3,8% e impulsa expectativas de subida de tipos",
+    "detalle": "El indicador de inflación preferido de la Fed subió en octubre en línea con lo previsto, lo que prácticamente garantiza una subida de tipos en la reunión de diciembre.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "Kotak Neo",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
+      "title": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9qeDB4aXhub3VDbHZ6MVQyN2E0OUNVc3p1YjNXUF83UjRpWTNXOXlqMnh0NV9mQ1lZUzNpd2stWGZlLXpXdFROTUZTYlhrajF5bXVZY1Jkb1ZVRnJINl93SU50TFdHbWpWbG8wbUxjSVR3OE03Tmo2YW9SQjJ3VHVUT2MxMkRnRC11bC01OFh5SFVqV29jeEh1Y3lhLWZGUnVJbWR3?oc=5"
      },
      {
-      "title": "富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUERYOGl5S3BNUnpyU3A5MU5NOW5FSldnZHo3X3o2M1ByNXFrMDVWcW1mdWF0YXRWSlVMNndLRDdicW00amdxaUtvX2IxeTNUTEt2Zy1lRXhfY1VjaTlYM3E1VlIwNFBON255elRfR2lRXzNsLTI1c0RjLUtKU2pXUWMtU2hYeFY0YTJlN3FfdDdPajJ2Q0E?oc=5"
+      "title": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LZDNFVHJfNk9lZzlwczJWcnUxYVFTT2RPLXZDdk50V3ZUZEZVVnJ4T3diWjNQYk13S1pGdHhkTGoxb3F2NThLcWk3RWRGMF9nLUNmdEdXMHVuendSWmRrS3Bob1pjYmtYa0hVdFFOZm1vUmQ2ZDZkZQ?oc=5"
+     },
+     {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
      }
     ]
    },
    {
-    "titulo": "Regreso de los temores arancelarios",
-    "detalle": "Las amenazas sobre la aplicación de aranceles por parte de EE. UU. dañan el sentimiento en las bolsas asiáticas y globales.",
+    "titulo": "Temores por nuevos aranceles comerciales",
+    "detalle": "Informes sobre inminentes aranceles masivos por parte de la administración estadounidense incrementan la cautela en la renta variable global.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lpS2gxdmJfVkNSRTR2SUhNbjJCdUtMYVp4VGRiem91TUtUMGhCVlRRSEM1SzhmMC1HZGs2TkwzanE4c253SmNWTk4zOTVlcWdGX21xVmFlSW1SWi1ESGxnRGNKT0FySlBRX0R4VHBLcXdsaW1aUGEtSVpJWC1ySnVBSTQ3ellUX29XTll5LXFrMzdYeWVXOHczUEtxWUZXQlY4X2ZTemlRWEloRnJUWjhkclNEekhKRGtjeWVEOTFWOUU?oc=5"
+      "title": "Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUJWb01KUEU4MUtXeHJ2aDVRLVA4OEZiN3dLcFc4NTctbXpfZ25IT0VKSWZrYU52MVFDd1lkcGFLNTU4VkpvRHJBdzBqVEJodE50enVONHZ0RkZYR2p0WHhqYzhsTDBXTVpyOHlORVdZT3R1Q2QyUXBTMUVYZ1FXY1pzUW9ISVdodWZaZXBTMzZOOHRnMlNLZ0Y3WlFZMGdKbzY3MFptY3VHY2xyMUhnY3lEME1NNlR0NlN2cmpIdjJ1Zzh4?oc=5"
      },
      {
-      "title": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanFIWUdZeGFoUkJfd3FvUXRHNkNFcjY0T0JNZ040TDZiTHBKMmJVTGNXS2Q5SGhWbmFNWVJPYXU3WUlFcjFFWXR0djFWT1pQNVdwOHRPR0JpczZJdjBXM1RQS3RkNzl4ZUU4STJuTndzQkx2QW13SEU0am1FX3ByclZYYnVhVHNHSEJpeURyS3V0RVhmQVRxWjhHTWxzZHdZS2hXTFQzMm5qWElEeHA1LTZhb0tTSy1uSjdYcy1YZDVmWU9DWFdDTkMwT1lWRDQ?oc=5"
+      "title": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMzFGWHF5OVhuNTdCU2FNeHdKNXdGWklxaXpGMVlDNUp0TVJLbHM4RGZ0aElBbnF6dVJRTVZ5cnFDZ3FRZWg1b3Y4cGNRcWM5MnBROFFkWjBfRThmSmtad0JjcW5HNFRLLXhRLUdCWlRNQ2Q2bU16QjB0Rmg5ejBFSjd5MW04S3M2a00zQzhYbGI0Tkd4Vk9wTXJTUGc5bUZnOHdxNjU3TUJmTnR6NURUbElnZF9pbVduYmNWdFZac0wyTnRVWmVWX2t2ZUVUYVQwWUpuTkdPMEprZ2dEWkxXQ0VCbUdVOEhHNm05bTJaQzRUYzBwWElDbDJocVRrU0czUTVSd1FhQk5sWDZhdkJIZWdtQV90Y0VUU29EZzJsOU9rZGdaQTVnVUFxZ05vdkk?oc=5"
      },
      {
-      "title": "FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0VNczd3MDZMMUdTRFU1RXBkX294N2Q1TnM3RmRYNHpoWXpkZ1l4UXE0MWdUWUNaYmhnNkRDOVlOdHl1RVc4VkdJc1FjcFE4ZWI3Nzc2a2QxSjlhdVB4YWZUaTRsYmNVQzNZOEViWXA3c1JrcHNhdE8wek5EM3JkSnRCX212WFJfRk53WjBoeUVZQnlyWmUwb25oODJpYmNWMXRDNHQ3b0toVV9jak5Yck5vRQ?oc=5"
+      "title": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuaUF4QVI4VV9SMFJmUnducUVTV2N6SnFQeEJVRjY4Ukx2Sm1jSjdsd1hYRk5JZ09IckRtTkFqeDBRSk4yQkg5eG5HRTFhOVRzZmZnbVFNZXNhczhUbVdvd25jcU5Ob05BMzlxYVRyWEg5S1VWNlE?oc=5"
      }
     ]
    },
    {
-    "titulo": "Aumento de coberturas bajistas institucionales",
-    "detalle": "Fondos milmillonarios han incrementado las opciones put sobre el Nasdaq 100 como medida de protección ante la volatilidad tecnológica.",
+    "titulo": "El PIB del tercer trimestre se revisa al alza al 4,3%",
+    "detalle": "La revisión preliminar del PIB t/t mostró una fortaleza económica superior a la esperada, complicando la tarea de la Fed para contener la inflación.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk0xQktlM29UM2NqdEpCbGhwd0M3czZ1d0tMR0FRZWFJUnV3ZC1YeXdjWjgxUUQ1RzltUnNhbXFoSWVvVXBfV2lyMjhqUmJva1FLWExKTGFxYm1IcXl5YXlDYkYxWE9yTWoySEtfU0xOYTZRTGZ6ekhfcjk1ZUF0TkdiNXVVbUJTb1FrNWR4S19NS1hWdDFqZTFvUVJJbl9lRFpyWDhydGszUQ?oc=5"
+      "title": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9qeDB4aXhub3VDbHZ6MVQyN2E0OUNVc3p1YjNXUF83UjRpWTNXOXlqMnh0NV9mQ1lZUzNpd2stWGZlLXpXdFROTUZTYlhrajF5bXVZY1Jkb1ZVRnJINl93SU50TFdHbWpWbG8wbUxjSVR3OE03Tmo2YW9SQjJ3VHVUT2MxMkRnRC11bC01OFh5SFVqV29jeEh1Y3lhLWZGUnVJbWR3?oc=5"
+     }
+    ]
+   },
+   {
+    "titulo": "Repunte de la volatilidad VIX por encima de 30",
+    "detalle": "El índice VIX se dispara un 19,2% en la jornada hasta los 31,42 puntos, reflejando una clara aversión al riesgo entre los operadores.",
+    "impacto": "Alto",
+    "links": [
+     {
+      "title": "CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYmUzak9PS3A4MTFGMmcwcm9iVjVDempsUVhfb3hzVF8xd0I1ajBTS3Rva3hNeVd6SkxaUlFaWW5RbjVrQWNNSG9EZjBmM3Jkb3Qyem1YMzZEMm9iWGN3M2dERlE0am9LZk9zekwzYlAzNnpmNmYweg?oc=5"
      }
     ]
    }
   ],
   "secciones": [
    {
-    "nombre": "Tecnológicas",
+    "nombre": "Fed y tipos",
     "puntos": [
      {
-      "texto": "Las caídas en los gigantes de los chips arrastran al resto del sector tecnológico, provocando también un desplome superior al 14% en SoftBank en la sesión asiática.",
+      "texto": "El dato de inflación PCE de octubre se situó en el 3,8% anual, reforzando la postura halcón de la Fed y elevando al 94% las apuestas del mercado por una subida de tipos en diciembre.",
       "links": [
        {
-        "title": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+        "title": "Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LZDNFVHJfNk9lZzlwczJWcnUxYVFTT2RPLXZDdk50V3ZUZEZVVnJ4T3diWjNQYk13S1pGdHhkTGoxb3F2NThLcWk3RWRGMF9nLUNmdEdXMHVuendSWmRrS3Bob1pjYmtYa0hVdFFOZm1vUmQ2ZDZkZQ?oc=5"
        },
        {
         "title": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+        "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
        },
        {
-        "title": "FXEmpire",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5"
+        "title": "Quartz",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wODJweTFxVnV0ckpza09tSHZmZENhaVBZbmp3alBoQklYNTFwM3FYWTJqRGxBYVpYQ1NTRmRxSkZiaW1CYnNtQmRieDh6Y2hNOGpYY1ozUWZFd1dhZ0Y0X1hVUkxPc3IwUHlPdg?oc=5"
        }
       ]
      },
      {
-      "texto": "Aunque valores como Apple (+1,43%) y Netflix (+1,33%) cotizan en positivo, la presión sobre Nvidia y AMD decanta el saldo global a la baja.",
+      "texto": "El crecimiento del PIB del tercer trimestre se revisó al alza al 4,3%, señal de una demanda interna fuerte que añade presión a los precios.",
       "links": [
        {
-        "title": "Startup Fortune",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUxsQTUyYVlIQ2hsc1Y3VTN4eUQ0SkxldnBzX1pPS1lIeE9wMzdweTlBUXVSNFhOc2xTWkR0UU1Ca3JGVTlwcnF1YXd2WFFPODFwSlEyOWxqLUpLcGFmZFVWbzUyZlgweHZnaVM5Qzhta3B3dmo3WC1KU2JVWVd6VGhjT25MZ2R4UHF0akQ1TmF3TTd1UVNiNzJ6S0s?oc=5"
+        "title": "Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9qeDB4aXhub3VDbHZ6MVQyN2E0OUNVc3p1YjNXUF83UjRpWTNXOXlqMnh0NV9mQ1lZUzNpd2stWGZlLXpXdFROTUZTYlhrajF5bXVZY1Jkb1ZVRnJINl93SU50TFdHbWpWbG8wbUxjSVR3OE03Tmo2YW9SQjJ3VHVUT2MxMkRnRC11bC01OFh5SFVqV29jeEh1Y3lhLWZGUnVJbWR3?oc=5"
        }
       ]
      }
     ]
    },
    {
-    "nombre": "Fed y tipos",
+    "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "El rendimiento del bono estadounidense a 10 años se sitúa en el 4,904% mientras los inversores mantienen la cautela previa a los datos macroeconómicos de EE. UU.",
+      "texto": "Intenso desplome en el sector semiconductor de IA: AMD se hunde un 8,86%, Nvidia cae un 5,86% y Broadcom cede un 3,98%.",
       "links": [
        {
-        "title": "Demokratis.co.id",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdGc2MV9XeFJpY19UY0cwMnc0UkNIVkhfM1ByR1R4VUduckNlQWFKTV96ZlpIMU1VMWcwbmJDZWJ4dGlUaC0zOVc4SFF0cmVLeTZWcWZXZjlQb3NidndwN1JGaGlZRzJpR2c?oc=5"
+        "title": "Binance",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVnYtNDRjbjRURXZnNkJfT2w2Vk5QTFZDRDhNeHNyYkwtZjc2dnI2NGdxUDhkbTh4TTVWdHRfNFFrNUVCZThYQTR1eXh4NDBEUDh1LVpCWmxJQXNBcHJPMGpkbGo?oc=5"
        },
        {
-        "title": "cwibc.co.id",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56MzFXUjFUQXBuNzh1M0YyTkVQeHc1cDRNcndQempENHh6b3h4QVRHMG9Yeml6UXdNUWRZUlVoQ2x0aHBLMWVvMXhXbWFydjNWQ01CLWFBb1FpRzMzT0lwOWp1TQ?oc=5"
+        "title": "CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM196X0M0V2dMakhLSk5xWWx6RkRQc2lpaXUwcUdtX3Fkdnd0RllyNUJkSWNjWDBaZFVTQ0VkV2dzdzR1YWZNQV9scWtYMFJFSnE3NDJRaFpIOWpkS01zVndDWDdxQW4yeVdORVZIT0thaVpkSGRQOG1Ha1VOUERxSDlhRnVUUWs3R1RWRHJXOVhObXhEM2plTVJpaXllUkV6WXNkeERHcF8?oc=5"
+       },
+       {
+        "title": "NewsBytes",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHJzTE9VdmxpZEh0OVdETV93Y2lNbUV6MHEwOTVpWlRaQTliR0JxbVFEYS0xXzJmd2dpNG16N3pUOVFEU0tiR05ETm9wcW5EOUFJVTNqRmdLb19SN1pDby1DMmRNWFQ1bVBYaDh1RWtqWW9GVTl1dkRleDlPN2JGMnV2dVlacDRhejFkQkV1MzVkcTcxcXV3V0NzRzVQcGFveU1ob2lHTXhfbjJh?oc=5"
        }
       ]
      },
      {
-      "texto": "Los participantes del mercado calibran la lectura del PCE junto al deflactor del PIB preliminar para anticipar los pasos del banco central.",
-      "links": [
-       {
-        "title": "Kotak Neo",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
-       },
-       {
-        "title": "BusinessToday Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1FvdW1pb3FpeEc0dDJzQ09nYzROclptX0pHcDBOVy1PaGVEVWx4enZXcWo3RTkyQ2g5XzQtbzNFY1AxY2daQ2d6aXRZcUIyR0xzaGFzbVI3dUd4UUFjTTlWUXNUTWk0YkNYaG1CTHNfMWFkSVZGNE9MSXVaay1FcXRfeGNGT00xeU1NcF9TOWRXYkl6Z3hFMTIxc0ROa21wSUpDMnhR?oc=5"
-       }
-      ]
+      "texto": "Apple (+1,43%) y Netflix (+1,33%) registran alzas moderadas en el premercado, actuando como raros apoyos en un índice muy castigado.",
+      "links": []
      }
     ]
    },
@@ -149,19 +159,19 @@
     "nombre": "Geopolítica y aranceles",
     "puntos": [
      {
-      "texto": "Los temores vinculados a la política arancelaria de Trump reaparecen en los mercados, penalizando la renta variable internacional.",
+      "texto": "Nuevas informaciones sobre planes arancelarios en EE. UU. sacuden a los valores tecnológicos globales y alimentan el temor a un endurecimiento del comercio internacional.",
       "links": [
        {
-        "title": "Zee Business",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHUzVV9RRjZrTTRpUmhnNEpCdUY0bUpTOE1CdjFVUlpqSXhKdVpJNEYwR3RJWFRRMUF5a0xwR0UyMnR0TFd6OWgwY24yYVJmQlo4ZU5WTHlWazc3eEdTWi1zMVNEME9sUGYza0tJYW9scHRFQ3BGbVFndmhNNVZuTnIybU5vMFc5Wlh2MW13bjRHNjVqM2d2S0Y1TWJMRGJXMEhPelI2d3dIWFdWU19wYWpqMHVZUQ?oc=5"
+        "title": "Investing.com South Africa",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUJWb01KUEU4MUtXeHJ2aDVRLVA4OEZiN3dLcFc4NTctbXpfZ25IT0VKSWZrYU52MVFDd1lkcGFLNTU4VkpvRHJBdzBqVEJodE50enVONHZ0RkZYR2p0WHhqYzhsTDBXTVpyOHlORVdZT3R1Q2QyUXBTMUVYZ1FXY1pzUW9ISVdodWZaZXBTMzZOOHRnMlNLZ0Y3WlFZMGdKbzY3MFptY3VHY2xyMUhnY3lEME1NNlR0NlN2cmpIdjJ1Zzh4?oc=5"
        },
        {
-        "title": "The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lpS2gxdmJfVkNSRTR2SUhNbjJCdUtMYVp4VGRiem91TUtUMGhCVlRRSEM1SzhmMC1HZGs2TkwzanE4c253SmNWTk4zOTVlcWdGX21xVmFlSW1SWi1ESGxnRGNKT0FySlBRX0R4VHBLcXdsaW1aUGEtSVpJWC1ySnVBSTQ3ellUX29XTll5LXFrMzdYeWVXOHczUEtxWUZXQlY4X2ZTemlRWEloRnJUWjhkclNEekhKRGtjeWVEOTFWOUU?oc=5"
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuaUF4QVI4VV9SMFJmUnducUVTV2N6SnFQeEJVRjY4Ukx2Sm1jSjdsd1hYRk5JZ09IckRtTkFqeDBRSk4yQkg5eG5HRTFhOVRzZmZnbVFNZXNhczhUbVdvd25jcU5Ob05BMzlxYVRyWEg5S1VWNlE?oc=5"
        },
        {
-        "title": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJ1MnFNV1NLNlMxbENCQUxMcTYxQm5OWEZ4WHlSWDJIaU12aTdYZGh4VmRPX1pWV096MFA5WU5zT2FQTTlKRXlvV2lrNmY5Ul85Z1ZRaVFrZDVRRW9DQ1BzU0M2cVRQRWxFbE4yaDFTS0hBRUVjZnVUZGQ4Z25XZWNLajFCY0xubkVNQlJLcmJpZE9vMGg3M3hNR1Z5Zw?oc=5"
+        "title": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakd5YkhEMWtNbHc1eVYxX1RBU1JDY1U3MXdIZEVaR1pRUE04YTRJbDNfT2pxRFlYYURxS3ZzLWFOdjhaVGN4UmVoYTBXQ1ZxVFdiUkd4MHRfS25xbTlxcV9tQ2tlTmlkcUVhNkMwaUlMSk44NGE4dlgwTXJ1cWpfclY2bzh1amdGYW4tLTJWUHFoWkQ5R3JfZ0JVWG9iRUdGN0phWWNkWG5lSzRBaU9Ga2w0Qm9qc3NkU2h4TzZMaTB1aG8?oc=5"
        }
       ]
      }
@@ -170,23 +180,206 @@
   ],
   "agenda": [
    {
-    "hora": "Mié 25 14:30",
-    "evento": "PCE subyacente m/m (Core PCE Price Index m/m)",
-    "por_que_importa": "Es la medida de inflación predilecta de la Reserva Federal y condicionará las expectativas de tipos de interés."
-   },
-   {
-    "hora": "Mié 25 14:30",
-    "evento": "Deflactor del PIB preliminar t/t (Prelim GDP Price Index q/q)",
-    "por_que_importa": "Aporta información complementaria sobre las presiones de precios en la economía estadounidense durante el tercer trimestre."
+    "hora": "Jue 26 14:00",
+    "evento": "Festivo bancario en EE. UU.",
+    "por_que_importa": "Los mercados estadounidenses permanecerán cerrados por festivo, lo que reducirá drásticamente la liquidez en la segunda mitad de la semana."
    }
   ],
   "riesgos": [
-   "Dato de PCE subyacente por encima del 0,3% estimado que reactive los temores de tipos de interés altos durante más tiempo.",
-   "Continuación de la racha vendedora en los pesos pesados de semiconductores (AMD, NVDA, AVGO) arrastrando al índice NQ.",
-   "Nuevas declaraciones sobre aranceles comerciales que incrementen la aversión al riesgo en la apertura de Wall Street."
+   "Continuación de la corriente liquidadora en el sector de chips de inteligencia artificial.",
+   "Endurecimiento de las expectativas monetarias de la Fed tras la firmeza mostrada por el PCE de octubre.",
+   "Anuncios formales de nuevas medidas arancelarias en EE. UU. que deterioren el comercio global.",
+   "Persistencia del VIX por encima de los 30 puntos, señalando elevada inestabilidad y volatilidad intradía."
   ]
  },
  "archive": [
+  {
+   "edition_key": "2026-11-25-manana",
+   "edition": "manana",
+   "edition_name": "Edición de mañana",
+   "generated_at": "2026-11-25T06:42:11Z",
+   "content": {
+    "titular": "La rotación bajista en las tecnológicas y las dudas sobre la IA arrastran al NQ antes del dato del PCE",
+    "en_pocas_palabras": [
+     "Los valores del sector de la inteligencia artificial han sufrido caídas importantes tras desinflarse el impulso comprador previo, haciendo retroceder a los futuros del Nasdaq.",
+     "A este castigo en los valores tecnológicos se le suman las renovadas dudas y preocupaciones sobre los aranceles comerciales de Estados Unidos.",
+     "Hoy a las 14:30 se publica el PCE subyacente, que es el indicador de inflación preferido de la Reserva Federal (el banco central de EE. UU.) para decidir el rumbo de los tipos de interés.",
+     "Para el futuro del Nasdaq (NQ), este contexto se traduce en caídas y cautela a la espera de comprobar si los datos de inflación reactivan las tensiones en el mercado."
+    ],
+    "resumen": "Los futuros del NQ caen un 1,5% arrastrados por el desplome en valores semiconductores como AMD (-8,86%) y Nvidia (-5,86%), junto al temor a nuevos aranceles comerciales. La atención de la jornada se traslada a la publicación del dato del PCE subyacente a las 14:30 en Madrid.",
+    "tono": "Negativo",
+    "tono_motivo": "La corrección en el sector de inteligencia artificial y la incertidumbre previa al PCE aumentan la presión vendedora sobre el NQ.",
+    "claves": [
+     {
+      "titulo": "Intensificación de las ventas en semiconductores e IA",
+      "detalle": "Valores clave del Nasdaq como AMD (-8,86%), Nvidia (-5,86%) y Broadcom (-3,98%) lideran los números rojos al perder fuerza el rebote reciente.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUxsQTUyYVlIQ2hsc1Y3VTN4eUQ0SkxldnBzX1pPS1lIeE9wMzdweTlBUXVSNFhOc2xTWkR0UU1Ca3JGVTlwcnF1YXd2WFFPODFwSlEyOWxqLUpLcGFmZFVWbzUyZlgweHZnaVM5Qzhta3B3dmo3WC1KU2JVWVd6VGhjT25MZ2R4UHF0akQ1TmF3TTd1UVNiNzJ6S0s?oc=5"
+       },
+       {
+        "title": "FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5"
+       },
+       {
+        "title": "tastylive",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnNDdWpBS0hJU1QtcHd0N0xrTXZnTU05ZXNYZElBSzlESldyZGdhaVZESjlOaEdzMHRMYzl5Vl9iUFB4TE9YN1RtYlljcGR6WHNmV05VSEpSLTFYZ0o3Y1RseFpuNVdfQ1ZJZ0Fkc0RnMDVVRE82RVFUX21iR29EQlhkbWZFY1EtbEtDS01uS2ZXbTdWYUJaT0JRbDhucGYyZVpRSw?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Expectación máxima ante la inflación PCE",
+      "detalle": "El mercado aguarda el dato del PCE subyacente a las 14:30 (previsión del 0,3% m/m), factor determinante para las quinielas sobre los tipos de la Fed.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Kotak Neo",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
+       },
+       {
+        "title": "富途牛牛",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUERYOGl5S3BNUnpyU3A5MU5NOW5FSldnZHo3X3o2M1ByNXFrMDVWcW1mdWF0YXRWSlVMNndLRDdicW00amdxaUtvX2IxeTNUTEt2Zy1lRXhfY1VjaTlYM3E1VlIwNFBON255elRfR2lRXzNsLTI1c0RjLUtKU2pXUWMtU2hYeFY0YTJlN3FfdDdPajJ2Q0E?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Regreso de los temores arancelarios",
+      "detalle": "Las amenazas sobre la aplicación de aranceles por parte de EE. UU. dañan el sentimiento en las bolsas asiáticas y globales.",
+      "impacto": "Medio",
+      "links": [
+       {
+        "title": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lpS2gxdmJfVkNSRTR2SUhNbjJCdUtMYVp4VGRiem91TUtUMGhCVlRRSEM1SzhmMC1HZGs2TkwzanE4c253SmNWTk4zOTVlcWdGX21xVmFlSW1SWi1ESGxnRGNKT0FySlBRX0R4VHBLcXdsaW1aUGEtSVpJWC1ySnVBSTQ3ellUX29XTll5LXFrMzdYeWVXOHczUEtxWUZXQlY4X2ZTemlRWEloRnJUWjhkclNEekhKRGtjeWVEOTFWOUU?oc=5"
+       },
+       {
+        "title": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanFIWUdZeGFoUkJfd3FvUXRHNkNFcjY0T0JNZ040TDZiTHBKMmJVTGNXS2Q5SGhWbmFNWVJPYXU3WUlFcjFFWXR0djFWT1pQNVdwOHRPR0JpczZJdjBXM1RQS3RkNzl4ZUU4STJuTndzQkx2QW13SEU0am1FX3ByclZYYnVhVHNHSEJpeURyS3V0RVhmQVRxWjhHTWxzZHdZS2hXTFQzMm5qWElEeHA1LTZhb0tTSy1uSjdYcy1YZDVmWU9DWFdDTkMwT1lWRDQ?oc=5"
+       },
+       {
+        "title": "FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0VNczd3MDZMMUdTRFU1RXBkX294N2Q1TnM3RmRYNHpoWXpkZ1l4UXE0MWdUWUNaYmhnNkRDOVlOdHl1RVc4VkdJc1FjcFE4ZWI3Nzc2a2QxSjlhdVB4YWZUaTRsYmNVQzNZOEViWXA3c1JrcHNhdE8wek5EM3JkSnRCX212WFJfRk53WjBoeUVZQnlyWmUwb25oODJpYmNWMXRDNHQ3b0toVV9jak5Yck5vRQ?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Aumento de coberturas bajistas institucionales",
+      "detalle": "Fondos milmillonarios han incrementado las opciones put sobre el Nasdaq 100 como medida de protección ante la volatilidad tecnológica.",
+      "impacto": "Medio",
+      "links": [
+       {
+        "title": "Pluang",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk0xQktlM29UM2NqdEpCbGhwd0M3czZ1d0tMR0FRZWFJUnV3ZC1YeXdjWjgxUUQ1RzltUnNhbXFoSWVvVXBfV2lyMjhqUmJva1FLWExKTGFxYm1IcXl5YXlDYkYxWE9yTWoySEtfU0xOYTZRTGZ6ekhfcjk1ZUF0TkdiNXVVbUJTb1FrNWR4S19NS1hWdDFqZTFvUVJJbl9lRFpyWDhydGszUQ?oc=5"
+       }
+      ]
+     }
+    ],
+    "secciones": [
+     {
+      "nombre": "Tecnológicas",
+      "puntos": [
+       {
+        "texto": "Las caídas en los gigantes de los chips arrastran al resto del sector tecnológico, provocando también un desplome superior al 14% en SoftBank en la sesión asiática.",
+        "links": [
+         {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+         },
+         {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+         },
+         {
+          "title": "FXEmpire",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "Aunque valores como Apple (+1,43%) y Netflix (+1,33%) cotizan en positivo, la presión sobre Nvidia y AMD decanta el saldo global a la baja.",
+        "links": [
+         {
+          "title": "Startup Fortune",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUxsQTUyYVlIQ2hsc1Y3VTN4eUQ0SkxldnBzX1pPS1lIeE9wMzdweTlBUXVSNFhOc2xTWkR0UU1Ca3JGVTlwcnF1YXd2WFFPODFwSlEyOWxqLUpLcGFmZFVWbzUyZlgweHZnaVM5Qzhta3B3dmo3WC1KU2JVWVd6VGhjT25MZ2R4UHF0akQ1TmF3TTd1UVNiNzJ6S0s?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Fed y tipos",
+      "puntos": [
+       {
+        "texto": "El rendimiento del bono estadounidense a 10 años se sitúa en el 4,904% mientras los inversores mantienen la cautela previa a los datos macroeconómicos de EE. UU.",
+        "links": [
+         {
+          "title": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdGc2MV9XeFJpY19UY0cwMnc0UkNIVkhfM1ByR1R4VUduckNlQWFKTV96ZlpIMU1VMWcwbmJDZWJ4dGlUaC0zOVc4SFF0cmVLeTZWcWZXZjlQb3NidndwN1JGaGlZRzJpR2c?oc=5"
+         },
+         {
+          "title": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56MzFXUjFUQXBuNzh1M0YyTkVQeHc1cDRNcndQempENHh6b3h4QVRHMG9Yeml6UXdNUWRZUlVoQ2x0aHBLMWVvMXhXbWFydjNWQ01CLWFBb1FpRzMzT0lwOWp1TQ?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "Los participantes del mercado calibran la lectura del PCE junto al deflactor del PIB preliminar para anticipar los pasos del banco central.",
+        "links": [
+         {
+          "title": "Kotak Neo",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
+         },
+         {
+          "title": "BusinessToday Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1FvdW1pb3FpeEc0dDJzQ09nYzROclptX0pHcDBOVy1PaGVEVWx4enZXcWo3RTkyQ2g5XzQtbzNFY1AxY2daQ2d6aXRZcUIyR0xzaGFzbVI3dUd4UUFjTTlWUXNUTWk0YkNYaG1CTHNfMWFkSVZGNE9MSXVaay1FcXRfeGNGT00xeU1NcF9TOWRXYkl6Z3hFMTIxc0ROa21wSUpDMnhR?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Geopolítica y aranceles",
+      "puntos": [
+       {
+        "texto": "Los temores vinculados a la política arancelaria de Trump reaparecen en los mercados, penalizando la renta variable internacional.",
+        "links": [
+         {
+          "title": "Zee Business",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHUzVV9RRjZrTTRpUmhnNEpCdUY0bUpTOE1CdjFVUlpqSXhKdVpJNEYwR3RJWFRRMUF5a0xwR0UyMnR0TFd6OWgwY24yYVJmQlo4ZU5WTHlWazc3eEdTWi1zMVNEME9sUGYza0tJYW9scHRFQ3BGbVFndmhNNVZuTnIybU5vMFc5Wlh2MW13bjRHNjVqM2d2S0Y1TWJMRGJXMEhPelI2d3dIWFdWU19wYWpqMHVZUQ?oc=5"
+         },
+         {
+          "title": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lpS2gxdmJfVkNSRTR2SUhNbjJCdUtMYVp4VGRiem91TUtUMGhCVlRRSEM1SzhmMC1HZGs2TkwzanE4c253SmNWTk4zOTVlcWdGX21xVmFlSW1SWi1ESGxnRGNKT0FySlBRX0R4VHBLcXdsaW1aUGEtSVpJWC1ySnVBSTQ3ellUX29XTll5LXFrMzdYeWVXOHczUEtxWUZXQlY4X2ZTemlRWEloRnJUWjhkclNEekhKRGtjeWVEOTFWOUU?oc=5"
+         },
+         {
+          "title": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJ1MnFNV1NLNlMxbENCQUxMcTYxQm5OWEZ4WHlSWDJIaU12aTdYZGh4VmRPX1pWV096MFA5WU5zT2FQTTlKRXlvV2lrNmY5Ul85Z1ZRaVFrZDVRRW9DQ1BzU0M2cVRQRWxFbE4yaDFTS0hBRUVjZnVUZGQ4Z25XZWNLajFCY0xubkVNQlJLcmJpZE9vMGg3M3hNR1Z5Zw?oc=5"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "agenda": [
+     {
+      "hora": "Mié 25 14:30",
+      "evento": "PCE subyacente m/m (Core PCE Price Index m/m)",
+      "por_que_importa": "Es la medida de inflación predilecta de la Reserva Federal y condicionará las expectativas de tipos de interés."
+     },
+     {
+      "hora": "Mié 25 14:30",
+      "evento": "Deflactor del PIB preliminar t/t (Prelim GDP Price Index q/q)",
+      "por_que_importa": "Aporta información complementaria sobre las presiones de precios en la economía estadounidense durante el tercer trimestre."
+     }
+    ],
+    "riesgos": [
+     "Dato de PCE subyacente por encima del 0,3% estimado que reactive los temores de tipos de interés altos durante más tiempo.",
+     "Continuación de la racha vendedora en los pesos pesados de semiconductores (AMD, NVDA, AVGO) arrastrando al índice NQ.",
+     "Nuevas declaraciones sobre aranceles comerciales que incrementen la aversión al riesgo en la apertura de Wall Street."
+    ]
+   }
+  },
   {
    "edition_key": "2026-11-24-cierre",
    "edition": "cierre",
