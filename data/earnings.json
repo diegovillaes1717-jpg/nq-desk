@@ -7,8 +7,8 @@
    "date": "2026-11-17",
    "hour": "amc",
    "estimated": false,
-   "eps_est": 2.88028,
-   "rev_est": 130825535680,
+   "eps_est": 2.87956,
+   "rev_est": 130826074070,
    "eps_act": null,
    "rev_act": null
   },
@@ -28,7 +28,7 @@
    "hour": "amc",
    "estimated": false,
    "eps_est": 3.83018,
-   "rev_est": 34903482540,
+   "rev_est": 34906205760,
    "eps_act": null,
    "rev_act": null
   },
@@ -68,7 +68,7 @@
    "hour": "bmo",
    "estimated": false,
    "eps_est": 15.38838,
-   "rev_est": 14816055140,
+   "rev_est": 14817753300,
    "eps_act": null,
    "rev_act": null
   },
@@ -127,8 +127,8 @@
    "date": "2027-02-02",
    "hour": "amc",
    "estimated": false,
-   "eps_est": 2.92794,
-   "rev_est": 17055205070,
+   "eps_est": 2.93078,
+   "rev_est": 17056738549,
    "eps_act": null,
    "rev_act": null
   },
@@ -156,7 +156,7 @@
    "sym": "AMZN",
    "date": "2027-02-04",
    "hour": "amc",
-   "estimated": false,
+   "estimated": true,
    "eps_est": 2.49111,
    "rev_est": 244980536200,
    "eps_act": null,
@@ -325,5 +325,5 @@
   "sig": "bf88266a3dfb0c",
   "generated_at": "2026-11-25T21:13:01Z"
  },
- "updated_at": "2026-11-25T15:28:29Z"
+ "updated_at": "2026-11-25T21:32:13Z"
 }

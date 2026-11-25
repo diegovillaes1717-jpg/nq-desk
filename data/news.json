@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T21:27:16Z",
+ "updated_at": "2026-11-25T21:32:05Z",
  "items": [
   {
    "id": "ca232f8a7ffa3e",
@@ -212,6 +212,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e9af5d5d55bf81",
+   "title": "Tariff inflation was fading. New proposed tariffs could reverse that",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2EyV2NPWlV3cUJhMnhrNE9DX2ZZUTkzU05NZTdBUy1rbGpTQ1BwN1lMTGdiZHpSWHFPNVNTQlVBRldzYlJmV3ZPNkEzQTlsTXdPcWhLRE55VWNMV2RUc1pxVDYwSUdmZHI2ZzRjakdrbHRZUzktQnpQX19wWXVVLWFTTEROYmt4V204MHZ1QS1URG5kcUg1bDd6VHBYMUVOdm1rc2hnZWZsOHJDZncyckJSTjZwMWl3Ykd2SlBZb01BZE9va0g1UHJ1RW9IdnNVYU9Cekx6VQ?oc=5",
+   "source": "Detroit Free Press",
+   "date": "2026-11-25T20:38:00Z",
+   "score": 7,
+   "category": "Macro"
+  },
+  {
    "id": "d0713287a485b0",
    "title": "LatAm stocks advance on Brazil boost; US tariffs in focus",
    "summary": "",
@@ -322,6 +332,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "9d09185dbf1c54",
+   "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-25T20:17:01Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ef1f05e311f1d2",
    "title": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP",
    "summary": "",
@@ -402,16 +422,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "2e1d5195b9ea77",
-   "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T20:02:34Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c14e3c0ce94de7",
    "title": "Hotter inflation sharpens debate over the Fed’s next move",
    "summary": "",
@@ -435,9 +445,9 @@
    "id": "1ac3fb10d0b5b2",
    "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcGYzXzVNTzZxaFdIYlhpempfdGVsWkNLek0wVHdvckpqMy1FTUh1cG16Z2o2SURmUndCa2FyRlE3RUUyenltMGhCMGt2cDZ2YTRCckNqWjdveUFxUUd0bEpWLTFLdU5VbXZ6c2RnUU1PQnFwVXo3UnB4ZVlPSXBpWHdXaXdXVVZlXzdCWXBrZVVBN0FER1N3bXRRNHA2Zmp5WXc1dXNsS1hpMXhvUk82dU9XZkhrb1FMVER4V3EwYnZZVWJvSkZmMEw3RWhVZ9IBzgFBVV95cUxQcGYzXzVNTzZxaFdIYlhpempfdGVsWkNLek0wVHdvckpqMy1FTUh1cG16Z2o2SURmUndCa2FyRlE3RUUyenltMGhCMGt2cDZ2YTRCckNqWjdveUFxUUd0bEpWLTFLdU5VbXZ6c2RnUU1PQnFwVXo3UnB4ZVlPSXBpWHdXaXdXVVZlXzdCWXBrZVVBN0FER1N3bXRRNHA2Zmp5WXc1dXNsS1hpMXhvUk82dU9XZkhrb1FMVER4V3EwYnZZVWJvSkZmMEw3RWhVZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczJJSTFtVnV6aDY1UWx4Z1BXSVRxYjVrMmQ4TTJrRkg2M0w5azZzSVRjQ3VoWUh1T1phOEl5dTRFRUtxQkpOck1oVkVCY2huQnQ3WEhKQzNCT3AyVjJUSWdVa094Z09jdFphRGxWTWJPWGdhOXNWb1M5cy1YWHlGZzNIYTd0cGh1dGltN0s1ZXpqb2pXNEp5UlpHS00zeXdDUHB1UnJuWHpMcWw4UWdMc3p6UmxVOE4xcGk2ZTR30gHKAUFVX3lxTFBCckhHMjNXbGNiWUpzcDVUTjhJWFp2Mkd0U3JOTDVnZFhPdlFydUZDWlFiWGt4NjRxLUtCVEkxUUJvdnc0WVp0dUN6ellBaXhfZ040QlI1VFBMZm5kbWxGZ1VJdHZZRi1xallCS2JGa203Uml1b19sajdrdDF2QVFJOHdDaGRYRFVtdGF1TkxfSmRjRW04NUpZTDdoX01OY3hNZE5KTUdKbGVONElkTDh2cXgyaFJIYk1ORmxvaFNSSmFMa0FFQTFLMlE?oc=5",
    "source": "FOREX.com",
-   "date": "2026-11-25T19:58:56Z",
+   "date": "2026-11-25T19:58:45Z",
    "score": 7,
    "category": "Tecnológicas"
   },
@@ -512,16 +522,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f741b6c643058e",
-   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSk9NaVVvblBodW84ZXNUNE9pb2w3VkRiOUJkNTVtNGU4T1ZrU2FuMEVzazczaS1KWThLTUxzYll2cVBEWWNoaGZmcWVsTE5GRWVUR3lWa21HcFJjeGs2bzhKWGtDUU9GMnVJZkNrZjBpTlZ5dnNXTTdiY1ZnTjV6WFA1N01lT3A5ekNvVENib2psdjdXcnNHZmFyaWMwM0VWV2pjVlpwdVVnbjBwZnNLM0djeW05RHAxb0RXS1B6UFFxOU0?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T19:49:21Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "f6981370bbec54",
    "title": "US stocks tumble as AI rout and Trump tariffs rattle markets - ABC News & Headlines – Australian Broadcasting Corporation",
    "summary": "",
@@ -580,6 +580,16 @@
    "date": "2026-11-25T19:38:40Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f741b6c643058e",
+   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUNhS3F6d3VXVW9ZMXdhQlhRMTViSEZaMmVLUl9VaVIyb2NPVVA2dzgwN0k5YlhiZTlna25lZk5wSF9rR3dGaDE3Q2liWWo4TEhyelp4UkhnM3hEMXJmV0xZLWxVMVpmMmlNZm5Cd183N1V6QWJCaklteGk0MEh4Tm03ZzNyU0pDSTdLTlcwVWpVT2VKWmQwOWlVMktPOHFpNnRsbU1MNi1NUkJNQ1lqSjMzZGpDVVpxclVpclZDV1dYTGM?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-25T19:37:21Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "42022c12b27ca6",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-25T18:18:56Z",
    "score": 11,
    "category": "Macro"
-  },
-  {
-   "id": "4c112f18946fcd",
-   "title": "US Dollar Weakens Against Canada's Loonie; Treasury Yields And Gold Fall",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3phcGo4ZzFRYnhJNk9rNTFiODlKMkVsdVA4bDVmZ2tiZW9pYXpySzVOU29fNlhINTlDM21PTjMwbFJoOTZjWGN3aDAwdzRCN3p1ZWNVZkgxeEQ3SVZ1ZW1BNS1VRTBqX2t4Q3d5SktIdXBBXzVkelVMYWp1d2w0dUo1T0phNjlGbkNKYVRvTmR3eXN3Yms5dFowR0NUamZrbGtQRHp0WnllRTBhZEo1WlJoR0M4VVkzc3FHYTRZNFY5QQ?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-25T18:17:37Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
