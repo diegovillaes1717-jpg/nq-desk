@@ -28,7 +28,114 @@
     }
    ],
    "tries": 0
+  },
+  "2026-11-09": {
+   "sig": "105d83482e0dcd",
+   "generated_at": "2026-11-25T19:12:59Z",
+   "resumen": "Esta semana los datos de empleo y precios ya se han publicado, mostrando una economía que sigue resistiendo con creación de empleo y una inflación controlada pero presente. Para el Nasdaq 100, esto significa que el mercado digiere los datos paso a paso sin grandes sobresaltos recientes, valorando la estabilidad.",
+   "items": [
+    {
+     "id": "4fb003be53a82b",
+     "estado": "Publicado",
+     "resultado": "En línea",
+     "explicacion": "El IPC mensual (que mide la subida de los precios que pagan los consumidores) se situó en el 0.4%, mostrando que la inflación sigue ahí. Para el Nasdaq 100, una inflación moderada es aceptable siempre que no se dispare.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "d80f12bf036f40",
+     "estado": "Publicado",
+     "resultado": "Mejor de lo esperado",
+     "explicacion": "Las nóminas no agrícolas (la creación de empleo en EE.UU., excluyendo el campo) alcanzaron los 165K, mostrando un mercado laboral fuerte. Al Nasdaq 100 le sienta bien un empleo sólido porque indica que la economía no se frena en seco.",
+     "efecto_nq": "Positivo"
+    },
+    {
+     "id": "4608034c606beb",
+     "estado": "Publicado",
+     "resultado": "Mejor de lo esperado",
+     "explicacion": "La tasa de desempleo se mantuvo en un bajo 4.1%. Un desempleo bajo da confianza a los inversores y suele apoyar las subidas en el Nasdaq 100.",
+     "efecto_nq": "Positivo"
+    },
+    {
+     "id": "579692339a12d5",
+     "estado": "Publicado",
+     "resultado": "En línea",
+     "explicacion": "El salario medio por hora subió un 3.1%, indicando que los sueldos crecen de forma controlada. Esto es bueno para el Nasdaq 100 porque evita que los costes salariales presionen demasiado la inflación hacia arriba.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "4e19a3b8d9a4f4",
+     "estado": "Publicado",
+     "resultado": "En línea",
+     "explicacion": "Las peticiones de desempleo (personas que piden la ayuda por primera vez) se quedaron en 200K, una cifra baja que refleja estabilidad laboral. Esto ayuda a mantener la calma en el Nasdaq 100.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "13516c4a66dde1",
+     "estado": "Publicado",
+     "resultado": "En línea",
+     "explicacion": "El IPP mensual (la inflación de los precios que pagan los productores antes de llegar al consumidor) subió un 0.3%. Un dato moderado de costes para las empresas suele ser bien recibido por las tecnológicas del Nasdaq 100.",
+     "efecto_nq": "Positivo"
+    }
+   ],
+   "tries": 0
+  },
+  "2026-11-02": {
+   "sig": "bca0162f3f6283",
+   "generated_at": "2026-11-25T19:12:59Z",
+   "resumen": "Esta semana el mercado se centra en los datos de empleo de Estados Unidos y la confianza de los consumidores. Al haber pasado ya la semana, los datos publicados muestran cómo ha reaccionado la economía, guiando los movimientos del Nasdaq 100.",
+   "items": [
+    {
+     "id": "ea15ec8b58817d",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Mide las ofertas de empleo disponibles. Si saliera un número mayor al esperado, mostraría una economía fuerte que podría asustar al mercado por posibles subidas de tipos de interés.",
+     "efecto_nq": "Depende"
+    },
+    {
+     "id": "ee3ce5b6ddeac3",
+     "estado": "Publicado",
+     "resultado": "Pendiente",
+     "explicacion": "Muestra el empleo privado creado con un dato real de 86K. Como no tenemos previsión con la que comparar, su lectura directa ayuda a medir la salud del mercado laboral.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "3122a0373aa1b8",
+     "estado": "Publicado",
+     "resultado": "Pendiente",
+     "explicacion": "Mide las nuevas solicitudes de subsidio por desempleo con un dato real de 189K. Unas peticiones bajas indican un mercado laboral resistente.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "899c4840c1a423",
+     "estado": "Publicado",
+     "resultado": "Pendiente",
+     "explicacion": "El informe oficial de empleo muestra la creación de 165K puestos de trabajo (NFP). Es un dato clave para que la Reserva Federal decida el rumbo de los tipos de interés.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "f7b823c2701aab",
+     "estado": "Publicado",
+     "resultado": "Pendiente",
+     "explicacion": "La tasa de desempleo se sitúa en el 4.1%. Un desempleo controlado suele ser bien recibido por los inversores en tecnología.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "2d5ccdf4ddec9e",
+     "estado": "Publicado",
+     "resultado": "Pendiente",
+     "explicacion": "El índice de confianza del consumidor se sitúa en 51.0 puntos. Refleja el ánimo de los ciudadanos sobre su situación financiera y la economía general.",
+     "efecto_nq": "Neutral"
+    },
+    {
+     "id": "e6e3ebd310f004",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Mide lo que los consumidores esperan que suban los precios en el futuro. Si las expectativas de inflación bajan, es muy positivo para el Nasdaq 100 porque aleja el fantasma de tipos altos.",
+     "efecto_nq": "Depende"
+    }
+   ],
+   "tries": 0
   }
  },
- "updated_at": "2026-11-25T19:08:03Z"
+ "updated_at": "2026-11-25T19:12:59Z"
 }

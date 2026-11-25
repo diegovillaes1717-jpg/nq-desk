@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:08:02Z",
+ "updated_at": "2026-11-25T19:12:58Z",
  "items": [
   {
    "id": "a13349ef2c37af",
@@ -22,6 +22,16 @@
    "category": "Macro"
   },
   {
+   "id": "20c41f4f1e647e",
+   "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQm9yOWVOVWZaUlRWN1gtT0Z0MGRCcGpWamg4UnNvOTZtQ2hrcmh5WmdjeXczNHFwSEJINmFvMnAtZGVVOHFXc29SUzQ3WkQ0ZmNQdi05TmpOR0kta0tyd24wOXhlbGN4QjVOZW4xRVhkSTRKdDRBWVNremNjQUM2RERtamZPR0RXNnFGTmxpdjZXMTA0Z3cxcFNoRzVoWWVpUW5NVEg4V2w1MzBRZG1WQi1McFZiQ3Awam52Z0htUU1WTm5jVGkwZjZRNkRPTDYzU3ZIVFhvYXNlSkpsdjNmOHlrdlROc09SZ3c?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-25T19:03:16Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f1583ee76dacbc",
    "title": "Nasdaq 100 closes down 1.5% after paring drop from 4.7%",
    "summary": "",
@@ -40,6 +50,16 @@
    "date": "2026-11-25T19:00:58Z",
    "score": 6,
    "category": "Macro"
+  },
+  {
+   "id": "c0e46446bdb8dd",
+   "title": "There's a lot more uncertainties, overhang over Nvidia stock, says Blue Whale Capital's Stephen Yiu",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmai1zblc2QmZIR0VxcnYwa1ltY2dHeGFxQU8wVEhOLUlDV2xEOWxDQWVhbEhuMkE5U3JmaVozNGpqUUVkWU9MM3VxQXdaY1RzSUp6eElqWUk2U2ZaXzhiTFFlZVU?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-25T19:00:08Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "5d414da628f224",
@@ -112,6 +132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5c9532d417e138",
+   "title": "US Stocks Extend Losses Amid AI and Tariff Concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1POHdmVURrMlB6ZEdaVGdDTGJpMlk0VmdzYXNiajQ0SjV5TTNkVEp3bGJxVm1YTzZ0MndxT1ZKN29FdS1OYzFxbXlENVZJcTFWQUE2WHhKdUI1LTdobGJsQnJxVVQxVUh1ckJYRlhvVQ?oc=5",
+   "source": "Demokratis.co.id",
+   "date": "2026-11-25T18:53:00Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "02b6870f1fa4b2",
    "title": "Fed inflation jump lands right on your Thanksgiving table",
    "summary": "",
@@ -129,6 +159,16 @@
    "source": "Yahoo! Finance Canada",
    "date": "2026-11-25T18:46:01Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "4fb9ac7649aef5",
+   "title": "NVDA Stock Alert: Nvidia CEO Jensen Huang Rejects Calls for Succession Plan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXJWand6UFg5NXNWaDlxWVlsVkZ1aENyYmw5b2cwQ2VKQ3dua2V6Vm1JLTFYdzQzUGVCWFIxdVhfY2RvdzYxQ0RON1RqeHNlWUdPTFM1UkppY08zM1pFM3hMZDBFcTJ0SDVfOHFPTDR2azVJM0JseVdFUWxxSWQ2akFmRjB0TzlSUFF0ZlBtUzIzM1JfLU9nT1RwdmcyOTZnRWs4RTIxZEFXNHlGcURTVlhYVTZ1eWItUlE?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-11-25T18:45:32Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -469,16 +509,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T18:00:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkRuVUJjcEZkZXh4Ny1TeHlnSEJralloRlRGUVpqbTY2cVFGTjlUZVNDS3BLMFdNMTNZNmhQT3FPTFVaZ0d1MEl6NDczRC1DdlRyTm5zSFRocDNvQjdBZGVLdl9CRHpubk5DMlRuRTBSaGpvN3VSaG9QZGdVeDNUWUZkUUgwa1pMMGFPQW02ZzBWSHktbnNpekdlQzBHYTVqMzQ2dHJ6Rm40M1VuaHc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T17:58:57Z",
-   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -905,7 +935,7 @@
    "id": "f92e8e81f0e17f",
    "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQejE3UnloTXVKYllqT3RoLWhiX1N6QXJTb2RZSlFFVTBQUllfbHV6dFBtdTZxdE1jWUJJT0pBYkZhWmtqeVlyTGpiRHVYenZIbmw5eWhmYUxMVGs3ZURhU1J2dHlyNVB2eC1CZWF2QTg4QkwtQVZYbG1ZMm5tYUZmYk9iX2lXeDMtLXg0X2QxUlJHamtsNUd0WWRRWEIzbWFLalJLWE8zS0txd2g4WU1Qd3NxM3p3dFp4M3l4WlFNSHQzV3d0NU1HVkQ0RjhaWjB2Sl9zQWV5V1kzUWxJSmc3Rlh3RDdlUmpkMHREWE1BUVZqTVRwWDJTUzl30gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
    "source": "Hindustan Times",
    "date": "2026-11-25T17:04:17Z",
    "score": 13,
@@ -1062,6 +1092,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "55e8d530d877b2",
+   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUdQVlFQRFM5QzNPOHdEWGdnRFgzSFQ1YUtLMW5FWVhRbkJoTWZRdnptNmtzc1hNOWlueFYyNHVHQS13cTd0U0V6bkVHR05EcjYyU3cwb2dSMVJsTzV3ZG1FREZuUFJFbEVkZTNRQVZmcEhaekxpTEVvSHJmbjlrRW0xR1pnU1BqV2ZEWU1rek5BcTFBWGl1elhNN2hGZWI4c3d3cmtkekItcVphYnZ0dWVhdEE5ZDZGOW96ZHNpUlRtZjdkcS1NSXgxdDFZaFI0c2luZTBlTlBXNW56QkFST1dwczJFeWRMbmFvM29SZzl4ejR2Q2Zocnln?oc=5",
+   "source": "The Lufkin Daily News",
+   "date": "2026-11-25T16:52:13Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "9728826c45f58f",
    "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Euronext Markets: Real-time Stock Market Data | live",
    "summary": "",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-25T16:43:45Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "9e8953de697ccc",
-   "title": "US Stocks Plunge Again, Nasdaq Drops Over 4% Intraday Nearing Last Week's Low: What Caused the Stock Market Drop?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjA3N3F6M29wVG9yY3lNUGx0U2Q0UW95U2psMG1Qdkt5WlE5MXNmOFdldkRnbGtkbVVuSTVJUXo2UFpFSFZVQ0hfVmpHaFF1R0ptUlNPZzNtVDNROVRRMWl6MnBRN1pkZHVzOTZFMXlxUzhYNFRFN21IZTRMelMxcjdxM1lsYVRDSHZxY010MVoxNFhURnRyM3VrLVRWNkhLWnVKNDFEYVpZZjBISnRKcjk5RGRLbms?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-25T16:42:42Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8a94473e376037",
-   "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T16:39:37Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "b8684aa0ebf301",
-   "title": "Nvidia Agrees to Pay $290M to Settle Investor Lawsuit Over Crypto Mining Sales",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlB1Q1ZtQWxXdzFLcDZ3cXBiSWxRQjZmZDlCaFk3NFRSRlZfUmVWREpjTFFKUHp6eGplY0U2SVBvNDZqSG5kdHJqeGdnN182ckUyVEZOeDRwVTVEaGlyZWd6N2l0QXRXMTVQZ01na3VkWUY3RnU3dlplc2UzM2YtQy1RTjhWM3hOVFRta1BaOGc0a0dNS0FqQll3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T16:39:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a92978b506ac71",
-   "title": "Gold Hits Near 15-Month Lows, Silver Crashes Below $40 Amid Fed Hike Fears – All Eyes On The Fed Rate Decision",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdlktRlRYb3BCcmFxRDFSQ25rUGExS1d1ZW9OQmZ6LVE2VG1RdzJOZzlxd0poV29xUTEtVnY0SXVIQVpTbWlGUHNQY1pvVEhBenczN2M0RVpJM2QzUmNEZFZoSVZRakpacmd6MjhFRzFfSFFKWUhTM0F4N3pFT01JaVk1aV9MSFUyM0s0WGcyYVQ3ZnZ4M2tDaG1Vd1EtakJwTW1QVDlUVWRVQ3g4bEJiZTlQRUdadi02RGQ1ZWNWSGVVV1ItVXVVSWM3LV84YVc4VWU5ZFRSbVZnQUY4RWNrZGNIRGI3ZFRQZFZzaEhXNElIOHRWdHAyTll1OA?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T16:38:46Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
