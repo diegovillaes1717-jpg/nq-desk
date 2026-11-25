@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T14:53:44Z",
+ "updated_at": "2026-11-25T14:58:31Z",
  "items": [
+  {
+   "id": "2467df7627dc20",
+   "title": "US Growth Revised to 4.3% Ahead of Fed Rate Decision",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVJsYy1DOHZHWWFWZFpJTDFHd0lnbi1ZVjJ0ZmE3aDVhWE1OX1ZxV01YNlpKeGZrLWdSWnIzSUh0LWNMckl1NkNsMmFzcm9SMnFPLVl1YUNsd3Q1NXlJcFpQUElNYjkzcWxraVQ5VWNHNmp0RktqQm1kWFdQXzV4aGNTdFFySDZWLUdnbHRrbw?oc=5",
+   "source": "The Defiant",
+   "date": "2026-11-25T14:55:46Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "4a6dd805a0e54d",
    "title": "Nvidia, Board Still Face Legal Risks After Huang’s Return",
@@ -12,6 +22,26 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f533dfb1badb05",
+   "title": "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXAxQXNWWlo5MFhmVG9kRmVtTnRWVGY1eWhSUU8wa1VSa3JhZ192VFVjanJlSXZMSFpsS1J2MWZuUTAxZnA4Vngxa2hYSnF2MS1FUm5lQ3dVVFRaa0dGOEhNNWJWLVlYa1liRUI4M01qRXd3ZVRtb2NudzBhMXlvYlRiTDVRR0dCUUVGWEJiNHRDakJEVHc5UDBtenk2WFlvV3I3azdlYw?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-25T14:52:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "fcfd8745ac680f",
+   "title": "Nasdaq 100 and S&P500: US Stocks Under Pressure From Tech Sell-Off and Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUpPUDlveEpRQm1WeHFFRHJoQkdyNXJ2aGlWc2oxWVVwNEpYOHlVQ19COGpDU1Y2dlJON1VJay1SelluTklYb1RLQU5vNzVoRk9NTi1Zbm9naFVoOXFkaWdtUlRhZlFWa0w3SHdOUUk5YnB5VVgtYUdYV0ZrSXYybWdWTFhkYUNISTkxTmZWdHBSaTdXNXNVNElyOTN1UktkQjNHd1c3RERocExfdFZrUFE5TVo4TDR6SHVXOHJyVFRzb3VSdVE?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-25T14:51:58Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "49e7daf99a4820",
    "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
    "summary": "",
@@ -19,6 +49,16 @@
    "source": "FOREX.com",
    "date": "2026-11-25T14:51:19Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "15371ffb47ce67",
+   "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaWROX1FhMGZHbk9YcTM5dlJkM3g2aXlxSXJWaE1lY2NFUWppNkxmRmNSTlhHclpjSWQ4TkZzTDVONkdnWjJaZjMwamUzZ0ZwWVRRRmJUZ180eHdxWThOeTltUkJVOTZRRHVsc2lnWDZDOXd2UGZtbWdZTm9LTzZFbWxYWVFGNFBCbkg4eU5CbFhrRXBKT3Z2dkFxM0N4SjhNcEFvZGNjbUxaWGZoVUNqZmJqa0M1S0xTLXdlMUxQNURLNElmakZMX05oT01TY1JEZGc?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-25T14:50:56Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -143,10 +183,10 @@
   },
   {
    "id": "30b0d9cabb8971",
-   "title": "S&P 500 drops 2.2% as sell-off in AI stocks resumes as tariffs and stubborn inflation intensify anxiety on Wall Street - Union-Bulletin",
+   "title": "S&P 500 drops 2.2% as sell-off in AI stocks resumes as tariffs and stubborn inflation intensify anxiety on Wall Street",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2t2RlJHby1jOXVnaEZIOU1JeHVwTS04ckxDM2JubU94Z2hkcE9JOXFBWlNBZ1JXT1BpeEE4SHoxXzZiZTJUTTViREQ1Und5UjV6VUZORGt4UXdxelhQekdUTm8wdzU1UDFqSmNDd3hOUzNXdE9YM0NNb1BTV2RUYjBYY1RNY1hBSDgzakNGc2o4NkU5RmZaemxPMTFSNWtZMkxoQVVYR2VEdXZBWjhta0hnR0lmeXdLS2R6TFZEWWtyRFpZWURBSEI0YWZHcVNhMm5hM3p5b21ndDg1T2p0ZFF0NTJwM0w0?oc=5",
-   "source": "Google News",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXFCZWVXVzdaWXd2NFJOV25fY3R5a2JXTlFya1dITWwyU1dQSHA5MU90ZElqdFVrNm1uOEFYWUFhU1ViQ0Q4ZEQ2enVEdjlvdUhPSHc1NDRkMTJjd0JPZV95VkN5a0J6T1BUYm1KS1VTN3h5RV9lZkl3OXRoSmxlekthRS1wUS1yTkxVdlZOWHh4TFViQXVsUmc1TXFVUGlfX3ZyLXBNNldRZU5GU1F0TWp0Z3BiLV9kVEJEd2lZT1A4T1FUdXNweDZmVXVOakhhU1RYUkJoSERleVJVYngw?oc=5",
+   "source": "KTBS 3",
    "date": "2026-11-25T14:31:26Z",
    "score": 14,
    "category": "Macro"
@@ -240,6 +280,16 @@
    "date": "2026-11-25T14:26:15Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "71942e258aa47b",
+   "title": "Inflation Continues to Climb, Fed Poised to Raise Interest Rates | National News | U.S. News",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVBlVDN5cUVXOEowaDgwbmxNTFNrU3ZOZ2tMNjR1TDY3ZlNDdEhkRGlfMVpOVDNRazVaNGhsUWg5UUxPa1UwdHNZMmxOMkxYMHUxZ0Nmb1hJbGZtSTYzZEFvVUZJaW1nNFd0cEFSRTZUa2I0RzFZcmZKZ2xuemtic2JRUXdsRzN1YldNZDgxWXJqbUw1blRYUGEtWFVyYTU0dGFWV0t5WTltTElVNE0xWHFoS3ZpdFlnZDFmU2I4M18yc0E?oc=5",
+   "source": "U.S. News & World Report",
+   "date": "2026-11-25T14:26:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "e55a5a64c8a168",
@@ -422,16 +472,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "6a7f36a98646cd",
-   "title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LRDdBR2RiUGNtRlUxLUkyMDVKTnZROGo3dFBHT004ZEVqRlZQQmRqTU4zdnp5RTUwdklNZWh0TUYtTWtCT0xzZzNpWGphZ0RtYXA1azNTdjAzYTA0Q2tjZzBKamdvbG95cjNr?oc=5",
-   "source": "Boston Herald",
-   "date": "2026-11-25T14:11:37Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "b1509ca0880e12",
    "title": "Tech stock selloff deepens as AI fears outweigh Huang’s Nvidia return - News Channel 3-12",
    "summary": "",
@@ -552,6 +592,16 @@
    "category": "Macro"
   },
   {
+   "id": "6a7f36a98646cd",
+   "title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODk0OEJrUk5ITU01bURCX25tc0NKeHpSQ1l2Rm5TRGZ3eGdvVHJiSTJlekVXWnpRRHgxLWFlWFdNZUJRYVFDWlRkekF6UmJGejRRU2JnWXNyT3NNRDZSS3hjcWR6MnU3YkEtNnNtaDAwT1pqX2NVYWp4UGttTEdKc1NkZXk4UQ?oc=5",
+   "source": "Chicago Tribune",
+   "date": "2026-11-25T13:57:43Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "bd8b1f38187e15",
    "title": "Trump Eyes New Tariffs on China and the EU, with Chinese Imports Facing Up to 40%. Which Stocks Are at Risk?",
    "summary": "",
@@ -560,6 +610,16 @@
    "date": "2026-11-25T13:56:55Z",
    "score": 8,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "e8fff448abf9dc",
+   "title": "Inflation Rose 3.8% in October, Cementing Fed’s Next Rate Hike",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3FoY0YzbWhuWFh0ZTgyaC1MTTMxaEtUNUZ4T0lxanE2bWItUzhnSk1vUkxLWHZTX3BYRUJLTVg0cFRMc0ZzeUt2UGZQQ09qV2E3Vi02dG5qX0JxclFSOUtaaGgyY1F3TVBneHlZT1ZvSjJhZHh0Sm1JTF9DLUlHUEM4cE9kc3VoUjVsS25sU1UtR1oyVlVjd0Y3aEMteE5PQWwtOWQ2bS1WazZMc1dUVWhkTU4?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-25T13:56:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "eec5331da0c6d0",
@@ -672,16 +732,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8a6e5491a162c4",
-   "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-25T13:46:56Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
    "id": "0ca18776890fcd",
    "title": "AI rout continues as market exuberance fades over improbable return of Nvidia’s Huang",
    "summary": "",
@@ -698,6 +748,16 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00NWpnMTg3cmtDMkxmS3oyNTljVkN2QnloaW9FNVc2WFdGdmRybHpnR1dPQndma1FMTk1rZjcxRG9hT3p2TFpSeXBCS1pGQUVLWmFuTEg1eWE3TzhoVE5iRHA1aDhXcE5kWjZJd2FHYkszRkQyeHZBNg?oc=5",
    "source": "Stock Titan",
    "date": "2026-11-25T13:43:45Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlowZHB2UFp6UWZ6TDR6X0I3UmZYeVZHWXQyWU5SV3h3MndVTEJMUHljeU9RUGs3VWpnRE4tWmdiQ0RjbHpnS1o2U3BudHYwMHJxd29ycnMxNkVFUXhPWlROYjBxMFAtLXJtM3BYUXhoVmV3VE9PN090c2pKR2NEbWVVQ0FWd1BSbVktU2JreEhzVmI3QWhTenhOLTExX1hPNFhmZUVDVE1hdDkwajVIcEcyaVdWMkNZZUVEWU1IaXBwT2JxTXc?oc=5",
+   "source": "The Seattle Times",
+   "date": "2026-11-25T13:43:07Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -740,6 +800,16 @@
    "date": "2026-11-25T13:42:05Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8a6e5491a162c4",
+   "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-25T13:41:22Z",
+   "score": 6,
+   "category": "Macro"
   },
   {
    "id": "5e5e8aae728c9b",
@@ -842,16 +912,6 @@
    "category": "Macro"
   },
   {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdGRMT3AzZENmOXZtckt1a2tIVXhDUzE3VzU0TFY1ekhKMVRBclF2LUNqZFVzNmFuc3A3SnVRNkxTVzNIWllQa3V5R2FoNF9qWmUxU1lhNnRLVXJYRnpweDZ4MVhSNTU2bUx4UllPY1ZzdmwwT2NsNkE0Y1hONDJjckJody1OUTkyNWMzcEFVdTZiUEwwRTJYZlNNZ1F5b0U2OGtWQ3djSzBOZGVhMkpiVWkyUjBLbWgzcUl6RWh2TGlTQkF3ZTBmNQ?oc=5",
-   "source": "WPLG Local 10",
-   "date": "2026-11-25T13:37:18Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "82f78f878c94ff",
    "title": "Nvidia’s Top Lawyer Sold $4.5 Million of Nvidia Stock the Day Before Its 14% Plunge",
    "summary": "",
@@ -930,6 +990,16 @@
    "date": "2026-11-25T13:32:47Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "824b8bd50861ae",
+   "title": "About that supposed $312mn Nvidia options insider trade…",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxZEhPRElRX2YzRWZGdHREQk1VQmc5eFB3NWNvdEJEdlhTbG82TWVXVUt0NGVqRmcwZmZKZGlNRVJoQ1QyOC1YeU53WUFtMnY5YWQ4ajBFWUpOd25uRFVPczNBMG5oUTd0Q2RhUVNubFI?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-25T13:32:30Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "76a8858af22e7f",
@@ -1129,76 +1199,6 @@
    "source": "Pluang",
    "date": "2026-11-25T13:04:16Z",
    "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "54d7fdb9eb4098",
-   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzJ3ZFJkcWF6RmREekh3OHplb1J3TC1peXFUamhkZ0VLNi1kZ29CWFA1elRxSzRYVVZtSkR1R3IteU94cHpWYl9TcXQtcnJtTkRYSllpeWw0NkwyQWF4R25vWjRPZnF1bFgwVU5BajVvRVJaQ2UyN3R3Q3V4Z1otM1Q2QUxwbUI1dDlPRlhFcThFc2NPNVJ1cWJRRlVxU2Rj?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T13:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e6423ae5a874b9",
-   "title": "Nvidia, Anthropic and AMD Stocks Drop 5% & Nasdaq Futures Slide 2.4%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM196X0M0V2dMakhLSk5xWWx6RkRQc2lpaXUwcUdtX3Fkdnd0RllyNUJkSWNjWDBaZFVTQ0VkV2dzdzR1YWZNQV9scWtYMFJFSnE3NDJRaFpIOWpkS01zVndDWDdxQW4yeVdORVZIT0thaVpkSGRQOG1Ha1VOUERxSDlhRnVUUWs3R1RWRHJXOVhObXhEM2plTVJpaXllUkV6WXNkeERHcF8?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-25T12:58:20Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "570a9a0d0edf37",
-   "title": "Global Stocks Slide as Trump Tariff Sweep Nears, AI Rally Loses Steam",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuaUF4QVI4VV9SMFJmUnducUVTV2N6SnFQeEJVRjY4Ukx2Sm1jSjdsd1hYRk5JZ09IckRtTkFqeDBRSk4yQkg5eG5HRTFhOVRzZmZnbVFNZXNhczhUbVdvd25jcU5Ob05BMzlxYVRyWEg5S1VWNlE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-25T12:57:28Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3546bfffac5fa7",
-   "title": "AI Stocks Resume Their Slide",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T12:53:10Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "10f5a36d99c9c2",
-   "title": "Nasdaq Futures Fall, Watch Anthropic Market Value Barron's Daily 25 November",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnhfb0Nlb0E4X0Vtc1NoSl8taW1KdjJ3dVhyQ1gySmlmX1JJLTg3Ukl6RTZ5REpTY0VxX3h5MmFlU240QllZWG5YVENxMUstajA0bGhfNi1oWnBYZVJZczBZdWdzMlBINjVxUnczNVA4WjNVb0sxSVBzUEl0dlZObQ?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-25T12:52:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "02efb2605a5d1a",
-   "title": "Trump's portfolio had 44 Nvidia stock trades in 2026; he said CEO's return isn't a bad idea",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUm9SYkcydFY4dlVXa08xX3ozSUwxdWEta0NRUDBpNmI2OTN2TFdQQUpkUmsyMGRVSmV5Q0xNcENHTHZ3NHBnOW95Z0RsMU83THhROFhmWmxmMTU0c2tSYXZBNTg5S3dVd28xUWRRLURZeThBeFRpRnhR?oc=5",
-   "source": "Quartz",
-   "date": "2026-11-25T12:51:33Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c15f95c298a1cf",
-   "title": "Trump's portfolio had 44 Nvidia stock trades in 2026, analysis shows",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUm9SYkcydFY4dlVXa08xX3ozSUwxdWEta0NRUDBpNmI2OTN2TFdQQUpkUmsyMGRVSmV5Q0xNcENHTHZ3NHBnOW95Z0RsMU83THhROFhmWmxmMTU0c2tSYXZBNTg5S3dVd28xUWRRLURZeThBeFRpRnhR?oc=5",
-   "source": "Quartz",
-   "date": "2026-11-25T12:51:33Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
