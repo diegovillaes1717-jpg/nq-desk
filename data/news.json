@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:36:07Z",
+ "updated_at": "2026-11-25T23:40:51Z",
  "items": [
   {
    "id": "cc4b32ed04e566",
@@ -20,6 +20,16 @@
    "date": "2026-11-25T23:31:55Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "1cec4d5d976109",
+   "title": "Gold rebounds above $3,550 as easing yields and weaker US Dollar counter hot US inflation data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2dlTUJEaktWRnlZVGtZanQ5aF9lbjZFWm1ITDIyeVdvNndTVXlhRHc3b3ZWVExVQVdMY1ZNOWt1OUtack82YVo5N2tKR2dKWU9tbFJTazlyOVpNWE1PX3JHWm9HNFdfb2ttVWw4SlZZcjNBYk1sWXoxWXUybzloSFh5UldpOGRPeldlQTdNYVVKelAwbXRSRmxUcVl5WUZTSWVyQlZpOXdkNzVhZE1JR0NSbjJxTHN6LV9tbXV2ZXQtSFdKWWtqV1JsRFlLQko2OXc?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-25T23:26:01Z",
+   "score": 5,
+   "category": "Fed y tipos"
   },
   {
    "id": "65123ac2003a5c",
@@ -132,6 +142,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "88f10136ac00bb",
+   "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T22:44:42Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "722944e6e16f62",
    "title": "Wall street recovers most early losses as pullback in AI stocks eases",
    "summary": "",
@@ -172,16 +192,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "88f10136ac00bb",
-   "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T22:32:45Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8250f50cce8a13",
    "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
    "summary": "",
@@ -209,6 +219,16 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -269,16 +289,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "55e8d530d877b2",
-   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFlrVUQyR0YzNlVXOWVidFh3STlEVEUzUDdPYVdMWUZOWGhrbTdDQUtZc3ZfU1VESDNTZVM3cERObThoSjBFcmZLMDZLd2ZyZzV0c29YVWxmVnc2NDJJTWpGdHZKbEh2czJ2Z2h6dGNQcENaLTVIRGNxRE9ZRlpzSXEwZC1jS3NmVDhLYlBnZHhxRFgwOWhDblktRWpWQks1emVGR1ZRV2hOcldlcmxQX0d3ZXZGOUkwbGNkLUxHYVFtaXNXT2x0UzZBWEpGVzJUR0E?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T22:12:29Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -525,9 +535,9 @@
    "id": "fadc45924372ff",
    "title": "US Bond market down ahead of Thanksgiving holiday: Reasons why 10-year, 30-year, 2-year treasury notes fel",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY1dfc1Vwc1RCYzY0VGFOZzdyY1hUV0xCZkZOM2x2Sng0Mm5yRWlUczFPc2l5TVdaRTdZMDRrZG9idEtkT3JmUF9IdXhmczk2bVEzM2JpYVNzRDZmbkV1YW1JZWlaZGI2ZGQyRjdVd0EtNjFuSVZjNjdWR01FMndONmt2X3g2Q3JVcUs3OTh6MTZOUlIySjY4cVNkNmtQaTA1QTVMT1kzUGlhbTNzMjFtNXlmVnk4U3RBMFppcGRRM1o4MjdYR1pXbUtHYUQ4OXB2Y3RMM2ZyLTBYdjRQQU9ubUJ0aWhoZFIyWF9BM0ZQT05uTDM1Q0ZzVFJxWE1mYnQ3cl92T3dNMVk2VXZOdXhFTG1QbkfSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOHZRU0QtM3pPc25ZMDhsbURWZS02Y0pvNzdfNmxVTlF5bGpDeXZkLUVkT2pLR0FGbHZHSDdGZlo2WnoxektoU3NZQTZ1MGhRRXVMTFZSVWpZcGxaLUg0X2hhMkJybGF6ZDVON3BWN1NSZlk0cXZDY1lGYjVtY0RYbWxrX05rZDdTSFR2T2dSVFdVdnhyWkZmckZYNUVWbldOQy1rUnI5aWxfSXJlTzYxcUNDX3Fjdno5MHVPSWY3MVVtOEFRaUZxSzAteFlkZlJoMXdqeTlwMW04RXFpa1pjR01BQkZsS2lmQ0ZlTi1jWVRoVy01US1OX3dHZDJqaGxxMFpVT09ZMjJtVjl6dWV1eVR6a2FUVXhacEHSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
    "source": "The Economic Times",
-   "date": "2026-11-25T21:34:12Z",
+   "date": "2026-11-25T21:34:00Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -1188,16 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcHVLcExOc0xvdEdoVENNM3BIVDlyODhhWlpacmZRdm05eHNnWVRFaHpfYmpIdHc2dEtFTnNTbWl3ZWdSSHZHSGV2cDBwRXd4YjgxZkJwM3loTU1XWXRBZGdseGIzcS1tQWhXMllNcElGTGtBQVA3WjhJM0JfWmtScUhFUmFxaUZrXzJPYU85LTBpQl85NzBBSEJ5YlhlODJNNUJTNnNrTjI3enVxQlVRVmxmcmsyNjlPMHVsNU9Rb2hhN1hEWG45WXRmbmtlNXpqc1E?oc=5",
    "source": "www.tmgm.com",
    "date": "2026-11-25T20:03:06Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c14e3c0ce94de7",
-   "title": "Hotter inflation sharpens debate over the Fed’s next move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Z2Zja3BIbE8xajVKdFVpeEpacHkzVEdYVTVwMFU0dHkxbS10V2FyVmNFOWFBX0xvVGJBMG9PNFp5cl9XOWVySE5TYWNGMFFYVHBIREVyYnk0bk0?oc=5",
-   "source": "Fox Business",
-   "date": "2026-11-25T20:00:54Z",
    "score": 8,
    "category": "Fed y tipos"
   }
