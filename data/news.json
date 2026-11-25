@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T17:53:44Z",
+ "updated_at": "2026-11-25T17:58:27Z",
  "items": [
+  {
+   "id": "dc78cd751cfb34",
+   "title": "Nvidia shares jump 35% after Huang reinstated as CEO following Trump defense",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcU9jQm1BaG9iVks4RWd0ZDNMSkRTYXBPa0VPM09IcDZ3bllUbDdGWnFxbDRHTTduTDNUZUxxTl95VWJJREQwMERqcG9xV3VWX0hiVGVsSnh1ZHJDelc2MzhJbE02RWE3V082MVdvSGl1LXJtNlRGSG9Ya19MMGQ2RnhtSGtXczVGQzZUQVNhbTh6Q054SzNtUXNhQkkzeWwxZTZMRW4zTHN0cWZzSFc3WXdLOU1JUQ?oc=5",
+   "source": "KEYE",
+   "date": "2026-11-25T17:56:04Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "e7f919ba69d3fa",
    "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
@@ -70,6 +80,16 @@
    "date": "2026-11-25T17:37:30Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "674a566e92dde7",
+   "title": "This Is When AI’s Circular Deals Bite Back",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-25T17:35:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "fa1344e9d4a3a5",
@@ -220,6 +240,16 @@
    "date": "2026-11-25T17:13:54Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "e89c230fa0c81d",
+   "title": "Microsoft (MSFT) Deepens Europe Sovereign AI Push With Expanded Public Sector Cloud Pact",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNG5icEJ2X2FHSlByQWNnS2EwUzVrM0F5NUhaZElKTGEzWUxwbFdnaEJETXc0U0RDMHktQ190RTRPVWZUOHg3S1psS1VPMVNvTEc0TXlfOFkzLURzMHh1X0VteVdlSjhpNVRpVEVzVlhNdmVJUHpENndWOFdOUXZnWExlUDVGQlZ0RWQ0SGdZODgxM1BqN1Jpd0dLRzBYWWF5U2pUZ0t3?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T17:10:58Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "da7ce3bd7b9769",
@@ -632,16 +662,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ibldyZ2R6XzI3ekN1VW91MnNKSG1rY3F2RWV0QWJqeW1PWlhPSXVOa0dnbmU0V3E5TDVIanVZUXFNSnAtSmpNd0ZDUW5pdmxkM1dR?oc=5",
-   "source": "شبكة تواصل الإخبارية",
-   "date": "2026-11-25T16:31:03Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "343abb5f222ae1",
    "title": "Nvidia faces questions from top Senate antitrust Democrat",
    "summary": "",
@@ -678,16 +698,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
    "source": "Bloomberg.com",
    "date": "2026-11-25T16:28:55Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e6fb75fb057ed4",
-   "title": "Watch Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFplQVM2aGVnWXdTMEU2WlNINWZFSG94MUlIZTNsZEZ4QTg1U1FOb0NmdEw4X0lIWllJZ2dkUEJ6OVBDWm51VUl3VzhVaXRBN2FOWkI4dVhIU21aZDBuNS1UaXRVWmprbXJHTXV5dEJoaWZfUXhycTBpN0JmN1BOWUZEX1RwblF6T2g2QTV0d1hEdXBYU0thR0xaUy1USHBpOG5sbHdwM0xfUQ?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-25T16:28:13Z",
    "score": 7,
    "category": "Tecnológicas"
   },
@@ -1177,7 +1187,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qX1JUM1cwd0FJX1c1eklpZXVoREFkV3llVWpYdktEYWFzZHMtWlNTZkpoamhObEpZbTc4TUxQMEdBc3RT?oc=5",
    "source": "Digg",
-   "date": "2026-11-25T15:33:55Z",
+   "date": "2026-11-25T15:33:54Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1190,16 +1200,6 @@
    "date": "2026-11-25T15:33:45Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "b3aedfa3d0a878",
-   "title": "AMD, Micron, Nvidia Lead AI Stocks Lower as Market Tumbles Into Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzdMMHY2ZklDdXRQZUJIbEZjWFdCaW1FVnhzWFZaRzFMS1pxVFBKN28taE03Rjljcl94Yks0MmxqRzlzNlFXUV9ZMmQtOHFycTkzR1FGU0h6VnVReVNiTFpYbElFbjY4b2dwcXd5aUhHN2o2Nmg0RVNVR2R4c0RVMmRQa2FOWG1Ubkk3VURGUFJWOGY5OWJRQmlQMloyME5VN3I4UW9BeVFqNU1MV1hpTkQ0LW5ILXpoR0daYkpSNHFLWlktcmc?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T15:33:33Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
