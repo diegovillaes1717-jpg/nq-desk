@@ -156,7 +156,7 @@
    "sym": "AMZN",
    "date": "2027-02-04",
    "hour": "amc",
-   "estimated": true,
+   "estimated": false,
    "eps_est": 2.49111,
    "rev_est": 244980536200,
    "eps_act": null,
@@ -277,7 +277,13 @@
    "surprise": 5.0
   }
  ],
- "updated_at": "2026-11-25T09:25:26Z",
+ "reported": [
+  {
+   "sym": "NVDA",
+   "date": "2026-11-17",
+   "hour": "amc"
+  }
+ ],
  "summary": {
   "resumen": "A pesar de que Nvidia superó estimaciones en su último informe, la incertidumbre directiva y los riesgos macroeconómicos han provocado fuertes caídas en el mercado. El Nasdaq ha reaccionado a la baja con desconfianza ante los problemas de gobernanza y las decepciones previas en gigantes como Alphabet y Meta.",
   "puntos": [
@@ -318,5 +324,6 @@
   "que_vigilar": "Habrá que vigilar la evolución del liderazgo en Nvidia y si los resultados de Broadcom y Micron logran estabilizar al sector de semiconductores.",
   "sig": "0d6fbe85112341",
   "generated_at": "2026-11-25T14:59:44Z"
- }
+ },
+ "updated_at": "2026-11-25T15:28:29Z"
 }
