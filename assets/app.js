@@ -99,13 +99,21 @@
   function isFed(e) { return e.category === 'Fed'; }
 
   /* ---------------- carga de datos ---------------- */
+  // En la web publicada (usuario.github.io/repo) los datos se leen directamente del
+  // repositorio, que el robot actualiza cada ~5 min. Si falla, se usa la copia local.
+  var RAW = (function () {
+    var h = location.hostname, m = h.match(/^([a-z0-9-]+)\.github\.io$/i);
+    var repo = location.pathname.split('/')[1];
+    return m && repo ? 'https://raw.githubusercontent.com/' + m[1] + '/' + repo + '/main/data/' : null;
+  })();
+  function getJSON(base, f, t) {
+    return fetch(base + f + '.json?t=' + t, { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); });
+  }
   function loadAll() {
     var t = Date.now();
     return Promise.all(FILES.map(function (f) {
-      return fetch('data/' + f + '.json?t=' + t, { cache: 'no-store' })
-        .then(function (r) { return r.ok ? r.json() : null; })
-        .then(function (j) { if (j) S.d[f] = j; })
-        .catch(function () { });
+      var p = RAW ? getJSON(RAW, f, t).catch(function () { return getJSON('data/', f, t); }) : getJSON('data/', f, t);
+      return p.then(function (j) { if (j) S.d[f] = j; }).catch(function () { });
     })).then(function () {
       S.loaded = true;
       checkTrumpNew();
@@ -550,8 +558,27 @@
   }
   function renderEarnings() {
     var er = S.d.earnings || {};
-    var html = '<div class="card"><div class="card-h"><div><h2>Resultados de las grandes del Nasdaq</h2><div class="sub">Las empresas con más peso en el NQ. Cuando presentan resultados, el índice entero puede moverse con fuerza, sobre todo tras el cierre.</div></div>' +
+    var html = '<div class="card"><div class="card-h" style="margin-bottom:0"><div><h2>Resultados de las grandes del Nasdaq</h2><div class="sub">Las empresas con más peso en el NQ. Cuando presentan resultados, el índice entero puede moverse con fuerza, sobre todo tras el cierre.</div></div>' +
       (er.updated_at ? '<span class="sub">' + esc(er.source || '') + ' · actualizado ' + ago(er.updated_at) + '</span>' : '') + '</div>';
+    html += '</div>';
+    // Explicación fija
+    html += '<div class="card"><div class="card-h"><div><h2>Los resultados en 30 segundos</h2><div class="sub">Qué son, qué peso tienen en el NQ y cómo se relacionan</div></div></div><div class="grid-auto">' +
+      '<div class="clave"><h4>Qué son</h4><p>Cada 3 meses las empresas publican cuánto han ganado y vendido, y qué esperan para los próximos meses. El mercado lo compara con lo que esperaban los analistas.</p></div>' +
+      '<div class="clave"><h4>Qué peso tienen en el NQ</h4><p>Muy alto. Nvidia, Microsoft, Apple, Amazon, Meta, Broadcom y Alphabet suman cerca de la mitad del Nasdaq 100: si una de ellas se mueve un 5-10 % tras resultados, arrastra a todo el índice.</p></div>' +
+      '<div class="clave"><h4>Cómo se relacionan</h4><p><strong class="up">Supera lo esperado</strong> o mejora previsiones → la acción sube → suele empujar al NQ. <strong class="down">Decepciona</strong> o rebaja previsiones → cae → suele lastrar al NQ. Casi siempre se publican tras el cierre (22:00 Madrid).</p></div></div></div>';
+    // Resumen IA
+    var es = er.summary;
+    html += '<div class="card"><div class="card-h"><div><h2>Resumen de los últimos resultados</h2><div class="sub">Se actualiza automáticamente' + (es && es.generated_at ? ' · actualizado ' + ago(es.generated_at) : '') + '</div></div></div>';
+    if (es && es.resumen) {
+      html += '<p class="lead" style="margin:0 0 14px;font-size:16px">' + esc(es.resumen) + '</p>';
+      if (es.puntos && es.puntos.length) html += '<div class="list">' + es.puntos.map(function (p) {
+        var rc = { 'Supera': 'Positivo', 'Decepciona': 'Negativo', 'En línea': 'Neutral' }[p.resultado] || 'Neutral';
+        return '<div class="today-ev" style="align-items:flex-start"><span class="tm" style="width:58px">' + esc(p.fecha) + '</span><span class="ti">' + esc(p.empresa) + ' <span class="sub">· ' + esc(p.titulo) + '</span><div class="sub" style="font-weight:400;margin-top:3px">' + esc(p.resumen) + '</div></span>' +
+          '<span style="display:flex;flex-direction:column;gap:4px;align-items:flex-end">' + (p.resultado && p.resultado !== 'Sin datos' ? '<span class="tono ' + rc + '" style="font-size:10px;padding:3px 8px">' + esc(p.resultado).toUpperCase() + '</span>' : '') + (p.impacto ? '<span class="pill ' + esc(p.impacto) + '">' + esc(p.impacto).toUpperCase() + '</span>' : '') + '</span></div>';
+      }).join('') + '</div>';
+      if (es.proximos) html += '<div class="post" style="margin-top:12px;padding:10px 12px"><div class="ai"><strong>Próximos:</strong> ' + esc(es.proximos) + (es.que_vigilar ? '<br><strong>A vigilar:</strong> ' + esc(es.que_vigilar) : '') + '</div></div>';
+    } else html += '<div class="empty">El resumen se genera automáticamente en la próxima actualización.</div>';
+    html += '</div><div class="card"><div class="card-h"><div><h2>Calendario de resultados</h2><div class="sub">Próximas presentaciones de las grandes del Nasdaq</div></div></div>';
     if (!er.enabled) {
       html += '<div class="empty">Los resultados aparecerán tras la próxima actualización del robot (se revisan cada 6 horas).</div>';
     } else {
@@ -562,9 +589,10 @@
         return '<tr class="' + (days <= 7 ? 'soon' : '') + '"><td>' + cap(fmt(keyToDate(x.date), { weekday: 'short', day: 'numeric', month: 'short' })) + (x.estimated ? ' <span class="sub" title="Fecha estimada, pendiente de confirmar por la empresa">(est.)</span>' : '') + '</td><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong> <span class="sub">' + esc(NAMES[x.sym] || '') + '</span></td><td>' + hourTxt(x.hour) + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) + ' $' : '—') + '</td><td class="num">' + money(x.rev_est) + '</td><td class="num">' + (days === 0 ? '<span style="color:var(--high-ink);font-weight:800">HOY</span>' : days + ' d') + '</td></tr>';
       }).join('') + '</tbody></table></div>' : '<div class="empty">No hay resultados programados todavía.</div>';
       var last = er.last || [];
+      var repDate = {}; (er.reported || []).forEach(function (r) { if (!repDate[r.sym]) repDate[r.sym] = r.date; });
       if (last.length) {
-        html += '<div class="section-label" style="margin-top:22px">Último trimestre presentado</div><div class="tbl-wrap"><table class="tbl"><thead><tr><th>Empresa</th><th>Trimestre</th><th class="num">BPA real</th><th class="num">Estimado</th><th class="num">Sorpresa</th></tr></thead><tbody>' + last.map(function (x) {
-          return '<tr><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong> <span class="sub">' + esc(NAMES[x.sym] || '') + '</span></td><td>' + (x.quarter_end ? fmt(keyToDate(x.quarter_end), { month: 'short', year: 'numeric' }) : '—') + '</td><td class="num">' + (x.eps_act != null ? num(x.eps_act, 2) : '—') + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) : '—') + '</td><td class="num">' + (x.surprise != null ? chg(x.surprise) : '—') + '</td></tr>';
+        html += '<div class="section-label" style="margin-top:22px">Último trimestre presentado</div><div class="tbl-wrap"><table class="tbl"><thead><tr><th>Empresa</th><th>Presentó</th><th>Trimestre</th><th class="num">BPA real</th><th class="num">Estimado</th><th class="num">Sorpresa</th></tr></thead><tbody>' + last.map(function (x) {
+          return '<tr><td><strong style="color:var(--accent)">' + esc(x.sym) + '</strong> <span class="sub">' + esc(NAMES[x.sym] || '') + '</span></td><td>' + (repDate[x.sym] ? cap(fmt(keyToDate(repDate[x.sym]), { day: 'numeric', month: 'short' })) : '—') + '</td><td>' + (x.quarter_end ? fmt(keyToDate(x.quarter_end), { month: 'short', year: 'numeric' }) : '—') + '</td><td class="num">' + (x.eps_act != null ? num(x.eps_act, 2) : '—') + '</td><td class="num">' + (x.eps_est != null ? num(x.eps_est, 2) : '—') + '</td><td class="num">' + (x.surprise != null ? chg(x.surprise) : '—') + '</td></tr>';
         }).join('') + '</tbody></table></div>';
       }
       html += '<p class="sub" style="margin-top:14px">BPA = beneficio por acción. Si el dato real supera lo estimado ("sorpresa" positiva) la acción suele subir, y si es una de las grandes, arrastra al NQ. Fechas marcadas "(est.)": aún sin confirmar por la empresa.</p>';
@@ -670,7 +698,7 @@
   /* ---------------- footer ---------------- */
   function renderFooter() {
     var st = S.d.status || {}, src = st.sources || {};
-    var names = { calendario: 'Calendario', mercados: 'Mercados', noticias: 'Noticias', fed: 'Fed', fed_ia: 'Resumen Fed', trump: 'Trump', periodico: 'Periódico', resultados: 'Resultados' };
+    var names = { calendario: 'Calendario', mercados: 'Mercados', noticias: 'Noticias', fed: 'Fed', fed_ia: 'Resumen Fed', trump: 'Trump', periodico: 'Periódico', resultados: 'Resultados', resultados_ia: 'Resumen resultados' };
     $('footer').innerHTML = '<div class="srcrow">' + Object.keys(names).filter(function (k) { return src[k]; }).map(function (k) {
       var s = src[k];
       return '<span class="src' + (s.ok ? '' : ' bad') + '" title="' + esc(s.ok ? 'OK ' + ago(s.at) : (s.error || 'Error')) + '"><span class="dot-s"></span>' + names[k] + '</span>';

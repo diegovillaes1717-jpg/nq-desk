@@ -954,7 +954,16 @@ def update_earnings():
         if not items and not last:
             raise RuntimeError("sin datos de resultados")
         items.sort(key=lambda x: (x["date"] or "", x["sym"] or ""))
-        out = {"enabled": True, "source": source, "items": items, "last": last, "updated_at": iso(now_utc())}
+        # Guarda las fechas en las que cada empresa ya presento (para el resumen)
+        today = now_utc().astimezone(NY).strftime("%Y-%m-%d")
+        reported = {(r["sym"], r["date"]): r for r in prev.get("reported", [])}
+        for it in prev.get("items", []) + items:
+            if it.get("date") and it["date"] < today:
+                reported[(it["sym"], it["date"])] = {"sym": it["sym"], "date": it["date"], "hour": it.get("hour", "")}
+        cutoff = (now_utc() - timedelta(days=120)).strftime("%Y-%m-%d")
+        reported = sorted([r for r in reported.values() if r["date"] >= cutoff], key=lambda r: r["date"], reverse=True)
+        out = {"enabled": True, "source": source, "items": items, "last": last, "reported": reported,
+               "summary": prev.get("summary"), "updated_at": iso(now_utc())}
         save("earnings.json", out)
         ok("resultados", {"items": len(items)})
         return out
@@ -1144,6 +1153,81 @@ def update_fed_summary(fed, calendar):
     except Exception as e:
         fail("fed_ia", f"Gemini: {e}")
     return fed
+
+
+EARN_NEWS = GN + urllib.parse.quote(
+    "earnings (Nvidia OR Microsoft OR Apple OR Amazon OR Meta OR Broadcom OR Alphabet OR Tesla OR Netflix OR AMD OR Palantir OR Costco) when:14d")
+
+EARN_PROMPT = """Eres analista de resultados empresariales para un trader de futuros del Nasdaq 100 (NQ) que NO quiere leer informes.
+Fecha actual (Madrid): {now}.
+Con SOLO la información de abajo, resume en español, de forma muy sencilla y profesional, los últimos resultados de las grandes tecnológicas
+y qué han supuesto para el Nasdaq. No inventes cifras ni fechas que no estén abajo. Fechas en formato "19 nov".
+Devuelve SOLO JSON:
+{{
+ "resumen": "2-3 frases muy sencillas: cómo han ido los últimos resultados de las grandes y cómo ha reaccionado el mercado",
+ "puntos": [{{"fecha": "19 nov", "empresa": "Nvidia", "titulo": "título corto", "resumen": "1-2 frases sencillas: qué presentó y cómo reaccionó la acción", "resultado": "Supera|En línea|Decepciona|Sin datos", "impacto": "Alto|Medio|Bajo"}}],
+ "proximos": "una frase con los próximos resultados importantes y sus fechas",
+ "que_vigilar": "una frase: qué vigilar en la próxima temporada o presentación"
+}}
+Entre 3 y 8 "puntos", del más reciente al más antiguo. "impacto" = cuánto movió o puede mover al NQ (Nvidia, Microsoft, Apple suelen ser Alto).
+
+ÚLTIMO TRIMESTRE PRESENTADO (BPA real vs estimado):
+{last}
+
+FECHAS EN LAS QUE YA PRESENTARON:
+{reported}
+
+PRÓXIMOS RESULTADOS:
+{upcoming}
+
+TITULARES RECIENTES SOBRE RESULTADOS:
+{news}
+"""
+
+
+def update_earnings_summary():
+    earn = load("earnings.json", {})
+    if not GEMINI_KEY or not earn.get("enabled"):
+        return earn
+    heads = []
+    try:
+        for it in parse_feed(fetch(EARN_NEWS))[:40]:
+            if not it["date"]:
+                continue
+            t = it["title"]
+            m = re.search(r"\s+-\s+([^-]{2,40})$", t)
+            src = m.group(1).strip() if m else ""
+            t = t[:m.start()].strip() if m else t
+            heads.append({"title": t, "source": src, "date": iso(it["date"])})
+    except Exception as e:
+        print(f"[aviso] titulares de resultados: {e}", file=sys.stderr)
+    heads.sort(key=lambda h: h["date"], reverse=True)
+    heads = heads[:25]
+    sig = uid(json.dumps(earn.get("last", []), sort_keys=True), json.dumps(earn.get("reported", [])[:10]),
+              *[h["title"] for h in heads[:10]])
+    summ = earn.get("summary") or {}
+    fresh = minutes_since(summ.get("generated_at"))
+    if summ and ((summ.get("sig") == sig and fresh < 24 * 60) or fresh < 180):
+        return earn
+    today = now_utc().astimezone(NY).strftime("%Y-%m-%d")
+    last = "\n".join(f"- {x['sym']} (trimestre cerrado {x.get('quarter_end','')}): BPA real {x.get('eps_act')} vs estimado {x.get('eps_est')}, sorpresa {x.get('surprise')}%"
+                     for x in earn.get("last", [])) or "(sin datos)"
+    reported = "\n".join(f"- {r['sym']}: {r['date']} {r.get('hour','')}" for r in earn.get("reported", [])[:20]) or "(sin datos)"
+    upcoming = "\n".join(f"- {x['sym']}: {x['date']} {x.get('hour','')}{' (estimada)' if x.get('estimated') else ''}"
+                         for x in earn.get("items", []) if x.get("date", "") >= today)[:3000] or "(sin datos)"
+    news = "\n".join(f"- {fmt_mad(h['date'], '%d/%m')} | {h['source']} | {h['title']}" for h in heads) or "(sin titulares)"
+    prompt = EARN_PROMPT.format(now=now_utc().astimezone(MAD).strftime("%d/%m/%Y %H:%M"),
+                                last=last, reported=reported, upcoming=upcoming, news=news)
+    try:
+        res, model = gemini_json(prompt, max_tokens=3000)
+        res["sig"] = sig
+        res["generated_at"] = iso(now_utc())
+        earn["summary"] = res
+        save("earnings.json", earn)
+        ok("resultados_ia", {"model": model})
+    except Exception as e:
+        fail("resultados_ia", f"Gemini: {e}")
+    return earn
 
 
 # ----------------------------------------------------------------------------
@@ -1382,6 +1466,7 @@ def main():
     trump = safe(lambda: classify_trump_ai(trump, new_posts), "trump_ia", trump)
     fed = safe(lambda: update_fed_summary(fed, calendar), "fed_ia", fed)
     safe(update_earnings, "resultados", None)
+    safe(update_earnings_summary, "resultados_ia", None)
     safe(lambda: update_periodico(calendar, markets, news, trump, fed), "periodico", None)
 
     STATUS["updated_at"] = iso(now_utc())

@@ -1,0 +1,47 @@
+name: Publicar web NQ Desk
+
+# Publica el diseño y el código de la web cuando cambia algún archivo.
+# Los datos los lee la web directamente del repositorio, así que no hace
+# falta volver a publicar cada vez que el robot los actualiza.
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["data/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: publicar-web
+  cancel-in-progress: true
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Preparar la web
+        run: |
+          mkdir -p _site
+          cp -r index.html assets data _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+          retention-days: 1
+
+  publicar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Publicar en GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
