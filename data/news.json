@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T22:24:28Z",
+ "updated_at": "2026-11-25T22:29:11Z",
  "items": [
+  {
+   "id": "f8b74d93df2c4d",
+   "title": "Moody's says Nvidia's Huang reinstatement eases uncertainty, ratings unchanged",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUS1rM3pwcGFXMVd1NGhiVUhHaDBya083NEptQnh0a1VObDlwSnRsbkQtamU1UHhLQzg1eW1lTlh4LUVoRDBHZDh5T0NyMTl6THBpNWtwVFZhX2c4cXdlbEFTS1BjMnR2aHc2dElrNF9VZTFSY3Y2V3hKU29qZ2ItRGtMXzkzNzc4bXhMYm1FSS1GM0xpMDd2LWVJckN4R1M3SkEtbWxyV0V3ay1ZeHVLVzJHS0pXZG9EVzVVTw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-25T22:22:05Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "6cfdb34cfbe63d",
    "title": "US stocks close mixed amid hotter-than-expected inflation, fresh tariffs",
@@ -62,16 +72,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "b8f6a0750b5a6a",
-   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNF9qOU9RZkdjZDZpdXdCX1FZaVE1NzA0VExVRmR0VkV1NEJWWU80U21uamkweGJSX1ROeEhLODdYcUVwY01Xai1fcWw2RUpNalBBRGVHSkNQLWVHM2oyXzhCOEdPdmdjVl9YOUhsWS1EZlB5ZUJmTFlNNU9KdnU0U0l4UVREdTRXYk53NURqNXBLQXdpbDFTTnZFSXJ5ZGVaRFh4UGNYVnVaR2MxNHg2cUVINGpobzVMb0poWnNNQWVFZFJ3UEhVNk1ra3FhQi11Zm5FWXVudGYyN0NSX0VJbXZNTFJNRUQ5MkVzMlllT080cWdVVWJQR1NNMEVfR01HVEhCU1RrVm43amdQVnpzOHJpNTh0RF83UG8yY1hTVUdxMWNaQ0E?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-25T22:07:28Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
    "id": "b20d2695d61456",
    "title": "News | US inflation climbs to 3.8%, moving further above Fed target",
    "summary": "",
@@ -80,6 +80,16 @@
    "date": "2026-11-25T22:06:52Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "b8f6a0750b5a6a",
+   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T22:06:45Z",
+   "score": 12,
+   "category": "Macro"
   },
   {
    "id": "45f94a6ccfd47d",
@@ -282,6 +292,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ed00ccd84c694f",
+   "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T21:18:06Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "47f1273ee80278",
    "title": "US Inflation Accelerates; December Rate Hike Seen as 'Fait Accompli'",
    "summary": "",
@@ -452,14 +472,14 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3e1ee2dc79a128",
-   "title": "Vance says Nvidia's Jensen Huang isn't under investigation and doesn't need a pardon",
+   "id": "ed7b2dff08cd01",
+   "title": "U.S. plans to hike tariffs on China, EU, Brazil and others over subsidized production",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRmJMV3dtejhaOWFLQ19MU2VROG1BVm5OOFh1MkNzWmlsUkctbXJBM0Mtekx1M2tZYldCb0pveDlDZGxjSW1TZWJOUUQyQlVWelhaTllsMkgxcDZXZTNBUXhMcDF0VVBTT2ZjOUtWckVxQXFFdDR1RExMUlo?oc=5",
-   "source": "CBS News",
-   "date": "2026-11-25T20:46:16Z",
-   "score": 3,
-   "category": "Tecnológicas"
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ?oc=5",
+   "source": "BNN Bloomberg",
+   "date": "2026-11-25T20:46:33Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "b5319adb43c3be",
@@ -1002,6 +1022,16 @@
    "category": "Macro"
   },
   {
+   "id": "3e1ee2dc79a128",
+   "title": "Vance says Nvidia's Jensen Huang isn't under investigation and doesn't need a pardon",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRmJMV3dtejhaOWFLQ19MU2VROG1BVm5OOFh1MkNzWmlsUkctbXJBM0Mtekx1M2tZYldCb0pveDlDZGxjSW1TZWJOUUQyQlVWelhaTllsMkgxcDZXZTNBUXhMcDF0VVBTT2ZjOUtWckVxQXFFdDR1RExMUlo?oc=5",
+   "source": "CBS News",
+   "date": "2026-11-25T19:25:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e81ce39117f4b2",
    "title": "US Stocks Pare Losses as Tariffs and Inflation Pressure Markets",
    "summary": "",
@@ -1169,36 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-25T19:02:23Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f1583ee76dacbc",
-   "title": "Nasdaq 100 closes down 1.5% after paring drop from 4.7%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRU5mR2Zmb21UdTY3dWFhMDBGU3RDWG1DOUtGUFViLUhHWTd6blVTZEVDNk52V0VieTlQUHBxVEhZLUczOGNmZVZMclhDVm14MXdvTlFKbjE0RlZBWHJUSk5ZNTYyZ1F6d2JSX0dPWjVwT2VwRS0wZ3M0MG83UjJ2eVJicUM5bmlDUjFEY2hBWWc2TU9LaF90NFdOdGNyU21PdkI5bDhyUjN0Y1VqVzdtak5LWFRzUzZZSEUxRXFn?oc=5",
-   "source": "scanx.trade",
-   "date": "2026-11-25T19:02:21Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3f1e515309f71d",
-   "title": "Stocks Took Inflation Data In Stride As Real Estate Led",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnJveW9zTmxiSm9rSWJIWUZkb3ljNXl4RDRFNk1uY0xDNTlRdmZnSERwSS1GeW1WaTVVWG54c3o4ZUN1NklFdkUzalZ1eDBjZldfMllZTndPOUV5MEhHOWR2TDdSUVRQNW9UaF9CTGU3dE1rb2JKZ2VyWjVNcGJReFAzTERzcjJKLU9WQg?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-25T19:00:58Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "c0e46446bdb8dd",
-   "title": "There's a lot more uncertainties, overhang over Nvidia stock, says Blue Whale Capital's Stephen Yiu",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmai1zblc2QmZIR0VxcnYwa1ltY2dHeGFxQU8wVEhOLUlDV2xEOWxDQWVhbEhuMkE5U3JmaVozNGpqUUVkWU9MM3VxQXdaY1RzSUp6eElqWUk2U2ZaXzhiTFFlZVU?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-25T19:00:08Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
