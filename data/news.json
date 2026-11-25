@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-25T22:05:26Z",
+ "updated_at": "2026-11-25T22:10:10Z",
  "items": [
+  {
+   "id": "b20d2695d61456",
+   "title": "News | US inflation climbs to 3.8%, moving further above Fed target",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3pHc0RWVmg3aGpDQ09raWpUdlg5MVZYdjZjMk1ybzVUSnFSRVJ5dG5NZFMwTjlYQnNYbElCZ3p2LUNIY1BTMklacGhIaFJldFlsc0d1TFlMd29xblVsWGtSMTZJQmdIdzZOdDh1WTFLck81bmNRRV9xdjhYQnhqV0RSMldidExEYmk2SWpwQmFDSnJqV0J3?oc=5",
+   "source": "CoStar",
+   "date": "2026-11-25T22:06:52Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "049fb6e60f1e8a",
+   "title": "Businesses Plan More Price Hikes for 2027 as Inflation Hits 3-Year High",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2tmMTlPRUxWOW4xamRyY2hyY1FWaERYbmFWOVhyYmZfVUF1OEhtdlc5TFo1bGNHbmJWSlFBY0pRYTBDUjF4ZExMN1JJOHotS2RqaE5rTVpqdmN6UXVtd1hGNFF0SGlMZnZxVjZBUmxqSUVKSDFmWGRIMVFmWVZpcHNKUld3UFgwRVR0V1hwM3N0TG5DLU94aQ?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-25T22:01:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "45c60409d1825d",
+   "title": "Nvidia Sell-Off: You Won’t Believe How Cheap the Stock Is",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcU1sN2NqMk9iRHNZTTNZTldZRVc4UWhvZXhTZ0NOd3M3TEphU2JXbmxyaTZoTnJXOHg3SjlTamhxb0FvZlFTQVo2OERzeldyQXNQanJzZmhYUFNYWXI0MmE5UThjVXN4OUEzUHVWQ3FQSkFBTFV1VlROQjN6ZmZYVVQtV2VzWnRod1R4TXVIMFJPVFBGTGVteFgwTlU4RUx4?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T22:00:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "83edc61832fef5",
    "title": "Watch Nasdaq 100 Bounces Off Tech-Driven Lows",
@@ -39,6 +69,16 @@
    "source": "MarketWatch",
    "date": "2026-11-25T21:50:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8848a87be62c05",
+   "title": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRW5hVHJqVzdtVFE3M2JEaWU0aXFRclZRZ3ZrT184REVWRUJmZGpadEYxbGVlWjlxMDFRWXhnNTQtMTE1akpDaGlVRUpPUWtLZjRoUnhLZWJpeld4eHZUWFU0VlNfREFQR0J4d2RZaUpydlh0QS1tTElxWDBWdVVmZjNFTWZKcUo5WlhtUkJpQ3ZQdFkzQTRFbF9pOXJfZnltTkFFRVBSZl9hekcyTW52VGMwdnprZ2VfM0VaYWQ5VU0?oc=5",
+   "source": "investingLive",
+   "date": "2026-11-25T21:47:09Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -96,7 +136,7 @@
    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "date": "2026-11-25T21:30:24Z",
    "score": 5,
    "category": "Fed y tipos"
@@ -232,16 +272,6 @@
    "category": "Macro"
   },
   {
-   "id": "3cfd76b4dafa65",
-   "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXVkNElVU1pNQkdGQWF2d2FrdWJxcWIwVXlzS0ZIZjJCMlk1TG1tTzVnXzR3dzIwNXJTN2lnVE1FaFVaZ3RiNTJTOGh5X2ozYzJJaUF0LVJ5Z2NNRTNzVFBCalZYX1R4SHIyVDhCWmpCY05xWFNlbXZsWGxVSENjVkVPZ3YtWTFnMkxoNXhxQWZ2dVI3WElDN2lOLVJJaHdUTjZLOFlCMDd5dHJmUnNOWnlmM09QZlBC?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-25T20:59:52Z",
-   "score": 8,
-   "category": "Macro"
-  },
-  {
    "id": "eaf8676caa83b0",
    "title": "US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
    "summary": "",
@@ -270,6 +300,16 @@
    "date": "2026-11-25T20:53:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "3cfd76b4dafa65",
+   "title": "Evening digest: US inflation rises, Trump proposes fresh tariffs on 14 economies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHRLd2VldzQ2VGtRMS1Bd0dJUDJvUzREY2J3Tlgycy0yMGdod1E2djZGOXFkbzMtRXFsLVcybXhrdWNqR1I2ODFpdEFwZWc0YkNIVjRzQ21SMGRyeXZEX3lWSF8ydElVckFoWW9pTTFrYlZDNnVsUDlidjVwdUNudE1hNGh4dkU1VHk2bUkyUGhFRDd0bHFJb3FwcHFuRGxNbGtSNExQTmFVdmdUSDFRM0pMSmlYRS15?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-25T20:51:54Z",
+   "score": 8,
+   "category": "Macro"
   },
   {
    "id": "787749a1f88074",
@@ -458,16 +498,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzVWQnNPSUM0VmRjVGs1STZWY0RjWTUxWHprNmVwaWtGZnlyb3FrbE1paVRjS21HRkd3OHVXUWt1SGlUQjNhNzdXMGU2UnlJdnVQdXpoeEFTeU5HM3dZZENIeFpiSGtXWm9SY25LU0Q3RWpvM2puMGo0czM3SFB5NWczZGR6SkE?oc=5",
    "source": "Traders Union",
    "date": "2026-11-25T20:25:26Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "b20d2695d61456",
-   "title": "News | US inflation climbs to 3.8%, moving further above Fed target",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3pHc0RWVmg3aGpDQ09raWpUdlg5MVZYdjZjMk1ybzVUSnFSRVJ5dG5NZFMwTjlYQnNYbElCZ3p2LUNIY1BTMklacGhIaFJldFlsc0d1TFlMd29xblVsWGtSMTZJQmdIdzZOdDh1WTFLck81bmNRRV9xdjhYQnhqV0RSMldidExEYmk2SWpwQmFDSnJqV0J3?oc=5",
-   "source": "CoStar",
-   "date": "2026-11-25T20:22:52Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T18:52:09Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "f3c5debb2f2388",
-   "title": "US economy roars ahead in third quarter, inflation remains high in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T18:50:40Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "1630b4d06f72e9",
-   "title": "Trump's portfolio traded Nvidia shares 44 times this year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0luSFA2MS1aN2psOTdUWDhLdUN1b0FOSEhFcll5R3FVZVZxTWFJdmVLRkE0dk02ckEzTzdySjlHM3ZGa3hWQnBHSzJ3V0d6bkRBRmN0RzRLdjlRX2V6U2VlajJ2bjhnallKSlYzM0N1Q2xLRng2LTVfdXlUd1hKZ1FEVnJFTGdpLUpSY2FlYw?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-25T18:46:01Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4fb9ac7649aef5",
-   "title": "NVDA Stock Alert: Nvidia CEO Jensen Huang Rejects Calls for Succession Plan",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXJWand6UFg5NXNWaDlxWVlsVkZ1aENyYmw5b2cwQ2VKQ3dua2V6Vm1JLTFYdzQzUGVCWFIxdVhfY2RvdzYxQ0RON1RqeHNlWUdPTFM1UkppY08zM1pFM3hMZDBFcTJ0SDVfOHFPTDR2azVJM0JseVdFUWxxSWQ2akFmRjB0TzlSUFF0ZlBtUzIzM1JfLU9nT1RwdmcyOTZnRWs4RTIxZEFXNHlGcURTVlhYVTZ1eWItUlE?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-25T18:45:32Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
