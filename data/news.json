@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-25T23:02:21Z",
+ "updated_at": "2026-11-25T23:07:05Z",
  "items": [
+  {
+   "id": "bdc39412d1ae3a",
+   "title": "US Inflation Climbs to 3.8% in October, Fed Rate Hike Looms in December",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnYtNUtvRXFyRV9qSEpBY3V2WFF6YzdDQzJDdGlzdjBwTkhpS2VLUktBemJhZDFiWUdQcEcyTzB5R2l6a3dZZnI5TFdxVlptMjA4Vk5KcHBqSWxOMmxxMDZVSUtMczViYU40Y081bDl6YXV2M1VhV25YNHgxTzhOX1BmT1NvcTZUZFpHeTJCNFZPODNEbms2d3lBdHhQcDVh?oc=5",
+   "source": "Hoodline",
+   "date": "2026-11-25T23:01:49Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "488ff7f4a02fe2",
+   "title": "The Nvidia Scandal Set Off a Chip Crackdown in Congress. Which Stocks Are Most at Risk?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmY3V2JoR0IzcVhFcDNDaVF2OHc0Nl95RzhESG5jQlV4ZHdMQnFoOVdlaTQ2STk0NGdYWG5MNnB1TDdKVEQzbVNEZjBGZXdUZjdjdHNKU0dYOVVybGlOMi00LWlPSjBMbjVjNnltektFRGJ1dDh6eUptR1B6VEp1V0lnSVdJVS0xa0hOT1Z5OVdGdGt1ZC1HNWd0d2MwZ1JqX2xCQ2VvcjdwYzAzTERVRVlJVUtmRWtHUC00cVVlampCME5kVVVZ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T22:58:05Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c8a0ee9d9df1cc",
    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -27,7 +47,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jZmpKSkpNODRXeG5QaU4wa2lsMHA4V18zYkkzUzJod29GRE9lektEX2xUc3A3cU1QOV9jeGh2YWR2SHRjcmJESm11SHVNM3VOOUo2OGRwQUdiOUhkejBVb1h4Z3pwUlFzRU9TSWNnYw?oc=5",
    "source": "Boston Herald",
-   "date": "2026-11-25T22:41:15Z",
+   "date": "2026-11-25T22:44:15Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -40,6 +60,16 @@
    "date": "2026-11-25T22:36:51Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "e22d2467389f19",
+   "title": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa1JvM0RsUzFZeURHZ2hmWkhZY3pBc1NZTTY4ZTdiZnNhZjVQWGx6Q2w5d3V5VTJWMDJvLTBlTnZtVWJOeDBCbTlNRktkWVV1R2RjZTBid201UDBIdzdSUU5RUmVsOHdFMHMtenNwZWZIQjRKSkZHaV81UFRCdUIxajdZVFNQZ3hrT292T09leHdZbnNnenU0dERLUGxzdG0zWlhkQi1QUjZYcmxjOUlvYVZjMVZYbTh2VTBUQ2wwRTdYMVFaMmJ0TFhvYWZjcE5GUWgzRFUtMHVTY2JKMjl0TGZGVkczOEdMU1NHQWJhM1hGMjFVNVlqUmVaZzNOUGkycW9ScHQ2U01OeUx5?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-25T22:36:38Z",
+   "score": 12,
+   "category": "Macro"
   },
   {
    "id": "88f10136ac00bb",
@@ -469,6 +499,16 @@
    "source": "Bloomberg",
    "date": "2026-11-25T21:17:13Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "93c30dc85f2c95",
+   "title": "Apple (AAPL) Pushes Back As 24 7 Tokenized Shares Trading Opens",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUTFhREtJV01xeWlaNWZfSGtEUXNsb20tYUJRYXh6RVp1RFkxZjNIRW1sdVM2WGZoSmp5cjFHczY2ZDRpcUIzYWRQZVBHOTdrX1E5QnhWTjZ0VzBsX05jTG1IXzdhb09kSE1XVTNvVkNhR2lyV2dQR1g1QmlMS2xMOEsxdFBaOERSbVBUbzVxTjZGLUhU?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T21:11:47Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -942,6 +982,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e166e6072af6b4",
+   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
+   "source": "The Detroit News",
+   "date": "2026-11-25T20:10:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f295f20177695d",
    "title": "3.3% core PCE reading: Gold slides despite lower US yields",
    "summary": "",
@@ -1062,16 +1112,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f741b6c643058e",
-   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSk9NaVVvblBodW84ZXNUNE9pb2w3VkRiOUJkNTVtNGU4T1ZrU2FuMEVzazczaS1KWThLTUxzYll2cVBEWWNoaGZmcWVsTE5GRWVUR3lWa21HcFJjeGs2bzhKWGtDUU9GMnVJZkNrZjBpTlZ5dnNXTTdiY1ZnTjV6WFA1N01lT3A5ekNvVENib2psdjdXcnNHZmFyaWMwM0VWV2pjVlpwdVVnbjBwZnNLM0djeW05RHAxb0RXS1B6UFFxOU0?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T19:49:21Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "f6981370bbec54",
    "title": "US stocks tumble as AI rout and Trump tariffs rattle markets - ABC News & Headlines – Australian Broadcasting Corporation",
    "summary": "",
@@ -1142,6 +1182,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "f741b6c643058e",
+   "title": "Gold sinks despite falling US yields as core PCE hits 3.3%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3lNSXJsTVNvNVpGT08tV2pLNV9RQ2MwSnZvbU5Nd2l6OWY2Y1lNQTZSRTExTkZCdnFCLU1ScHY2RXRlQU5OQnF2eEJWRnVOd1dWejI1eng5RHdJMi15YlhMb3A0V2loMjExN1FkLTd4X2hxTHI1MFpQSDVGQ1lYbWhWV29tekhwVW51NlNLeGt5Z1MwRjZNSEplTUdnWndy?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-25T19:33:39Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ee953e2e825490",
    "title": "World reacts to Trump’s new tariffs as US stocks tumble",
    "summary": "",
@@ -1150,56 +1200,6 @@
    "date": "2026-11-25T19:31:28Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "009ca4f091d69c",
-   "title": "S&P 500 Futures Slip to 7,199 as Tech Selloff Weighs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHhsZzh2RVFPNl85bkZnSXZYRkMxTzViLXpwUXpCSC1PM2d5dmU0UHI5a3ptb0lxLTczSGMzT28xUmJpajAwUFdwZWFGNTNsNmRxNTJ2QWZHWV9hUnFDX2pNSmREYl9GY080RDAwNTI3Rnd4LUQ1aDFpLWJfWm5qUDR0WURfYWp2am5WeGJLaWJVN05MTXVBblFaeEppQ3FSR2ZUNV9R?oc=5",
-   "source": "JournalArta",
-   "date": "2026-11-25T19:29:24Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "052f301ab19fe6",
-   "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUVfLUtEeWswaEhGOHFkWVFXbVRKMlp6ZXlwZFRiTDE3bWQ0blJqbnBnbkxVUUhJaE5PV2hmZGlvVXFXVV9tNl9IRWw2d2hsM082aWNSWG5pa1hocnZsbXdHcmZZVktFYm5Hb3NlZ1hnWGhHeVJEN1JramtQdTVTd2NJT3VVa2M5NlJsOHliM2JjNEVWcVA0QmJB?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T19:28:54Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ee1142debd4fb5",
-   "title": "S&P puts NVIDIA on CreditWatch over governance concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGRNNUlFRUR0V3hPWU82dFd6YTBocjhHQV9CZThldmJpZGRhR29XV24yWW1fVWtILVF1YUJuUUVvb0liQ1J2MTFiTHJkTHZaWTg3SHlmbDF1T19OYzRocUlvRm1DeE1tTDN3eThlNHR6UmIzY0tPajZRR1dJeGFkZ2VpcURIc2piMk1kTFA3LWJWcEtCQWpMTk1Udw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T19:26:25Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "eef11d662a565b",
-   "title": "Dow futures edge higher to 50,377 as market splits on inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnBCSDRvd2dwN1VFdjFIV00xNVpEbDVaZGE3LU1ycTg0NEZBWTNBeVpUWWFHT2lua0owN2VyTks0VnpQZ01GaXNiLXRkZkoyZE1oSWFmTmh2bVBaNHlYUHVrTWMxQy1WcDlPaU9DUGt1QkhXajQ2NkhISHRVZThIa2R6cWpsSE9XRmo1akRjUjRHaVRzbkVHWTJsV1hYeXluUXpIb2hsX2pIWVF4LUFEVzJxQmM?oc=5",
-   "source": "JournalArta",
-   "date": "2026-11-25T19:25:21Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "3e1ee2dc79a128",
-   "title": "Vance says Nvidia's Jensen Huang isn't under investigation and doesn't need a pardon",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRmJMV3dtejhaOWFLQ19MU2VROG1BVm5OOFh1MkNzWmlsUkctbXJBM0Mtekx1M2tZYldCb0pveDlDZGxjSW1TZWJOUUQyQlVWelhaTllsMkgxcDZXZTNBUXhMcDF0VVBTT2ZjOUtWckVxQXFFdDR1RExMUlo?oc=5",
-   "source": "CBS News",
-   "date": "2026-11-25T19:25:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
