@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T21:32:05Z",
+ "updated_at": "2026-11-25T21:36:56Z",
  "items": [
+  {
+   "id": "04d064e61a7091",
+   "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1B3bHNsUzdYc1J2TWdmZXpoVHhNOV9RZzN1NV81WVpRZklfZXNQbUZqcmVoLVhuSkx5MWxvVVBUQlQ0WDliU2xoMkZycU9GTjBaeFhyNGxNLWhEUzBlVEFWWk1ITzgxUlhjM0h0OFNaS2tUcjN5S3RYQTdWSFRFR2Z0UFJyN2lJUmlyS2Rmb19YYTR2eHMzUy1TamhTN3VMWkx6aWJqUTNOa21zSzVZMUVMNjdjYnNzR1lCZFVR?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T21:28:03Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "ca232f8a7ffa3e",
    "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
@@ -10,6 +20,16 @@
    "date": "2026-11-25T21:26:47Z",
    "score": 3.0,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "066c44ce42e68a",
+   "title": "Nasdaq Erases Most of 4.6% Slump as Dip Buyers Step In, Burry Turns More Long",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTWoyM0RWXzJNeWFWb1pFZ1I1RjBsTW9UYWV5V1VuV0RUSW5aVWFib1lWV2VuYnpJbUhTS2h5U0lpU3Z5SUpnX25NVUR1dWlVQXQtcg?oc=5",
+   "source": "bloomingbit",
+   "date": "2026-11-25T21:25:32Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "d91818e098c884",
@@ -262,6 +282,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "effdbe42672a91",
+   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclhZdHJiT1hoQ1Vka2hsNU5xQjhzOXdzNWNHRnVzUVRoNUNzMHc2R1VNc2xSZEo4RnIyNEMtZF9hSExyS1FqcHR2SmZfZFhqYThNSXRGb0RfVTl2am12aTZpNDF2cEJ4NVpEZ3JLREtwaUd0b0VCRXdhbV82aDJJYkVIbDNMb0RmWEdJNzAyZGYzSndzYkNRZEZER2o1UDVqZ3lR?oc=5",
+   "source": "WTVB",
+   "date": "2026-11-25T20:30:27Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f4a3d414743ea0",
    "title": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records",
    "summary": "",
@@ -445,9 +475,9 @@
    "id": "1ac3fb10d0b5b2",
    "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczJJSTFtVnV6aDY1UWx4Z1BXSVRxYjVrMmQ4TTJrRkg2M0w5azZzSVRjQ3VoWUh1T1phOEl5dTRFRUtxQkpOck1oVkVCY2huQnQ3WEhKQzNCT3AyVjJUSWdVa094Z09jdFphRGxWTWJPWGdhOXNWb1M5cy1YWHlGZzNIYTd0cGh1dGltN0s1ZXpqb2pXNEp5UlpHS00zeXdDUHB1UnJuWHpMcWw4UWdMc3p6UmxVOE4xcGk2ZTR30gHKAUFVX3lxTFBCckhHMjNXbGNiWUpzcDVUTjhJWFp2Mkd0U3JOTDVnZFhPdlFydUZDWlFiWGt4NjRxLUtCVEkxUUJvdnc0WVp0dUN6ellBaXhfZ040QlI1VFBMZm5kbWxGZ1VJdHZZRi1xallCS2JGa203Uml1b19sajdrdDF2QVFJOHdDaGRYRFVtdGF1TkxfSmRjRW04NUpZTDdoX01OY3hNZE5KTUdKbGVONElkTDh2cXgyaFJIYk1ORmxvaFNSSmFMa0FFQTFLMlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2plWUFXaHpwVXBqc3BUOUV6OVVMc2tTeFlPVWZLVktLR0xxWGdkaWxxT0IyTDl0YjZ5Sk5ER2Z6S0tkQ1RMWWN6M2VqSzNiRm96ay1UZVJGT3U1Nk9oZmlEaElzOUQ4WVdGUi1MR1Zpc3NFd3dERjk5VTBCbHUtV2dKZ1Z3RmIyb1RYTmFWZGRiRGQyd2NPWFAxQTNjaC11aDJUT0tSUlVWT1ExamRrdDJteUxManF0ZFk4TDAyT3piZ9IBzgFBVV95cUxQcGYzXzVNTzZxaFdIYlhpempfdGVsWkNLek0wVHdvckpqMy1FTUh1cG16Z2o2SURmUndCa2FyRlE3RUUyenltMGhCMGt2cDZ2YTRCckNqWjdveUFxUUd0bEpWLTFLdU5VbXZ6c2RnUU1PQnFwVXo3UnB4ZVlPSXBpWHdXaXdXVVZlXzdCWXBrZVVBN0FER1N3bXRRNHA2Zmp5WXc1dXNsS1hpMXhvUk82dU9XZkhrb1FMVER4V3EwYnZZVWJvSkZmMEw3RWhVZw?oc=5",
    "source": "FOREX.com",
-   "date": "2026-11-25T19:58:45Z",
+   "date": "2026-11-25T19:58:46Z",
    "score": 7,
    "category": "Tecnológicas"
   },
@@ -702,16 +732,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "effdbe42672a91",
-   "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T19:19:43Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "e37cc7db70f13a",
    "title": "S&P 500 Opens Down 2.2% as Nasdaq Drops 4.5% in Broad Selloff",
    "summary": "",
@@ -792,6 +812,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:05:54Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "20c41f4f1e647e",
    "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years",
    "summary": "",
@@ -810,16 +840,6 @@
    "date": "2026-11-25T19:03:00Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "ee953e2e825490",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGpxc1diLXMybGlNcHNrd05HNzl3TE5YbHRfbWVYdnNvS3dpS2pEcm1tbGRIczlzMDVIeWVFS3dqa1kxUlBWaW5uNGpYWXBHMVRQSDNTU1M5Y1NXc3UtaGdkcU5aenBjUlM0UzhpcWxORjRmTkctQ2t3YjktTVhMcjNUTUFWa2ZCRDJIWURHWWNQYnJJMjRNaW1iMzh3YURZN2Z4Nk1n0gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-25T19:02:52Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a416536b42411",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T18:24:00Z",
    "score": 8,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "c048107e2f67af",
-   "title": "October PCE inflation hits 3.8%: 12 numbers on prices, spending and the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96UHdhZDFuVW9PM2FMUFZtck5OZlhrMkY4Nmwta2t3Z2Jjc0JLOF9IWWxRRDhvN25hLVBmYmNRZXY3dkNfTm5mRGFsOUdoVVdNQzFZbkNOV2h4Z185ZGQ4eQ?oc=5",
-   "source": "qz.com",
-   "date": "2026-11-25T18:23:12Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "a656a3b963147a",
-   "title": "Stocks slide as inflation, Nvidia losses fuel Wall Street sell-off",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU1VRDVQSll3cXpUM183NEVfa0VMbmJydjdFemVmS0RFOFRBUmNCUWJwUE1fWVVwbS00eF85M0tyTlNxdFFMWl95LVJ6Mkw4NW5CMXJyX2Z6cXJrVFhRTzZlN2VlbzVxckllZi1yNlRtM0xQc2ZNSG4yb2dDamgzM1RLVlNaVDTSAYwBQVVfeXFMTWJfTkloZ0JaTkR4VXNkYzNBWUpneVVKaTZvZjNzM19xUk4yQkV2QU5nOFNTTnRxSjJVd0g1Qkdwd2o3Y3YtQkVOMzNISy04VXliOG9KcTE0U2U5V1lxV1FGZUNVWDA0ZnlxVTVSaGNQMTZ4cEVCdjdkY19QTGk1NUVNRnhWdlVuV1Jfb2g?oc=5",
-   "source": "upi",
-   "date": "2026-11-25T18:18:56Z",
-   "score": 11,
-   "category": "Macro"
   }
  ]
 }
