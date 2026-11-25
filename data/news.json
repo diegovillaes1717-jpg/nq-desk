@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-25T12:48:49Z",
+ "updated_at": "2026-11-25T12:53:35Z",
  "items": [
+  {
+   "id": "c15f95c298a1cf",
+   "title": "Trump's portfolio had 44 Nvidia stock trades in 2026, analysis shows",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUm9SYkcydFY4dlVXa08xX3ozSUwxdWEta0NRUDBpNmI2OTN2TFdQQUpkUmsyMGRVSmV5Q0xNcENHTHZ3NHBnOW95Z0RsMU83THhROFhmWmxmMTU0c2tSYXZBNTg5S3dVd28xUWRRLURZeThBeFRpRnhR?oc=5",
+   "source": "Quartz",
+   "date": "2026-11-25T12:51:33Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "56a959fb18fad1",
+   "title": "Nasdaq futures slide nearly 3% as NVIDIA and Anthropic tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHJzTE9VdmxpZEh0OVdETV93Y2lNbUV6MHEwOTVpWlRaQTliR0JxbVFEYS0xXzJmd2dpNG16N3pUOVFEU0tiR05ETm9wcW5EOUFJVTNqRmdLb19SN1pDby1DMmRNWFQ1bVBYaDh1RWtqWW9GVTl1dkRleDlPN2JGMnV2dVlacDRhejFkQkV1MzVkcTcxcXV3V0NzRzVQcGFveU1ob2lHTXhfbjJh?oc=5",
+   "source": "NewsBytes",
+   "date": "2026-11-25T12:48:48Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "39670f29d40798",
+   "title": "Anthropic vs Nvidia stock: down 15.7% since debut",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVZObFo2U0hxanh5WFJ3QlJJUTVyM2xXb1A2NVFOaVdkcXcxSHBWY0RySVdTTXZ6ZU01NF85NGpHUlRRa0Q2T3Z6ZE03eUtQQlBldlpHWkE1bUhUdktXSlpwSFNOdmJKVHRIZmRCLUxnaHZESTF1Tkp4SGdxc1VvT2JtZHpKblg4LU96Qk9Qcw?oc=5",
+   "source": "Opening Bell Daily",
+   "date": "2026-11-25T12:47:27Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c918b4b159d402",
    "title": "Trump's New Tariffs Threaten US Farmers as Trade Losses and Production Costs Mount",
@@ -12,22 +42,32 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "0a706bc8562cf4",
-   "title": "Nasdaq 100’s ±7% daily range and what it means for positioning",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3JyZ0ZUZlVkS3dscXdrUDRWVVJ0SEZlckJBcW8yVmo3S0dJZVdJUnFvd1MyRVVVSzZncDRIQXF2cTAyN0FBdks2TU5VcGEyM1FOUlVqY0Q4OEE0Y1dWY0JSUGk1cktzdDk4RGhFRDdhd3J4R3dSVV82X3gyUG05LUIwUnA2bF8yVE5fNzR0TTdYak9rRTdHaDRDcDd5TkZpbWFLcll2Qm5Fc3BIenJYN2NOR3h5Sk9pXzNJbmRR?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-25T12:43:44Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "012c5da0de20a6",
    "title": "Nasdaq Makes Massive Leap: Beginning Bounce or Bull Trap?",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNjbjAxN1FHQldVNjdQeTJMYTBoNXpvdHVJY3h4N3VyZHNqUFNiM2RRUTU4R1BwMGF1eWhJdlBjODUtTjJCSnQwdUtVZ0QwamtzbmZnbXJBUzlEdnFHa3hQX1I2NVhYRUF5TExoTW4yUzVRZUdKXzlNdnQtOXQ1UVRIOGt1VEpjc2ZYX2FXTDVRQ1hCMnJlTWJFTFd5c192aDN1Zw?oc=5",
    "source": "FOREX.com",
    "date": "2026-11-25T12:43:35Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0a706bc8562cf4",
+   "title": "Nasdaq 100’s ±7% daily range and what it means for positioning",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3JyZ0ZUZlVkS3dscXdrUDRWVVJ0SEZlckJBcW8yVmo3S0dJZVdJUnFvd1MyRVVVSzZncDRIQXF2cTAyN0FBdks2TU5VcGEyM1FOUlVqY0Q4OEE0Y1dWY0JSUGk1cktzdDk4RGhFRDdhd3J4R3dSVV82X3gyUG05LUIwUnA2bF8yVE5fNzR0TTdYak9rRTdHaDRDcDd5TkZpbWFLcll2Qm5Fc3BIenJYN2NOR3h5Sk9pXzNJbmRR?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-25T12:42:21Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "2cfb2f1f58fc34",
+   "title": "Goldman Sachs stock: GS Finance files Nasdaq-100 linked notes - ad-hoc-news.de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNnd1dfTGt5RUN2d2V6a29oeXpXcGZYZVFsUVFjZWdaLUpJSDUtaGw5RlFORVhDb1hMMl9wWGxBLU1sTW1lWjdGWU9LSnpYUE1zSE14VG1yZ3pxYk1HVjJhYUk4SHlWQlZsekxxZXl6dTNLdktzMENySlJPZG9GSVVsWERXU040cmJIUkhoWURHSHlVNFdjWWNEYTVmVW4tUWlENmVINkVEZXE3cm1tbW5wRlJoWXZsXzZtU2JDeTA?oc=5",
+   "source": "Google News",
+   "date": "2026-11-25T12:41:16Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -212,6 +252,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "cdd92b4c92723e",
+   "title": "US Stock Futures Slide as Nvidia and Tech Shares Fall",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LaGhBMHM4S0FSWjVtUWNURnYzcnA3azFsSXc2UVFBMUxHVUZ6Rk1Fdmg5R3RlYlFfaXM3ZUd2M1B4YjBuMjZBcEUwWERqNUJCc09kZE1yTWs0UUxGWEw1eXVmUQ?oc=5",
+   "source": "cwibc.co.id",
+   "date": "2026-11-25T12:12:23Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "594671dbf9b85f",
    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
    "summary": "",
@@ -255,8 +305,8 @@
    "id": "baed49013c127d",
    "title": "PCE preview: Final inflation test before expected Fed rate hike",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0paSGp5blczVUhEQm83VWprOFBELWgxOFhZVlJYb0l3VS1YZExQci1OM2JjdzZZMmJoXzJJeFBYRDd3RE1OZTdZR0xRZGtWcXBTSzRlOGFsWWFTREMydWhwN1pWR1pxUm1aU0hWbkt4YU5WV2dNUVZ1QzdQcDhIeF9IbnRPU25rdWV0bkxnb3E3QVU?oc=5",
-   "source": "Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlNXTGpiYnVCc0FIalhNa25xNl83Uy11RjBEcVlCX3hFaFlaa2UzdzZ5R3pKRlduZFZmVEV3NDBYZXNvdEZQbi01NjBGV0hQQTFSYzVOWWZJWVJJcS10NWdSRWRYUmJSVGJILVRkVlFVeXY4SVBfOFY5YU5PNHA5OHZHelVkU1hndDF6U0NxSUtfQ04xLWFob1NZczdneEY4czhEaWdMMHd3OWVHaW9vRXdoSEdCZnRqd0xEYnpYUGRJNzg?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T12:03:39Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -422,6 +472,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "9130ebf35aafae",
+   "title": "Nvidia’s Rally Ripples Across Markets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmRrWGlNNEhKN1FYMEt2NmxkREM3N2toWEt1QW9NOW5ULUt5MHpuRmdjMnI2MnpzbnFIdVdTcFhXMEJDZkNFenAxSWM5aWdaYVZyLVFwTjhFODJ0dUNIWGdmdkZ2ZFhBSnE4YjJZYXFDSWRZc3NTcHJSb0FvcEduX3Y4M1JINDZRaDlKMEZLbkJjLXRMMGM0Skt6V2FXZXlTZFV3bE93?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-25T11:37:43Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7bf529bd82c808",
    "title": "AI Chips Update - NVIDIA Reinstates Huang Amid Compliance and Leadership Focus",
    "summary": "",
@@ -465,8 +525,8 @@
    "id": "68fb6b703c3e70",
    "title": "Anthropic shares crash further below their IPO price amid continuing AI worries; Nasdaq futures down 2%",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORWQtaEtvSklFSG9GSV90YWpfam9Ma2hHdE9xWXprenBScDV0LTU5SmE0UU1rdWxGU1ZEbmVBUzBoMXFrNHFmVmRwU3ZUbksyT1dtbmwtdzRDcGI1U2xlT3N4X1FHQUFyYkxWR3RBSFJKbkdma0ZIS3RXMzNIMVA2RUhPVWFndFZBbC1nNmpLOExkeW9KdXBleWE0MWdwVjgzTUpmcWg2bGhzdFkyNmxRMnk2YzY0aEEwN3NlZ0d0Rm5GRTAxYVBudmx0NU1ab1UyYmR5ZFJ5SWhYeUVrMnctbHNMNGppbzdzZDdxX0JxM2QtV2tyN1dkRF9R0gH_AUFVX3lxTE5hWU9kQjVGWVFMLVRwUS1rc05PR1ZMcDJOS0xURnBXVy1EcEhUNlBfQ3BJWE1PWjB4RF9FbEFsbHg4VTNoV1gwUGZ2azhMTjhrRk5YZEd1ZnpZeE9udFpPa2tEYkpRSlV3OE01c2ZUSThxVWtGOUdJZkcwaHJXWVVPa3ZPSzJvN0Z0VFMzUDN3R1pFTGlzdVM3aTgxVmEyZ0tySHY5UV9FS2hMTmR4U1d5YmVDSDZEV05xYWpmaFV2ZnlSMlJPWVdQSjd6Mk10SHlWSkxvYmYzLW8zX0FLdUprZFlnaVdOSUlmZzR3V2xyRC1nSVVGZldzRHRvdVZTbw?oc=5",
-   "source": "Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaVloRF85V3JHdXJLNndBTGVnZDA1NEEwSUt5WkpjTUZJYmJMWWRMREpsamtEanBoRUw3Q3ZhTkp5QzZ5MHNpTFdOUHlxX2I4bXB1NTR0cl9nNVRURmQyWmpEQ2FIcEU2SV93akJiMk13clN6bFVZTlJNWTJRbDFBSURUc3BTMlo3MzJ6Wl8zZlpwTGI3Slh6TXdHb0JFMk9rbnljdUtLM3dyaTR6QVkyVFNoa3paMDduVFVFcjlyZHY1V1c4UU83SmlQcWFuRjExbDJybWswTTZfSTluc3g0Um11RFU1ajUzQ0dTV0l2RGJ0c0NIblhj?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T11:33:07Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -788,6 +848,16 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQkNHX1FJa092WTM5MnFlMVQydzJ1Zl9tTFJLN1NqV1l6aVBsVkpPbXd4T0M0WGUycnZIN1hPdUs4NERuOVhPTHlraE9DS0RaTzdRUW9UeDhlQU9sbUtVNWk2bnpPTjFPQlJCT2s5MHhGY19TWWZudDQ0VWF6MWpJdWkwOU5ock5SbXlyYXVOcnlXbloxMmlSVnBIeU9fYmFqMjdzcFBJQWJRR0J6WU9UVXhqM3I4Vlk4ZG1fVzFEdUJVMGd3a0Z1WV9WM1BBZFhFVlNoTFdqVTNoOTNhdlc2QzlIakRzenEzWmRwTEdFMFlxUEsxS0VlREFSUFROMW5GVmc?oc=5",
    "source": "Upstox",
    "date": "2026-11-25T10:56:56Z",
+   "score": 10,
+   "category": "Macro"
+  },
+  {
+   "id": "636a83a31903d4",
+   "title": "Stock Market Update: S&P 500, Nasdaq 100, Dow Futures Slip Ahead of Key Inflation Report",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1I2c2xZUUNBRDVkaEpFUUZqYjV1QVVJYnBuY043a0RRU25sWDNwVDRjMUJmMDhyYzMyd0laSUd0ZnBHbWlUN1NWLVI5OVZBZ2lNSnlmMzRqNngxNTF4VTRrLTU4elF2LWkwQi1QaGJZa082SGJkaXpYVU52dUNXdDMtdkpmYWh2UklQZ2d4V1BsRm5RbTBEVWNGQkZSOFMtdjEwZ1Z4TmtIMmNnVEFoZkxWN3lTVkxvSGptalFn?oc=5",
+   "source": "CoinCodex",
+   "date": "2026-11-25T10:55:00Z",
    "score": 10,
    "category": "Macro"
   },
@@ -1129,76 +1199,6 @@
    "source": "Gotrade",
    "date": "2026-11-25T10:00:00Z",
    "score": 10,
-   "category": "Macro"
-  },
-  {
-   "id": "285fce1cf40c5f",
-   "title": "Fed Chair Warsh caught between AI boom and inflation fears",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WYjhLUmZMNG9odGl5T3lhVE5sNjdaUURQYWxJVkdQSmRQQjhMUFdSNl9uQnFiYjMwZ1RFVUF3OGY4RHVfYVZlWDBRWFJ2ZENiWVNzQ3lSNA?oc=5",
-   "source": "헤럴드경제",
-   "date": "2026-11-25T10:00:00Z",
-   "score": 11,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4eeaa3a73c0033",
-   "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T09:58:15Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "8cf9521f261b52",
-   "title": "Eurozone bond yields fall as AI concerns trigger flight to safety",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYmVzeV8xclJybHdLa0thSVZMUjlfUGNZc2duY2JGQUd0TVh4S3E5d0VtZ3ZJV0Vua0RWNTNlcEpNS29kcjQzODJtUDZwR004Rm9nQndmMnFURW1fUWVTTmR0VjctRXQ5ckNJNkRnREdLc2FSR3E3RzI0eXB3ejRhUEtvRlFXOUs5MFhjaC0yNGpUcG4zMlM2RjBzRXY4MjRqSGRSdkVqODc4aV91bGwxMnpEM0NyelM2M3VNNnRHZFhSdzk0RGhjY2E1Zk5rMXVodlBRNWJkYi1RcGRTaEtvMzl3ZndqQdIB3wFBVV95cUxPeWdia3Y2Mm9lajRZUjNQU3RtME9HMUFfV29JY3haWVNRQ2FwNmhibW9OSnI1QzIxZjF2NHNjT2djUkZ1Z3piQjQzQ0ZWNVhtbXF3WU9JRmstTGRmb1FRRmJHN041R28ya3RLZkE3VFJhLWhDaEZDcWJFNEFsWi1Ld2hCR2R3ZDlfNEZIa1gySE1URzBFM0I5Y2dGZERXY21rb1FtMEJ5dUdnVnBLN0xfeFJLMnJfX1g1MkQtbTJfOEZLZkhfRkZpWmJVR1FjSVc1MWgtU20zNUJBdlIwY0dj?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-25T09:57:31Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "0eb2153857e6bb",
-   "title": "Wall Street Futures Retreat as AI Investment Concerns Resurface and Markets Await US Inflation Report: Dow Jones, S&P, Nasdaq",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWU0cmYwZUNqeWJmTWNob1h5ZHRqOVVpRUR5TE90SXpIalVBV1ZteXg1bDNyZGIxRnNKQkF1eWg4ZUp5RTA3Vm9BR1lRZTBGTEd2YnJzUUhBTmRWWXBjREtETmVYVTF0SEE3ejNVdXpLSzlaX1ZHdnFDT1Z1MmJFVS10V3dfZw?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-25T09:52:25Z",
-   "score": 13,
-   "category": "Macro"
-  },
-  {
-   "id": "3fa8f33cd22c2a",
-   "title": "US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDQ0ZVRyMU85SlZkZ2VyZklIVll5clBLaFltbGk1SFdrUlVYN25oTlkwd0ptSE5VRkpCUUtIZ1hwSHdxS3JzQjN0NGZoc3dFemVBM0lQYTBRS0ZtSVNXSDc4eWd6bTNicUx1dnVOS3BPazFNRGhSV25QbDhCRGMyc1ZyalY0UkRCZ0wwWGp4MUxxbUk?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T09:51:29Z",
-   "score": 15,
-   "category": "Macro"
-  },
-  {
-   "id": "fc9b64b26da3ea",
-   "title": "A Dead Cat Bounce in the NASDAQ-100?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMzdhM0p4eWVCeGprMWJGbmlCSE5VM05LeUh3b0dSYmZIbGRFYmtTc3B6R2xTUHdwNGI3dDdETFNlUHNZNm1oSmVUcEcxR2xSNUJrWFc2Rkk0amVoVDEydS1aWFd3enpzSUN3djdXQ2xSMVBfM1g3aEtIUVd1enBLUEh3VTJ2ZkNqcGk3b1R4QlFFUUNZV1dkdjhGMExFd18tdDNOSnd3NDI?oc=5",
-   "source": "Action Forex",
-   "date": "2026-11-25T09:51:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4b856499120eff",
-   "title": "Forex Today: Critical PCE inflation data in focus as US Dollar recovers",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdWZSLWl4Wjd5NU1QQ0ZxU0xmRV9xOXhDcUNITnIyVWprSFBzMl96QzVPWU14T0JHQV83TktKWUJyQi1pdC1LZzFaWkhtR2RYVWxYQ2gwV3NEQ0tUeDdVM3hZSTZVdkFQc1huWVVCNFhqaWZHbXZ3dHFDS3JydmRkZ3lDbkVBMGVoQ2xtVURHZHZXZWN0VlEyR19BbE9mVVo0WjlBdHY2OVFJT2hDRnBSazd1YmlWOXlqQ1JIb3Z4bDRlYVRSQ2M4WExITzlQQTA?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-25T09:50:13Z",
-   "score": 5,
    "category": "Macro"
   }
  ]
