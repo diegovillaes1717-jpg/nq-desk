@@ -1456,24 +1456,65 @@ def clean_val(v):
     return v if v and len(v) <= 12 and VAL_RE.match(v) else ""
 
 
-ACTUALS_PROMPT = """Search the web (official releases, Forex Factory, Investing.com, Reuters, MarketWatch…) for the ACTUAL
-released values of these United States economic data releases. Use the same format/units as the forecast
-(for example "0.3%", "228K", "92.4"). If a value has not been released yet or you cannot confirm it, return "".
-Never guess. Return ONLY JSON: {{"items": [{{"id": "...", "actual": "..."}}]}}
+SEARCH_TERMS = [
+    (r"Core PCE", "core PCE price index"), (r"PCE Price", "PCE inflation"), (r"Core CPI", "core CPI inflation"),
+    (r"\bCPI\b", "CPI inflation report"), (r"Core PPI", "core producer prices PPI"), (r"\bPPI\b", "producer price index PPI"),
+    (r"Non-Farm Employment Change", "nonfarm payrolls jobs report"), (r"ADP", "ADP private payrolls"),
+    (r"Unemployment Claims", "jobless claims"), (r"Unemployment Rate", "unemployment rate jobs report"),
+    (r"Average Hourly Earnings", "average hourly earnings"), (r"JOLTS", "JOLTS job openings"),
+    (r"CB Consumer Confidence", "Conference Board consumer confidence"), (r"UoM Consumer Sentiment", "University of Michigan consumer sentiment"),
+    (r"UoM Inflation Expectations", "University of Michigan inflation expectations"), (r"GDP Price Index", "GDP price index deflator"),
+    (r"Employment Cost", "employment cost index"), (r"Challenger", "Challenger job cuts"), (r"Import Prices", "import prices"),
+]
 
-RELEASES (id | date-time UTC | Forex Factory name | forecast | previous):
-{rows}
+
+def search_term(title_en):
+    for rx, term in SEARCH_TERMS:
+        if re.search(rx, title_en, re.I):
+            return term
+    return re.sub(r"\b(m/m|y/y|q/q|Prelim|Final|Revised|Flash)\b", "", title_en).strip()
+
+
+def news_headlines(query, d_from, d_to, n=10):
+    q = f"{query} after:{d_from.isoformat()} before:{d_to.isoformat()}"
+    out = []
+    try:
+        for it in parse_feed(fetch(GN + urllib.parse.quote(q)))[:n]:
+            if it["title"]:
+                out.append(f"{fmt_mad(iso(it['date']), '%d/%m %H:%M') if it['date'] else ''} {it['title']}")
+    except Exception as e:
+        print(f"[aviso] titulares '{query}': {e}", file=sys.stderr)
+    return out
+
+
+ACTUALS_PROMPT = """You extract the ACTUAL released values of United States economic data from news headlines.
+For each release below you get its forecast/previous and recent headlines. If the headlines clearly state the
+released value, return it in the same format/units as the forecast (for example "0.3%", "228K", "92.4").
+Be careful: month-over-month (m/m) vs year-over-year (y/y), and core vs headline, are different numbers.
+If the value is not clearly stated, return "". Never guess.
+Return ONLY JSON: {{"items": [{{"id": "...", "actual": "..."}}]}}
+
+{blocks}
 """
 
-BACKFILL_PROMPT = """Search the web for the United States (USD) economic calendar of the week from Monday {mon} to Friday {fri}
-as it appeared on Forex Factory. List ONLY events with Forex Factory impact High or Medium in these categories:
+BACKFILL_PROMPT = """Using ONLY the news headlines below, reconstruct the United States (USD) economic calendar of the week from
+Monday {mon} to Friday {fri} as it appeared on Forex Factory. List ONLY events with Forex Factory impact High or Medium in these categories:
 inflation (CPI, PPI, PCE…), employment (Non-Farm, Unemployment Rate, Unemployment Claims, ADP, JOLTS, Average Hourly Earnings…),
 central bank (FOMC statement, rate decision, minutes, press conference), consumer surveys (CB Consumer Confidence,
 UoM Consumer Sentiment, UoM Inflation Expectations) and speeches (Fed Chair, FOMC members, Treasury Secretary).
-Use the exact Forex Factory English event names. Include actual, forecast and previous values as published. Never invent events or values:
-if unsure of a value, use "". Times in New York time (ET).
+Use the exact Forex Factory English event names and their usual release time in New York time (ET), for example 08:30 for CPI,
+PPI, payrolls and jobless claims, 10:00 for consumer confidence, consumer sentiment and JOLTS, 14:00 for FOMC.
+Include actual, forecast and previous values only if the headlines state them; otherwise "". Only include an event if a headline
+shows it was released that week. Never invent events or values.
 Return ONLY JSON: {{"items": [{{"title": "CPI m/m", "datetime_et": "2026-11-12T08:30", "impact": "High", "actual": "0.3%", "forecast": "0.2%", "previous": "0.4%"}}]}}
+
+HEADLINES:
+{heads}
 """
+
+BACKFILL_QUERIES = ["CPI inflation report", "producer price index", "PCE inflation", "jobs report nonfarm payrolls",
+                    "jobless claims", "ADP private payrolls", "JOLTS job openings", "consumer confidence Conference Board",
+                    "University of Michigan consumer sentiment", "FOMC Fed decision minutes", "Fed Powell speech"]
 
 
 def calendar_ai():
@@ -1494,19 +1535,23 @@ def calendar_ai():
             and not re.search(r"Speaks|Testifies|Minutes|Statement|Press Conference|Projections", e.get("title_en", ""))]
     pend = sorted(pend, key=lambda e: e["date"])[:12]
     if pend:
-        rows = "\n".join(f"{e['id']} | {e['date']} | {e['title_en']} | {e.get('forecast') or '-'} | {e.get('previous') or '-'}" for e in pend)
+        blocks = []
         for e in pend:
+            d = parse_iso(e["date"]).astimezone(NY).date()
+            heads = news_headlines(search_term(e["title_en"]), d - timedelta(days=1), d + timedelta(days=2), 8)
+            blocks.append(f"id: {e['id']}\nrelease: {e['title_en']} on {d.isoformat()} | forecast {e.get('forecast') or '-'} | previous {e.get('previous') or '-'}\nheadlines:\n"
+                          + ("\n".join("  - " + h for h in heads) or "  (none)"))
             e["_tries"] = e.get("_tries", 0) + 1
             e["_tried_at"] = iso(now)
         changed = True
         try:
-            res, _ = gemini_json(ACTUALS_PROMPT.format(rows=rows), max_tokens=1500, search=True)
+            res, _ = gemini_json(ACTUALS_PROMPT.format(blocks="\n\n".join(blocks)), max_tokens=1500)
             got = 0
             for it in res.get("items", []):
                 e = events.get(it.get("id"))
                 v = clean_val(it.get("actual"))
                 if e and v:
-                    e["actual"], e["actual_source"] = v, "Google (IA)"
+                    e["actual"], e["actual_source"] = v, "Noticias (IA)"
                     got += 1
             ok("calendario_ia", {"actuals": got})
         except Exception as ex:
@@ -1528,13 +1573,18 @@ def calendar_ai():
         while mon < cover_start and calls < 2:
             key = mon.isoformat()
             st = done.get(key) or {}
+            if st.get("v") != 2:
+                st = {}
             if not st.get("ok") and st.get("tries", 0) < 4 and minutes_since(st.get("at")) >= 120:
                 calls += 1
                 fri = mon + timedelta(days=4)
-                st = {"tries": st.get("tries", 0) + 1, "at": iso(now), "ok": False}
+                st = {"v": 2, "tries": st.get("tries", 0) + 1, "at": iso(now), "ok": False}
                 try:
-                    res, _ = gemini_json(BACKFILL_PROMPT.format(mon=mon.isoformat(), fri=fri.isoformat()),
-                                         max_tokens=4000, search=True)
+                    heads = []
+                    for q in BACKFILL_QUERIES:
+                        heads += news_headlines(q, mon - timedelta(days=1), fri + timedelta(days=2), 8)
+                    res, _ = gemini_json(BACKFILL_PROMPT.format(mon=mon.isoformat(), fri=fri.isoformat(),
+                                                                heads="\n".join("- " + h for h in heads)), max_tokens=4000)
                     raw = []
                     for it in res.get("items", []):
                         try:
@@ -1548,9 +1598,9 @@ def calendar_ai():
                                     "previous": clean_val(it.get("previous")), "actual": clean_val(it.get("actual"))})
                     norm = normalize_ff(raw)
                     for e in norm:
-                        e["source"] = "Google (IA)"
+                        e["source"] = "Noticias (IA)"
                         if e.get("actual"):
-                            e["actual_source"] = "Google (IA)"
+                            e["actual_source"] = "Noticias (IA)"
                         events[e["id"]] = e
                     st["ok"] = bool(norm)
                     st["events"] = len(norm)
