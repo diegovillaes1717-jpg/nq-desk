@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-25T22:19:44Z",
+ "updated_at": "2026-11-25T22:24:28Z",
  "items": [
+  {
+   "id": "6cfdb34cfbe63d",
+   "title": "US stocks close mixed amid hotter-than-expected inflation, fresh tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BNjZIUWNqOTBTTjZPVkRvam5RY3R5b0VlZWxJZ2dKMHVZczVRWWZJRDFNRG80RzFnektoYlhBaXkzbEtLRk52VkltM0dMTnMzcC10ZW51bkc?oc=5",
+   "source": "TRT World",
+   "date": "2026-11-25T22:22:04Z",
+   "score": 9,
+   "category": "Macro"
+  },
   {
    "id": "bf51f43db9eef8",
    "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
@@ -139,6 +149,16 @@
    "source": "Investor's Business Daily",
    "date": "2026-11-25T21:55:00Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "77b844ddca1c5f",
+   "title": "Market strategist reveals how Nvidia hearings will sway market direction",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Nm5CODZISlFKMjZYakNUb191RnVEV2tsYnhPUFVpU2xIUkNKUmQ5c1A5WWY3SG5RQUdxOE9jM1VDVjlTbllLaWh4VFB5R3piNUVpbHVBT1BsNUk?oc=5",
+   "source": "Fox Business",
+   "date": "2026-11-25T21:53:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -626,7 +646,7 @@
    "title": "As Nvidia stock fluctuates and talk of an AI bubble heats up, here's what you need to know about saving for retirement",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFQ5UlUxem1PQWhBYnBCbW45X2JSNnBoN3dISjRSTDhZRGJqRVh2bGdXdDFlbkIwOHdRYmN4OGdNRHhOeGRmUEtoQmRhM0RSQVowQm9Pc1ZTWUNxMWhWejFOSkwzYnhOVjcxY2pOeHVsZHJfc1V6RGRmMGEySmtiQUh0WFJxdE90eVBLZnJMUQ?oc=5",
-   "source": "www.marketplace.org",
+   "source": "Marketplace.org",
    "date": "2026-11-25T20:19:28Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -1122,16 +1142,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "ee953e2e825490",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-25T19:05:54Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "20c41f4f1e647e",
    "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years",
    "summary": "",
@@ -1140,6 +1150,16 @@
    "date": "2026-11-25T19:03:16Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ee953e2e825490",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGpxc1diLXMybGlNcHNrd05HNzl3TE5YbHRfbWVYdnNvS3dpS2pEcm1tbGRIczlzMDVIeWVFS3dqa1kxUlBWaW5uNGpYWXBHMVRQSDNTU1M5Y1NXc3UtaGdkcU5aenBjUlM0UzhpcWxORjRmTkctQ2t3YjktTVhMcjNUTUFWa2ZCRDJIWURHWWNQYnJJMjRNaW1iMzh3YURZN2Z4Nk1n0gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-25T19:02:52Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a416536b42411",
@@ -1179,26 +1199,6 @@
    "source": "CNBC",
    "date": "2026-11-25T19:00:08Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5d414da628f224",
-   "title": "Jensen Huang Is Back at Nvidia. History Says This Sell-Off Could Be a Gift.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcU5VT0t2MDdKelNmSEFKZDVUVkI1YklrcE9SN2VFWWROWGFkM05jbkI1dWVsVlBvR09ONzZhRXE2WDhfTS0xb0UybTVsTW5RTFZOSGNjZHk4alRNd1VJN1JVWHJLb25SaWh2bVBnT1RqckZjN21KOG5iWU1MNG0wYzJnZkVTZl9lZjRydlFWR1ZYdHdqTF9lcEluWXlSeGcweUczXzhoRU5aeUZIVC1TeWc3akxCOE0?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T19:00:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "45c7e1c1cdaf61",
-   "title": "Analyst explains why Bitcoin’s next move depends on Nasdaq",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0Z0UWtuTE9za1FBMVdHU2lBZ19KUmVmMlBuaE9TSjlPSV9jeDFZM2U1VjRKSzk3OHhRN1QyLU1LUFFkT2l4QUs4QnZMdFNyaEFpMmxubXY5Q3B3eXVHZGwwbmNCWktSLXlORDdYcll1M0loNnpvaVJSOTZhZWRYMVFLLV9kQzB1dVhHNVNrdUFSNGthU3VMOFZXMnZqQTQ?oc=5",
-   "source": "TheStreet",
-   "date": "2026-11-25T19:00:00Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
