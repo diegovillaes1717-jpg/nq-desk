@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T17:16:39Z",
+ "updated_at": "2026-11-26T17:21:25Z",
  "items": [
+  {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T17:15:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "534f17d0adda34",
    "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
@@ -552,16 +562,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "830e28fa019b6b",
-   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "aaa5d5c846a5f2",
    "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
    "summary": "",
@@ -569,6 +569,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "830e28fa019b6b",
+   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -678,16 +688,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTWJXMkxiSUp0MjU0X0tMZV85a21lUmdjSExnM0RBcndFR1dsTDVxRmNGV0xZMDdLWDN3Ym1CaWtDMElESkpRQlJKRTFDamQxZWptemZRNTlQWEtJNGdXNkdjRmw4Qjk4Tl83RnBVRWtTOHE5LUE?oc=5",
    "source": "BigGo Finance",
    "date": "2026-11-26T13:05:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1f3fabf4604af4",
-   "title": "Gold drifts lower as Fed rate-hike fears loom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaS01cTRpU3QtN3AzeHN4UHdHdFQ3UTVFUzNqenpXcWdiMUdOU2lpQVh1bk1uWklCRTZSUHpJMExkY2ZPaUh1VVFXMnJFWnB6TVhmNjV4Mm1jbU02X0hBcERnMm8xb204NE5QNTYtbkwwZVM2YUNpNl82NzlUTzRfUVZYelBVRXlRX0FtOUh6U3JYaEpIR2ZMNA?oc=5",
-   "source": "Kitco",
-   "date": "2026-11-26T13:03:19Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -895,9 +895,9 @@
    "id": "def286aa0c2efb",
    "title": "10-Year Treasury Yields Just Fell to 4.85%. These 3 Dividend Stocks Pay More",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXpqTVpWZVBldExIb19IQ1hJbDJ4U1lsT3dJbXl6ZS1HWmZTWWU4eEMyeDEtUVJpWkFxVHNpMFNfMl9iRmhma2x3WGgwZF9mV05OSGZncGY1WGpzeDdyLU40R2hpcjlVXzFNLS1iQ0VOZUFPTHJTRFp3cUVUWG1tY016M0d3LWpBajFOcUx1NG9OTWpSYk5fUGg3eTdxWWJJZEU2SHpybE9QT05FVmpiVFJ0cjR5d2pCbFE?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T12:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW5JX2dYN3dzZUdaWWx0YkhDeV9Zd3k5RHFXeENDbFYybDJvY21MZXM2LUlSYWdKOFR4Q2FkRkZvVDQwLXcwWDJoUFpVdW9WRlM2eEdsanU3UWQwYTNBdTZjQjlFRDRLdEw1UVprOTlaZ0Q3LUNtTjBiemVyZ0FkSVd1ei1CLVhGemo4YW9KZmNFZHZjSVNOWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:07:31Z",
    "score": 5,
    "category": "Fed y tipos"
   },
@@ -1162,6 +1162,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "46cb9b40177050",
+   "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHhiVXpIVGljZVdpQ3B3eW9nY0YwWnk1ZE51ZkhkWUJ6RWRBMkdIRlpkYnhpa01sMXlYZmVrbEFVOE5qZnRuX3lub3pObldmRW92OFpaZWUxY2NDZEVTNmkta0lyMXNpR3dOMlpzcmU0MTVyOWM2aTBxdWEzYVJkaklZLWM2NWZJTG96RHZOZmdUalhoa0pjU2RhVkJ1M0VFaWVwLUtFMXhtTzA5cDNtZUpBUnM5YU0xQk01UmZYRUpfS3ZoNzZZb1dYNFN2S3VQYUtXcUNHZm1PNE5pSTVXMVlVYWRZdw?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-26T11:14:52Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fd08d6324037df",
    "title": "Nasdaq Fades After Huang Rally: What Traders Should Know",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T11:08:49Z",
    "score": 3,
    "category": "Macro"
-  },
-  {
-   "id": "93888dff47e013",
-   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-26T11:05:04Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
