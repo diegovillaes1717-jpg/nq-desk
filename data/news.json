@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T06:27:32Z",
+ "updated_at": "2026-11-26T06:32:16Z",
  "items": [
+  {
+   "id": "7adeb4f809611a",
+   "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
+   "source": "theopenpress.in",
+   "date": "2026-11-26T06:30:32Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "171cafa57f40d5",
    "title": "Michael Burry is more long than short after unwinding Nasdaq 100 put options",
@@ -149,16 +159,6 @@
    "source": "Facebook",
    "date": "2026-11-26T04:58:26Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7adeb4f809611a",
-   "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
-   "source": "theopenpress.in",
-   "date": "2026-11-26T04:56:00Z",
-   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -992,6 +992,16 @@
    "category": "Macro"
   },
   {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
+   "source": "Metrobank Wealth Insights",
+   "date": "2026-11-26T01:21:25Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "1ac3fb10d0b5b2",
    "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T00:30:03Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "b54621cadafe7f",
-   "title": "Gold dips below US$3,500/oz on 25 Nov as US inflation rises",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HOVRmOURTZmVnN2prUWlJR0tVS3RHRHVYbHhDdHZUNkFuMlpUWGxTQVdxQzVHYVRwU0R2Yl9iRmY3aWItT2F2WjdlYW0xNzRVX0xXOFkyWUluNUZ0eHUtQndwcHVpOWZueEJLdjEydDlmT1Y2NEE?oc=5",
-   "source": "Nation Thailand",
-   "date": "2026-11-26T00:28:00Z",
-   "score": 4,
-   "category": "Macro"
   }
  ]
 }
