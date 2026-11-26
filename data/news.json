@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T21:03:21Z",
+ "updated_at": "2026-11-26T21:08:07Z",
  "items": [
+  {
+   "id": "2fef0e834ed851",
+   "title": "US GDP revised strongly upward, Fed’s inflation gauge hits three-year high",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1NVWnpVLWltZzFIcXhuX2dyaWNsLW9WX0NBR3dNSTJfMHpjNXJ0amJBS2VLcmxGUWN6MXhZaUYtWHNpNHQ5TEZEazR4TVpJT0hMMmJkMmRPRGQtZHJ0SUo4TXB6TENqZGk5eE5EdWFRUG85WDNBRDRIcEw2LTRtRHZaZmtzOWtoN0pKQUN2RWdWU0p3Y0N3YjJRWTRPSVRIekRRQ0lB?oc=5",
+   "source": "Borneo Bulletin",
+   "date": "2026-11-26T21:05:16Z",
+   "score": 10,
+   "category": "Fed y tipos"
+  },
   {
    "id": "28cf2aa1941483",
    "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
@@ -159,16 +169,6 @@
    "source": "LinkedIn",
    "date": "2026-11-26T19:00:13Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b9b75a0118eea7",
-   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1hobVFwRllEeUdYbTlReGxVekdEdW1BLWhzcWN3X0lkOURIWWs2SGVJdmdnaDdsTm5jYVY4dnNSbFlEU2lOYnh6SWlsUFFCWVNCb3hIMDREdFNvT1NQVG5ZRkdYX0xvZzY0YUpPdm1CUlRNdWtSZXJ2Vkp4N0psOXczcXFDY25ZU2drM2VFWFZndGxqTzlETUZpREFwTkVJZ21ra3lQeEhRazZpamVJSnI2VXpHTWREYTRDazRHUUkxUQ?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T18:56:15Z",
-   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -752,6 +752,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "b9b75a0118eea7",
+   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThVVEd0RE01LUtWcjZPaWQ0cVNnUFQ0cFIzSlpCUlQxWGxJdTlneElCbE80SHdDVTEyelZFNjVHcXRWbHRhdVNWOUNZbVU0Wmk4MmtnUHQ4dWRVNFl4TzFnWjJGc21rbzBMaXVxWmp4bEdnNEo0X0VsZXpTdzlJMDZKSVpQN1lOQUhFbTlhc3RGa3A1bjBwSnZYZVd1b3c0OE9jZ2ZFLWt3cHpCbGlOSjVJdGljTHZ1a01BWE5MekVxTDRBVHRYcENfQXQ3bnlzSTRn?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T15:53:27Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T13:41:00Z",
    "score": 3.5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "77abc10e1076c9",
-   "title": "Swiss Franc falls as easing risk aversion and hawkish Fed bets weigh | FXStreet",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyZjlXNkdOWkMwWUxVMnF1MHlaSWRyU3VmeTB0dl9aNVJYQngtT29lRWlZMVZycEtSdTJUTGd0eUdGa1NPQ0VlSGIyNFZFbjFwSEpn?oc=5",
-   "source": "شبكة تواصل الإخبارية",
-   "date": "2026-11-26T13:40:54Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
