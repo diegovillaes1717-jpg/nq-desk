@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:43:37Z",
+ "updated_at": "2026-11-26T16:48:20Z",
  "items": [
   {
    "id": "887add88324fca",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T16:38:00Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "1e60e83ac9f657",
+   "title": "Mark Sobel: Fed has missed 2% inflation target for six years",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUi1vZE93UTF5ZnN4OWpoaldDSnNDMGxOX1J3aGFVMlFldUZHSjY5T2tOdmpzOWpYVTJ4dFgwdGFZbDduS2ZkMVduWmtlU2c2WkhGbV8yV21jZFpRVUdrUC02N0N3aENya3NKODhxZHU3X0R2VlUxaDg0Z1plcnVvb3ZUcnh2TE9teXFadjJn?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-26T16:35:46Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "c8a0ee9d9df1cc",
@@ -115,9 +125,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:06Z",
+   "date": "2026-11-26T15:49:07Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -255,7 +265,7 @@
    "id": "33dfa475b90d33",
    "title": "Sen. Rand Paul Has Bought Up to $45K Worth Of NVIDIA Stock: Here’s What You Should Know",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjZtR0VmSm5SNU1lakphcnhtSlR5NmplQnAwX0dQMHphd054MGhqR0F4WUZKVWltM0hQcEpnLVpNZC10Qmh1cVlDRXQtTkVkcWFlSnp6eW1hdU5yWkluTmN5X2pZY0RnNnAxWWdRemRkSHNzWmQ3MkJ0RTZ1V3FCZ0h0dW5naWFndV9hZ1pOWi1uZ3hJQ3BRZEJIdG9EYjRtZlJ3T0hrX2JRN2ZzNzk4RXJkMVUtUV9VaHhfY2J2QlExZTVyWmF2MGZFMEdKbjZWQlZWZ0xLZUp0cTcwdzJ4ODZDSGxzZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkh5bi11ZFdtUXdVdmVYNzQ4dUFNMnJMRzlUVG5fZGVFcVZYNHdRaDVrdlc2cmtjQ2JfYlZTOE00ZDlWSmhnRDBLODJFb1o2LXF3MENUbnREaldrMEhnNjJxb1MzLTJXNkdGUWtyanBwdUU5NWk4RmpzdklnUWxzWVBqNk00Z052VW9ySUNXS2xZWk1JMHQzNURKSmh6YzZMT3lWU2tNZUlzV1JQaVhoWmRmMm9zMjlXZGN0MWxkUmRfUXhR?oc=5",
    "source": "Benzinga",
    "date": "2026-11-26T15:00:06Z",
    "score": 3,
@@ -492,16 +502,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "830e28fa019b6b",
-   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "aaa5d5c846a5f2",
    "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
    "summary": "",
@@ -509,6 +509,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "830e28fa019b6b",
+   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -652,6 +662,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:54:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b535cb4d3a0e71",
    "title": "Gold Faces Fed-Driven Selloff Even as Central Banks Keep Buying",
    "summary": "",
@@ -730,16 +750,6 @@
    "date": "2026-11-26T12:35:00Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T12:34:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "6256c2209c3c5f",
@@ -1189,16 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T10:49:02Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "80298f91e51d67",
-   "title": "Global X Nasdaq 100 Covered Call ETF (2865.T) Seasonal returns chart",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZkZqc3RuVUoxQVJGREVHTTVyanNfTjJFS2gyS1g1OUhrNk83Q3FrU0V5bVBYMFY5NjE2RGtKYVlISVhHTkw0U0tIVDRZSmpJOFFhaUxwX2h0WDlod0FsTUM0dGI?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-26T10:36:16Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
