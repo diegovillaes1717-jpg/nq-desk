@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-26T15:12:16Z",
+ "updated_at": "2026-11-26T15:17:02Z",
  "items": [
+  {
+   "id": "c59ac6bd763b9e",
+   "title": "Trump Blames the Midterm Election Results for the Stock Market Selloff",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmlzZ191RFhlME1kMTEwVEZycWJ4LWk4a2xocUIxQkxvQWFFNTc5V1ZsNTZPai1SNlpaTlBuUXJjVUlUaGhvUHcxOEpybGE0ZGRRaXNybWpPS2YtaGtLeVJQNV9EUm5zMGJTRW5yTFRiT3ZYQ3NVRnNBWFFrVF9xZUVxcVcyNUNYODgxVkE2VENqU2JjbzI2Uy03LTc0MV9YbW9MREluLXkxX1lsbVRhODBxdGo?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-26T15:12:00Z",
+   "score": 5,
+   "category": "Mercado"
+  },
+  {
+   "id": "96567cd92f3c17",
+   "title": "Nasdaq 100 Touches Bear-Market Threshold as Futures Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3U3dySDB5cDdhVS1mOXQ4WVkxM0E4YUdCckY2TFN0dVJzZ0NUQWRRek9oUFpsaGlWSUNvT2JUWjNLbjVQZjQtYzFPeXRxOHhVclNQWXlZNjJOQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-26T15:05:45Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "09b788425d15a0",
+   "title": "Rand Holds Steady As Producer Inflation Heats Up",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZklzNnNEQkM4Tm5zWWhESEtBdUFrX21FT2wtdzBWS1YyT1VIYldDT2licGJ5cUFqR3UtYWUtOWw4ZTVlaDNHalJUR3FWTGFNRmlUSklDSHdXLTh5Z2ZjNmp6RTJwR3c4T2kteVlHV0hOY0pWUUFfRzJpOWh3MXhWMV8xSQ?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-26T15:02:55Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "33dfa475b90d33",
+   "title": "Sen. Rand Paul Has Bought Up to $45K Worth Of NVIDIA Stock: Here’s What You Should Know",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjZtR0VmSm5SNU1lakphcnhtSlR5NmplQnAwX0dQMHphd054MGhqR0F4WUZKVWltM0hQcEpnLVpNZC10Qmh1cVlDRXQtTkVkcWFlSnp6eW1hdU5yWkluTmN5X2pZY0RnNnAxWWdRemRkSHNzWmQ3MkJ0RTZ1V3FCZ0h0dW5naWFndV9hZ1pOWi1uZ3hJQ3BRZEJIdG9EYjRtZlJ3T0hrX2JRN2ZzNzk4RXJkMVUtUV9VaHhfY2J2QlExZTVyWmF2MGZFMEdKbjZWQlZWZ0xLZUp0cTcwdzJ4ODZDSGxzZw?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-26T15:00:06Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "6597990d3a3c77",
    "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
@@ -172,16 +212,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "830e28fa019b6b",
    "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
    "summary": "",
@@ -189,6 +219,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -682,16 +722,6 @@
    "category": "Macro"
   },
   {
-   "id": "46cb9b40177050",
-   "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWDV1cTZTTi1WWUhjT0NBQzRKcE54eDhlMVdKMlNzaUNvRUI3SF9haGxKT2VTU1p1aHZnLVBydzBmc1ZxUEp3Q1RhWHd3aVpOX2pYRjNxekRMdkFpVUx0RU1NaHRuWmtRakFoRkNjLVdpcFFwb1RTbnFGNFR3d2oxLVRoMG1PMWdGWWN0RGk3eFAtZEMzLTVlZjlSSkJScEJRYlRyZ09ieXM2d0EzUHU3T0VWRFZlWXRfNFphMlI3c0V5Ym45NFVnQmtDZ2pLVXRZVFpXRHVlNWwwQW1fM3QtNXZwU0U?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-26T11:22:54Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ae915f54bdbdd1",
    "title": "Can Trump's tariffs fast-track India-US trade deal? Jefferies decodes — KEI, Welspun, Cipla, SRF, other stocks to watch",
    "summary": "",
@@ -812,6 +842,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "46cb9b40177050",
+   "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVZ6WEdBOWMwaWw5eXp3dVYtYmpINk9qaFZ6NlBRYXFFVjItTHVxZENJVFY2WWhlSUNjbWVzT1JoWURuMzVUYVRRb1IybGJDZVByTnVIYWo4MDdrenVNRW5qcE5laEJzTndudk1FQWxzeWgzdnJ3ZFZiWWxkTmZEVGJVZFBlUzNjOF9YUUEwb05vZV9nZTA5amZNbUNnaXhPUXBGREFxTktQSW8?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T10:46:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "887add88324fca",
    "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
    "summary": "",
@@ -859,6 +899,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-26T10:29:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bc0749c3583e63",
+   "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease By Reuters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFpVcjhCdWZiX2h3bXBxaG51RUVXc0V5R2Z2UW1Jb2NtOEFzNWxad0E5RGxSNzJlOXZQa1FWVkh3N2k4OFpYUE5kSktNVjNxNGdXWHBzMGpkaFJEZVJYcWVMbXVtSVFuSXVxM0p0OThLOVJnSkM1N3YwXy1ZLXhMMEZDYmoxZkU1ZGpLVy1sXzFSZ1g2dnRiYk1sMDFEOTZWM20zYVhIRE1wRE9WVlRKWHVOT0dPSWVZ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-26T10:27:26Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -939,6 +989,16 @@
    "source": "National Catholic Reporter",
    "date": "2026-11-26T10:05:03Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "5ff231afba9008",
+   "title": "Mining, tech stocks push TSX higher",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd0xRX3l3U3psdGJsVUdZNGpjMFBrZldHTE5hblkxd3JVTXliUkpJVGJaYW9KZkhXOUNtVmdwNFJ5MzlCR1J6MUZnYTJKMFJhWnVQZ0tjWXFNaXZsWk9ETjZuMnlFeVdfRFNoU005T00xWXU3UXBEc0hzNkltZ19kMkhIVnlOT3p6Wm9hV19HUVltdEFla2ZqNTdtWmZ1T053OU5sOTVYVm01REpmYnBmSWVJWHNESWh3SjdDdzh0dllMX1BScmRNWGZYN0FSNDBpN1RsaGhHbE0tSUF1R3Q1bEZIWE1PRy1SVEFlWA?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-26T10:04:46Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -1140,66 +1200,6 @@
    "date": "2026-11-26T09:11:45Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "fa4f956ed0a240",
-   "title": "Market Movers blog: Global markets fall as Trump plans new tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-   "source": "Investment Week",
-   "date": "2026-11-26T09:08:35Z",
-   "score": 4,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "d73acf7c984680",
-   "title": "S&P Places Nvidia On Downgrade Watchlist Following Huang Reinstatement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmU0MnhCajc3OEk1Um52RjBLRy14Y3hCSUJWdFQ1T29WUG1kZEpIcE5Hb3R2ekViRkx0VGpoR2MwYTVIbk9VUWF4SnFQZnNWTm1TYkw3dUtPdXZXOE45MjZEYi0xNnBSTUJuanRTa0VUbHExTkQ5MEhHMm10VlhoczZobTNRUWhkdXRXRA?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "date": "2026-11-26T09:07:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f7079d78a66abb",
-   "title": "High US PCE, Trump tariffs and hawkish Fed outlook weigh on stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOE4xLW1QTzlRR1RGR1FSMnVwVkRTSnVHTmt0Uk1ZYjlQeGU2N003ZFVBZVAwU2lZWlJUUFduTDhOVU9CVUZxdFZkelRORkxiMXhWU01GTXJka0Qxc0xGNVQ1bU5vck9RSUlwX2xPT3gxdTVlV2lZdGFGZC1IX0RKNkxybktEV3hxR1Z4ak1XMW9sclpvQ2lTTUJpUGRaWVNRQ0lJNERHUFN3NVRIVGVmMFhySQ?oc=5",
-   "source": "www.equiti.com",
-   "date": "2026-11-26T09:05:47Z",
-   "score": 14,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "dc819ed599e6e8",
-   "title": "Roundup: U.S. inflation rises in October, increasing chances of rate hike",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCb1l3NVgwWi1hNGttbHRENWdrX3Y5SjdfSm1JWVJFZXpOTGxaRHAwZGMtc1JEeHZKdjN5T1RaRGV2OVJlYmpHS0R5Y1ZEWWFzdGJkaWpzdXBDSzNwektxVkJTX2Y5TW9pcTRZR0JlS280VkNOMGVBejNNems?oc=5",
-   "source": "Xinhua",
-   "date": "2026-11-26T09:05:15Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "29aa99c0331713",
-   "title": "Dollar steady in Asia as U.S. bond yields plunge",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXNnVFAtTm1QVW5JN20zSzVQOVhfZ0JjTXFJX01SR3IzU2kyZjhxM2NKY3ZnMzk0dXpteXBmVHJ2R09ERUtxVi1meUU4VV8wSUJrZEdMb2VSeE1wcDlPTGh3N0VBRFBjZEJrd0F6czdJNHppYXoyWUpUUll6YUJxV3BTVExyYklLdFE0UEdHZ0V1UQ?oc=5",
-   "source": "IDNFinancials",
-   "date": "2026-11-26T09:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "119ab2e4f9d078",
-   "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
-   "summary": "Latin America’s copper, oil, gas and rare earths could benefit from rising AI energy demand, if infrastructure and fiscal policy attract investment.",
-   "link": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
-   "source": "CNBC",
-   "date": "2026-11-26T08:59:11Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
