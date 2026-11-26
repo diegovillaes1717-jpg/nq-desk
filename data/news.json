@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T13:31:56Z",
+ "updated_at": "2026-11-26T13:36:43Z",
  "items": [
+  {
+   "id": "8562798026709c",
+   "title": "Trump’s new tariffs aim to prise global trade from China’s grip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5",
+   "source": "BNN Bloomberg",
+   "date": "2026-11-26T13:29:53Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "3e29f22c411ec6",
    "title": "Trump tariffs may push Fed toward rate hikes amid inflation concerns",
@@ -492,16 +502,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "ffefad3b942d3c",
-   "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFFZThqbzEzaUZjWGFXNWdYRHdvcGJWMzlXWlZ3bWNpeHlaSlFSUUZ3SlZpM1BXVEdTZDVnN05VZFc4MG13RWFreURIbk00aV80MUNrU0ZseUZmWlU3Wk5IQU0tZkltV2tUYU4xa0MyMUpXSWdsSFVBRzRoLXMyT3JMRklhTjNseGhMUWptWTNVc1I4clhYZ3FMWGlQVXBFQUln?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T10:53:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "d14d9add1f6aef",
    "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
    "summary": "",
@@ -512,14 +512,14 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "34f7d5e876e273",
-   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "id": "ffefad3b942d3c",
+   "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T10:49:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFFZThqbzEzaUZjWGFXNWdYRHdvcGJWMzlXWlZ3bWNpeHlaSlFSUUZ3SlZpM1BXVEdTZDVnN05VZFc4MG13RWFreURIbk00aV80MUNrU0ZseUZmWlU3Wk5IQU0tZkltV2tUYU4xa0MyMUpXSWdsSFVBRzRoLXMyT3JMRklhTjNseGhMUWptWTNVc1I4clhYZ3FMWGlQVXBFQUln?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T10:53:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "46cb9b40177050",
@@ -578,6 +578,16 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemRRcm1kRDFLcUNpbmtjcnpmOWduZWVwSm9ONFYwMEt6dnhDSjRhRGxjYl8tYm00TS1ueGJBVjdoWEFQYUVKWktfTGVqN0sxazRUcUNQWHNnQVEwbzQxNGlRS09JTWZ5Q3ppcXRqemo?oc=5",
    "source": "FinanceBuzz",
    "date": "2026-11-26T10:30:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "34f7d5e876e273",
+   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -1189,16 +1199,6 @@
    "source": "Trefis",
    "date": "2026-11-26T07:58:32Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "850e41ac468867",
-   "title": "Trump's tariffs and US chip curbs put China's trade dominance and AI ambitions under pressure",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1FmZjhhUzhPeGdLNGNnMmdwUlV0RWNzVS03NlhVTkU3aWpmSmhJRG55YzdXd1p6a01obHo2Qko2MUpWM0ZlZThnd0RfbjZQTmhiMnBwakNoYWY5WU8xN1BKRW5DT3dJU251emhUZEJGbUVsRzRKQk9aa2I5b3A2YjRNcmUwQjFXbjN0alVtTHlDUjdpM1BGUklSQ3VudzZtaHI4WlRhWXJmc3o5azJGcDJYdE9TNTgzSWVvcHNIczFoQ0xlaHlPQnliS1pVRWNUeGMzTndaZ19zQ03SAeABQVVfeXFMTk5kdFlrOVRPUWZVODVfYUd3TWpieVFRdUo2VUZ2Z3hOS1hGTmlxNkU0UDQ2c2llQVoyUnA4NVFUbW5QSW43YkRDYTAxZUc5M00zRlN6Q3lMVmJYeUZRR2FqVk80amhFWlhzYTY4N2d4Rm5LeGpmWWRRR2pDazV5LWpOcnZtLWVnY3UxWVE4a19fN1RmeXM1dGNmWTR2SzVxNjFBTHM4QVRTZm0tLWJMU3VmWmlQN3hEdWhYSWZRanZVRER3UnRMbHBVWjluTU1xeWR5dEFhdHJfMG1fZnlPaWE?oc=5",
-   "source": "Telegraph India",
-   "date": "2026-11-26T07:58:04Z",
-   "score": 9,
    "category": "Tecnológicas"
   }
  ]
