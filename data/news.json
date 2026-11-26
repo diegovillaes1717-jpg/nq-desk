@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T01:25:12Z",
+ "updated_at": "2026-11-26T01:29:56Z",
  "items": [
   {
    "id": "5250b86e62575f",
@@ -67,7 +67,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5",
    "source": "36Kr",
-   "date": "2026-11-26T01:04:34Z",
+   "date": "2026-11-26T01:04:25Z",
    "score": 9,
    "category": "Fed y tipos"
   },
@@ -80,6 +80,16 @@
    "date": "2026-11-26T01:00:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFVMQXQ3ZnRNeTFDdEtMNjFZbklUM3EwUHhnMWVMR0lRUmlyS1BzcEh1QTNYRGZnc2tDMXJnSi0xUkVSYmxkQlREYUg1VWEtWE52OGItaFhHME9iNXNrS3NMa29hR2VZTTlaYjlGbndrczY5TUlCV1lERGlBcFJpZEdyQlEwVjJzWnk0LXdtcVZPRTZfVDZVTEln?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T01:00:00Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "2bd9d1a0ea3140",
@@ -110,16 +120,6 @@
    "date": "2026-11-26T00:56:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "13a6be33b39619",
-   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T00:54:58Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "0f57b07313041c",
@@ -712,16 +712,6 @@
    "category": "Macro"
   },
   {
-   "id": "45f94a6ccfd47d",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T22:06:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "674a566e92dde7",
    "title": "This Is When AI’s Circular Deals Bite Back",
    "summary": "",
@@ -1200,6 +1190,16 @@
    "date": "2026-11-25T20:59:18Z",
    "score": 6,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "4a2fac46d2d2b9",
+   "title": "37 Nasdaq-100 Stocks Reportedly Fall Despite Higher Earnings Forecasts",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblBqcnNZeHplejRqN0hlYnJ5elBGVm9GR3lIalN2Y2t0VlQ3WUNTZlBhZ2FVNUhKbU8zeXFicFMwTFRMSnpfZ2lFUHBmNndoeHFKVUlGQS1hTXlVMWhEYmxTTHBvVExZR2E4TEVQSHhtSExDSkVmNkE3Tl9CMGhuZ1NEQmJrZW1FOXdqeTREbVVJYjg5VGZ5RDhpckRUWXdYY0tkNXhTOG4zaVM1RXFjbDBR?oc=5",
+   "source": "Forbes Middle East",
+   "date": "2026-11-25T20:58:05Z",
+   "score": 7,
+   "category": "Tecnológicas"
   }
  ]
 }
