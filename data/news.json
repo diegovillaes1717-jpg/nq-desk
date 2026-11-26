@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T18:36:57Z",
+ "updated_at": "2026-11-26T18:41:40Z",
  "items": [
+  {
+   "id": "6c2b57b2c9d7da",
+   "title": "Nvidia upgraded to Hold amid unresolved investigations, cautious outlook remains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVJNZ0Qwelc1WjZxZ1BpdUJlblVjdWc5NnlhYU9LWnJqOXFyUm8wa3JoUmZuTnFvWWdPc09ETndINnE2MFFGWUNMS0Q5Rm50alVOMGpCTUFWV0J1WmpTaHU5Slp4OWlnYl9pYlhBTmVMWEQ3bkVPZ0c5bVZKVmJFUTRuTm5JUElRVFE2elhkVEVBWDBXTnRzWHZ5MWJsWlFqZVZuTjE3UVhJeEE?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-26T18:39:41Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "f6a810a55333c7",
    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
@@ -202,6 +212,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "64e18243a4afa4",
+   "title": "Trump Pulls The Strings, Fed Foots The Bill (NYSEARCA:SPY)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlZPbXFxdWozRU9XTlVDRnZNUXJCUTNUS2dMN09fQ0ptcFRfcFNvQVdUX3JlWHJnakxyUXQ5T09EQ2VYMThIVlc4MU9YYmE1QlRZczhfY2syaXhBV2h0c2xtbjNDODZvRGxPTkk1bTJabWJXVnBfdFltU3Nwdzh3Q1ZNN2JOMjBsaFNJ?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-26T17:03:09Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "93888dff47e013",
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
    "summary": "",
@@ -382,16 +402,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "b9b75a0118eea7",
-   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThVVEd0RE01LUtWcjZPaWQ0cVNnUFQ0cFIzSlpCUlQxWGxJdTlneElCbE80SHdDVTEyelZFNjVHcXRWbHRhdVNWOUNZbVU0Wmk4MmtnUHQ4dWRVNFl4TzFnWjJGc21rbzBMaXVxWmp4bEdnNEo0X0VsZXpTdzlJMDZKSVpQN1lOQUhFbTlhc3RGa3A1bjBwSnZYZVd1b3c0OE9jZ2ZFLWt3cHpCbGlOSjVJdGljTHZ1a01BWE5MekVxTDRBVHRYcENfQXQ3bnlzSTRn?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T15:53:27Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
@@ -422,6 +432,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "3f50104cc0613f",
    "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
    "summary": "",
@@ -449,6 +469,16 @@
    "source": "MarketWatch",
    "date": "2026-11-26T15:30:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b9b75a0118eea7",
+   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0hzN3hmOC1uaWVMNlhEeXJWakdQODZWdzN5U0JBQjB6M2ltbktsRmFEN1NtNkVDV3c4Rl9SaFpybkQwR2s0cXpYTnd1ZUxZZkFuaGxRSUJCQzJWLW0tOVdMQ0JxbEZyUFdmcDNFeF8wZ3ozby1BMEQtOGFxb0FIZmNoLUxlMHNzWFR4dmQ5TnNmT2Y3SldhenpySDh1bU1uSHpfVndEQkRHS2c5azZXU1dlcHpmN09jeUV2aG1aLWlPcngyZ0N0QjNJRG5VTnd6TURNUmd3UVZqelNPVTJjM2NpcF9PZXJ3eVVvQ09hdnExVXBvMWpraw?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T15:28:23Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -585,8 +615,8 @@
    "id": "3b194c3c92af64",
    "title": "Michael Burry exits Nasdaq-100 short",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVrMjRZdjhIbjN4YWFlakNFTUJ2ZHZndjgxLXFZOVd4XzRuQWkzNjUzNW1fUGNfby1tNnhWSDlDYkdZc0R3N2NJVHZtWnVkLXVRbXVMdjRUNWM2U2JpWDFpQmRzWnNLZlJ1eDFQMzdIS1FXeW5LdVRxQjJMa2EwckJGUTlISWpqeW5uR01pXzhxbllrN2w5S1BYRkM?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTlweUdtelVQNjRTRFpZSEZhRnNSTlJFRm5ESUZDOUVJcmlIcDdYMUhzdElkT2lmUW5nRGVmTGk5NGNuSVBSWFRHSnp3WWd4NFBMT2puM2NUSTR3c0IzYXBZU3FFdEZaR1BnV2l5ekV4QmpLbnZrbjM1T0Y2WDBZQzk5Y0hVQQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-26T14:47:00Z",
    "score": 4,
    "category": "Tecnológicas"
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T12:03:23Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "911eea5be731b0",
-   "title": "Nasdaq 100: Does the bounce mark the trough?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObU00ZlJvaEJ6Zy1zR2NwaU45NjNtOEdDZjhNT1hveW1jNzdBaFJqREE1S3dzUGE3N0R4eE5vQ2kwczl2d0x0ZHZQTF9wREFub3pPdUhUSlFzSHllbG1DVVJELVQyY3MzT0JkX0pXaUctN3ZETndOaVZNX1BiNFB3N1M5djBPSDBuV01lVG13?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T12:01:41Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "32d1b9b9837d4c",
-   "title": "Stocks rally as tech and tariff worries subside",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanQxc3M0cHQzRHBiX18xaGVjUUJqcE1DWVNtWEFkdlZBTEp2NHdmVzRORndPajhEVllta0psSDc3V0ZzMHNiWkFhSDFTc2tVZ2M3b0VxenhkeFVLa2w0SE1pWUlhV0lJYWljSW9DM3hKV2FGREsxZ3pZb1gzd0JQZHo0c2F1dXJib1JfRkdNeFJBSGFlaDlrZmZjREdLelBUS1E?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-26T12:01:19Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "81fca397d4dfcc",
-   "title": "Saudi Stocks Weighed A New Minimum Tax As Trump Floated Tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUltMXRSczVJMGZ6eHlNSjljVWFYRnd4SU5EdHh5OEJhQ0RScmtQMTVOQ2U2eEJrQl9ydHpnbGg1Vjc2MHRmUldkZUptdzBQSlFYQTllMm9WM19iR0tJZ0oxMFJweHVOMlhxX080Rzl6WmRMUWIyRU05WGVGR0laTko4SVVMRHJXLUF4aEZYMVNibnM2UWVz?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T12:01:07Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
