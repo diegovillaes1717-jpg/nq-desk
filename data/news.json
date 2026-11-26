@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T01:20:28Z",
+ "updated_at": "2026-11-26T01:25:12Z",
  "items": [
+  {
+   "id": "5250b86e62575f",
+   "title": "South Korea raises rates to highest in two years, as inflation remains above target",
+   "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+   "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+   "source": "CNBC",
+   "date": "2026-11-26T01:23:26Z",
+   "score": 4,
+   "category": "Macro"
+  },
   {
    "id": "daa6635f48a23c",
    "title": "NASDAQ Index, SP500, Dow Jones Forecasts – Stocks Rebound From Session Lows After Strong Sell-Off",
@@ -32,6 +42,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "347bf278282515",
+   "title": "Tech stocks are volatile as AI fears overshadow Huang’s Nvidia return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXdRRE1SWGhNQUlVSXpFYjNmU0NDOWI4NmNjdHJUOGpMUFd2a1o2TlNZVncyN1cwVTFyeUdpTEtWMDg4QkdydDJzeS1wZUduUHowRWdHTjBMUV9sZW4xVE9OLVFjUk42Q3dhNGdqeFVySFRWZFhFbWhXQWU4SUI2YURFcGpJMmVOWE0wb1RJaUR2YkFVZWNWZVBrZTlmVHM0WnVWM2xVOWZ1VTN3a2t1aDdhdFpZT1RfN05EaXVKNUs?oc=5",
+   "source": "KQ2",
+   "date": "2026-11-26T01:06:40Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "ae168e7501a2d8",
    "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers By Investing.com",
    "summary": "",
@@ -60,16 +80,6 @@
    "date": "2026-11-26T01:00:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "5250b86e62575f",
-   "title": "South Korea raises rates to highest in two years, as inflation remains above target",
-   "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
-   "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-   "source": "CNBC",
-   "date": "2026-11-26T00:58:38Z",
-   "score": 4,
-   "category": "Macro"
   },
   {
    "id": "2bd9d1a0ea3140",
@@ -402,16 +412,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOS1ac0pnSHJsc1V5YkFuQS02V09sNWN2VzJjZElzTmR5VUNEcGlFOWhETHU3Z2Q0RE5yemZKSmhqd29qaDZIaHYwd2ZvMkNYTTFTeWhIQTItUURway1qQTJQVHRrZnRVY3hYY182dEtRaEhQRzdtUUpKVng0NzdqajkxY3B3X2NHSTF0MWdPSE56V3RYQUs3OGk0NnhXLWZlRzJrUENQYmdoLWQ3VDBTaGVNQW1haGw0OW5abmF5cHRNSVhXbGJqVU4tUEFBQjZXeDVOQXIxUmVzSUJGNmw2TlpBdzVXOS1BNWNmTUpn?oc=5",
-   "source": "KFOX",
-   "date": "2026-11-25T23:24:32Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "65123ac2003a5c",
    "title": "Materials Down as Inflation Data Seen Spurring Fed Rate Hike -- Materials Roundup",
    "summary": "",
@@ -575,8 +575,8 @@
    "id": "8250f50cce8a13",
    "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
-   "source": "KONTAN",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T22:32:30Z",
    "score": 11,
    "category": "Tecnológicas"
@@ -659,16 +659,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "55e8d530d877b2",
-   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFlrVUQyR0YzNlVXOWVidFh3STlEVEUzUDdPYVdMWUZOWGhrbTdDQUtZc3ZfU1VESDNTZVM3cERObThoSjBFcmZLMDZLd2ZyZzV0c29YVWxmVnc2NDJJTWpGdHZKbEh2czJ2Z2h6dGNQcENaLTVIRGNxRE9ZRlpzSXEwZC1jS3NmVDhLYlBnZHhxRFgwOWhDblktRWpWQks1emVGR1ZRV2hOcldlcmxQX0d3ZXZGOUkwbGNkLUxHYVFtaXNXT2x0UzZBWEpGVzJUR0E?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T22:12:29Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1200,6 +1190,16 @@
    "date": "2026-11-25T21:00:31Z",
    "score": 5,
    "category": "Macro"
+  },
+  {
+   "id": "eaf8676caa83b0",
+   "title": "US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXAxQVo5WGRidzlqYkVLc0diaEFGcXdfS0QyVzhaQlF6Mnh5bnV3S1BEVUd3aV9zdGVsSnpPc3hoeUVVNFJDMHhzaHhYTmF6VDRnYVFWNFdXZmh3azhhSE5BakFmbkc0WkVsRkhCU2liSEdTQkxpWEFtQW1OVXl0amVSSXcwOWt0eG4wNFBEby1rNWMxMVMtc3c5S3ZfMWMwVEhzVnA5cGN0SVBiVEFmZVVSNmxkLVNuVzkwb0JRTGpXY3pTWmYtdDUyVWtlOXIw?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-25T20:59:18Z",
+   "score": 6,
+   "category": "Fed y tipos"
   }
  ]
 }
