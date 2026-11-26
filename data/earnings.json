@@ -156,7 +156,7 @@
    "sym": "AMZN",
    "date": "2027-02-04",
    "hour": "amc",
-   "estimated": true,
+   "estimated": false,
    "eps_est": 2.49111,
    "rev_est": 244980536200,
    "eps_act": null,
@@ -317,5 +317,5 @@
   "sig": "751060b0005938",
   "generated_at": "2026-11-26T03:14:20Z"
  },
- "updated_at": "2026-11-25T21:32:13Z"
+ "updated_at": "2026-11-26T03:33:26Z"
 }

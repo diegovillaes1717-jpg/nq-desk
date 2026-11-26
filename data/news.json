@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T03:28:34Z",
+ "updated_at": "2026-11-26T03:33:17Z",
  "items": [
   {
    "id": "c20b880e6a02fd",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T03:19:44Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "0876207ae47d5f",
+   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa09oWTlvekdOUXlkVXcxUGNFcHY3cDdKdWtLMlNpYzJpdHpaQUVKbkxBckJCUGt5RWYtVHM5VkZhQkZacTFRNHMzdG8xSmRIclRoYUhOZDgtbThXYWFrTHdLdncwWjItTUMxRFZ3RkV4czRqc2hUd2RRUFJXWXBaWlhJdlBHTkFoMEV1OTFXWEczS2Fja3FVZUcySlVpSnV2SmFN?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T03:17:00Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "7c57492fd5b9e9",
@@ -132,26 +142,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "ee1c277ffc86c4",
-   "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdllrYnlYZUdONjllbGdjdTFwNE5mbE1ST2NINnNNRlJJQkVYQVBOdkF5cURoY18xU1Z2SDFzQ01pcEVja1hoalk4SjZRZXZheEJQSUR4eV9YMk9tUjR2NnROTWpiYWZydUFtWll1V05fWXg4RTlEN1V4TFJ6RVV1NW9NT242UWFUbFotZTg4LWRjV2dKVm5jWVl1MUVsYVF3Z3YtWldOQm5hblB4RWZFMFl3cDdreTRfM2RJNEFYdFl1YU5nREQ4VlRCQ0VsYlRNNkdwVjc3NEcyWjZNa2ZtN0U2ZGV5eHh6QW80WTdPaHlLOWo0SEE?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-26T02:56:49Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -190,6 +180,16 @@
    "date": "2026-11-26T02:44:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "46f80705fe38af",
+   "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n?oc=5",
+   "source": "Business Standard",
+   "date": "2026-11-26T02:42:48Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "7ad8222e5ce5a7",
@@ -982,16 +982,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aea23eba608b33",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T23:20:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "a35bc9a322d507",
    "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
    "summary": "",
@@ -1042,6 +1032,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "aea23eba608b33",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUhzVmRIbGQxLW1ZQ2gyMnpQZUFlRzVjMzFFSVVJLWRGazdKVHNLbnlTa2psUjRhams4M2lIRnNfOVdRSzl3YUV4d3h6T20weWRscG5CWm9lRWhibUZRMmgwc0I2MzR4T05aak5vdzNCWUd1Wkk2NW1La0NkajVVZFg3ZGU1MExlLWFfcUFmcDlsQ1RkcmFUU05IUzl6OXJUYXJ5RllKaWI2dXhzbzI5RVNtUmlPT1E4WnRnUGRibE1kSlIxWTE0b0R5a0NSNHJZNE9BQkdnRjBZOWVVakJucF9vN24?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T23:00:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "20e45d7532d8c5",
    "title": "Michael Burry closes his Nasdaq bets and shifts to value, but still plans an Nvidia short",
    "summary": "",
@@ -1070,6 +1070,16 @@
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "1ac3fb10d0b5b2",
+   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxYMmF3bk5GcW5ocUxTTWhPdXpMLTlTSUlsaUJoRjJBN0tWb1UtcmdfU3dycEV5eFI1clhrOUlBWDZlU0VqNkNYd01ERl82Q2xxdkpfT01jQ2lRbGg0a3BkQndrc01hb0JtTGNpOHRPT1RITkZEUTJXVHRLc0FCYk5CQ1VzeTR5ampkbmZ2bVRsckRuQ0l3Z1ByODBScENJU3pvYnR0M3hyYXFLd2pnU0d5YUg1V0t1TG1YQ0kzeGtidw?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-25T22:46:44Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "b20071c2525c52",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-25T22:22:05Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "6cfdb34cfbe63d",
-   "title": "US stocks close mixed amid hotter-than-expected inflation, fresh tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BNjZIUWNqOTBTTjZPVkRvam5RY3R5b0VlZWxJZ2dKMHVZczVRWWZJRDFNRG80RzFnektoYlhBaXkzbEtLRk52VkltM0dMTnMzcC10ZW51bkc?oc=5",
-   "source": "TRT World",
-   "date": "2026-11-25T22:22:04Z",
-   "score": 9,
-   "category": "Macro"
   }
  ]
 }
