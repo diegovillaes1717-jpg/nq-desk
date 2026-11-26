@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-26T03:09:31Z",
+ "updated_at": "2026-11-26T03:14:15Z",
  "items": [
+  {
+   "id": "7c57492fd5b9e9",
+   "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+   "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+   "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+   "source": "CNBC",
+   "date": "2026-11-26T03:13:43Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e3982902c0f4ea",
+   "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+   "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+   "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+   "source": "CNBC",
+   "date": "2026-11-26T03:09:47Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "a73f666a87c562",
+   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T03:09:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "6b370b594db3c9",
+   "title": "Nvidia Slips Below Microsoft as Valuation Retreats From $5.77 Trillion Peak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIY29mQ181M1JvWGNHaldUdXJmODRrODJXaHZkWW5pQXFOLWtwdTlwa09DQVkwVFE1MEgwU1hPcWVET3oxRXlBQzdyVXhMZ2h3VERYbW05ZVlBMUUxaEdoRTU0ajVMOV9EZXh2SGxQdzZPZDNNRXc?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T03:07:48Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "615879d490571b",
    "title": "US Inflation Climbs to 3.8% as Fed Faces Rate Decision",
@@ -32,6 +72,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "55020c64dc1e74",
    "title": "Gold Slips Toward $3,575 as Firm Inflation Keeps Fed Hikes on the Table",
    "summary": "",
@@ -59,6 +109,16 @@
    "source": "Businesskorea",
    "date": "2026-11-26T02:53:25Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "7a36f92209ae0e",
+   "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T02:49:55Z",
+   "score": 6,
    "category": "Fed y tipos"
   },
   {
@@ -122,13 +182,13 @@
    "category": "Macro"
   },
   {
-   "id": "7c57492fd5b9e9",
-   "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-   "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
-   "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-   "source": "CNBC",
-   "date": "2026-11-26T02:15:51Z",
-   "score": 3,
+   "id": "183e56542a3f2b",
+   "title": "The Nasdaq 100 Index has shed $8.5 trillion in market capitalization, bringing it to the brink of a bear market.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnZRYUpmZVZ6QWJEeTR4SnI0UG0yYTI5dlVmN1BvMXdKc2pJc0l4bzZ1V0NhNjF5dmpGR1FLbjV5b3RJV3dsLS11YjRCejYxT2Q3NWljMnB3bHNNX1ZmNE1wdVd5RThyR1d3RHpYVWcwNVdlaWwtUTRzZDJDajBaWUFKaG5VUmdNdzlQU0R1NllZZw?oc=5",
+   "source": "富途牛牛",
+   "date": "2026-11-26T02:17:18Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1139,66 +1199,6 @@
    "source": "StoneX",
    "date": "2026-11-25T22:11:21Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f7971d6634a764",
-   "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-   "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 6.0,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "22f29156c51572",
-   "title": "Pullback in AI Stocks Eases",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Zb2xYdHpGSDBEMzVXLXBHY3U0VE9QY0plb21INHNJTm5wZGJpQU51MG9UV011RWV5X0JTMF92MUQ0OG41d3BmZXB4a3VkZVJlN1RXWHY0RFlfVXhHMnpXSGRMUXJHZEF3Q3h1cWd1R0lKay1fRUV3?oc=5",
-   "source": "Newser",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "cf15cbf71a308f",
-   "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByeEpQR1VNeWV4bzNkcHJ2SkdaY2luc09hZk5mUVhaOUFNN0dnUXVyQ3p4cGtpUGVwZm1OcGxXYWlNMlFWY1Naa3M1Q2pBTF9EMjNRZ3M5aE1lWFpkWVRscg?oc=5",
-   "source": "bsinews.id",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f3c5debb2f2388",
-   "title": "US economy roars ahead in third quarter, inflation remains high in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T22:06:55Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "45f94a6ccfd47d",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T22:06:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "674a566e92dde7",
-   "title": "This Is When AI’s Circular Deals Bite Back",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T22:05:28Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]

@@ -285,37 +285,37 @@
   }
  ],
  "summary": {
-  "resumen": "Los resultados recientes de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó expectativas a pesar de la incertidumbre sobre su dirección. El mercado reaccionó con caídas generales y volatilidad en el Nasdaq debido a dudas geopolíticas y de gobernanza.",
+  "resumen": "Los últimos resultados de Nvidia han superado las expectativas con un BPA de 2.68, aunque el mercado ha reaccionado con dudas y caídas en bolsa debido a riesgos en China y cuestiones de gobernanza. El Nasdaq se mantiene cauto ante el impacto de estos gigantes tecnológicos.",
   "puntos": [
    {
-    "fecha": "17 nov",
+    "fecha": "18 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados récord y cambios",
-    "resumen": "Presentó un beneficio por acción de 2.68 superando lo estimado, en una jornada marcada por su primera llamada sin Jensen Huang y dudas sobre China.",
+    "titulo": "Resultados sólidos con dudas",
+    "resumen": "Presentó un BPA de 2.68 superando lo estimado, pero la acción reaccionó a la baja y con volatilidad por riesgos geopolíticos.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
     "fecha": "19 nov",
     "empresa": "Netflix",
-    "titulo": "Acción a la baja",
-    "resumen": "La acción acumula una bajada del 8% desde su último informe trimestral, donde presentó un BPA de 0.87 superando ligeramente las previsiones.",
+    "titulo": "Caída tras resultados",
+    "resumen": "La acción bajó un 8% desde su último reporte con un BPA de 0.87, reflejando cierta recogida de beneficios en el mercado.",
     "resultado": "Supera",
     "impacto": "Medio"
    },
    {
     "fecha": "20 nov",
     "empresa": "Tesla",
-    "titulo": "Estabilidad sin rebote",
-    "resumen": "Los títulos se mantienen prácticamente sin cambios desde su presentación con un BPA de 0.48 frente a los 0.45 estimados, sin lograr un repunte claro.",
+    "titulo": "Estabilidad sin impulso",
+    "resumen": "Reportó un BPA de 0.48 y la acción bajó ligeramente un 0.1% a la espera de nuevos catalizadores de crecimiento.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados relevantes serán los de Adobe y Broadcom el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la evolución de la IA, los riesgos regulatorios con China y la reacción del Nasdaq ante las próximas cuentas de semiconductores.",
-  "sig": "887d010a529169",
-  "generated_at": "2026-11-26T00:14:05Z"
+  "proximos": "Los próximos resultados importantes serán los de ADBE y AVGO el 9 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la demanda sostenida de inteligencia artificial y los riesgos regulatorios o de suministro en las grandes tecnológicas.",
+  "sig": "751060b0005938",
+  "generated_at": "2026-11-26T03:14:20Z"
  },
  "updated_at": "2026-11-25T21:32:13Z"
 }
