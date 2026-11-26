@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T07:38:40Z",
+ "updated_at": "2026-11-26T07:43:24Z",
  "items": [
   {
    "id": "98e00657e2ec25",
@@ -202,16 +202,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
-   "source": "Decatur Daily",
-   "date": "2026-11-26T06:00:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "871981e68663d1",
    "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards",
    "summary": "",
@@ -353,7 +343,7 @@
   },
   {
    "id": "2846b77f0d46dc",
-   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000",
+   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000%.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzMyUjJjQU9pdDFFalVPX0lBNkpuLWJWaDAxcVM4X1pjbUU1M0h0MTl0RGhqNGZISEN2SE44d1EyUUpTQmhYRWVmLVh0cDdlV1Nlb3RCRU5PZWRWNmswUk9JU1ZLdXZDMVBPUmZlQTcwQlBtdWJkQVBZQnAwTG4wcWxDbHRxaWNJejBBZGN4cVZVTkFQSHR0cEw5bWFJVGlTUnROWmhaZHRwamhsdHBubTk2T1VpNVFybHV0ZHpXaVNGcEIxdmdBMmkwMzhzNHM2MmI4?oc=5",
    "source": "Facebook",
@@ -787,7 +777,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:58:00Z",
+   "date": "2026-11-26T02:56:59Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -1012,16 +1002,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "725af62bcf944d",
-   "title": "Core PCE Inflation At 3.3% In October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
    "id": "13a6be33b39619",
    "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
    "summary": "",
@@ -1030,6 +1010,16 @@
    "date": "2026-11-26T01:55:00Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "725af62bcf944d",
+   "title": "Core PCE Inflation At 3.3% In October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-26T01:55:00Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "b052fc8e5d02cc",
@@ -1199,6 +1189,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T01:34:00Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "395245cf17ba33",
+   "title": "AI Boom Uncertainty Supports Ringgit Against US Dollar",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFWZlBteHJ5aXhEMzZ0cldrTkJ4M2JsTHhQdGZwaXl5MHZUM2hRVmFWZVBHZWh1clhfeGttNmRoQV93eDhxUWpXckw3LUZyVWZIUlo5ckdBd3VhaW1PNWVKMjNwY1dySi15Zm5CM3VRTThZc2tVMFBrdGZ5a1B1TkphdGNfTzBtT284eWx3RDUwRkVMRW9UeTBBdFgzdkpM?oc=5",
+   "source": "BusinessToday Malaysia",
+   "date": "2026-11-26T01:30:06Z",
+   "score": 4,
    "category": "Tecnológicas"
   }
  ]
