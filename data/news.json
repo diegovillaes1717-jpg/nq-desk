@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T03:52:19Z",
+ "updated_at": "2026-11-26T03:57:03Z",
  "items": [
   {
    "id": "09d55aab69a5a5",
@@ -70,6 +70,16 @@
    "date": "2026-11-26T03:13:43Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "edeb219cc790d4",
+   "title": "US core PCE inflation hits 3-year high in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mdm1pcTdTZ3cyT190Y3EtTDhmX0dKM09BOUJPeVdJRjFKRGszTmVFdnNULWh6ZzNIWXVBTzVJQmhvRlltLUtWQzdyUWljTUxVYkpPY2Ribzl4b01OdndHNUx3?oc=5",
+   "source": "Global Times",
+   "date": "2026-11-26T03:10:00Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "e3982902c0f4ea",
@@ -238,6 +248,16 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1dFa2Fud1RmXzA4aGFTLUhYR2IzbWxsblBNQmZkUW1MRDZzdEhKN1IxNzU3R0N5QXBEdEdhb1VweUdOa0JoYjYtYWktZTVmb3FTQjBfbDY0R05WcUxrRDFuaUJEWlhEakMxQW9DRnJVT19IZ05Va0NVaG8xRG5wZmJJUE5QZDZWanZ3cTU2eHByU3hPUmxoUm9Ha1JFZw?oc=5",
    "source": "Queen City News",
    "date": "2026-11-26T02:41:42Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "674a566e92dde7",
+   "title": "This Is When AI’s Circular Deals Bite Back",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-26T02:35:30Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -592,16 +612,6 @@
    "category": "Macro"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "14abc9198bb43a",
    "title": "Ringgit opens higher vs US dollar on AI-related market caution",
    "summary": "",
@@ -650,6 +660,16 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:06:33Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T22:44:32Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "722944e6e16f62",
-   "title": "Wall street recovers most early losses as pullback in AI stocks eases",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jZmpKSkpNODRXeG5QaU4wa2lsMHA4V18zYkkzUzJod29GRE9lektEX2xUc3A3cU1QOV9jeGh2YWR2SHRjcmJESm11SHVNM3VOOUo2OGRwQUdiOUhkejBVb1h4Z3pwUlFzRU9TSWNnYw?oc=5",
-   "source": "Boston Herald",
-   "date": "2026-11-25T22:44:15Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "063dc44bb7f241",
-   "title": "Inflation heats up before the holidays, putting Fed in pressure cooker",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wYV9VbV9VZmVfVTZVWE1tTVllZ3dub0JXZ0Y5bWEzLU54OThyUWNYX2MyUTdDQ0RvQW1OUmR0TGJTc3hwZFV2QmEyY3JUWnhRTVlLQy1vcjRONWJJYldvZ1NHWXp2V3BvZVMtWjVvLWFHZHBpQkhHSVVGVU9JQkU?oc=5",
-   "source": "Scotsman Guide",
-   "date": "2026-11-25T22:36:51Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
