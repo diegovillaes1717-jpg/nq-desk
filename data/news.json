@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T08:49:42Z",
+ "updated_at": "2026-11-26T08:54:26Z",
  "items": [
   {
    "id": "0cbe383ceac986",
@@ -12,16 +12,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "ef90bb14f80bf3",
-   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1JzZlNXOTJ0TEZXcUR5Z0FXaHBnNkRqX0pWQ0VjeFljZ1NoSExfcUdMR0JKTUJIM2wzM1dPdGl4T0dXcF92Mi1kRE9RZGs0ajVoc2xpN3ItZGZRdVVuajZCY3puRGdrSEw1TXpRZ3hxLWhBYjI1TEVDMG9oVDdmYnRUTWp6c0pmOWc?oc=5",
-   "source": "Charlotte Observer",
-   "date": "2026-11-26T08:39:06Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "21863f980d37f4",
    "title": "Nvidia Stock Price Drops Below $150 as Company Agrees to $290M Crypto Mining Settlement",
    "summary": "",
@@ -30,6 +20,36 @@
    "date": "2026-11-26T08:36:47Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ec566af9997902",
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-26T08:33:54Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ef90bb14f80bf3",
+   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-26T08:33:40Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "158f1f9f3046b7",
+   "title": "Chinese Stocks Went Sideways As Washington Floated Fresh Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFpLNmxyOUM0a2wtWUhRd21ISEVrcDJDeUFtamZDZWRKLWVGNzJOZmxtZXhzcG1nUVVTSDJlcWpJdzRwOUo3UFo3UUZlcXVCSWZfd3ZpX2RjdjBuaGFhcVg5VWRWZU1XYzhtUlFrVUtkQXdnUGt3R2U5WG02VlNTWmJVaXVHUkFVTXlUb2RkbXlDWFQ2MDhmZA?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-26T08:33:33Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "3be7b126ef8594",
@@ -325,7 +345,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -372,16 +392,6 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "158f1f9f3046b7",
-   "title": "Chinese Stocks Went Sideways As Washington Floated Fresh Tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFpLNmxyOUM0a2wtWUhRd21ISEVrcDJDeUFtamZDZWRKLWVGNzJOZmxtZXhzcG1nUVVTSDJlcWpJdzRwOUo3UFo3UUZlcXVCSWZfd3ZpX2RjdjBuaGFhcVg5VWRWZU1XYzhtUlFrVUtkQXdnUGt3R2U5WG02VlNTWmJVaXVHUkFVTXlUb2RkbXlDWFQ2MDhmZA?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T07:01:04Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "93888dff47e013",
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
    "summary": "",
@@ -390,16 +400,6 @@
    "date": "2026-11-26T06:56:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "ec566af9997902",
-   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-26T06:55:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "3f50104cc0613f",
@@ -1157,7 +1157,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:58:00Z",
+   "date": "2026-11-26T02:56:59Z",
    "score": 8,
    "category": "Fed y tipos"
   },
