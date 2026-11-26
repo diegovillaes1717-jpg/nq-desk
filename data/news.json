@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T17:21:25Z",
+ "updated_at": "2026-11-26T17:26:08Z",
  "items": [
+  {
+   "id": "534f17d0adda34",
+   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0dDRUxNRHZ5UDVGekZRbjVMdHJqSThwbFBLY09UQW9fVFNTdjRXVjl1bUV5bFN5WFdSaWlZNm5idGM4ZWNfY2E3eTZjUEE4aWkyT1RPaUFZNXh0NS1DOUNoaHZkbFBEQ05ic2txYm1TalBwOUpwc3Y5LU9aWXV1cHF2OFdZMUgxRVNrVUpfT082dmF4Rk9wb1dvU0V3SDdXZTZweHQxdmFOdW8?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-26T17:21:26Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "bfd4619c36fbd5",
    "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
@@ -9,16 +19,6 @@
    "source": "The Motley Fool",
    "date": "2026-11-26T17:15:02Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "534f17d0adda34",
-   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHRlS0VSb01ULTlZQy1jTXFUOUtIaG1pQldaNDEwWHhtbi13ZkpOWE5TVTF6NDRra1I0TG8yS2Fyc2hNZ0tLQVRKVDBjMExKNlB6RmE2ek82dHhSQ2RyMU9VaGtkWWNZZzVwMHVmeS1GTlZVb2lVNFVIYnRDd0EwM0V2cHVfNERSMGwwM2lXbVlHazRvd3ZMY3RGMGZaZw?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-26T17:05:54Z",
-   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -37,7 +37,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYk4yYzNzaWVuXzlBcHNHN21NWHd1aEhJdFJWdmVfUjFDMUdTSUNwdnNpUDVySFltaDMyak9fbTVkWUJxejZuTDdmSFQyVkIxeFVBRzdua244YTI3OUVuWEpXWWhldTVBbWtyeDh0ZXpnNTVtWkY4Q1pXcy03RTE4OGJIcTFMSFBYVEtn?oc=5",
    "source": "Trustnet",
-   "date": "2026-11-26T17:03:08Z",
+   "date": "2026-11-26T17:02:39Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -92,6 +92,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "fbf91d8c2a4193",
+   "title": "Trump Calls for Probe Into “Fake” Economic Data as US GDP Growth Hits 4.3%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL?oc=5",
+   "source": "Coinpaper",
+   "date": "2026-11-26T16:30:20Z",
+   "score": 3,
+   "category": "Macro"
+  },
+  {
    "id": "c8a0ee9d9df1cc",
    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
@@ -100,16 +110,6 @@
    "date": "2026-11-26T16:30:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "fbf91d8c2a4193",
-   "title": "Trump Calls for Probe Into “Fake” Economic Data as US GDP Growth Hits 4.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-26T16:30:00Z",
-   "score": 3,
-   "category": "Macro"
   },
   {
    "id": "ca5b92f034faef",
@@ -165,9 +165,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:06Z",
+   "date": "2026-11-26T15:49:07Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -895,9 +895,9 @@
    "id": "def286aa0c2efb",
    "title": "10-Year Treasury Yields Just Fell to 4.85%. These 3 Dividend Stocks Pay More",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW5JX2dYN3dzZUdaWWx0YkhDeV9Zd3k5RHFXeENDbFYybDJvY21MZXM2LUlSYWdKOFR4Q2FkRkZvVDQwLXcwWDJoUFpVdW9WRlM2eEdsanU3UWQwYTNBdTZjQjlFRDRLdEw1UVprOTlaZ0Q3LUNtTjBiemVyZ0FkSVd1ei1CLVhGemo4YW9KZmNFZHZjSVNOWQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:07:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXpqTVpWZVBldExIb19IQ1hJbDJ4U1lsT3dJbXl6ZS1HWmZTWWU4eEMyeDEtUVJpWkFxVHNpMFNfMl9iRmhma2x3WGgwZF9mV05OSGZncGY1WGpzeDdyLU40R2hpcjlVXzFNLS1iQ0VOZUFPTHJTRFp3cUVUWG1tY016M0d3LWpBajFOcUx1NG9OTWpSYk5fUGg3eTdxWWJJZEU2SHpybE9QT05FVmpiVFJ0cjR5d2pCbFE?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-26T12:07:00Z",
    "score": 5,
    "category": "Fed y tipos"
   },
@@ -1185,8 +1185,8 @@
    "id": "181d3c0f9aead5",
    "title": "Shopping this Black Friday? One expert says to beware of ‘tariff gouging’",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTFreUY2bmd6OEs5QzR6WUVWQWtmRkYyYUZjSk9CN0VpcGkxd1hGMGRQQzNENGNBZEdqWUUwcDZHVDZwSjByYnVLSl9DY3pUbnlTUG8wd0JiMjEzUWFqUHAzUnJGVndZa3RDWUVnX25zdlduUjZxZmtpb0U3ZlVhakxQV1BxX1ZRZWx3T2ZuODRRaS1tMlJwOUxWOWlXSFBKM3k0eDFxNXNOcGR0cy1F?oc=5",
-   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUdSVlU1TWpMYm9ENWNfQUlxakxVS0NQbHoyOTFwQ3BqRm45SGVWNkVpSXM3MEZ0NUhDYkJuMFFzZnpuQk1TMnY3MnVmU2NUb2VBcnVDQnFaeTFqU1k2TmRObmVOUGRGckR2M24tSjl5c2hPM0ZZX0Z2cGdlLUY4MjYtd2VCZ1RTUFFibzNnQ1ROOXZERWN1VnNVUm1lZ3lKcUdRVDBVQ3Zuem4ySUhQOGRJYjM4cnhQ?oc=5",
+   "source": "CP24",
    "date": "2026-11-26T11:08:49Z",
    "score": 3,
    "category": "Macro"
