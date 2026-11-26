@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T05:51:06Z",
+ "updated_at": "2026-11-26T05:55:51Z",
  "items": [
   {
    "id": "88ab43384553a8",
@@ -17,7 +17,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoMmVIOXlodnl2ZVg0SjJsc3VFVXA1S3o1a3JVNXhsSHJRUExyZlVjajZ4aVIwNWMyZWZia2RjSXFjeDBuMmljOEZVbUF6aTh3UkhNZXVBdVZId3JpbVRfRTlvb2RqNFlsSGg4MjVBTVU?oc=5",
    "source": "Financial Times",
-   "date": "2026-11-26T05:34:02Z",
+   "date": "2026-11-26T05:34:38Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -130,6 +130,16 @@
    "date": "2026-11-26T04:49:48Z",
    "score": 10,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "11f93cd392d211",
+   "title": "Gold steadies after hitting over one-year low; Fed outlook in focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONVZBck03OEpueHdKTGJXVWFsa1RDUGthMl8ycndCeXhZWTEyMzBBUDFIeG1KRFZnYTlMSkhlX3pWb2NGOEpBRXZlV3ZYd3h2aUxPOXFVb1RBYlBJaXh2U1RsVHlUaXlXQTAxRGtKd0pLczI5WnA0Z0ZXN3d6ejhNWkFva1ljTGY0MFHSAYoBQVVfeXFMTjVWQXJNNzhKbnh3SkxiV1VhbGtUQ1BrYTJfMnJ3Qnl4WVkxMjMwQVAxSHhtSkRWZ2E5TEpIZV96Vm9jRjhKQUV2ZVd2WHd4dmlMTzlxVW9UQWJQSWl4dlNUbFR5VGl5V0EwMURrSndKS3MyOVpwNGdGVzd3eno4TVpBb2tZY0xmNDBR?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-26T04:45:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "8f9e3612b52879",
@@ -467,7 +477,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:58:00Z",
+   "date": "2026-11-26T02:56:59Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -682,16 +692,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "725af62bcf944d",
-   "title": "Core PCE Inflation At 3.3% In October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
    "id": "13a6be33b39619",
    "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
    "summary": "",
@@ -700,6 +700,16 @@
    "date": "2026-11-26T01:55:00Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "725af62bcf944d",
+   "title": "Core PCE Inflation At 3.3% In October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-26T01:55:00Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "b052fc8e5d02cc",
@@ -902,6 +912,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:30:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "4659346722a02b",
    "title": "Nasdaq Falls to 23,585.80 After a 4.6% Plunge as the Nasdaq 100 Briefly Enters Bear-Market Territory",
    "summary": "",
@@ -930,6 +950,16 @@
    "date": "2026-11-26T01:23:26Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
+   "source": "Metrobank Wealth Insights",
+   "date": "2026-11-26T01:21:25Z",
+   "score": 11,
+   "category": "Tecnológicas"
   },
   {
    "id": "1ac3fb10d0b5b2",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T00:08:00Z",
    "score": 10,
    "category": "Macro"
-  },
-  {
-   "id": "86dba5997ae0ce",
-   "title": "10-Year T-Note futures climb as yields hit lowest since September.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2xiV3AzVzE0OTZuNElBUy16NElLbHJkVVZJREh4cXpPc1BhVTdCRlJ1TGlaYzM4bVk2clI5b09jd3Zacm00QzJZNEg0eUw3d1Q3UEVTazc0RkhjNUs1TGhMNmxzUDh1REI3bHhHTmlqaDhsSkhSa2lLVGE2bFFDNzQ1NkdHU2RXaEpkZTdiZGtsc1JvSFE3c09VaFljMzdjbmV3OVZxRTl5ODk0X3d2ODVn?oc=5",
-   "source": "CME Group",
-   "date": "2026-11-26T00:08:00Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "31d37106a1141c",
-   "title": "Michael Burry sells Nasdaq-100 puts, shifts mos...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRElhdFJuaFp4dmliZW9FaXRreHZfUFZiVDBsRTVkaXZtd3pKUlI4d3E5N2w1VVZ6MU1SYjBMVHRBWm1tblVMM1JGQkNLYVpncER1T0ltTkl4RDFQWkFsSlVtODJvTkZYSXVOQjR5cGdlci0tLV9PQTNWV3JNUU96QUpiemE0bEY4d0EyeWhR?oc=5",
-   "source": "Pluang",
-   "date": "2026-11-26T00:05:22Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "120ba405c1eca2",
-   "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
-   "summary": "Asia-Pacific markets were set to open higher Thursday, after Wall Street staged a dramatic recovery from session lows overnight.",
-   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "source": "CNBC",
-   "date": "2026-11-26T00:01:07Z",
-   "score": 4.0,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
