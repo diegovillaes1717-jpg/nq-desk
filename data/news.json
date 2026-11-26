@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T04:39:40Z",
+ "updated_at": "2026-11-26T04:44:24Z",
  "items": [
   {
    "id": "8f9e3612b52879",
@@ -19,6 +19,16 @@
    "source": "Benzinga",
    "date": "2026-11-26T04:22:55Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0b8fca637599f2",
+   "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0hNTFppa0JwT2NmR0QyMVJ6WXY5M0dqRzJfY09CWTNzR2M4ZGdoeXdsVTV5Y1hQc1dwRkhDbV92OEktaHB6YlVQVVgzeTFsRkRiSTFJVDQyZWZhX3UyOUtkMFpaeXl6bzZTS3ZLb19VWmcxRy1qY1dsdjdQOElGbjJfd3hNTUw3NGt3LTFNOGxFZU81cUhRNl8xb24yVEM0Uk1Ha0x1aU1rQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T04:19:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -112,6 +122,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "c97b4cfd017afc",
+   "title": "US PCE Inflation Rises to 3.8% in October; Will the Fed Hike Interest Rates in December?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTJQeWhhXzNOWVUwSjE4Q1VRR05lcGVyd3NRcW1idWdIWlU0SXh3ajJaNTJ1dndSdW5pZ3ZMLWVjWDB0U01TNnZWQVhnV1VCUzlGaTFyXzVoUThBLWJkVC1zQW1Gb0FTM1JWSTFYcHNfNGRfd2NZWGRMcDBrUDUzdEJOUTN1Ym4yb3lIYkZKaU80SzBGOE5OVHZfdExVcS1KNnN4UlhLYjBuRDVXUWhPV1hmZnFpQjUtR1JrRm5QdndCUTZNcm1jTnhxejh3dnNrQWp0d0VPekNCMU0wTVpTVGR5YUc?oc=5",
+   "source": "Kotak Neo",
+   "date": "2026-11-26T03:26:15Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "c20b880e6a02fd",
    "title": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
    "summary": "",
@@ -130,16 +150,6 @@
    "date": "2026-11-26T03:19:44Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "0876207ae47d5f",
-   "title": "Stocks rally in Asia, unrocked by US tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2EySjVXeUxfZTdNa0g1MFh6Z2hwVHR4OHJ3RXIwVnlDWUFtdHJ4NThtVXE1MVF2bkNraHozMlM3TExaMm9Jcl9vM053dlpSZURWcWR2aXY2cEhnc1F0QWxON2hGczNLdkhKUmRRTFNLeTIxMkpoMWh1aE9CMFI5U0swZGhYSzhoMno3NTdjWVFVb08zdmtRRkoxbHg5X21kQS1fZlhnNVVPOU9DN3VoY0liUQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T03:17:00Z",
-   "score": 7,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "ee1c277ffc86c4",
@@ -280,16 +290,6 @@
    "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -652,6 +652,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "0876207ae47d5f",
+   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFZIblhJUTlHT3AxdWJockVFV2RuNi0zakRlYllxbFdjd2w4NnN2RTJ2UW9DMDVfMHk4UjhPV3hRRTR6M0hjUnJyajIwMU05X2UzWWJESGhrR2VtVmxIZnphY25XbEV5bHplUTJWbzExZUFrVXAwV2h5Y0NEUmVfM09lTTQ1cHlfZ2c?oc=5",
+   "source": "Myrtle Beach Sun News",
+   "date": "2026-11-26T01:34:00Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "6bc2ef81f51aa2",
    "title": "Asia shares bounce, AI and tariffs lurk in background",
    "summary": "",
@@ -690,6 +700,16 @@
    "date": "2026-11-26T01:30:06Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:30:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "4659346722a02b",
@@ -770,16 +790,6 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
-   "source": "KUTV",
-   "date": "2026-11-26T01:06:33Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
@@ -1170,16 +1180,6 @@
    "date": "2026-11-25T23:20:29Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "aea23eba608b33",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T23:20:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
   },
   {
    "id": "a35bc9a322d507",
