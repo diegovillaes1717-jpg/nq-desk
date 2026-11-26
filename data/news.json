@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T13:55:48Z",
+ "updated_at": "2026-11-26T14:00:35Z",
  "items": [
   {
    "id": "1730141347dceb",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T13:29:53Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "7e674b4d6b7077",
+   "title": "New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWFnNG1XdlNsMElLZmxMT21EaGp3bUNEc3NaRExXQWpOMnJUVzAxaEJLNXc3WUlOdjJMWEtSLW5ILU4wMnJ2cUNHSlMyQTl0bWNCc1pKODFrSFR6eDZhOXBJa1pNS3JoakdQOE0wSFVyRW1pWXlRa0dGdDlNajl4MDh1MFYtSFllRi1mMXRNWFM?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T13:28:29Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "cb43745ad19f30",
@@ -92,6 +102,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:54:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b535cb4d3a0e71",
    "title": "Gold Faces Fed-Driven Selloff Even as Central Banks Keep Buying",
    "summary": "",
@@ -152,16 +172,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T12:34:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ec566af9997902",
    "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
    "summary": "",
@@ -189,6 +199,16 @@
    "source": "theopenpress.in",
    "date": "2026-11-26T12:30:20Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "4aecb690482a5b",
+   "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1hKOFBCSG1oQU9VcU1MVmI0bUVvQWJLZ3JkMnc1MVBxaVlkbVFMaGZoTlhoWVVlV1lCVThUUzRfaWxhX1VkMGVXMlRaWTJDa3VpUmJZYzYySVRKSTVJX0ZUV1F0dUo0bWo3WDhCQV9NNEJEUzNmUlF1aUM5TmFra1p1OENVVXlGLWJCSXQ1aHBFWW10YUZiX1BzTQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:28:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -572,6 +592,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "34f7d5e876e273",
+   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T10:49:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "46cb9b40177050",
    "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
    "summary": "",
@@ -618,16 +648,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemRRcm1kRDFLcUNpbmtjcnpmOWduZWVwSm9ONFYwMEt6dnhDSjRhRGxjYl8tYm00TS1ueGJBVjdoWEFQYUVKWktfTGVqN0sxazRUcUNQWHNnQVEwbzQxNGlRS09JTWZ5Q3ppcXRqemo?oc=5",
    "source": "FinanceBuzz",
    "date": "2026-11-26T10:30:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "34f7d5e876e273",
-   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T08:13:07Z",
    "score": 5,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "4b682a78be38db",
-   "title": "Just when we thought Jensen Huang was out, Nvidia pulls him back in",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSE01ZlJ4eDZybl9aM1VWYktXeFB2dEZHM0xxdVhJMnhXOTJBNG9yeVRkNl9ZazB0SGt5ZUVfWHpiR1dlVVJmMVFSSU1lcXZmeDhGWE5zOXR2OElrR21VOFlZUDM5aXNSNnJ4Zm5JWDZnbTh5Zm5uQjI3R3VIVms5SDFTNG1zUGtFRHRYZjFfUHdPcUt4?oc=5",
-   "source": "The Boston Globe",
-   "date": "2026-11-26T08:07:51Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "28f132b21e4dee",
-   "title": "Lori Huang's Nvidia-funded foundation gained about $2.3 billion in a day on Jensen Huang's return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXc4NGx3R0dCZHJHY0UtcVZ1T3RjNDVJdWRPcHd4cWVQU1pHMS1oS3lIWktjMEdBVl8tNjRLQnJTZ1JINHZxQTRBZVp6REN6aHpoN0NEc0ZNc0RaUFROVUE5MlBpemV4RHZrQk8zVU5HVEVfZV9mLVU0Q1B5dHA4M1I0T2pvTkpETXZfVnhCRQ?oc=5",
-   "source": "Fortune",
-   "date": "2026-11-26T08:07:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
