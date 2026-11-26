@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T09:03:54Z",
+ "updated_at": "2026-11-26T09:08:38Z",
  "items": [
+  {
+   "id": "f7079d78a66abb",
+   "title": "High US PCE, Trump tariffs and hawkish Fed outlook weigh on stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOE4xLW1QTzlRR1RGR1FSMnVwVkRTSnVHTmt0Uk1ZYjlQeGU2N003ZFVBZVAwU2lZWlJUUFduTDhOVU9CVUZxdFZkelRORkxiMXhWU01GTXJka0Qxc0xGNVQ1bU5vck9RSUlwX2xPT3gxdTVlV2lZdGFGZC1IX0RKNkxybktEV3hxR1Z4ak1XMW9sclpvQ2lTTUJpUGRaWVNRQ0lJNERHUFN3NVRIVGVmMFhySQ?oc=5",
+   "source": "www.equiti.com",
+   "date": "2026-11-26T09:05:47Z",
+   "score": 14,
+   "category": "Fed y tipos"
+  },
   {
    "id": "ef90bb14f80bf3",
    "title": "European stocks rally as tech and banks rebound, tariff fears ease",
@@ -162,6 +172,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "4b682a78be38db",
+   "title": "Just when we thought Jensen Huang was out, Nvidia pulls him back in",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSE01ZlJ4eDZybl9aM1VWYktXeFB2dEZHM0xxdVhJMnhXOTJBNG9yeVRkNl9ZazB0SGt5ZUVfWHpiR1dlVVJmMVFSSU1lcXZmeDhGWE5zOXR2OElrR21VOFlZUDM5aXNSNnJ4Zm5JWDZnbTh5Zm5uQjI3R3VIVms5SDFTNG1zUGtFRHRYZjFfUHdPcUt4?oc=5",
+   "source": "The Boston Globe",
+   "date": "2026-11-26T08:05:51Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fe34625d8ce60f",
    "title": "US Inflation Challenges Expectations For Faster Rate Cuts",
    "summary": "",
@@ -265,7 +285,7 @@
    "id": "5416e81685f284",
    "title": "Japan bond yields rise as BOJ rate hike bets strengthen; Tamura comments in focus",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQnlFdHpCUlN6b1hjQWZmRkZqYjU3ZUhPRmFyOGlueXpPdEhVZ2pPbDFkY1RadUVnTlpJRU9YM2lWWXhBdGpGa1BsLXdicDRmUmV2bHRQSDd6R251b2I0NGE0SUNXWlpBakdNQ2JzUVZaNkltaTRhWEZaOHF0TDdUWDBxMjZJQmhjaWZMamJ0YWt4THViNEIwb29KNTB0dFREZDhTb1VhRU5WTml6cTJQWGRMd1NUU2MwTUtwTDNIT0dxbDBUTGQ1SmJKRmJ5U1VTNUpkNHFmWENaSUFYMlpBQi1GWTZDLVZBUnBtOHFCcy1oS2lHS1pkVzV6YlNEMHPSAYQCQVVfeXFMUDAtSDJWODllckxVUHloR3gxWXY4TktvYWJkWlh0cy1Vb21CTG12THZiWWV2a284YkVHWWFPbk5wQ01fQmI0M1cycHRHTjBaQmZIcEluRTRtc0NCNEdseFBDcHB6S3NzalNGX2dSNnZXOFdsdU5pU2lTUks3Q1JONUQ4SXhlMDhka1JOcGRjUmhqY3BFWmcyUGZOcDJxN0pDVTVvMUdqTl9VcHp2X0ZucWJjMUFyLXA1bFRWLXN0cnBsVTJVeVJOUzMydUhsTWl5b1MxbS12ZTNqWFFpLUlrOWczX25Ldk43UEszVnNBU1RIUmJ3WkF1OTJYSVpmQ1lGMFdfb2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTzJYTGZmbVk0M1l6VDJqbDdTRF9kellGckI1SHpkR0IwY2dORjVLT0tNVHpadHZSdEdZM2hwM3ZUN0hjOEhOVDFweUFvNkI2R3llRjJZRUxrc2VVUjczWUdVd0lka003eGg2WkRQX0pvd3NGeEJmbG5BemJLYVNRaUdpS3c5T0ZTclBZcnpXbXZraTJ4aE4tSFdYWFRDcE1nVWlYRGhVSDRXSTZOeDY1MDNEdmlnSnd5UmRhR19Va1gwVzdOcVBqSXpJcjZrdmlfc1E5YlhJcHBxNjdMOWxQaHhnYXlJckJ3enIzaThCSW03RTZJSFYwX3AxeGppcFZTaXVaN1l1X2phNU3SAYQCQVVfeXFMUDAtSDJWODllckxVUHloR3gxWXY4TktvYWJkWlh0cy1Vb21CTG12THZiWWV2a284YkVHWWFPbk5wQ01fQmI0M1cycHRHTjBaQmZIcEluRTRtc0NCNEdseFBDcHB6S3NzalNGX2dSNnZXOFdsdU5pU2lTUks3Q1JONUQ4SXhlMDhka1JOcGRjUmhqY3BFWmcyUGZOcDJxN0pDVTVvMUdqTl9VcHp2X0ZucWJjMUFyLXA1bFRWLXN0cnBsVTJVeVJOUzMydUhsTWl5b1MxbS12ZTNqWFFpLUlrOWczX25Ldk43UEszVnNBU1RIUmJ3WkF1OTJYSVpmQ1lGMFdfb2s?oc=5",
    "source": "The Economic Times",
    "date": "2026-11-26T07:48:23Z",
    "score": 7,
@@ -405,7 +425,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -600,16 +620,6 @@
    "date": "2026-11-26T06:01:28Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
-   "source": "Decatur Daily",
-   "date": "2026-11-26T06:00:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "871981e68663d1",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T03:05:13Z",
    "score": 11,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "9cf7868e49033b",
-   "title": "Asian Tech Rebounds After Selloff as Traders Shrug Off New US Tariff Plan",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3U0JGbmViSU1FeFRKd3NrdDg4TVFLX2tfWjBvLTVfTDhXZUVRSzNKN0h2cnliT0phQnlxZTBGSnlMbTNnd0ZvcjZEMk5mN0xGejBfMVA3eEpPLThrUUYtR3lNdExocXFBa1BCVk9yU2s2RkNBMHc?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-26T03:05:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
