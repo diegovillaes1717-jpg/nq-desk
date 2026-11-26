@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T20:16:03Z",
+ "updated_at": "2026-11-26T20:20:48Z",
  "items": [
+  {
+   "id": "f6a810a55333c7",
+   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "date": "2026-11-26T20:18:11Z",
+   "score": 3,
+   "category": "Macro"
+  },
   {
    "id": "34f28e5b186d08",
    "title": "Bitcoin Recovery at Risk as Strong GDP Fuels Fed Rate Hike Bets",
@@ -130,16 +140,6 @@
    "date": "2026-11-26T18:56:15Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "f6a810a55333c7",
-   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "source": "CNBC",
-   "date": "2026-11-26T18:44:15Z",
-   "score": 3,
-   "category": "Macro"
   },
   {
    "id": "6c2b57b2c9d7da",
@@ -742,16 +742,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T15:40:03Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "3f50104cc0613f",
    "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
    "summary": "",
@@ -1200,6 +1190,16 @@
    "date": "2026-11-26T13:29:53Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "3e29f22c411ec6",
+   "title": "Trump tariffs may push Fed toward rate hikes amid inflation concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzYwVnAtcnFuYXJBRk5jc2d1eVE3Q0VQMURMcUdjeUpLXzhhQWxmTkpNc0Q0MHktaU4yckJhWnBkekxkb1NScVczVzNzZUJub3dhZC10Z1IyOUd2R2Z2bWIxRTA0V2ktaVZ3bmZnS1NwbVRHXzhhaWxDZXNlcmRrOTN2ZS13UVJiVmE4Wm9tRVBsYXlMMENXWGFEN0M?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-26T13:18:18Z",
+   "score": 12,
+   "category": "Fed y tipos"
   }
  ]
 }
