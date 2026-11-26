@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T13:27:08Z",
+ "updated_at": "2026-11-26T13:31:56Z",
  "items": [
   {
    "id": "3e29f22c411ec6",
@@ -9,6 +9,16 @@
    "source": "Crypto Briefing",
    "date": "2026-11-26T13:18:18Z",
    "score": 12,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "e8802e66fd176a",
+   "title": "Scott Bessent sends the Fed a stern warning it cannot ignore",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnZvcWRjbHZhc0N4V3NXVktoS1dqUHFYdkNfeWhYcDQ1S1MtX3BTRjg3V29fVGtWbWN5c2xTeVJSR3BvSzZLLW9zSG1PR0J2MXZoeEJVYUZXeWNJUGNJWVFWcFFMZ2JpZWpxcjFVM2p3V240dTBzTVVoekROUkxqU0tyTDBMN3NRcU01TmFPeTRhcTc4?oc=5",
+   "source": "TheStreet",
+   "date": "2026-11-26T13:17:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T07:58:04Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "02494e294f6527",
-   "title": "Beyond the Fed, Rethinking the US Inflation Outlook",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0I3UXYyeWFtWm1QZll2aFVkVVZuejlwbUJWZUhDVnNlSVBhU0dONV9NZG9lMS1JRmVRQmdpaUpLVzJQUFZxcEVBTVYyNGZjZV9pWkFkMHNMYVBHVDFReWRGMjB4MF9kaElKTE14eVBfWFhVUDB5amdfeXkyTncydm44RHBnQjdBSzg0UGdZcGF3TU8zYU5vaGJrdw?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-26T07:55:29Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
