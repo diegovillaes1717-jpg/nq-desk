@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T04:20:45Z",
+ "updated_at": "2026-11-26T04:25:28Z",
  "items": [
   {
    "id": "0316825a68994f",
@@ -105,8 +105,8 @@
    "id": "ee1c277ffc86c4",
    "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUd3eE9QdHc0TFlpa0w0YWZGbjl5OHB6YXZUdWdSZ2dMcVRBQ0doUDZFallrZ3ZLWGlMOUxzYkRqRVh2amlET0FSRGlWaG4tMU5YZkNQREs2eThRbmhSVXN5RWhiMW16VVNXUzMwU0Zja2pTTnI2NndoeFFwRFh4eFJmMzRaWXF3a2UwVE5sWjUxUEk?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSVNyM2hLaWRkcy1pZFRBMTBIQzd4MjlZbE10Q3dTREVhcU5JRjk3ZnFmMjdYMHo1dENuT1FlVmNxWVdnc1FoWWp3UXo3ME1qcXRyeGlIZjJ5aVg3NS1ZUjZ3akZJRUFVSEFZS0VLMTlLaDI0M3lpR2xBbWRtQ1pVMTZvSGtWSmx4N0dOc1lSc191eDFhcDM2SV9yeENsOW9tNHdKUkZSajlTTzNWMThXQVVNN3R3Yml2MHRFVVFSUG9qeFMxVy1Oekx0ODl4cHlfZTM1WnV6ajd5aVBhYzQ4TEtwR0pvRXF3am5TdQ?oc=5",
+   "source": "TradingView",
    "date": "2026-11-26T03:14:00Z",
    "score": 8,
    "category": "Tecnológicas"
@@ -242,16 +242,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -295,7 +285,7 @@
    "id": "46f80705fe38af",
    "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
    "source": "Business Standard",
    "date": "2026-11-26T02:42:48Z",
    "score": 8,
@@ -309,6 +299,16 @@
    "source": "Queen City News",
    "date": "2026-11-26T02:41:42Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8b087c11a557a8",
+   "title": "Tech Stocks Stall as Nasdaq Falls 0.6% Amid AI Spending Doubts",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBDbmZ4aHhKY0RoakZyT2RNaXRzanp2VElveDB2dUw0QXdTQW5qOGpiRldic183ZVQ1YTQwX0lnWmh6OXZmWGdTaEViUWJJUXlWa2RTYllMRmdvZnh2amN6TlRMalBqVkNZNDFZeEdoVWpyUUZBcXJrbDNqaFdGalQzR1F2TlA2RkZkRXlWcGY5ekFMaHNCVkdEdw?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T02:39:16Z",
+   "score": 13,
    "category": "Tecnológicas"
   },
   {
@@ -672,16 +672,6 @@
    "category": "Macro"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "14abc9198bb43a",
    "title": "Ringgit opens higher vs US dollar on AI-related market caution",
    "summary": "",
@@ -730,6 +720,16 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:06:33Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
@@ -1122,6 +1122,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "aea23eba608b33",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T23:20:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "a35bc9a322d507",
    "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
    "summary": "",
@@ -1170,16 +1180,6 @@
    "date": "2026-11-25T23:03:45Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "aea23eba608b33",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUhzVmRIbGQxLW1ZQ2gyMnpQZUFlRzVjMzFFSVVJLWRGazdKVHNLbnlTa2psUjRhams4M2lIRnNfOVdRSzl3YUV4d3h6T20weWRscG5CWm9lRWhibUZRMmgwc0I2MzR4T05aak5vdzNCWUd1Wkk2NW1La0NkajVVZFg3ZGU1MExlLWFfcUFmcDlsQ1RkcmFUU05IUzl6OXJUYXJ5RllKaWI2dXhzbzI5RVNtUmlPT1E4WnRnUGRibE1kSlIxWTE0b0R5a0NSNHJZNE9BQkdnRjBZOWVVakJucF9vN24?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T23:00:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
   },
   {
    "id": "20e45d7532d8c5",
