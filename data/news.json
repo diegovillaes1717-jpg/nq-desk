@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T15:41:03Z",
+ "updated_at": "2026-11-26T15:45:59Z",
  "items": [
   {
    "id": "7adeb4f809611a",
@@ -50,6 +50,26 @@
    "date": "2026-11-26T15:15:42Z",
    "score": 12,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5ff37e4cec9cbc",
+   "title": "Sterling slides as US inflation revives Fed hike bets despite Bank of England hawkishness",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkZVV3dTTk1lUXNfLVk0LTRCSjBVeTRZRDVfMFdtc2VOZ1dyNF9sckZmRldyRTJ3VjUtbE1lcWs2VXdIZzdLd21ZZ3dxM1NTSmRyUjgzZ203c3loU09XNC1rbnhNNUFXb04xeXh2cHA3TTd2dk0wRVlqdVowdVg1NGdBMHVndFVsSDUzQ2NZSml0V1NISlR5YkpPX1RKSkNSWXZwaTBnNjdzWXpETTJ6MjBEMWxjNjIzM01iUlAtajYwV0g4THJRTGNTQ0FPaS1y?oc=5",
+   "source": "VT Markets",
+   "date": "2026-11-26T15:15:41Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "3c27765db068aa",
+   "title": "US PCE inflation due as markets brace for December Fed hike and firmer dollar dynamics",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1JXdVROT2YtekpwNFdpV1FLbnZxMzlmQmhQWVA3Wll6VFIzRVN3SXdrNk1rY0F4RVNTeXRnaF9BNnctYzYwblgtdnF0MHR5VGxhdjBPUE80dTNhMTM2MzAxS1c5UlJvaVdRT0d1b2pacWEtckhBZ1ZLcG9zcDBsREVOcFlWU1J3TkE1MjZCRXlJOFc2X1pGYUo1TzhpNXpKVWZWcEwzTkdseFRndUpqQVhhYXhDd1dQdmNwczZLQ3pNdnhMdWhYQXVFZ0o?oc=5",
+   "source": "VT Markets",
+   "date": "2026-11-26T15:15:41Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "c59ac6bd763b9e",
@@ -130,6 +150,16 @@
    "date": "2026-11-26T14:50:07Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "9a5b3c74d8f46e",
+   "title": "Fed rate-hike bets deliver fresh blow to your holiday budget",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjk4bGp2YTctNUZDM2U0dDZpck94d2hhc1B4eEFlNFkycmxRNXFtNUQ5MzRuTm9OOU5OTU1YNTR1OEpKNEt6b0h5cEhtMTBZd2NCVTU5d3hxN2xxZlZQR2hXSU9iSUI3dE1aTHY3N0d4Yjk0Q1Z4WERsLTdsVkpoamlILUxwU2hwQUx2LTVscmdxS19l?oc=5",
+   "source": "TheStreet",
+   "date": "2026-11-26T14:47:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "b3208d6e5b004d",
@@ -442,16 +472,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:54:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "b535cb4d3a0e71",
    "title": "Gold Faces Fed-Driven Selloff Even as Central Banks Keep Buying",
    "summary": "",
@@ -530,6 +550,16 @@
    "date": "2026-11-26T12:35:00Z",
    "score": 7,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T12:34:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "6256c2209c3c5f",
@@ -852,6 +882,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "c11a62740d4fb9",
+   "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T11:16:49Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "fd08d6324037df",
    "title": "Nasdaq Fades After Huang Rally: What Traders Should Know",
    "summary": "",
@@ -952,16 +992,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "34f7d5e876e273",
-   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T10:49:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "887add88324fca",
    "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
    "summary": "",
@@ -998,6 +1028,16 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemRRcm1kRDFLcUNpbmtjcnpmOWduZWVwSm9ONFYwMEt6dnhDSjRhRGxjYl8tYm00TS1ueGJBVjdoWEFQYUVKWktfTGVqN0sxazRUcUNQWHNnQVEwbzQxNGlRS09JTWZ5Q3ppcXRqemo?oc=5",
    "source": "FinanceBuzz",
    "date": "2026-11-26T10:30:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "34f7d5e876e273",
+   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -1160,46 +1200,6 @@
    "date": "2026-11-26T09:55:39Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "1d403182edec99",
-   "title": "US Tariff Proposals Up to 35% Leave Inflation and Stocks Effect Unclear",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHpjVzdxYXA2cWctSk5LQlBaN0oxMkJhaW9XRWwwX3pBVUw0blNuRXZtcDNiVDJEVWFhdUh0Z3lCWTdlSXFjVlV3RjdnajZzQ1VFc3hPX3RUaVdJbjhNcHRLTjFiNXplbFJxNzQ3QkMxRUhtcUVweVExNTYxa21MMnBQQXdycm9uSjBfSjAyczlSa3puMmprYUJwSVp2bkxYN2pv?oc=5",
-   "source": "LeapRate",
-   "date": "2026-11-26T09:46:06Z",
-   "score": 9,
-   "category": "Macro"
-  },
-  {
-   "id": "6e4360291b828d",
-   "title": "Nasdaq 100 rebounds. Is the bottom in?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmFUdzdsci1aOTFqS1J3S2R5QzhZZFI2aUo4T0RHZ1RvaTdLV29jUW90M0h1eGN0QnhBQmthaUZZb3I2RDdiNno4X0lzeEQxc0xiaHl5UEQ2dWpCYkUyYVoya2R1Sm52NzFKTVY3c0ZlamxibHJmdDE2azdFVGFQdHZwTVJobk1Pc2hjWA?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T09:44:24Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ab428ac1707498",
-   "title": "European Stocks Rally as US Tariff Concerns Ease and Falling Bond Yields Support Sentiment: DAX, CAC, FTSE100",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnlXWHNZOXZ4UEt2YmNabEF2ZVZkamhCcmNQeF93TWR5NmdKc1hwbmtzM2hPVHRqMEg4UkhEX0o2Vk5LOTkyS0x3cDhjNlJXT21QdW9JNUVMRkljei0zZnpPOGFvT1hHb2ZscnhwN1plQ2trLXBRTDZXdUhZVjM5aklweGdFNms?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-26T09:44:15Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e705ba023477dd",
-   "title": "Trade 3 RWA Perps on GCEX: SpaceX, Tesla, Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQm5saExYVDNLeGNIMk9iYnFDcmdCWURxZVdfVnVLNlVDXzNjQnBDTEVnOUhMdEtqWFAwMnNTYnBXRW5JZDZxSGpqX21BMlozeUJEX0tqS3VLOEt6WkhJcFAwejRIZzFMRloxeEplQ2hmTDh6NW05OFUwOXJCaU9fUW1NbTFYbl84d2NvVWdDTHFUbzFtUWdBZWJQYk8?oc=5",
-   "source": "shattered.io",
-   "date": "2026-11-26T09:34:58Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
