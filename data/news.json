@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T23:50:05Z",
+ "updated_at": "2026-11-26T23:54:50Z",
  "items": [
+  {
+   "id": "e3815709180dc1",
+   "title": "Fed survey shows growth, sticky inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDF3aV9Xc0daaUxxNDctbVhLUF9uc2JpZ1MyOTBVN0R3ZTRPTEJ1UXVxdlVDVEVOeDlxUVhQbmR0enZpbHJ2b3czQ2dyQmFuR2xDTUZ6WVcwbTc4WmluSmJtb3lOdmhHOFY4LWQ2SzhXVFB0dEJpU0NzN1lnZHBIQmhnMUdjS3cxcUc4ek5OTk9SY0F6MmIzSF9CWFRIOS10Mkhz?oc=5",
+   "source": "The Star",
+   "date": "2026-11-26T23:49:37Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "e16433f737c914",
    "title": "Nasdaq Closed for Thanksgiving at 23,585.80 After Nasdaq 100 Touches Bear Market Territory in AI Rout",
@@ -560,6 +570,16 @@
    "date": "2026-11-26T18:18:05Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "bba671f1f702f8",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T15:19:00Z",
    "score": 6,
    "category": "Macro"
-  },
-  {
-   "id": "98cfd495e0ba6d",
-   "title": "US equities slump as Nasdaq slides 4% amid tariff fears, higher-for-longer rates and Nvidia losses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNDVld1RpTGJEU3FKeHJOb0psRDRLQ1JzM3hBTW1JQ3hIMjhKWGc5ME12azBuMkw2SklOWXA4ZXlwZi1jVU5JWS1COEN0eTV3c0o0V0JyUm52OTYtV1lTYU1tSnA0ZldSUV9GZ00zWVNvMEs5TTFQU0xvN1I5empVSVl0ZVhuYzROLXZXZkJEWVVjUWw1UFJUejhKYzJHSk5HMVhidmtpODZBemFMYk11c1BJWFktcHJ3RXRUUFFWa0l2WDNIbXNoMWJ2MlN1RFpSYV8wUWhJNXJDQQ?oc=5",
-   "source": "VT Markets",
-   "date": "2026-11-26T15:15:42Z",
-   "score": 12,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c59ac6bd763b9e",
-   "title": "Trump Blames the Midterm Election Results for the Stock Market Selloff",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmlzZ191RFhlME1kMTEwVEZycWJ4LWk4a2xocUIxQkxvQWFFNTc5V1ZsNTZPai1SNlpaTlBuUXJjVUlUaGhvUHcxOEpybGE0ZGRRaXNybWpPS2YtaGtLeVJQNV9EUm5zMGJTRW5yTFRiT3ZYQ3NVRnNBWFFrVF9xZUVxcVcyNUNYODgxVkE2VENqU2JjbzI2Uy03LTc0MV9YbW9MREluLXkxX1lsbVRhODBxdGo?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T15:12:00Z",
-   "score": 5,
-   "category": "Mercado"
   }
  ]
 }
