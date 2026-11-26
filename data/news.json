@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T12:15:19Z",
+ "updated_at": "2026-11-26T12:20:05Z",
  "items": [
   {
    "id": "a52b124a792dc6",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T12:07:00Z",
    "score": 5,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "32d1b9b9837d4c",
+   "title": "Stocks rally as tech and tariff worries subside",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanQxc3M0cHQzRHBiX18xaGVjUUJqcE1DWVNtWEFkdlZBTEp2NHdmVzRORndPajhEVllta0psSDc3V0ZzMHNiWkFhSDFTc2tVZ2M3b0VxenhkeFVLa2w0SE1pWUlhV0lJYWljSW9DM3hKV2FGREsxZ3pZb1gzd0JQZHo0c2F1dXJib1JfRkdNeFJBSGFlaDlrZmZjREdLelBUS1E?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-26T12:01:19Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "55a5085726ccc1",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T06:35:17Z",
    "score": 3,
    "category": "Energía y dólar"
-  },
-  {
-   "id": "d6eec1673bbb1c",
-   "title": "FTSE 100 Live: UK stocks to rebound after Wall Street recovers from AI sell-off",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkRIbVhIdUVuUUN3QUVGVENOOFVSM21CTFlMS3VfRlhnZE9OUmVKTExiXzB1S3pJS182YWlFcEE0WUMwU2FxcF9EWTd2UWU5NkRCMWtYYVd4R25ybW1xQk1jM0dVby03MjNCTVR3NnlnbmU4Y0hSdGxRcjNMbHdOdkhZZ05HcFZXQm5WdGpXMWZsRVVvWVBWYmd2QmpkcjFXWnRBSQ?oc=5",
-   "source": "City AM",
-   "date": "2026-11-26T06:31:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
