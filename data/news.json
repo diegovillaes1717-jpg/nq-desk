@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T00:09:15Z",
+ "updated_at": "2026-11-26T00:14:00Z",
  "items": [
   {
    "id": "31d37106a1141c",
@@ -282,6 +282,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
+   "source": "KONTAN",
+   "date": "2026-11-25T22:32:30Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "4b36655822feee",
    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -369,16 +379,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbEFmX3dIZS1vVVM2VG1zRGd0YnA3Ql8xcjViQl83dEN6akpWeWlYUVFaWGV5SkdBVGx2MzFFUkZlS2xiS0FCdU1BZUtRVGJXSUJvTnlkQklpYjQwWUdvZ3lpeEVXRDMzUXpaRlZoSHdYX1JWY2NGV05XT0NkWENnWUJyT2dCdFo4OC02MEdfc3JLQzlXa21PZUd4bzFUNU82ZVlLb0FUQzA5TDUzMHhJYlhCaV9mamozMndaWms5VUpxU1dFNE1QVndRV3BwZl9JV0xQVkRXa0tFSTdv0gHcAUFVX3lxTFBsQWZfd0hlLW9VUzZUbXNEZ3RicDdCXzFyNWJCXzd0Q3pqSlZ5aVhRUVpYZXlKR0FUbHYzMUVSRmVLbGJLQUJ1TUFlS1FUYldJQm9OeWRCSWliNDBZR29neWl4RVdEMzNRelpGVmhId1hfUlZjY0ZXTldPQ2RYQ2dZQnJPZ0J0Wjg4LTYwR19zcktDOVdrbU9lR3hvMVQ1TzZlWUtvQVRDMDlMNTMweEliWEJpX2ZqajMyd1paazlVSnFTV0U0TVBWd1FXcHBmX0lXTFBWRFdrS0VJN28?oc=5",
-   "source": "Devdiscourse",
-   "date": "2026-11-25T22:12:52Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1032,16 +1032,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "3c4ccfba101dfb",
-   "title": "Nasdaq Plunges as AI Jitters, Hot Inflation and Thin Holiday Liquidity Collide",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTRyNVkzTG9wanBNaTJVbmx6ZWpzenk2eFlpbG9EV0xyY3g1RThoeHNGbHhlUnJBQ2h6TXgzd2Vpb0s3OUNWYkpjV1ZXYktEMEFtV2ZkeUFzYkpxa1JoSGlUVkxNSzRpZEVMaU5xYmtIMmxXaVBNTVNteXR2WDdsQ2ctTkFJMXMzMDYtbjhNc28?oc=5",
-   "source": "Briefs Finance",
-   "date": "2026-11-25T20:38:42Z",
-   "score": 11,
-   "category": "Macro"
-  },
-  {
    "id": "61ec45f5bec932",
    "title": "Nasdaq Slides on AI Jitters and Hot Inflation",
    "summary": "",
@@ -1200,6 +1190,16 @@
    "date": "2026-11-25T20:17:01Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "ef1f05e311f1d2",
+   "title": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJDVjhhVjFUYXB1U2xsamF2akNBT00yNjBHRmhERDRfRUpHS1Nlc0dHay1YRDhLa19hYWF3cTZKc2VneWl6Y1lRZUFqc0RLTGhnR0duUlVFLXNoWGN6R2NMdlBqUVdNMnhYRC1NRjNwalpTR2JINjB2UW5mRGFDMTRJY0FMZW4wV0RpQ3d3eEZjQ3JkY3FFZlpKQkdkaEdiTTR0U3VmbG1SZi1tSGxsd3gyU1FOV2N0WFhCa3ZGU3lwZw?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-25T20:15:08Z",
+   "score": 6,
+   "category": "Tecnológicas"
   }
  ]
 }

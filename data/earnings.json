@@ -285,45 +285,37 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó expectativas a pesar de la incertidumbre sobre su liderazgo. El mercado ha reaccionado con volatilidad y movimientos mixtos en los futuros del Nasdaq, impulsados principalmente por el sector de chips.",
+  "resumen": "Los resultados recientes de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó expectativas a pesar de la incertidumbre sobre su dirección. El mercado reaccionó con caídas generales y volatilidad en el Nasdaq debido a dudas geopolíticas y de gobernanza.",
   "puntos": [
    {
-    "fecha": "18 nov",
+    "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados sólidos con incertidumbre",
-    "resumen": "Presentó un beneficio por acción de 2.68 frente al 2.47 estimado, superando previsiones pero generando dudas en la acción por la salida de su CEO Jensen Huang.",
+    "titulo": "Resultados récord y cambios",
+    "resumen": "Presentó un beneficio por acción de 2.68 superando lo estimado, en una jornada marcada por su primera llamada sin Jensen Huang y dudas sobre China.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
-    "fecha": "18 nov",
-    "empresa": "Apple",
-    "titulo": "Sube el interés corto",
-    "resumen": "Reportó un beneficio de 2.1 frente al 1.98 estimado y el interés corto de la acción aumentó tras la publicación de sus cuentas trimestrales.",
+    "fecha": "19 nov",
+    "empresa": "Netflix",
+    "titulo": "Acción a la baja",
+    "resumen": "La acción acumula una bajada del 8% desde su último informe trimestral, donde presentó un BPA de 0.87 superando ligeramente las previsiones.",
+    "resultado": "Supera",
+    "impacto": "Medio"
+   },
+   {
+    "fecha": "20 nov",
+    "empresa": "Tesla",
+    "titulo": "Estabilidad sin rebote",
+    "resumen": "Los títulos se mantienen prácticamente sin cambios desde su presentación con un BPA de 0.48 frente a los 0.45 estimados, sin lograr un repunte claro.",
     "resultado": "Supera",
     "impacto": "Alto"
-   },
-   {
-    "fecha": "18 nov",
-    "empresa": "Broadcom",
-    "titulo": "Reacción mixta en el sector",
-    "resumen": "Sus acciones se mantuvieron mixtas y con correcciones previas en el mercado mientras el sector asimilaba el gran informe de Nvidia.",
-    "resultado": "Supera",
-    "impacto": "Medio"
-   },
-   {
-    "fecha": "18 nov",
-    "empresa": "AMD",
-    "titulo": "Movimiento mixto por chips",
-    "resumen": "Presentó un beneficio por acción de 2.09 frente al 1.94 estimado, registrando después un incremento en su interés corto.",
-    "resultado": "Supera",
-    "impacto": "Medio"
    }
   ],
-  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre y Costco el 10 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la evolución de los futuros del Nasdaq ante la resiliencia del sector de semiconductores y la incertidumbre directiva en Nvidia.",
-  "sig": "bf88266a3dfb0c",
-  "generated_at": "2026-11-25T21:13:01Z"
+  "proximos": "Los próximos resultados relevantes serán los de Adobe y Broadcom el 9 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la evolución de la IA, los riesgos regulatorios con China y la reacción del Nasdaq ante las próximas cuentas de semiconductores.",
+  "sig": "887d010a529169",
+  "generated_at": "2026-11-26T00:14:05Z"
  },
  "updated_at": "2026-11-25T21:32:13Z"
 }
