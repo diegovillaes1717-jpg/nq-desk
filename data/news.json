@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T06:46:28Z",
+ "updated_at": "2026-11-26T06:51:15Z",
  "items": [
   {
    "id": "d6eec1673bbb1c",
@@ -60,6 +60,16 @@
    "date": "2026-11-26T06:01:28Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
+   "source": "Decatur Daily",
+   "date": "2026-11-26T06:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "871981e68663d1",
@@ -607,9 +617,19 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:56:59Z",
+   "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -812,16 +832,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "13a6be33b39619",
-   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "725af62bcf944d",
    "title": "Core PCE Inflation At 3.3% In October",
    "summary": "",
@@ -830,6 +840,16 @@
    "date": "2026-11-26T01:55:00Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T01:55:00Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "b052fc8e5d02cc",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T00:56:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "c70ef009e2c42c",
-   "title": "The Dollar Took A Breather As Treasury Yields Fell",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjZreEhteUNXeUtpT1ZrTm5oeUx3N1hwUXZ4cVlRU183Y1pVU0pRVG9nQmpheE1TY3dGRWFjSFM2ZnVmYXBtUFIxbnlRekhWazZfVjB2dm9pRG4tcHZtdWdLblQzbzhCcFhnZmh2dkJYRDFWUklFWVB6NEFNM1lkTFNsbXFnUQ?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T00:52:33Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "0f57b07313041c",
-   "title": "Korean battery stocks rise as US proposes keeping 15% tariff ceiling",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0NTdjd2a21CY3kzZ2ZfV2NvOF9hZElaRUhRMFhQSlZ6cENIVmxBMEVmQ2haYkJRM1dhSlE0STk4UnR6ODN5bDJDT19lMlNQUDRXeEFiblhORTJCZW5OeExLd0lHeV9UQ1E5blF6Nk9iRWZYdG5SdVNfTXRobDR3Q9IBlAFBVV95cUxPc2t1QzNMSnZWbXNmRUNDVFNxT1otNHYyZGV0QjIxNHVpYjJQeG9IVmRMa3ljcUlVRVdmUDM1VEF1amUwdlk0bnYxWlZDbjk2N3dXeEpxUTJzT1JHQ2FtZU01Y1BpMTUyTUw2Wmo4VTg2T2JCUUhmQU5yQ3FCNEpqcEhROC05ZmNYQjVrSWJmRFcyc0xG?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-11-26T00:48:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
