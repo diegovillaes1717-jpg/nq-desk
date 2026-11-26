@@ -285,37 +285,53 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de Nvidia han superado las expectativas con un BPA de 2.68, aunque el mercado ha reaccionado con dudas y caídas en bolsa debido a riesgos en China y cuestiones de gobernanza. El Nasdaq se mantiene cauto ante el impacto de estos gigantes tecnológicos.",
+  "resumen": "Los resultados recientes han mostrado un desempeño mixto en las grandes tecnológicas, destacando el sólido informe de Nvidia que superó expectativas a pesar de dudas sobre China y su dirección. El mercado reaccionó con cautela y cierta volatilidad, afectando el rumbo general del Nasdaq.",
   "puntos": [
    {
-    "fecha": "18 nov",
+    "fecha": "20 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados sólidos con dudas",
-    "resumen": "Presentó un BPA de 2.68 superando lo estimado, pero la acción reaccionó a la baja y con volatilidad por riesgos geopolíticos.",
+    "titulo": "Fuerte caída bursátil",
+    "resumen": "A pesar de presentar resultados sólidos que superaron las estimaciones, la acción se desplomó y cerró su racha bajista más larga desde 2008.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
     "fecha": "19 nov",
     "empresa": "Netflix",
-    "titulo": "Caída tras resultados",
-    "resumen": "La acción bajó un 8% desde su último reporte con un BPA de 0.87, reflejando cierta recogida de beneficios en el mercado.",
+    "titulo": "Descenso tras resultados",
+    "resumen": "La acción acumuló una caída del 8% desde su último informe de beneficios, generando dudas sobre su capacidad de rebote.",
     "resultado": "Supera",
     "impacto": "Medio"
    },
    {
     "fecha": "20 nov",
     "empresa": "Tesla",
-    "titulo": "Estabilidad sin impulso",
-    "resumen": "Reportó un BPA de 0.48 y la acción bajó ligeramente un 0.1% a la espera de nuevos catalizadores de crecimiento.",
+    "titulo": "Estancamiento en bolsa",
+    "resumen": "El valor se mantuvo prácticamente plano, con una leve baja del 0,1% desde su última presentación de resultados trimestrales.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "18 nov",
+    "empresa": "Broadcom",
+    "titulo": "Impacto mixto por Nvidia",
+    "resumen": "Las acciones se mantuvieron mixtas a la espera de sus propios resultados, reaccionando al informe positivo pero lleno de dudas de Nvidia.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "18 nov",
+    "empresa": "Apple",
+    "titulo": "Aumento de posiciones cortas",
+    "resumen": "Tras la presentación de sus cuentas del cuarto trimestre, el interés bajista o 'short interest' sobre la compañía aumentó en el mercado.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes serán los de ADBE y AVGO el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la demanda sostenida de inteligencia artificial y los riesgos regulatorios o de suministro en las grandes tecnológicas.",
-  "sig": "751060b0005938",
-  "generated_at": "2026-11-26T03:14:20Z"
+  "proximos": "Los próximos resultados importantes corresponden a Adobe y Broadcom el 9 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la sostenibilidad de la demanda de inteligencia artificial y la reacción del mercado ante las próximas guías trimestrales de semiconductores.",
+  "sig": "8613a09ec1cb67",
+  "generated_at": "2026-11-26T06:18:06Z"
  },
  "updated_at": "2026-11-26T03:33:26Z"
 }

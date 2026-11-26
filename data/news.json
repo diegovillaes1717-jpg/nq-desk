@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T06:12:37Z",
+ "updated_at": "2026-11-26T06:17:21Z",
  "items": [
   {
    "id": "3f88de8e7ddb25",
@@ -8,6 +8,16 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
    "source": "WSJ",
    "date": "2026-11-26T06:01:28Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "871981e68663d1",
+   "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTNYTTZ1N1VZSUpCMHUzWVJrMnN5M2NJQjlLTllwaGdjZ3pDZnJTNWlZbEs3OExGOXhCeVlDczRLaGFEaDJ5dklMbUl1TGllTmpZd09ZMnFsS0xhR1ZaYTQwUDU0eG5pZi1VSk1oS3RibGJvMWJ3R1g2V2U5VnBKMjh6UmVWM1RNQ3RiUnhjRjhmV1FVWUtMQ01vU2poVXhfbDFsYkRSMDdkdFJMdWxmYm42STByb2NSdHFEMUlR?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-26T06:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -100,6 +110,16 @@
    "date": "2026-11-26T05:15:11Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "b4a47c5afee0fa",
+   "title": "GLOBAL MARKETS-Stocks rally in Asia, US tariffs not as dire as feared",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGo4VF9hcVpIczdUMWQ2MDhXM21OTnZJeU9YdDhaZHBZU05pTTgtZkhONmV4WnVKRkhRSGdXSUZkcWhNVmtzaFpJTEhGVHA2dkEwZzZXLWZ6TzkycEpRajVhakRnVmNTWHhGZ3Y5VXRVdmxmUnBsMEp4a2NoNGFfODQydVVEdnJlZ2ZYMEFHU0lRRWtkRFRudzk2Z21ndXdNcVRkaGhubUJEeXZodTloQ0dzckExSzQwZTJHaF9FYXZBMEluT3JqNE8wTdIBywFBVV95cUxNWGo4VF9hcVpIczdUMWQ2MDhXM21OTnZJeU9YdDhaZHBZU05pTTgtZkhONmV4WnVKRkhRSGdXSUZkcWhNVmtzaFpJTEhGVHA2dkEwZzZXLWZ6TzkycEpRajVhakRnVmNTWHhGZ3Y5VXRVdmxmUnBsMEp4a2NoNGFfODQydVVEdnJlZ2ZYMEFHU0lRRWtkRFRudzk2Z21ndXdNcVRkaGhubUJEeXZodTloQ0dzckExSzQwZTJHaF9FYXZBMEluT3JqNE8wTQ?oc=5",
+   "source": "Devdiscourse",
+   "date": "2026-11-26T05:02:18Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "ab0bb076798f1e",
@@ -982,16 +1002,6 @@
    "category": "Macro"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "1ac3fb10d0b5b2",
    "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T00:30:03Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "b54621cadafe7f",
-   "title": "Gold dips below US$3,500/oz on 25 Nov as US inflation rises",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HOVRmOURTZmVnN2prUWlJR0tVS3RHRHVYbHhDdHZUNkFuMlpUWGxTQVdxQzVHYVRwU0R2Yl9iRmY3aWItT2F2WjdlYW0xNzRVX0xXOFkyWUluNUZ0eHUtQndwcHVpOWZueEJLdjEydDlmT1Y2NEE?oc=5",
-   "source": "Nation Thailand",
-   "date": "2026-11-26T00:28:00Z",
-   "score": 4,
-   "category": "Macro"
   }
  ]
 }
