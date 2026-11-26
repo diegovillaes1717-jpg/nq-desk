@@ -285,21 +285,53 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó las expectativas a pesar de la incertidumbre sobre su dirección. El mercado reaccionó con un repunte en los valores de chips, aunque persisten dudas sobre la sostenibilidad del rally en el Nasdaq.",
+  "resumen": "Los últimos resultados de las grandes tecnológicas han estado liderados por el sólido informe de Nvidia, que superó las expectativas con un beneficio por acción de 2.68. A pesar de estos buenos datos, el mercado general ha mostrado cautela y descensos debido a dudas regulatorias y macroeconómicas.",
   "puntos": [
    {
     "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados sólidos tras salida de Huang",
-    "resumen": "Nvidia presentó un BPA real de 2.68 superando el estimado de 2.47, mostrando un sólido crecimiento a pesar de la incertidumbre por la salida de Jensen Huang y provocando un repunte en el valor.",
+    "titulo": "Resultados sólidos y optimismo",
+    "resumen": "Presentó un beneficio por acción de 2.68 superando el 2.47 estimado, impulsando las acciones a pesar de las dudas sobre China y la dirección.",
     "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Microsoft",
+    "titulo": "Beneficio por encima de lo previsto",
+    "resumen": "Reportó un BPA real de 4.89 frente a los 4.72 estimados, mostrando un crecimiento positivo en el trimestre.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Apple",
+    "titulo": "Cifra trimestral sólida",
+    "resumen": "Registró un BPA real de 2.1 frente a los 1.98 esperados, superando las previsiones del mercado.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Alphabet",
+    "titulo": "Decepción en beneficios",
+    "resumen": "El BPA real se situó en 2.12 quedando por debajo de los 3.01 estimados por el consenso.",
+    "resultado": "Decepciona",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Meta",
+    "titulo": "Caída importante en el BPA",
+    "resumen": "Presentó un beneficio por acción de 3.83, defraudando de forma notable frente a los 5.42 previstos.",
+    "resultado": "Decepciona",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre y Costco el 10 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la guía de ingresos y la evolución de la demanda en inteligencia artificial en los informes de semiconductores de diciembre.",
-  "sig": "3b1f07253c7b78",
-  "generated_at": "2026-11-26T18:27:32Z"
+  "proximos": "Los próximos resultados relevantes serán los de Adobe y Broadcom el 9 de diciembre, seguidos por Costco el 10 de diciembre.",
+  "que_vigilar": "Vigilar la evolución de la demanda de IA y los riesgos regulatorios que puedan afectar al sector tecnológico en el Nasdaq.",
+  "sig": "d97a33f7cd5f17",
+  "generated_at": "2026-11-26T21:31:46Z"
  },
  "updated_at": "2026-11-26T15:41:13Z"
 }
