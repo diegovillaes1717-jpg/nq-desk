@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:53:03Z",
+ "updated_at": "2026-11-26T16:57:46Z",
  "items": [
   {
    "id": "ec566af9997902",
@@ -152,16 +152,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T15:40:03Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "2fd8e58eedcfde",
    "title": "Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
    "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
@@ -252,6 +242,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "db4dd9c8fbbe51",
+   "title": "2 Retailers Are Spending Their Tariff Refunds on Holiday Discounts—Will It Pay Off?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTZWQTBhV1JOSUl6ME16MjFiRUlWa0c1bFl5cWR5ZVpPelBsOFRQUVRzdXM2b3RjYm9xM1RkZENvaTlHZjh5SjhLM2pEZEtLZWZrY2hscXVqdkxqV0MxWDU5Ynh6TXpRVFA2UVZ6Mi1zTEtkUy1oR2lRSkJ3RjJHdUZfQjJjell2TF9mNHlpbDg0d0NiLVo4Q3htUEo4UUttejRsdU1iMzNaNFRGLWJCcEdUOTdiQU5mdHc?oc=5",
+   "source": "MarketBeat",
+   "date": "2026-11-26T15:06:45Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "96567cd92f3c17",
    "title": "Nasdaq 100 Touches Bear-Market Threshold as Futures Rebound",
    "summary": "",
@@ -270,6 +270,16 @@
    "date": "2026-11-26T15:02:55Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "5ab934b951e2ba",
+   "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-26T15:01:40Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "33dfa475b90d33",
@@ -672,6 +682,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:54:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b535cb4d3a0e71",
    "title": "Gold Faces Fed-Driven Selloff Even as Central Banks Keep Buying",
    "summary": "",
@@ -750,16 +770,6 @@
    "date": "2026-11-26T12:35:00Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T12:34:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "6256c2209c3c5f",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T10:53:00Z",
    "score": 6,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "34f7d5e876e273",
-   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T10:49:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
