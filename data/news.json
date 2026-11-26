@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-26T03:00:03Z",
+ "updated_at": "2026-11-26T03:04:47Z",
  "items": [
+  {
+   "id": "4908ba78f09158",
+   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+   "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+   "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+   "source": "CNBC",
+   "date": "2026-11-26T02:57:32Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "55020c64dc1e74",
+   "title": "Gold Slips Toward $3,575 as Firm Inflation Keeps Fed Hikes on the Table",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T02:55:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "f6b558c3082811",
    "title": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
@@ -262,6 +292,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "5779ba26d97965",
+   "title": "The US dollar moves higher as Treasury yields extend their gains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+   "source": "investingLive",
+   "date": "2026-11-26T01:35:48Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "75c1d9f4f4b287",
    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
    "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
@@ -340,6 +380,16 @@
    "date": "2026-11-26T01:23:26Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
+   "source": "Metrobank Wealth Insights",
+   "date": "2026-11-26T01:21:25Z",
+   "score": 11,
+   "category": "Tecnológicas"
   },
   {
    "id": "4b36655822feee",
@@ -552,16 +602,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "b2c74ed7e7295c",
-   "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW In Focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNXVURlpVaDFBQWdnZ1ZRQTd4eUliRndTRldELWd2cXY4dDJMZ2lXNHprNWZDcU9sbVpGaXpFZXpIWjEwYmhjZzR6aW1vOXV4MmlHU3VYZWRLaG1HRVljaW4zYmRnTVQwVjU1bGdCWmwtSlUzUm5kcHNsMFZIcTM1VnFJNTNjbmxHb2h5dGcwdjYzMEUwb1NLMDhObTktN1lmY0x4U3hLcWpUM2RYTlU2X2R1ZG41VkdYdFpiUV9SbXFkNHdaaXhmX3cyMkpXMjllVjdNZGE0RzFiek5aWUNxVkFqeXJsamRlR3FjbFQ3VWtybzBOY2QxZUVDM1RES1ZRcl9V?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T00:09:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "5e1986a86bbbcc",
    "title": "E-mini Nasdaq-100 futures slide as Core PCE tops estimates.",
    "summary": "",
@@ -650,6 +690,16 @@
    "date": "2026-11-25T23:40:00Z",
    "score": 6,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "b2c74ed7e7295c",
+   "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW In Focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVngweGxWRl9IMU9mMjBQZ1ZWNVY1bHVaME51c0V1ZkpWTFl2WW9vbGJqYWdaeVdRLW5ORms1aUJOUkJhQ1VJbEZjcGhmWGdlTFhDN0RkSWJFbWZrMnBXUmtWclF6bUtVcUZQd3MtMkN1VnEwYVFIc3JoYUJETktiRDlqNW5wbXBLMC12c2Y4QU5nTEN2SWhvcTNnZ2s1dFdQa0hGM2VTNXdwcWhtMnBuSzctSVlqRDZyUVhzYXlCN1V5X0pFRzR0TnpGRTIzeEZhLTRNX2VNamNSRFg2a09qNDRydnhnSVNaZmVaTi15THJac0U?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-25T23:39:12Z",
+   "score": 9,
+   "category": "Tecnológicas"
   },
   {
    "id": "92b4c5113da389",
@@ -942,16 +992,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T22:32:30Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ca85da13f0b530",
    "title": "S&P Discovers Nvidia’s Governance Lapses",
    "summary": "",
@@ -959,6 +999,16 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1012,6 +1062,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "76bb0604d63206",
+   "title": "Nasdaq 100 Recovers From Tech Driven Bear Market Lows",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sZzFlUlVVWkdub3lXS2cwZW85emZ2aFdlTy1GclBmSVNHWE9TaHR1dHBHRVhhbGtZZG03SzhDODlYT3IyUS1WeFNuSVhwVEdEQjBVS3cySUEzcjZyLWxhN0U3bGc2dUE?oc=5",
+   "source": "SuaraGarut.ID",
+   "date": "2026-11-25T22:20:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "08fcd43b8b8d67",
    "title": "US STOCKS-Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
    "summary": "",
@@ -1029,6 +1089,26 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "f8a5b3c6f29f0f",
+   "title": "Nasdaq 100 Recovers as Investors Buy Technology Stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Sk5YWkpmcHpnSGNtTHUtdFhZTERiZUE4OWZEN3JHVTBYOUREcmd1QjJYaVFZWlBkejJmRTI1ZWNITDBic1ZTLUREVGFPVEFmY2dKWFR5eHJsTGo1WFRoNTNKdWM?oc=5",
+   "source": "Peradaban.id",
+   "date": "2026-11-25T22:15:00Z",
+   "score": 10,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "67933234404c75",
+   "title": "Nasdaq 100 Recovers as Tech Stocks Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YUi16OURBak1BQ1JzbHFpTHcxM1h3Tmp1cWhiTlNVR0lTZWg2djRGLVpqWnRGQkZqeHdEYnppUldVWGg0QkdXN3RRMjQ1NFptdXk3WTNvRE90c0VVUDdVRWV0RG9HV28?oc=5",
+   "source": "Limapagi",
+   "date": "2026-11-25T22:12:00Z",
+   "score": 10,
    "category": "Tecnológicas"
   },
   {
@@ -1120,86 +1200,6 @@
    "date": "2026-11-25T22:01:00Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "45c60409d1825d",
-   "title": "Nvidia Sell-Off: You Won’t Believe How Cheap the Stock Is",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcU1sN2NqMk9iRHNZTTNZTldZRVc4UWhvZXhTZ0NOd3M3TEphU2JXbmxyaTZoTnJXOHg3SjlTamhxb0FvZlFTQVo2OERzeldyQXNQanJzZmhYUFNYWXI0MmE5UThjVXN4OUEzUHVWQ3FQSkFBTFV1VlROQjN6ZmZYVVQtV2VzWnRod1R4TXVIMFJPVFBGTGVteFgwTlU4RUx4?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T22:00:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e15f67508ac327",
-   "title": "Nvidia engineer who quit in protest of Jensen Huang's ouster says he 'may have moved too quickly,' is open to returning",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnlmNUFVS0p2NXdXdk9JOGQ4WnlPT0lGdTA5RXNQNUZqTEt5QXRxQWNmeWkzU3VUZmduNVdnRlJ5dHpOZ09zaWZpVkdWTXd5VUNZOWRZYW0tdGx6T1Mtbkh1OVJoNTU1dmRFOUtiR0piTzNXSjB6aVo4M0U3bEZBQ2d0dXVma2hoUTg4dlVpbGpFX3ZHbUhLTm5PZ3pPc0Vzbnc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T22:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "83edc61832fef5",
-   "title": "Watch Nasdaq 100 Bounces Off Tech-Driven Lows",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ09IZldZQVUwZHNnX0RVOVZhY29DNW1vY2tUR3ZTQS1hRktJTHpLd21XanlraUYwcG1sekFnOTlFMXAwa0hsaXVibnEtZE55X3FCaGpuQkRsYUt5ZzF2YjdsSWhCSXNiQWVzNVN3MmctdUVaWGVfQ3pyRjVBN3VTci1lVXFrRzRNSG1DbnVSb05sYjN0WXNCZjJn?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T21:58:19Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e012ce0a2eaf9b",
-   "title": "Rising inflation is setting consumers up for a holiday squeeze",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGNDdUdNbHdEOHg4d21Hc0hDNFl4OGsxZUVtd0xPV3NUQ2M2dDh4RURzSE5QY01ndEVGVzRxbm10b1lDTU1nc0hHS080S2k2WWtTOGZCQlIyY0NBZWR3LXRFUnZfRHhHWmtHS0EtRV9aeGtob01JSUtEajlndk50MU1GMXA0a01QalhqbWtYanVZSTVwVkxIeHFhekhZY2dwMGlkSHJYeEhndWc?oc=5",
-   "source": "Scripps News",
-   "date": "2026-11-25T21:56:15Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "d5ae2318a09795",
-   "title": "[U.S. Stocks] Dow Rebounds After Early Plunge... Nasdaq Falls 0.62% on AI Stock Weakness",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wcDdlTUVUSlhpS3VwV1dKVmtjXzZsQkkwMHRZZGU1UUJtV3RCQWFPazQ1cXdBenhHeWNtaDl0MGEwSU1jbjJ1NTZ1a1ZIU2Y2NWxFcjNsSUlLcHNabEFtNjlHUy0?oc=5",
-   "source": "아시아경제",
-   "date": "2026-11-25T21:55:40Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8d2b5275b0dfd1",
-   "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
-   "source": "Investor's Business Daily",
-   "date": "2026-11-25T21:55:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "77b844ddca1c5f",
-   "title": "Market strategist reveals how Nvidia hearings will sway market direction",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Nm5CODZISlFKMjZYakNUb191RnVEV2tsYnhPUFVpU2xIUkNKUmQ5c1A5WWY3SG5RQUdxOE9jM1VDVjlTbllLaWh4VFB5R3piNUVpbHVBT1BsNUk?oc=5",
-   "source": "Fox Business",
-   "date": "2026-11-25T21:53:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fa43bcf0f473aa",
-   "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T21:52:28Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
