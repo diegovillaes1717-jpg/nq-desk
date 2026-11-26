@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T22:57:43Z",
+ "updated_at": "2026-11-26T23:02:29Z",
  "items": [
   {
    "id": "4fb9eeef7307fb",
@@ -52,6 +52,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "07b811bb0a4b85",
+   "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDRtekFKaGVnZ1lZanh5U1F2ZEVodndVeEhaanMyT1pleE42aE9Qa000TUpRbzljVGZWN1Nua3pqd2J0bXcyczZWU1hzMEs2aXIzZk1KdWxfLVBZMFEyWTZ3WWxvWWg5YzlpWG5NTXl2b3YwblVHRWplOXZHS1RMYVM0YlRUSlRFNmRPZ2hQU013MW8?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T22:20:02Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "472aa7a172fbf1",
    "title": "Why Is the Nasdaq Having Its Worst November Since 2008? The Numbers Behind the Tech Sell-Off",
    "summary": "",
@@ -78,16 +88,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmFBeXgxc0YwT0ZibWhXd3h5Rndvcm9kcHdwTDlNZnl1cWd5MmRMWHJZODN6RWt0QnZHRG1neXlnSDZidXIwbGxLM1E0SEZfQXR2TjE4WEZvX1N1ZHNQVUpWX3BFbGd6VUk2Z2VNSmJUYnVIbXc5dXR4em1RMHJfQ05JTFRkaGQ2STI1NWdfOA?oc=5",
    "source": "Briefs Finance",
    "date": "2026-11-26T22:10:56Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "07b811bb0a4b85",
-   "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm5hNmFZaVZaZUdpenlUNnV2bmtQTThONkpRdjIzZGFsM1dmd2hyVFVVVHVfSTBvbVJRWUpaNmxSSmFLQ2hUcHpOODN3ZU8tMmNtMm9LNlpRanVKRUl5YzgwWnlXZG1yUWktbFQzUXBlelN5ajh3Yk1HdzFvSWRSeUZBTzJOVlpkYlZoY3NVZXhUTlZmRlNtUw?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T22:00:02Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -205,9 +205,9 @@
    "id": "8094311abc3ace",
    "title": "New trade war could be brewing following tariff proposal",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1ZYVE13MnRBZjljQWRYSHJyenBQaVo2OExaMU9uOE9nSmRhS056bWFKTlczTmY1WjVKT05kMnk5d0lEOTEwQVRqNFVqN2I4TzhFbmc0TWtVTVFOcDdnRGlhRlp1MDFuc0xWNDFKZFktOEpSTlY5ME9IaS1mb2kyU2ZrQjZCM25tTmZhVlpwcHZFWmx6QUlZd1FKVjZ6WWFFWEpoMXA1S0stLWRzd2J6WkdCT0s3eU5UTFRXUXlwaHkwME4yeHlqVGhWeDcwMkkzaDJnWVNB?oc=5",
-   "source": "KEYE",
-   "date": "2026-11-26T20:53:34Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2MzUndyTnRMcXV6V21BU1R4UVctdnhiNGxZMEMxM2Mwc0JZMDBwN0hMQjV1bmRRSS1fRmVUNHJuSWdyZ2ZhUlZvXzVGUDAtbGd1LTlZeHh6XzlDblFpMElZU05tbk4wZDM0V2o5aHE0U1JyQ3R0T2tvMktrajNjVzhqRVlMcXN0OGxhUTZOQ2JvaUxrNXdPNlEtNllVUlFna0c0aU1TWlVmVHJ0VnZSZUV2SldLLURzMi1MMw?oc=5",
+   "source": "WBFF",
+   "date": "2026-11-26T20:57:18Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
   },
@@ -622,16 +622,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T17:35:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -689,6 +679,16 @@
    "source": "CryptoRank",
    "date": "2026-11-26T17:21:26Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T17:15:02Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1062,6 +1062,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "3c27765db068aa",
+   "title": "US PCE inflation due as markets brace for December Fed hike and firmer dollar dynamics",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1JXdVROT2YtekpwNFdpV1FLbnZxMzlmQmhQWVA3Wll6VFIzRVN3SXdrNk1rY0F4RVNTeXRnaF9BNnctYzYwblgtdnF0MHR5VGxhdjBPUE80dTNhMTM2MzAxS1c5UlJvaVdRT0d1b2pacWEtckhBZ1ZLcG9zcDBsREVOcFlWU1J3TkE1MjZCRXlJOFc2X1pGYUo1TzhpNXpKVWZWcEwzTkdseFRndUpqQVhhYXhDd1dQdmNwczZLQ3pNdnhMdWhYQXVFZ0o?oc=5",
+   "source": "VT Markets",
+   "date": "2026-11-26T15:15:41Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "c59ac6bd763b9e",
    "title": "Trump Blames the Midterm Election Results for the Stock Market Selloff",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Barchart.com",
    "date": "2026-11-26T14:50:07Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3b194c3c92af64",
-   "title": "Michael Burry exits Nasdaq-100 short",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTlweUdtelVQNjRTRFpZSEZhRnNSTlJFRm5ESUZDOUVJcmlIcDdYMUhzdElkT2lmUW5nRGVmTGk5NGNuSVBSWFRHSnp3WWd4NFBMT2puM2NUSTR3c0IzYXBZU3FFdEZaR1BnV2l5ekV4QmpLbnZrbjM1T0Y2WDBZQzk5Y0hVQQ?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-26T14:47:00Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]

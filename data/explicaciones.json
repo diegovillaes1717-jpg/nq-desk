@@ -129,7 +129,22 @@
     }
    ],
    "tries": 0
+  },
+  "2026-12-07": {
+   "sig": "88762234877e87",
+   "generated_at": "2026-11-26T23:02:30Z",
+   "resumen": "La semana del 7 al 11 de diciembre de 2026 estará completamente marcada por la decisión de tipos de interés de la Reserva Federal (Fed), el banco central de EE. UU., el miércoles. Al ser el único evento clave, el Nasdaq 100 (NQ) podría moverse con cautela los días previos y experimentar fuertes bandazos según lo que anuncie la Fed.",
+   "items": [
+    {
+     "id": "34180240a25c2d",
+     "estado": "Pendiente",
+     "resultado": "Pendiente",
+     "explicacion": "Se anunciará si los tipos de interés (el precio del dinero) suben, bajan o se quedan igual. Si la Fed decide bajarlos, suele ser una gran noticia para las tecnológicas, mientras que si los sube o los deja altos para frenar los precios, suele asustar a los inversores.",
+     "efecto_nq": "Depende"
+    }
+   ],
+   "tries": 0
   }
  },
- "updated_at": "2026-11-26T22:57:44Z"
+ "updated_at": "2026-11-26T23:02:30Z"
 }
