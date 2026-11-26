@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T19:57:11Z",
+ "updated_at": "2026-11-26T20:01:54Z",
  "items": [
   {
    "id": "d6632d2845faa2",
@@ -25,8 +25,8 @@
    "id": "6a49b7e9a09a8d",
    "title": "Five takeaways from Trump’s new tariffs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjVkYWQ3NDV5T2ZTTFI3c1d3eFA2QnNBN3lrbHVWZ2FoMzNFYzNVLV9ETk5LZTV4VEJBQWhYWlBVZUZMbkZsdWFLM0pENW9hSnVmdWYwYUFKZ1ctMWd1VC1VOU5feEVKTVF3NFdBbml3QXMySk03ME85MWZ5N3BVQXA3eDVHSjYwUDNjS2VFcw?oc=5",
-   "source": "BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHhiekREaEpuUkFNcjJCc09KVW9lSEdQTFhzOVplUGd6VGFCZ29GNzRHd1JFcldXaTM5SzZYYUQ1a2hCTVZLSUw4YmVzaE9kbVZHQlBQUjctVG53R29CRC1IbGlyVWhFbnFSczRMazRWbXFqRG05NG50bHdGeUJiLUl2VTJPSmNYTlZMdk1OUXRocEdXVXc?oc=5",
+   "source": "CTV News",
    "date": "2026-11-26T19:36:07Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
@@ -192,6 +192,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "bba671f1f702f8",
+   "title": "Big News For Nvidia Stock Fans",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBaakkzZEg5cldvZFN6QVo3dmhwM3BmVXlVRVVjSFZ1Y0RMSUFNOGVvUGJ1Y1g5UmhSNnA4MGdPVTU0Rzh4NWRUZzZ6U2FOV3RFeG9qUWthVm9LT1BEcXdpWFNWS1pLZW5iZU51Y0tCakRZMl9jTTRTMUNzUnFNd3o4TWlid25EbmxfaDlvcmtrNC14?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-26T18:14:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "97f3c8799325a6",
    "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
    "summary": "",
@@ -199,16 +209,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -220,6 +220,16 @@
    "date": "2026-11-26T18:09:45Z",
    "score": 10,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "1607260587130d",
+   "title": "NVIDIA Reportedly Halts AI Chip Shipments To Southeast Asia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUIzRG1jTFdPalpNZXVmUjRGdldEejMyZkllcEF5VmlUOVg1Q2FjRW14STlUZFFOMmRQU1dkcktBQ2E5M3lKcFFlZHVjbXNTbUNhVzBvSDZzaXU0UU9URGNZTWNaemhNZ0JPeGRQQ0NEN0k5WS0xSHhUeHFwZHlqS1FRdEFsY0ZiY1NwSFJyeUQ3ZWF1WXA5SkNfQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T18:09:18Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "ec566af9997902",
@@ -519,6 +529,16 @@
    "source": "24/7 Wall St.",
    "date": "2026-11-26T16:38:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjNRNzA4cVZNNU1XNkE4ai1wcEdQQ1ZrbVhKcWkxV0I5S2Q1U2lJZlJfWG5HZ1FZQkdhUGhMOUdmVU9hUlV2NnIzeXoyN1BiZmh2OVFhNlVzZnlJSXNjZkp3SUNDUG5Ral9LSkkwaDBsWGR1UUN3bF8ybURRUWVzWkphRVBqRmVON3ZuM1dWdFBGV3g5Tncxd3FES25XSlA0TkZPbWdLTEFzdXlrUUZCMXZLQWQ?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T16:36:30Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T13:18:38Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "3e29f22c411ec6",
-   "title": "Trump tariffs may push Fed toward rate hikes amid inflation concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzYwVnAtcnFuYXJBRk5jc2d1eVE3Q0VQMURMcUdjeUpLXzhhQWxmTkpNc0Q0MHktaU4yckJhWnBkekxkb1NScVczVzNzZUJub3dhZC10Z1IyOUd2R2Z2bWIxRTA0V2ktaVZ3bmZnS1NwbVRHXzhhaWxDZXNlcmRrOTN2ZS13UVJiVmE4Wm9tRVBsYXlMMENXWGFEN0M?oc=5",
-   "source": "Crypto Briefing",
-   "date": "2026-11-26T13:18:18Z",
-   "score": 12,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e8802e66fd176a",
-   "title": "Scott Bessent sends the Fed a stern warning it cannot ignore",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnZvcWRjbHZhc0N4V3NXVktoS1dqUHFYdkNfeWhYcDQ1S1MtX3BTRjg3V29fVGtWbWN5c2xTeVJSR3BvSzZLLW9zSG1PR0J2MXZoeEJVYUZXeWNJUGNJWVFWcFFMZ2JpZWpxcjFVM2p3V240dTBzTVVoekROUkxqU0tyTDBMN3NRcU01TmFPeTRhcTc4?oc=5",
-   "source": "TheStreet",
-   "date": "2026-11-26T13:17:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
