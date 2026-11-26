@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T00:51:57Z",
+ "updated_at": "2026-11-26T00:56:41Z",
  "items": [
+  {
+   "id": "0f57b07313041c",
+   "title": "Korean battery stocks rise as US proposes keeping 15% tariff ceiling",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0NTdjd2a21CY3kzZ2ZfV2NvOF9hZElaRUhRMFhQSlZ6cENIVmxBMEVmQ2haYkJRM1dhSlE0STk4UnR6ODN5bDJDT19lMlNQUDRXeEFiblhORTJCZW5OeExLd0lHeV9UQ1E5blF6Nk9iRWZYdG5SdVNfTXRobDR3Q9IBlAFBVV95cUxPc2t1QzNMSnZWbXNmRUNDVFNxT1otNHYyZGV0QjIxNHVpYjJQeG9IVmRMa3ljcUlVRVdmUDM1VEF1amUwdlk0bnYxWlZDbjk2N3dXeEpxUTJzT1JHQ2FtZU01Y1BpMTUyTUw2Wmo4VTg2T2JCUUhmQU5yQ3FCNEpqcEhROC05ZmNYQjVrSWJmRFcyc0xG?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-11-26T00:48:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "3eee6256c89438",
    "title": "Nvidia Stock: Silicon Takes A Back Seat - Upgrading To Buy (NASDAQ:NVDA)",
@@ -16,7 +26,7 @@
    "title": "Did Trump invest $3M in Nvidia before it reinstated Jensen Huang?",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PMzZzbEl0ckpwVlNDUkJveUZOdkQ2ZGVBMUg3YUZlaUU5dldUOXZfYk14U05FMm45SjVnQnBXME1CdjAybG1LZ3ZhaUZyUTlCNnR6UnF1Rkxxems1bTlDSExRb0NISWtmNlVkQnhZQlZHSEU?oc=5",
-   "source": "Snopes",
+   "source": "Snopes.com",
    "date": "2026-11-26T00:39:40Z",
    "score": 4,
    "category": "Tecnológicas"
@@ -52,6 +62,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "b54621cadafe7f",
+   "title": "Gold dips below US$3,500/oz on 25 Nov as US inflation rises",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HOVRmOURTZmVnN2prUWlJR0tVS3RHRHVYbHhDdHZUNkFuMlpUWGxTQVdxQzVHYVRwU0R2Yl9iRmY3aWItT2F2WjdlYW0xNzRVX0xXOFkyWUluNUZ0eHUtQndwcHVpOWZueEJLdjEydDlmT1Y2NEE?oc=5",
+   "source": "Nation Thailand",
+   "date": "2026-11-26T00:28:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
    "id": "c9fc4ff3aef859",
    "title": "Silver (XAG) Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
    "summary": "",
@@ -70,16 +90,6 @@
    "date": "2026-11-26T00:18:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "b2c74ed7e7295c",
-   "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW In Focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN0RNMGctdk1hRVcya0dZYVJOaGFsbGktNXcySDh4YW9laEpiUkdqQ0hkQkJVQnpMb1psQS1xbWRKSmh0Q3R0ZGtYRjhhX2dlZ0dHVEp6dWhFTjR1TnZHWVplbFNKeUpJSXZDXzdrXzZ3Vi0tdjNCVEVjZzZET3Q3c05SWEF1UVRhYVlUV0Y1MmIwX0dYT3JoZERLSWlQbHBfRHFHRmo4S0V0VGJtenM2X19ZUUlwZlRXSVB2WkZtQ1d6c0pEUllzSkxvbVJPNDJ4aWREcmNiTG5tdFFEQ1Z1NkxSQi1DSjlmYkE?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T00:09:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "31d37106a1141c",
@@ -129,6 +139,16 @@
    "source": "StoneX",
    "date": "2026-11-25T23:43:45Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b2c74ed7e7295c",
+   "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW In Focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVngweGxWRl9IMU9mMjBQZ1ZWNVY1bHVaME51c0V1ZkpWTFl2WW9vbGJqYWdaeVdRLW5ORms1aUJOUkJhQ1VJbEZjcGhmWGdlTFhDN0RkSWJFbWZrMnBXUmtWclF6bUtVcUZQd3MtMkN1VnEwYVFIc3JoYUJETktiRDlqNW5wbXBLMC12c2Y4QU5nTEN2SWhvcTNnZ2s1dFdQa0hGM2VTNXdwcWhtMnBuSzctSVlqRDZyUVhzYXlCN1V5X0pFRzR0TnpGRTIzeEZhLTRNX2VNamNSRFg2a09qNDRydnhnSVNaZmVaTi15THJac0U?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-25T23:39:12Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -312,6 +332,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1ac3fb10d0b5b2",
+   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxYMmF3bk5GcW5ocUxTTWhPdXpMLTlTSUlsaUJoRjJBN0tWb1UtcmdfU3dycEV5eFI1clhrOUlBWDZlU0VqNkNYd01ERl82Q2xxdkpfT01jQ2lRbGg0a3BkQndrc01hb0JtTGNpOHRPT1RITkZEUTJXVHRLc0FCYk5CQ1VzeTR5ampkbmZ2bVRsckRuQ0l3Z1ByODBScENJU3pvYnR0M3hyYXFLd2pnU0d5YUg1V0t1TG1YQ0kzeGtidw?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-25T22:46:44Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b20071c2525c52",
    "title": "Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return",
    "summary": "",
@@ -399,16 +429,6 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T22:30:21Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -530,16 +550,6 @@
    "date": "2026-11-25T22:06:36Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "45f94a6ccfd47d",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T22:06:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "674a566e92dde7",
@@ -1189,16 +1199,6 @@
    "source": "Foreign Policy Journal",
    "date": "2026-11-25T20:33:00Z",
    "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f4a3d414743ea0",
-   "title": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeldqODRQRTNYOTNIYmNYSC1NREZjZTdvZUwwT1NkNWZ3TFJYMVQ5VF9FeDJmcG1nV0NGRFlscmpIR2ZmT1JteEdYLUxpa01yR3htWUJlbXJEVnM4dmRlNUF6ejdOTHh1N0RfQkpYTWhJTkdEYjExV1MxT3JDZWluLTJ2d0hYdXRmdWk0?oc=5",
-   "source": "The New York Times",
-   "date": "2026-11-25T20:27:35Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
