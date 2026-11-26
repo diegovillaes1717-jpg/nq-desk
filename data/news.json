@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-26T00:56:41Z",
+ "updated_at": "2026-11-26T01:01:30Z",
  "items": [
+  {
+   "id": "5250b86e62575f",
+   "title": "South Korea raises rates to highest in two years, as inflation remains above target",
+   "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+   "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+   "source": "CNBC",
+   "date": "2026-11-26T00:58:38Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "2bd9d1a0ea3140",
+   "title": "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFc0UkFBakFsQk5fcHg3RFhZYjJCbkRVeTFjWjd6My1pR2xlZHBUR21VcmducThFNFJwZ0NPUlRnRGZIMC1TWkhVR1ptN0xrZGZsZVhaNFRwalhNNGN4aUVONDhHUHBFcWxEbWdUOTdJZDBxV2hYOWhVaHRPajNrd1lNUkV2NjBqbzBqWDN6aktTQVVGZ01wWGZDZXFmU3NqQ041ZXc2SVBMQVNzNHZHYWF2XzE4QTVWWUdFYkJB?oc=5",
+   "source": "Car Dealership Guy News",
+   "date": "2026-11-26T00:58:13Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "50fa3e34d1f674",
+   "title": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-11-26T00:58:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "0f57b07313041c",
    "title": "Korean battery stocks rise as US proposes keeping 15% tariff ceiling",
@@ -152,6 +182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "92b4c5113da389",
+   "title": "November 26 Financial Brief: Tariffs and inflation weigh heavily on U.S. stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUpIZXpsZ3pDYm9pM3pWRXdES0E3Tml1Y0RYYW12czVNSlhWbG9ac3dsVnc1TnA5U3UwY0Q0ZnZmdGIyc2pXQWV4bHktUmhoYXNBLVhkcTVJbVlLNHJQb2pxelppYVBqTFZWUExQVm5rd0x5ZF9WaFNEQ2pjeEVLc3hLSzVKMEdrYkRpbzBkTzFaTndIVmt5UEhZMU9vbU1NTERRZU1pTGljSnFCc0E?oc=5",
+   "source": "富途牛牛",
+   "date": "2026-11-25T23:35:34Z",
+   "score": 9,
+   "category": "Macro"
+  },
+  {
    "id": "0e7e93b6f1eeca",
    "title": "AI Investment Return Doubts Intensify as Nasdaq-100 Briefly Breaks Bear Market Threshold",
    "summary": "",
@@ -242,6 +282,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "aea23eba608b33",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-25T23:20:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "a35bc9a322d507",
    "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
    "summary": "",
@@ -292,16 +342,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aea23eba608b33",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUhzVmRIbGQxLW1ZQ2gyMnpQZUFlRzVjMzFFSVVJLWRGazdKVHNLbnlTa2psUjRhams4M2lIRnNfOVdRSzl3YUV4d3h6T20weWRscG5CWm9lRWhibUZRMmgwc0I2MzR4T05aak5vdzNCWUd1Wkk2NW1La0NkajVVZFg3ZGU1MExlLWFfcUFmcDlsQ1RkcmFUU05IUzl6OXJUYXJ5RllKaWI2dXhzbzI5RVNtUmlPT1E4WnRnUGRibE1kSlIxWTE0b0R5a0NSNHJZNE9BQkdnRjBZOWVVakJucF9vN24?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T23:00:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "20e45d7532d8c5",
    "title": "Michael Burry closes his Nasdaq bets and shifts to value, but still plans an Nvidia short",
    "summary": "",
@@ -330,16 +370,6 @@
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "1ac3fb10d0b5b2",
-   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxYMmF3bk5GcW5ocUxTTWhPdXpMLTlTSUlsaUJoRjJBN0tWb1UtcmdfU3dycEV5eFI1clhrOUlBWDZlU0VqNkNYd01ERl82Q2xxdkpfT01jQ2lRbGg0a3BkQndrc01hb0JtTGNpOHRPT1RITkZEUTJXVHRLc0FCYk5CQ1VzeTR5ampkbmZ2bVRsckRuQ0l3Z1ByODBScENJU3pvYnR0M3hyYXFLd2pnU0d5YUg1V0t1TG1YQ0kzeGtidw?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T22:46:44Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "b20071c2525c52",
@@ -405,8 +435,8 @@
    "id": "8250f50cce8a13",
    "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
-   "source": "KONTAN",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T22:32:30Z",
    "score": 11,
    "category": "Tecnológicas"
@@ -469,6 +499,16 @@
    "source": "WSJ",
    "date": "2026-11-25T22:21:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "08fcd43b8b8d67",
+   "title": "US STOCKS-Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGpMbmJpOTIyakFnNUEyTWZ5QzhoamxrUVlsd1F0eXJpX0VMMjV2cmphRUhjQnlkeVlpT2hXMV80QzJOelJ0MDhLb3hLR05zSnNhMWpweTFhQ25WRWJMV1JDdU1MWF9mQlNzSUl1YmZDWFlCNEtMdlNjU0MwRGpTNjFkZmdoRmdFdHVqbnBEenZ0LXpwWmxZSXBqYzV0a0tvQnNTU3dVdkNYcHhfeU1QemJOMWZhOW9mZGFFZy1VNzF6ZzBFLWlYYjZVTWMzUmF1YnZIV1NB0gHWAUFVX3lxTE9EakxuYmk5MjJqQWc1QTJNZnlDOGhqbGtRWWx3UXR5cmlfRUwyNXZyamFFSGNCeWR5WWlPaFcxXzRDMk56UnQwOEtveEtHTnNKc2ExanB5MWFDblZFYkxXUkN1TUxYX2ZCU3NJSXViZkNYWUI0S0x2U2NTQzBEalM2MWRmZ2hGZ0V0dWpucER6dnQtenBabFlJcGpjNXRrS29Cc1NTd1V2Q1hweF95TVB6Yk4xZmE5b2ZkYUVnLVU3MXpnMEUtaVhiNlVNYzNSYXVidkhXU0E?oc=5",
+   "source": "Devdiscourse",
+   "date": "2026-11-25T22:19:58Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -690,6 +730,16 @@
    "date": "2026-11-25T21:46:45Z",
    "score": 12,
    "category": "Macro"
+  },
+  {
+   "id": "3222e3c47f607c",
+   "title": "US stocks fall further as fears over AI intensify",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+   "source": "BBC",
+   "date": "2026-11-25T21:43:18Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "30de72e88173b4",
@@ -1150,56 +1200,6 @@
    "date": "2026-11-25T20:38:00Z",
    "score": 7,
    "category": "Macro"
-  },
-  {
-   "id": "d0713287a485b0",
-   "title": "LatAm stocks advance on Brazil boost; US tariffs in focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakozLWdNVXR6WWFuOWFfUDN1cnhuYlZOdGdoRUUxU1R2dUYzVW9iNDZTTzhqUGZIQlc3alVJSmlYNXJwQ3pRVnhkREJEdGRWeUMzaG8wc3hQQ3EtS3pQSDFIRWRFUWhFcmR0NW5YMjVoVXo4Um0tb2lPNUJnb1d3cmtuU19pREZ1Ym45QlhoYWZmMG9RSkltNnhuUmVJOEgyMW5RMjctVFdZLVdfbnFITzI2T1lDellJZmRYVENCcHJrNHQx?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T20:37:13Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "5ccc509ea48d1b",
-   "title": "Tariffs, inflation data and AI jitters send stocks on wild ride",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SVU5BZ1ZYUld6Vy1UTllHQ1Mxa3A5ZC11ZjhqZWl2Y3BtTjN6SnFfMVVaOXQ0amNDbURJRExEMXRGcFhXT3d5RzhEQmRvQ1dXVFNPVV9wT1VZS05PQTR1SFVHaWxWV0U?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T20:33:27Z",
-   "score": 12,
-   "category": "Macro"
-  },
-  {
-   "id": "4f5e9dc3ea1520",
-   "title": "Nasdaq, S&P 500 Fall As Nvidia Leads Renewed AI Stock Sell-Off",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEhWOGFZVTNnSDBWbUdWejlaYll4cTVKUGdCZkFEejY2M3NvZ1IyVjFEdFZzeWdMekN2ZnlydTMxNDhQNnhoYTNqSFhIQTM0ay1VX3IxSkNYNkhnbXhndl9QWHhWS181OVJVMkR3OUZhM0gzRXpNRFF4aXB2bjFyXzlfaGVBTWlYNFJxanh2dVJocVdtQ2wtOW9KLWZVMmZ4QXZRd0FiSWU2dEE?oc=5",
-   "source": "Forbes Middle East",
-   "date": "2026-11-25T20:33:02Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "07bafb78c7be78",
-   "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSW1VTjZHMTM4LWRZT292cVltYmZJSUd5clVvOTZjQ3c5MlNxZEhnaFVyVzVTWlNMRHBmQ1JoYXJCRlRDQmgxRXQ0ZWlqRmVkTk9Yb01taVJYVnAyZ1NUSzBuQlFsVXd1WmV5bGZNLUl0OWd4ckNrY0lHanA2TjRIdTNwenhCWHh0M3NEWkEybEtxZ1FIN3FhRUdxV2VUNnNCTVNteC0wblBwNV9H?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-25T20:33:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2000451364d986",
-   "title": "Markets Touch Record Highs Before Reversing As Chipmaker Selloff Drags Down S&P 500 And Nasdaq",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGsyeGsxWkJwRlZCZ2pDZ0JVNUY3VHFsdXdtN2N4UHZGZ1BGYWJqLS1BaVJtSjlwVC1wVmNCNUlVVUxDRWFZWDdnV19GRFh1SzhSZVlveUpyb1dLWHltd2FIcjJkek81bkpIbnJhTFd0MWNtbE9TVGg5Q1NQa1hJM2M2cE9ud1dFc1RTSTRtdzUyaUF3NGVDWVBfUWpreV9WeWl0Mi1RUVBSTXNMNnZod3ZBMWN0UFRQS0VLUlVfSm9oUV9oUko5cEZqRGtqV0RrenhDSnJpVmZEZw?oc=5",
-   "source": "Foreign Policy Journal",
-   "date": "2026-11-25T20:33:00Z",
-   "score": 11,
-   "category": "Tecnológicas"
   }
  ]
 }
