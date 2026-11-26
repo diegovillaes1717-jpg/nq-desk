@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T05:08:24Z",
+ "updated_at": "2026-11-26T05:13:07Z",
  "items": [
   {
    "id": "7adeb4f809611a",
@@ -99,6 +99,16 @@
    "source": "Bloomberg.com",
    "date": "2026-11-26T04:08:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "00e8a5540cf25a",
+   "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-11-26T04:06:00Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -347,7 +357,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:56:59Z",
+   "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -562,16 +572,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "13a6be33b39619",
-   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "725af62bcf944d",
    "title": "Core PCE Inflation At 3.3% In October",
    "summary": "",
@@ -782,6 +782,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:30:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "4659346722a02b",
    "title": "Nasdaq Falls to 23,585.80 After a 4.6% Plunge as the Nasdaq 100 Briefly Enters Bear-Market Territory",
    "summary": "",
@@ -882,16 +892,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
-   "source": "KUTV",
-   "date": "2026-11-26T01:06:33Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ae168e7501a2d8",
    "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers By Investing.com",
    "summary": "",
@@ -930,6 +930,16 @@
    "date": "2026-11-26T01:00:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFVMQXQ3ZnRNeTFDdEtMNjFZbklUM3EwUHhnMWVMR0lRUmlyS1BzcEh1QTNYRGZnc2tDMXJnSi0xUkVSYmxkQlREYUg1VWEtWE52OGItaFhHME9iNXNrS3NMa29hR2VZTTlaYjlGbndrczY5TUlCV1lERGlBcFJpZEdyQlEwVjJzWnk0LXdtcVZPRTZfVDZVTEln?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T01:00:00Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "2bd9d1a0ea3140",
@@ -1189,16 +1199,6 @@
    "source": "CBS News",
    "date": "2026-11-25T23:35:00Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0baba0a58a982e",
-   "title": "Nasdaq 100 futures price on November 27, 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzVwNTVuUGxKRVZyS1hwTkR0NkZlbkVLSjIxOWNyNUJYMDBkQkx5THBQSlRxU1hRRkROWTVtTkYxTFhucDNWNVJrVTY5WWpXUmJoaVBKc2lSSHA3SXh2LXJfOXFGek1sT0llaXNyUThOcWIzb2J3am15Ty1rNU5lS2tYd3JOTUFDaldUcUViVmJVZTk5OHJjTVlHRWJpVDZxMWpwTWZxbmR5NENaOXd4SVhfVnJUOEg4QWgtSzJR?oc=5",
-   "source": "Robinhood",
-   "date": "2026-11-25T23:33:44Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
