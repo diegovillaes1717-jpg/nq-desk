@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T10:44:36Z",
+ "updated_at": "2026-11-26T10:49:22Z",
  "items": [
   {
    "id": "1730141347dceb",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "4aa42660c08c92",
+   "title": "AI boom is first time economy depends on unregulated industry, investor says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaDZSQm45WHp3eHMxWWhLLVMwVzVNQmUyM29MLU42Nkd5SDhfbHhwYWF2T0JPU2xPaTExTG95OE9STFlobDNNOFZWSEdfN0hIenFST2xzV0ZLUG1GUkpONmxZLWlBM3c2REpoVnBwcGN0cDJDWUp5RFdhbmZYZ9IBgwFBVV95cUxQckMyc2RtWUhLUXhrRDF3ZmxuR05zTlB6TDRfTU1MWTBtTjNEMWJfMTV6X0NJRmxUeVBuczJINWQtcUUxVEZvc1dPSERwSkR3emFUUEktdTQ4bGVGS3RoZXhDZF9SOXZ3XzV3VTBJMjZGNnI2VVI0clhSNVN3MDVJeU5NUQ?oc=5",
+   "source": "NewsNation",
+   "date": "2026-11-26T10:18:41Z",
+   "score": 5,
+   "category": "Macro"
   },
   {
    "id": "8ac2338fae6352",
@@ -132,16 +142,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDY5M0VnOGhrcWFqLVRjd1JURjE4aGdDeHg1d1QwRjRxLTNuQVhGMnA0ckU0TzFEYk5oVWtoYndKdzZsN1dwbzlkTlNncDlxNDZZU0d0YlctYThhbVNMSjNsQ0p2N0Y2T1VyWDcwbFNFVkJWQ2lzdlpsMXJxTmNPVXFyeGROa2U0TXhnd0FzWV9MUWplc2w4QUZjVm5OeWxwMmFiQmFQTmNtOTBZMEE?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-26T09:50:29Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "6e4360291b828d",
    "title": "Nasdaq 100 rebounds. Is the bottom in?",
    "summary": "",
@@ -149,6 +149,16 @@
    "source": "www.tmgm.com",
    "date": "2026-11-26T09:44:24Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e705ba023477dd",
+   "title": "Trade 3 RWA Perps on GCEX: SpaceX, Tesla, Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQm5saExYVDNLeGNIMk9iYnFDcmdCWURxZVdfVnVLNlVDXzNjQnBDTEVnOUhMdEtqWFAwMnNTYnBXRW5JZDZxSGpqX21BMlozeUJEX0tqS3VLOEt6WkhJcFAwejRIZzFMRloxeEplQ2hmTDh6NW05OFUwOXJCaU9fUW1NbTFYbl84d2NvVWdDTHFUbzFtUWdBZWJQYk8?oc=5",
+   "source": "shattered.io",
+   "date": "2026-11-26T09:34:58Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -205,7 +215,7 @@
    "id": "5677dde97b71f4",
    "title": "Nasdaq 100 teeters comes close to bear market as Wall Street tech stocks fall further",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNEZxQnZhRHVKMHAwbnVYOEp3NHozdUMxNUdZUDVoNFEzTmNtTUp6cTdNZUhvNjVta3FRSmFLcDlSUl95TFhLNE9fNmZnTHNIR2RzR3B0eVExTUtTZlFnMGZhU054YjBLU1ZqNGdyMXZSYlRxbkY1cFNGdDE5V2hZMER4TExZeWxjTzJuTENkdTBackM0UW83Q1l4WGxNZzVwcm1GZ2txbmF6Q2lYNjg3eVYtcFdLX256ZFc1d3ZCWVFZY2R2MUxRcTBsY0RsTnlMdElr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnc2aVc3ekFNN0I1MHBSa3lwMFNXanRwZUpfUjJCUTVnQnBJOXBxdnpFYlhqRFZXRFZ3ZFlwNHEzR01TZ0lwN3pZYnJrdHlMZW1hb0p1MUxOSDhLVml2c1hEWmFTbmVsZXROOWZTenE3S24wY1B3OVFXRHBrbzdjLWJYckstNWJna3EzalpmYVdoMHdjZ3ZLekRZM2V2cWY3akpaNlJxekU1bFh0Qi1KRTV1OU9Ec1VTajgybG5qc3BuY0VWZy1iY0s0Vkk5RWFXOGhKZEs5VQ?oc=5",
    "source": "V2 Radio",
    "date": "2026-11-26T09:23:00Z",
    "score": 10,
@@ -270,6 +280,16 @@
    "date": "2026-11-26T09:11:15Z",
    "score": 10,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "fa4f956ed0a240",
+   "title": "Market Movers blog: Global markets fall as Trump plans new tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+   "source": "Investment Week",
+   "date": "2026-11-26T09:08:35Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "d73acf7c984680",
@@ -735,7 +755,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -972,6 +992,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "dcb862d4b596e4",
+   "title": "New Zealand Stocks Slipped While Asia Looked Past US Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnRoWGlqYTdOM1V1T0Zrb3I0aFJRMlFPMmJKRFpLVGhkYW1lTTlfR0VoV21Mamg1d2lFLXhmaGQtakR0VVdadkphS1lnNkxBRmhHNV9vQms1ZDJBeDQyUDRyTHlldUZFOFlLZGNHVFBtTVJwZUFKclVsNE1tbk9ZQnhta3FkSWp4TUNzY291cmlqZFU?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-26T05:48:14Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "a4f4198e59bd6b",
    "title": "Australian market up despite Trump’s tariff announcement",
    "summary": "",
@@ -1102,6 +1132,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "c2840df0d8c741",
+   "title": "Stocks rally in Asia, US tariffs not as dire as feared",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa09oWTlvekdOUXlkVXcxUGNFcHY3cDdKdWtLMlNpYzJpdHpaQUVKbkxBckJCUGt5RWYtVHM5VkZhQkZacTFRNHMzdG8xSmRIclRoYUhOZDgtbThXYWFrTHdLdncwWjItTUMxRFZ3RkV4czRqc2hUd2RRUFJXWXBaWlhJdlBHTkFoMEV1OTFXWEczS2Fja3FVZUcySlVpSnV2SmFN?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T05:02:00Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "ab0bb076798f1e",
    "title": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap",
    "summary": "",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-26T04:51:15Z",
    "score": 8,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "5324e7cd0a84c8",
-   "title": "Gold struggles to extend bounce from 15-month low as Fed hike bets, USD uptick cap gains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDZGRlJPd3FENDIyc2tkWjZqMzNXbVV4eTN0WEVrY0Y5cGhVSkJhUzF6Um1FZ01pTC1yN0kxRUFnUklELXpOQ0xpVXNSRmZRbzhlOUg1VENNa2pBc0dRU21rU3dMdmtSZUttNmgwSzFsUXUySVhTLTlVSllDY3piaTZ0YnBFXzFVR1k2OEVhYTdVWUx4VWpKZUExVWtTRHZPWlZubXlFM3F1dnZ2OFV1NkpMQWRva25rZzNTNkM0V1R6X1M4YWl4WTFB?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T04:50:44Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "11f93cd392d211",
-   "title": "Gold steadies after hitting over one-year low; Fed outlook in focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2RGZHQ2cnNGQUVwT25tM2lrZFZkUDMwdXpSWWpkSmljWFpFZGh1dWl3WUwwZ2Ricy1hd2lsSVRRazdmeW1OdXFycllzcmJ2NWxQdEQtMmZRN2pBUjJaTFMtZXlJOHVXNHBDWmdzc09jQmk5YnhQQU0wUmx4cEtVOFl3SVTSAYoBQVVfeXFMTjVWQXJNNzhKbnh3SkxiV1VhbGtUQ1BrYTJfMnJ3Qnl4WVkxMjMwQVAxSHhtSkRWZ2E5TEpIZV96Vm9jRjhKQUV2ZVd2WHd4dmlMTzlxVW9UQWJQSWl4dlNUbFR5VGl5V0EwMURrSndKS3MyOVpwNGdGVzd3eno4TVpBb2tZY0xmNDBR?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-26T04:45:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1c6a2880b25300",
-   "title": "Vance says Huang was not under investigation before return to Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuNHFNMms2X24wSEJKOU1fbGoxV01VQ1JEVXFjRHdSTGdueGdJSWV4bnhwRFBQeWVFWGY1cTZCNkI3YzJMY3RyTHpENTI1TjRvQmY4YnhuRTI4ZUJWaEVwQm9WYmRBdU0?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-26T04:39:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8f9e3612b52879",
-   "title": "Global stocks fall as Trump threatens new tariffs on 16 trading partners, tech giants slide, and fears of higher U.S. interest rates grow",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ0U5Y2RoY1J4UzRtQVRNdUxKZXVheFgzS0dGRTZ6LVJ2ZXpDV2xBdld0R3RyaVJ4UVZHYm1BdlcwamgzemhfZ29qSlg0SHVOSkRZbGlyY29PdHB5YmtkaVJWSjdrTTFzOUZsdkNCTEpGVDhOWHlUeDdxcnFfcTVTams0dGxzRVcwX0NJWVhod1g3YXItbFk1RUZnYmpCbUE2TnFZd2pQSThTWjZOTFRlemVGNmJ2M1lUZ01FVUFTaEdXNGRZODB6ajNUdFNZOGFydWVwQTJRc2xqamJPVGZ0TVpBcEthZlpxN3Z5QUVTU0NXMVIxcFlwTm04Zmp1NngwcTJnMW13bw?oc=5",
-   "source": "CPG Click Oil and Gas",
-   "date": "2026-11-26T04:27:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
   }
  ]
 }
