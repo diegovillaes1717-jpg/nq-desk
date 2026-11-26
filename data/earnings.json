@@ -285,21 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de Nvidia han superado las expectativas con un BPA de 2.68 frente a 2.47, impulsando las acciones y liderando un rally en el sector de chips que ha dado soporte al Nasdaq. El mercado mantiene un tono mixto a la espera de las próximas citas del sector tecnológico en diciembre.",
+  "resumen": "Los últimos resultados de Nvidia han superado las expectativas con un beneficio por acción sólido, impulsando el optimismo en el sector tecnológico. A pesar de estos buenos datos, la reacción del mercado ha sido mixta y el Nasdaq ha sufrido caídas recientes.",
   "puntos": [
    {
-    "fecha": "17 nov",
+    "fecha": "18 nov",
     "empresa": "Nvidia",
-    "titulo": "Nvidia supera expectativas en su primer informe tras la salida de Huang",
-    "resumen": "Presentó un BPA real de 2.68 frente a 2.47 estimado y elevó su guía, provocando un repunte en el valor y un rally en los chips que movió al mercado.",
+    "titulo": "Resultados sólidos pero con dudas",
+    "resumen": "Presentó un beneficio por acción superior a lo estimado impulsado por la demanda de IA, aunque la acción reaccionó con caídas bursátiles.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados clave llegarán el 9 de diciembre con ADBE y AVGO, seguidos por COST el 10 de diciembre y MU el 17 de diciembre.",
-  "que_vigilar": "Vigilar la guía de ingresos y la evolución de la demanda de inteligencia artificial en las próximas presentaciones de semiconductores y software.",
-  "sig": "80d6026e791b7d",
-  "generated_at": "2026-11-26T09:23:12Z"
+  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 dic.",
+  "que_vigilar": "Vigilar la evolución de la demanda de IA y los riesgos geopolíticos en los próximos informes.",
+  "sig": "7a905effca62b7",
+  "generated_at": "2026-11-26T12:24:56Z"
  },
  "updated_at": "2026-11-26T09:37:33Z"
 }
