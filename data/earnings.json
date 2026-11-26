@@ -18,7 +18,7 @@
    "hour": "amc",
    "estimated": false,
    "eps_est": 6.32884,
-   "rev_est": 6830578620,
+   "rev_est": 6830593430,
    "eps_act": null,
    "rev_act": null
   },
@@ -301,5 +301,5 @@
   "sig": "397fb25f129ba3",
   "generated_at": "2026-11-26T15:26:44Z"
  },
- "updated_at": "2026-11-26T09:37:33Z"
+ "updated_at": "2026-11-26T15:41:13Z"
 }
