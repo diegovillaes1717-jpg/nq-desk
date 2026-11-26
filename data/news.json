@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T14:38:44Z",
+ "updated_at": "2026-11-26T14:43:30Z",
  "items": [
   {
    "id": "bdb12bb48cddac",
@@ -9,6 +9,16 @@
    "source": "Barchart.com",
    "date": "2026-11-26T14:30:03Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bb4e741150e50a",
+   "title": "How Inverse Nasdaq-100 Exposure Operates for Tactical Hedging in the Global X Ultra Short Nasdaq 100 Hedge Fund (ASX:SNAS)?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS3dEaVFYUzVXQkprT051X285ampCOTFHUEUyeFFNOFU3V2l4MHRSVTcteVdtWUJKcWdjNkZ2UDRSR0VJcXpTNGJEWkVVZ3JoODBacmdTdFhkWmRFNWQ3OS1CYTRhLU1KZXlKRDVfVjdKQlg0T0NIZlBhMldTTERCWlQ2eWNwQS1zZDNOM1JZZ05lYkdFQ0xscWNrS2loZENlT0htU2tNbGRLb2lTcDJJazJ6dzI5WnN3WC1ERkY0dUo4VVRiWUtueW9hWWxTZzRMb01yS1hnblBrOHlIbkg4U19tSy1qa2YzNmlFeXYxQTV3T3ZDUUZxQg?oc=5",
+   "source": "Kalkine",
+   "date": "2026-11-26T14:15:00Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -102,6 +112,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "984f5ad07c1d09",
+   "title": "What Daily Compounding and Volatility Drag Mean for the Global X Ultra Long Nasdaq 100 Hedge Fund (ASX:LNAS)?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkJ5SFZNR01rYUp2TkNZY1M5cDlRUkt4dzVUT1I4U19QN01ZdlZYQUlvTHNNTXNWb2NsX1AzQ2VVY1hVT25wM3FhVFM3bi1nSXBILXY1bVJpemozNk9fVXJqcEJsQlZLRXpPNmpoYWhtdU1LX0VSanV4cm1mWkEtWE44RlBsUWt1cl9wSHY2ajdnU2dBYjBKODU5VDhKT1d5YzZmUjk5eXQzTXJNbDI2TWZHWmZzeDRGVDdfZm9wS3lhNGlhMU9zV21VeXhBeElOSWFQMUU1YjRCOGRwT0JpRGhwdml4Zw?oc=5",
+   "source": "Kalkine",
+   "date": "2026-11-26T13:41:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8562798026709c",
    "title": "Trump’s new tariffs aim to prise global trade from China’s grip",
    "summary": "",
@@ -139,6 +159,16 @@
    "source": "CNBC",
    "date": "2026-11-26T13:19:25Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "dbc5d5914bf8f3",
+   "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9ubWdGUjBmak13V3l2TElCRzVpZzZDRUJTeGF3dm9tZmdfLUpld3R1d3VYV3Jxb1VyVG1UVXNfNHhRWHd4NVF2Q3ZuVGpzS0FmZ3dhUjlUNWhQVzlLOF9nU25TMzYtZ0xoTFJzR3RHbDlJN2JRWnRiYmZzLS11a0EyX3h5dnVMWlZXYm9BV28yVUVEcjdNMFM2YVQ0YTNsZkE?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T13:18:38Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -189,16 +219,6 @@
    "source": "Financial Times",
    "date": "2026-11-26T12:56:10Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:54:02Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -260,6 +280,16 @@
    "date": "2026-11-26T12:35:00Z",
    "score": 7,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T12:34:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "6256c2209c3c5f",
@@ -692,16 +722,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "34f7d5e876e273",
-   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T10:49:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "46cb9b40177050",
    "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
    "summary": "",
@@ -748,6 +768,16 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemRRcm1kRDFLcUNpbmtjcnpmOWduZWVwSm9ONFYwMEt6dnhDSjRhRGxjYl8tYm00TS1ueGJBVjdoWEFQYUVKWktfTGVqN0sxazRUcUNQWHNnQVEwbzQxNGlRS09JTWZ5Q3ppcXRqemo?oc=5",
    "source": "FinanceBuzz",
    "date": "2026-11-26T10:30:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "34f7d5e876e273",
+   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T08:45:00Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "158f1f9f3046b7",
-   "title": "Chinese Stocks Went Sideways As Washington Floated Fresh Tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFpLNmxyOUM0a2wtWUhRd21ISEVrcDJDeUFtamZDZWRKLWVGNzJOZmxtZXhzcG1nUVVTSDJlcWpJdzRwOUo3UFo3UUZlcXVCSWZfd3ZpX2RjdjBuaGFhcVg5VWRWZU1XYzhtUlFrVUtkQXdnUGt3R2U5WG02VlNTWmJVaXVHUkFVTXlUb2RkbXlDWFQ2MDhmZA?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T08:44:04Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "0f36e022baab6c",
-   "title": "Milan stocks open sharply higher on relief over U.S. tariffs, banks and tech rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdklWTWtQTUNMcm5hbm1MU3o2TTV4OVdzTXVVd1pILXZGYWJHN2MzR0lKVFdHdDBnNTUyMEhVZVk4QnB2czdsTXp1Y2hzQ2RfQ0EzRVRROFNKQk5CclBhUlRHbGc2UDR5cTUta05qU19kUlI3WEFmcVV3b2NKbVZIelZWSzJjMFZzU1Q0TEdxMUl3bGhVV3ZnblBHck9xcW1aRTBJRmFsdnlsMkR3MWpSdVZIMG02SFhJNklQekNKV0xvVHRMaVNBeDVSc0JTUjc1?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-26T08:41:20Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "951ded705ec553",
-   "title": "Sri Lanka rejects all bids at Treasury bill auction following rate hike",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWm5RUmh0d1lBWmN5dDlabldQXy00LVdBNUZmZzJtM0hMQWpybl90bHd0NlpFd0ptX1lQOWE0VjlCVmh1YjJxdzE0Qk5UOXFlTjFlSUVBeEFjallWb3U0dzBpZkU3dUhvWGpzYXVmeUdmRGVtWnZNOTBFT2pUMVpYTS1rN2U0NUpJb1ZKTXlrSk5aZkVxRklYUFpkWWNsbXVURGpRRjBR?oc=5",
-   "source": "EconomyNext",
-   "date": "2026-11-26T08:40:24Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
