@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T09:22:55Z",
+ "updated_at": "2026-11-26T09:27:56Z",
  "items": [
   {
    "id": "f8fb80ebf568db",
@@ -52,6 +52,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "df21609951179b",
+   "title": "Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5",
+   "source": "Sky News",
+   "date": "2026-11-26T09:11:15Z",
+   "score": 10,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d73acf7c984680",
    "title": "S&P Places Nvidia On Downgrade Watchlist Following Huang Reinstatement",
    "summary": "",
@@ -82,16 +92,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "29aa99c0331713",
-   "title": "Dollar steady in Asia as U.S. bond yields plunge",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXNnVFAtTm1QVW5JN20zSzVQOVhfZ0JjTXFJX01SR3IzU2kyZjhxM2NKY3ZnMzk0dXpteXBmVHJ2R09ERUtxVi1meUU4VV8wSUJrZEdMb2VSeE1wcDlPTGh3N0VBRFBjZEJrd0F6czdJNHppYXoyWUpUUll6YUJxV3BTVExyYklLdFE0UEdHZ0V1UQ?oc=5",
-   "source": "IDNFinancials",
-   "date": "2026-11-26T09:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ef90bb14f80bf3",
    "title": "European stocks rally as tech and banks rebound, tariff fears ease",
    "summary": "",
@@ -100,6 +100,16 @@
    "date": "2026-11-26T09:00:00Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "29aa99c0331713",
+   "title": "Dollar steady in Asia as U.S. bond yields plunge",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXNnVFAtTm1QVW5JN20zSzVQOVhfZ0JjTXFJX01SR3IzU2kyZjhxM2NKY3ZnMzk0dXpteXBmVHJ2R09ERUtxVi1meUU4VV8wSUJrZEdMb2VSeE1wcDlPTGh3N0VBRFBjZEJrd0F6czdJNHppYXoyWUpUUll6YUJxV3BTVExyYklLdFE0UEdHZ0V1UQ?oc=5",
+   "source": "IDNFinancials",
+   "date": "2026-11-26T09:00:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "119ab2e4f9d078",
@@ -712,6 +722,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
+   "source": "Decatur Daily",
+   "date": "2026-11-26T06:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "871981e68663d1",
    "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards",
    "summary": "",
@@ -930,16 +950,6 @@
    "date": "2026-11-26T04:50:44Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "df21609951179b",
-   "title": "Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5",
-   "source": "Sky News",
-   "date": "2026-11-26T04:49:48Z",
-   "score": 10,
-   "category": "Tecnológicas"
   },
   {
    "id": "11f93cd392d211",
@@ -1189,16 +1199,6 @@
    "source": "TradingView",
    "date": "2026-11-26T03:14:00Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7c57492fd5b9e9",
-   "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-   "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
-   "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-   "source": "CNBC",
-   "date": "2026-11-26T03:13:43Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
