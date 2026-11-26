@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T17:54:27Z",
+ "updated_at": "2026-11-26T17:59:10Z",
  "items": [
+  {
+   "id": "f6a810a55333c7",
+   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a historic mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "date": "2026-11-26T17:57:32Z",
+   "score": 3,
+   "category": "Macro"
+  },
   {
    "id": "9c78eb6907de97",
    "title": "Semiconductor chips are the new oil. Here's why",
@@ -27,7 +37,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTgteUk1bnZmVFllM3ZMTmFYbXlySXZrME0wRkk4UjBaUVQxQ2diMG9vQ05EejJ5QUxmTllwUWJvN21IU05TaXNWem03Y19zYk5MaWRkQk5mWWVaTXlpQWFySFJFLS1ad3VtWklNSENKZ3JKNjlxM1JWd1BXb0g4R3NFRVlnakNRZU9xZXYxcWp1U3pwQzRGXw?oc=5",
    "source": "Coinpaper",
-   "date": "2026-11-26T17:40:40Z",
+   "date": "2026-11-26T17:40:20Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -185,9 +195,9 @@
    "id": "926ec0f5856b62",
    "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1Bja1BxWDc0aEdqbmV4Q01STV9qcTFZd1JpN2N1Rlp3N0dCclpxOEtKUEN2ODlrRVgtaHljYXlweHgtbjdfUDZ0dlZjdkw0anFSSF9ZajhUV1RjZGNnZzFnVVl3TUtOVXVXdi02a3psbW9Gb3Y3ZTdPdmN6MUlaV1E3ZDV3OUlPVWlGNGZRMm12NWI2WUhzU21MTDhsZUVzcW1mNzhVMUo1RGllMlJ6bUlyc0M?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T16:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFSdnRPQk1JV3F3SzQ5VHVza3dwb1RNVlk5WGt2QnA1OHlZaWRhdTRlRUdqSUlfS196STEwWXVNWWxOUE1BeW1PeWh3WmI1M1MzSUZvenZOVlplWnROYnl3NGswVTBmd3R3bU5peGpOWkF6MEIyQUZOOWlTMW1CMGZDOVd4XzJ6cS1yNEJuRFZlTzZjTDdTVg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T16:06:22Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -240,6 +250,16 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-26T15:38:26Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "2fd8e58eedcfde",
@@ -1179,26 +1199,6 @@
    "source": "BigGo Finance",
    "date": "2026-11-26T11:25:00Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c0356e49b3a4cd",
-   "title": "Global stocks rebound after AI sell-off as investors assess Trump's tariffs, oil prices and inflation risks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVItckt2bWxpckNqWGxHZE1vXzZWNGFUUlNBX1p3R0ZqMThJdmwxa3RNOGIyaURDY19adEpyY056LUVGTjRwMU5tS2NHb3MzZXpYNWlFYTZVNzY2cVRBVjFvalMzd2FNVWVwYTJWSUxuOGFMdnltV0gxYTk3TWdiY0I5cUUzMXJNSFBrZWVFVDc4X0xmSVpQVTBEa084VHNyYUhralRQa3NYeVBOQU1VcWZHMnNFSFl5OFRaZFBWX3lLTEZLa0xkMnQ3R29PRGVNNDZhRFVkdUtsZVJJbWpYNzNlS0d1aWVBWVVURDNvckRIQjAwd0NITHA4VEFnamZGcXI3Q2tZdw?oc=5",
-   "source": "Hindustan Times",
-   "date": "2026-11-26T11:24:26Z",
-   "score": 16,
-   "category": "Macro"
-  },
-  {
-   "id": "46cb9b40177050",
-   "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWDV1cTZTTi1WWUhjT0NBQzRKcE54eDhlMVdKMlNzaUNvRUI3SF9haGxKT2VTU1p1aHZnLVBydzBmc1ZxUEp3Q1RhWHd3aVpOX2pYRjNxekRMdkFpVUx0RU1NaHRuWmtRakFoRkNjLVdpcFFwb1RTbnFGNFR3d2oxLVRoMG1PMWdGWWN0RGk3eFAtZEMzLTVlZjlSSkJScEJRYlRyZ09ieXM2d0EzUHU3T0VWRFZlWXRfNFphMlI3c0V5Ym45NFVnQmtDZ2pLVXRZVFpXRHVlNWwwQW1fM3QtNXZwU0U?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-26T11:22:54Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
