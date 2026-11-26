@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T02:17:17Z",
+ "updated_at": "2026-11-26T02:22:08Z",
  "items": [
+  {
+   "id": "7c57492fd5b9e9",
+   "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+   "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+   "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+   "source": "CNBC",
+   "date": "2026-11-26T02:15:51Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "2137adda6b87a8",
    "title": "Kasikorn Sees Small US Tariffs Impact on Thailand, Highlights Three Defensive Stocks",
@@ -122,6 +132,16 @@
    "category": "Macro"
   },
   {
+   "id": "1c3f9caed42235",
+   "title": "Fed Rate Hike Odds Hit 98%, But Eric Jackson Says It’s Time To Cut – Robin Brooks Warns Of ‘Full Meltdown’",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMlJGRVRLLURIeFdQX3R2c0tObTJadEpiaHlQa1NXNGRtZVRWTV9zTGRwbWtpcDJhT1ExbS1seUdUM1lIaVpjYTlkcWdvbDZvNVo1SDhsOXpmeTRwaG5oWlRXdTVsRmQwMkVpNVliX1JxLVZpb2VfNU9ZaWpURjUxdVZhVmpYeHdXTEFlQ0wwOGJDVEg4Tng4NU5xZE9POGF0UGQxeHp4S2owR0RXczJxZFhkNUkzY1dIYmJMMmxqNWd3ZHMySlZ4Uko0X3UydndOd0FhbV91NUl2YTMwSGVlcmpLTlBGN1ZNby1ueU0yQTlfZzQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-26T01:43:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "6b27981a44e8cf",
    "title": "S&P 500 slips as tariff threat and AI jitters hit Wall Street",
    "summary": "",
@@ -189,6 +209,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T01:34:00Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3546bfffac5fa7",
+   "title": "AI Stocks Resume Their Slide",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T01:33:18Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -462,6 +492,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5e1986a86bbbcc",
+   "title": "E-mini Nasdaq-100 futures slide as Core PCE tops estimates.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORE13blU5Mng4X3NoY3BDVmtxY2FfbGdva1d5MlBBLWZNMmIwNkZtOGhUOHNrb3YydWx3b0lKUlgtWDJwZ2pyaF9zS1dGSFZCRmZxY3JhdE1yM3RhT3kxWXVMSENBUWNod2ZuQWpLdHo5MWI0alh0OFRObWlsZmpJRmhSOF9qdW9FNkpJVldqeXJwdHBLd29NTDlicEVDVnVQdmk0LXpLQmpiMndSQlIxUw?oc=5",
+   "source": "CME Group",
+   "date": "2026-11-26T00:08:00Z",
+   "score": 10,
+   "category": "Macro"
+  },
+  {
    "id": "86dba5997ae0ce",
    "title": "10-Year T-Note futures climb as yields hit lowest since September.",
    "summary": "",
@@ -540,6 +580,16 @@
    "date": "2026-11-25T23:40:59Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "adf3f8b5c350eb",
+   "title": "Arkansas’ economy growing moderately thanks to data center construction, defense spending, Federal Reserve says - The Arkansas Democrat-Gazette",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHlSYlM5aWdmN3NfaWJBWGVnZlNHdlczeUozOHpEYURkaTVNeGpWbGZWbFBaYXI0TWtTc2RtNTlEdnZwR3lScGtGcXpBMm42SlRhRkV4NWc3ZW5MdUtDNUZMbUJlc0hLM2YtQzlhZ2xRclRKVHBrcGRSNGFVY2FGYmdqV0hxRW9zY1RyTHFpOUtweWxyLWhjOEEyem8?oc=5",
+   "source": "Google News",
+   "date": "2026-11-25T23:40:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "92b4c5113da389",
@@ -892,16 +942,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "55e8d530d877b2",
-   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFlrVUQyR0YzNlVXOWVidFh3STlEVEUzUDdPYVdMWUZOWGhrbTdDQUtZc3ZfU1VESDNTZVM3cERObThoSjBFcmZLMDZLd2ZyZzV0c29YVWxmVnc2NDJJTWpGdHZKbEh2czJ2Z2h6dGNQcENaLTVIRGNxRE9ZRlpzSXEwZC1jS3NmVDhLYlBnZHhxRFgwOWhDblktRWpWQks1emVGR1ZRV2hOcldlcmxQX0d3ZXZGOUkwbGNkLUxHYVFtaXNXT2x0UzZBWEpGVzJUR0E?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T22:12:29Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "de3bb99b9742c2",
    "title": "S&P 500, Nasdaq, Dow Forecast: Wall Street Rebound Faces Major Resistance—Bull Trap or Breakout?",
    "summary": "",
@@ -1159,46 +1199,6 @@
    "source": "The Economic Times",
    "date": "2026-11-25T21:34:12Z",
    "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "ea3ff025351361",
-   "title": "Nvidia Chief’s Return Lifts Many Boats",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFd1SWlvYjZ0MVJTTHNmN2xNV0t3c0swT19CRF92UnJhLUp0dFNJbzE5aXpVQzlJNDBZSTRRb2RjLXVQcmhUUVdjR1VUdGpPTnVhcm0zT1RhZnF5TmlyaG9VVGIzNXp3eHlBUk5jM1NkdWVVMXNtOWVoNjdMUy1nRkdMWVUtQ1dw?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T21:33:58Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b7e848a3ab2915",
-   "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St By Reuters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXIyWWE4MHp5LUFXMzd2SC1vdzNaUVZ2aFVRem1yc2l0LTVtbDVrTVNjWVpzdFhrZnkwdldPYmhqWmFzQXMtMXJveUt2UFJWSWZFQUhvRHQzeWIyVmJNUjF6RlVTRnZISGV5Sno4NGhJcFZrcUZHTVpKYWp2R2RFa0c0RGxVazlkVk1ac1RfdmpJQk5UV0YzLU9majdGZ0ZMVDhISkRJR3RsZzlSOWw1YTBB?oc=5",
-   "source": "Investing.com Canada",
-   "date": "2026-11-25T21:33:45Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ed10f3d1f0d70b",
-   "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
-   "source": "The New York Times",
-   "date": "2026-11-25T21:32:42Z",
-   "score": 9,
-   "category": "Macro"
-  },
-  {
-   "id": "2e1d5195b9ea77",
-   "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T21:30:24Z",
-   "score": 5,
    "category": "Fed y tipos"
   }
  ]
