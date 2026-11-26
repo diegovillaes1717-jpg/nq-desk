@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T11:17:59Z",
+ "updated_at": "2026-11-26T11:22:45Z",
  "items": [
   {
    "id": "fd08d6324037df",
@@ -30,6 +30,16 @@
    "date": "2026-11-26T11:01:03Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "3c4873e38760db",
+   "title": "The small-cap Santa Claus rally is on — but a December Fed rate hike has spoiled it before: Chart of the Day",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcU5WaEJ5c0JpdzVicVRORVZpMHBnbjdoYlIzdFROcDlVUWJoaWRlTjFpdWpJS25ZYVk2dktEb3F3WmQ5aDcwQ2ZVeFNoTDQtQl9tZTN5b3JVUEpaQWxWeVZ3eG5RdDRaeTBoQTRyc3FjWW5jd3p6LVlNWDgzMkZWQzRqbkNRZFBrT1NoQlRQTjhvWTVEYW90c1ZIdWYxeWlhdVFDQUNyQ3ktNFBZSWMxWWVYUFZZNE1vc0NSN2pHRUpqd3Faa252ampQSTRXWFZTLVpRMG4xRHMzS2Z4UkdMWlRYVk1CNW4xVWdqLVhfUWdnUkpwNUE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T11:00:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "f5d729e3aee0e0",
@@ -79,6 +89,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-26T10:29:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ec566af9997902",
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-26T10:28:34Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -202,6 +222,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "be043af9bf949c",
+   "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T09:47:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "6e4360291b828d",
    "title": "Nasdaq 100 rebounds. Is the bottom in?",
    "summary": "",
@@ -280,16 +310,6 @@
    "date": "2026-11-26T09:17:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "ec566af9997902",
-   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-26T09:15:23Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "5677dde97b71f4",
@@ -1072,6 +1092,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "2bb308695c0439",
+   "title": "Stocks rally in Asia, US tariffs not as dire as feared By Reuters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0RZWHFaUUQ3bGJvMmlXTXlDMjZ4UnJ2RU9KbDVYeEQ5VXRiaGwzSTBsS2J6X2c1aHpLSzZCczFva0NMQ3QtT0FUaEJFRDV2d3dRQjNZcENCVmhZX3E3bmFDQm13bUxuVDFMN09fZUhLdHlNcWVtUUpiTjhMOEdjOU9FZmxnU0RzZ3UxU0J2b2tZX3o3eVBrTFNsek5icGFpMk15N3RsSVdJaXdyeUE?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-26T05:39:35Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "a4f4198e59bd6b",
    "title": "Australian market up despite Trump’s tariff announcement",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T05:21:00Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "44ac30e5e5ac34",
-   "title": "Netanyahu Celebrates Jensen Huang’s Nvidia Return, Citing Israel AI Partnership: 10 outlets compared",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVhPUWxoZGo0bzFOeXBLZG54UFdNcHRKX1V3Vm5DdjBtLS1henpWMFlJbElOVVVmRy1vNW93Mk50QmxNN2hvS1hoZFdiT3RHUGczSjZyUmdCOXFyRmJoT3VqVmVQSTFyMjlfdjExamVTTC0zYlE0R1NPcXhiejI4ZXJ3d2k5bWU1MGdva09yaHVjSUFSeTh6NjFxVThleFFpVmpXY0VPNEI0NXFCTUhsZFUteDRIQ2kwakE5cjhqWjJSUXFFMVdjRHUxZw?oc=5",
-   "source": "NewsCord",
-   "date": "2026-11-26T05:19:40Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "29437ab8a89dd2",
-   "title": "【TMGM Financial Recap】U.S. Inflation Intensifies Pressure; Markets Look for a Bottom as Gold Recovers Over $150 Following a Decline of More Than 3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRUR2QlZvVTBKV2ZIMFppRlNfWFZMTDRKTk50NG03NEI5V0JLZ0lrVTJJYk1QVzVaUVlTdUcwSUVEVmNGT1NxbmZLeGJLWDZQTGUzS1hHY3JBbFc4UHZDbUl0QkZDRkR1VkVpLUxXanJFRnN2RUpOLWthVlJ4TWdzR0JyZw?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T05:15:11Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "b4a47c5afee0fa",
-   "title": "GLOBAL MARKETS-Stocks rally in Asia, US tariffs not as dire as feared",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGo4VF9hcVpIczdUMWQ2MDhXM21OTnZJeU9YdDhaZHBZU05pTTgtZkhONmV4WnVKRkhRSGdXSUZkcWhNVmtzaFpJTEhGVHA2dkEwZzZXLWZ6TzkycEpRajVhakRnVmNTWHhGZ3Y5VXRVdmxmUnBsMEp4a2NoNGFfODQydVVEdnJlZ2ZYMEFHU0lRRWtkRFRudzk2Z21ndXdNcVRkaGhubUJEeXZodTloQ0dzckExSzQwZTJHaF9FYXZBMEluT3JqNE8wTdIBywFBVV95cUxNWGo4VF9hcVpIczdUMWQ2MDhXM21OTnZJeU9YdDhaZHBZU05pTTgtZkhONmV4WnVKRkhRSGdXSUZkcWhNVmtzaFpJTEhGVHA2dkEwZzZXLWZ6TzkycEpRajVhakRnVmNTWHhGZ3Y5VXRVdmxmUnBsMEp4a2NoNGFfODQydVVEdnJlZ2ZYMEFHU0lRRWtkRFRudzk2Z21ndXdNcVRkaGhubUJEeXZodTloQ0dzckExSzQwZTJHaF9FYXZBMEluT3JqNE8wTQ?oc=5",
-   "source": "Devdiscourse",
-   "date": "2026-11-26T05:02:18Z",
-   "score": 7,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
