@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T07:05:28Z",
+ "updated_at": "2026-11-26T07:10:13Z",
  "items": [
+  {
+   "id": "7c729528356e34",
+   "title": "Will US Tariffs Hit Indian Textile, Jewellery, and Export Stocks?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmR1ZmZ1cFh2RVZqVjBwekpjaWVienFKX2t1U0JTVG5VMmZpd0RXdy03bE5sbnBQM29qS011cmtQMldEaFY3M3I5U3BMNGRzUEZNclgxdFFaaGdzX0s5eklXU0tXbmFFZFZ0MFVsZXo0Wm9hYzZGWWtGX1MxSWpoTGhpdDZZcWlEVmdKX09GbnpYeWM?oc=5",
+   "source": "FlipItMoney",
+   "date": "2026-11-26T07:05:07Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "3f88de8e7ddb25",
    "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
@@ -9,6 +19,16 @@
    "source": "WSJ",
    "date": "2026-11-26T06:53:41Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1188f6b998eb17",
+   "title": "Wealthy Europeans are looking beyond the stock market amid the AI sell-off",
+   "summary": "High-net-worth investors are looking to alternatives as turbulent markets continue to raise questions about the outlook for traditional assets.",
+   "link": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+   "source": "CNBC",
+   "date": "2026-11-26T06:48:12Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -652,16 +672,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -680,16 +690,6 @@
    "date": "2026-11-26T02:53:25Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-26T02:50:43Z",
-   "score": 8,
-   "category": "Tecnológicas"
   },
   {
    "id": "7a36f92209ae0e",
@@ -715,7 +715,7 @@
    "id": "46f80705fe38af",
    "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n0gHYAUFVX3lxTE9nNmZrdVlfWGYxRi1oR2Fod015V0doaFNLQnNLN2dhLXc0TGhia0hSZmhCbTdwaHc1aVVGaEZncjFQTXh5Z1IzWnd0eVRUZ2Q0bnYtOS1UMm4ySnVPQjAwd0xTX1pQSTdhTzVjc3FyT3A1UTVraTB3dWI4UU5wSVpCd19pMHRLX0pGWmxibjRITEhKMFF4N1IwRlpvNlMwMnBMd1ZUZWgwdUp3dFV5dWlSRl9nR3kxZnEtQVNKcHFyUzUtUVJNdjNsc1NSS3QzMHFxVERmRWlvWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
    "source": "Business Standard",
    "date": "2026-11-26T02:42:48Z",
    "score": 8,
@@ -900,6 +900,16 @@
    "date": "2026-11-26T01:54:38Z",
    "score": 13,
    "category": "Macro"
+  },
+  {
+   "id": "d3bdff3996d14a",
+   "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-26T01:53:20Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "9051b881ca7161",
@@ -1189,16 +1199,6 @@
    "source": "www.tmgm.com",
    "date": "2026-11-26T01:04:34Z",
    "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "db20d660b061ad",
-   "title": "Bank of America 2027 Economic Outlook: AI Investment as the Top US Economy Uncertainty, Fed Projected to Hike Interest Rates 3 More Times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5",
-   "source": "36Kr",
-   "date": "2026-11-26T01:04:25Z",
-   "score": 9,
    "category": "Fed y tipos"
   }
  ]
