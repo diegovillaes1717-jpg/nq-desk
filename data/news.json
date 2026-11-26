@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T15:07:29Z",
+ "updated_at": "2026-11-26T15:12:16Z",
  "items": [
   {
    "id": "6597990d3a3c77",
@@ -126,7 +126,7 @@
    "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-11-26T13:54:48Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -170,6 +170,16 @@
    "date": "2026-11-26T13:41:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
+   "category": "Fed y tipos"
   },
   {
    "id": "830e28fa019b6b",
@@ -252,16 +262,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "7afa5b0522b2b9",
-   "title": "Core Inflation Rises to 3.3%, Warsh May Face 'Opposing His 2018 Self' at December FOMC Meeting",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMlQ0Q1podUJtcG9FS2lGeHVVNDNZc0tlT2hUR0pQRUNPYndJZzZqWXNFVHdZLXN4U2wtYlN1ZVptLU1fdmNTZ3pJWmdNOWN0Zkh0Q19lcUxhX1JPcklWdjBrZVIwbkNJak5qRlkwaDR0eTR1MFE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-26T13:05:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "125c74fa1f3e35",
    "title": "Schroders Warns: Even If the Fed Pivots to Easing, a US Stock Rebound Won't Last",
    "summary": "",
@@ -269,6 +269,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-26T13:05:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "7afa5b0522b2b9",
+   "title": "Core Inflation Rises to 3.3%, Warsh May Face 'Opposing His 2018 Self' at December FOMC Meeting",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMlQ0Q1podUJtcG9FS2lGeHVVNDNZc0tlT2hUR0pQRUNPYndJZzZqWXNFVHdZLXN4U2wtYlN1ZVptLU1fdmNTZ3pJWmdNOWN0Zkh0Q19lcUxhX1JPcklWdjBrZVIwbkNJak5qRlkwaDR0eTR1MFE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T13:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -736,7 +746,7 @@
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-11-26T11:05:04Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -1130,16 +1140,6 @@
    "date": "2026-11-26T09:11:45Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "df21609951179b",
-   "title": "Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5",
-   "source": "Sky News",
-   "date": "2026-11-26T09:11:15Z",
-   "score": 10,
-   "category": "Tecnológicas"
   },
   {
    "id": "fa4f956ed0a240",
