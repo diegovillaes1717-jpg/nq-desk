@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T04:11:16Z",
+ "updated_at": "2026-11-26T04:16:01Z",
  "items": [
+  {
+   "id": "0316825a68994f",
+   "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+   "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+   "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+   "source": "CNBC",
+   "date": "2026-11-26T04:12:18Z",
+   "score": 5.0,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "124e86dbe9ff2c",
+   "title": "Section 301 Tariff Rate Set at 15% With No Stacking; Taiwan Stocks Surge Over 1,200 Points Intraday to Reclaim 39,000 Level",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcTdYeVYtQWtnQ2xPanU2TUVkWXI5ZGw4ME5IUlJpYnczTUloVHB4Z3hDYU1XU09aWVhnZTEwaWt6U1R2MUgzTC0yUWg4WFpoOHUwaFhEX2JMT1BkLWo1WUpTVUI2OHBDYWx3WGFtcnVUcGh5Y2c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T03:55:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "9ff946a83f1836",
    "title": "My Nvidia stock analysis shows bulls are better than what most seem to think",
@@ -210,16 +230,6 @@
    "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -642,6 +652,16 @@
    "category": "Macro"
   },
   {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
+   "source": "Metrobank Wealth Insights",
+   "date": "2026-11-26T01:21:25Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "14abc9198bb43a",
    "title": "Ringgit opens higher vs US dollar on AI-related market caution",
    "summary": "",
@@ -690,6 +710,16 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:06:33Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "1ac3fb10d0b5b2",
-   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxYMmF3bk5GcW5ocUxTTWhPdXpMLTlTSUlsaUJoRjJBN0tWb1UtcmdfU3dycEV5eFI1clhrOUlBWDZlU0VqNkNYd01ERl82Q2xxdkpfT01jQ2lRbGg0a3BkQndrc01hb0JtTGNpOHRPT1RITkZEUTJXVHRLc0FCYk5CQ1VzeTR5ampkbmZ2bVRsckRuQ0l3Z1ByODBScENJU3pvYnR0M3hyYXFLd2pnU0d5YUg1V0t1TG1YQ0kzeGtidw?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-25T22:46:44Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b20071c2525c52",
-   "title": "Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzF1ZWR2RmZ4eWotR3ZrQWVPbFd0aHpQS2lQUXI3eXJSTW4yNTlvWlBkNHZCd0pJaDFXQldhWWVNd1l2dFp2WVpidG5YZHE5SHBNelA1TWdDaXRkWHVOTVdFMlRVSjRIeHpsMlN5YmdnQ2dYeFpTa0Zka2Y5RXRybmRJQ1Q3cVliOHZmWmdmTkpjejUxcnlMZmJ4MzlkVkZWOVVzZnRsWmoxWTZCZG5PWGx5WQ?oc=5",
-   "source": "Houston Style Magazine",
-   "date": "2026-11-25T22:45:32Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c8a0ee9d9df1cc",
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T22:45:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
