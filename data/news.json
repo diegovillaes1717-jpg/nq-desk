@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T10:15:40Z",
+ "updated_at": "2026-11-26T10:20:24Z",
  "items": [
   {
    "id": "8ac2338fae6352",
@@ -172,6 +172,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "ec566af9997902",
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-26T09:15:23Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "0d9f9e538a5202",
    "title": "Hotter US Inflation, Growth Raise Fed Tightening Fears as Bitcoin Tests $58,000 Support: Kang Min-seung’s Trade Now",
    "summary": "",
@@ -319,16 +329,6 @@
    "source": "CryptoRank",
    "date": "2026-11-26T08:36:47Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ec566af9997902",
-   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-26T08:33:54Z",
-   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -655,7 +655,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1033,7 +1033,7 @@
   },
   {
    "id": "2846b77f0d46dc",
-   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000%.",
+   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzMyUjJjQU9pdDFFalVPX0lBNkpuLWJWaDAxcVM4X1pjbUU1M0h0MTl0RGhqNGZISEN2SE44d1EyUUpTQmhYRWVmLVh0cDdlV1Nlb3RCRU5PZWRWNmswUk9JU1ZLdXZDMVBPUmZlQTcwQlBtdWJkQVBZQnAwTG4wcWxDbHRxaWNJejBBZGN4cVZVTkFQSHR0cEw5bWFJVGlTUnROWmhaZHRwamhsdHBubTk2T1VpNVFybHV0ZHpXaVNGcEIxdmdBMmkwMzhzNHM2MmI4?oc=5",
    "source": "Facebook",
