@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T19:05:16Z",
+ "updated_at": "2026-11-26T19:09:59Z",
  "items": [
   {
    "id": "8108ca529710c4",
@@ -145,9 +145,9 @@
    "id": "9d351806b04c84",
    "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONS1teG1tT1h6Ry0wdmFDQmZzSzRxdzB6Yk1WZ2F3cXVDcjRMRjVrNTc0WENKWlA5c2ZRTnRnOFd0VGVDbVBDdWxhRkFtTmkteDVaVEs2SVhNWXByNGl5YVZpVHVJTkdwQjRMNnU1VXRibGs3Um9rdHJzeGRVQUQwbkJEUzF5YmlINGc?oc=5",
-   "source": "Myrtle Beach Sun News",
-   "date": "2026-11-26T17:47:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWZNeGVPclBTbW1iX3VIU0lvZzFRazNjdl9VWHgxaHlDQnYyaFkyODNVNmVXMHZwYlplYVVBSFlhdWM4N3lFTzZVbW9OblBJaDdzbHhYOFhFY1JZb2RoYnhnVHNfRFBWcTZ3U1k4ZFFXclJFWmQwa2wwSWFQSVYxbDQtX0xabWZYa2Jwd1lKWmhzd3V2U093QkkyZ3AwUW5CVUs5NVNkdWg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T17:42:44Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
   },
@@ -452,12 +452,22 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9dd8faefde0e81",
+   "title": "Stocks rally, Europe sizes up next ECB chief",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-26T15:51:24Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:07Z",
+   "date": "2026-11-26T15:49:06Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -675,8 +685,8 @@
    "id": "3b194c3c92af64",
    "title": "Michael Burry exits Nasdaq-100 short",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVrMjRZdjhIbjN4YWFlakNFTUJ2ZHZndjgxLXFZOVd4XzRuQWkzNjUzNW1fUGNfby1tNnhWSDlDYkdZc0R3N2NJVHZtWnVkLXVRbXVMdjRUNWM2U2JpWDFpQmRzWnNLZlJ1eDFQMzdIS1FXeW5LdVRxQjJMa2EwckJGUTlISWpqeW5uR01pXzhxbllrN2w5S1BYRkM?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTlweUdtelVQNjRTRFpZSEZhRnNSTlJFRm5ESUZDOUVJcmlIcDdYMUhzdElkT2lmUW5nRGVmTGk5NGNuSVBSWFRHSnp3WWd4NFBMT2puM2NUSTR3c0IzYXBZU3FFdEZaR1BnV2l5ekV4QmpLbnZrbjM1T0Y2WDBZQzk5Y0hVQQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-26T14:47:00Z",
    "score": 4,
    "category": "Tecnológicas"
@@ -902,16 +912,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "830e28fa019b6b",
    "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
    "summary": "",
@@ -919,6 +919,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -1028,6 +1038,16 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTWJXMkxiSUp0MjU0X0tMZV85a21lUmdjSExnM0RBcndFR1dsTDVxRmNGV0xZMDdLWDN3Ym1CaWtDMElESkpRQlJKRTFDamQxZWptemZRNTlQWEtJNGdXNkdjRmw4Qjk4Tl83RnBVRWtTOHE5LUE?oc=5",
    "source": "BigGo Finance",
    "date": "2026-11-26T13:05:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "1f3fabf4604af4",
+   "title": "Gold drifts lower as Fed rate-hike fears loom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaS01cTRpU3QtN3AzeHN4UHdHdFQ3UTVFUzNqenpXcWdiMUdOU2lpQVh1bk1uWklCRTZSUHpJMExkY2ZPaUh1VVFXMnJFWnB6TVhmNjV4Mm1jbU02X0hBcERnMm8xb204NE5QNTYtbkwwZVM2YUNpNl82NzlUTzRfUVZYelBVRXlRX0FtOUh6U3JYaEpIR2ZMNA?oc=5",
+   "source": "Kitco",
+   "date": "2026-11-26T13:03:19Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T12:30:42Z",
    "score": 7,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "4aecb690482a5b",
-   "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1hKOFBCSG1oQU9VcU1MVmI0bUVvQWJLZ3JkMnc1MVBxaVlkbVFMaGZoTlhoWVVlV1lCVThUUzRfaWxhX1VkMGVXMlRaWTJDa3VpUmJZYzYySVRKSTVJX0ZUV1F0dUo0bWo3WDhCQV9NNEJEUzNmUlF1aUM5TmFra1p1OENVVXlGLWJCSXQ1aHBFWW10YUZiX1BzTQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:28:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1e6f958485bd3e",
-   "title": "Banks and tech stocks drive markets higher, tariff concerns ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFh3SWVNZ2ZpVnNPTVg5UWFWSktYblRIQmp2OG5CV0RtSkwzWVJLY01ndkdXNUlwV3hlYTVlTk9NOWN2OF9BaEUxNVdDZUkwTV9EdmNNRkxGaHp4S2o3U1RrbjRQUUdwTTUzcS1tczJpOXhZZlVRVGo5aTdqRV9XWlBmREctUENRbGVBMFZLMXl0cEl5aWpFeGJrUFJFRTFyRGVuM2xEU0dyTmJNVjluMjdOaTVjVTg?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-26T12:25:05Z",
-   "score": 9,
-   "category": "Tecnológicas"
   }
  ]
 }
