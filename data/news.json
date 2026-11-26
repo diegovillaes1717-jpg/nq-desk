@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T23:07:17Z",
+ "updated_at": "2026-11-26T23:12:02Z",
  "items": [
+  {
+   "id": "a9f45b768bfca4",
+   "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+   "source": "BBC",
+   "date": "2026-11-26T23:08:12Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "14eccb7b2a475c",
    "title": "Nasdaq-100 Logs Widest Five-Day Average Intraday Range Since April 2025",
@@ -18,6 +28,16 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhTnB1SWtDcW1jYnU2NEFNY3FiYk9KamRsQ1dTLWh0ZXlDWVE2Z3IzU2Y4Ym1HYWNTZjFfU1NlbzhwN1pkSUZULUtoOHE1b0oxaTZtREpsb1dXaDNfejNITzRNc3Zhd0FKTmNSM2p2aW9pY0xwd1NOb255RGIwQ1k?oc=5",
    "source": "Crypto Briefing",
    "date": "2026-11-26T22:53:55Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "a9ca664b7a5010",
+   "title": "How Apple Avoided the Stock Market Crash With 31% Gains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MDRwbDVnRVZwbGEybFlQZjZLOEdCNGdRMTBhMlhkY0pNLWJaUnFIWEZlQl8yTmw1aU1GS1BZamY2WTM3YUZyX0RDSVNXVXZpcGtDOFVHNS1BVjlIOGIxb2ZMVUxSQk1ETDFzQU01cw?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T22:49:10Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1142,16 +1162,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "a9ca664b7a5010",
-   "title": "How Apple Avoided the Stock Market Crash With 31% Gains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MDRwbDVnRVZwbGEybFlQZjZLOEdCNGdRMTBhMlhkY0pNLWJaUnFIWEZlQl8yTmw1aU1GS1BZamY2WTM3YUZyX0RDSVNXVXZpcGtDOFVHNS1BVjlIOGIxb2ZMVUxSQk1ETDFzQU01cw?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T15:01:57Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "5ab934b951e2ba",
    "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T14:57:16Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "40d48ac3fdfc60",
-   "title": "US Treasury Yields Stay Elevated as Growth and Inflation Expectations Shift",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV29RVlpYb1dGZWxsd0dqM1owUHp4aXdKa0FpNGM0aGdOQ0NreFk4bnM5aGFuanhvNWF5ME05cnNyMmhHaXdYck1Fd0VEc19RMDNxRXEyOGF4UENKT2ZNMm03WnJ4VURZMk5zbGRqalZlQlk1bU1OOXVnNEFDVnUzT0ZkVVdOOXB5RHY5eGlPQzZVUDBycWxmdnduNVJPMk9TSjBsejMxbkI2VDFHM2ZiSG5YQQ?oc=5",
-   "source": "kalkine.ca",
-   "date": "2026-11-26T14:56:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
   }
  ]
 }
