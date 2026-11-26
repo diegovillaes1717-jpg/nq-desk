@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T08:07:04Z",
+ "updated_at": "2026-11-26T08:11:48Z",
  "items": [
+  {
+   "id": "d9d945b640818b",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "source": "CNBC",
+   "date": "2026-11-26T08:09:39Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "28f132b21e4dee",
+   "title": "Lori Huang's Nvidia-funded foundation gained about $2.3 billion in a day on Jensen Huang's return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXc4NGx3R0dCZHJHY0UtcVZ1T3RjNDVJdWRPcHd4cWVQU1pHMS1oS3lIWktjMEdBVl8tNjRLQnJTZ1JINHZxQTRBZVp6REN6aHpoN0NEc0ZNc0RaUFROVUE5MlBpemV4RHZrQk8zVU5HVEVfZV9mLVU0Q1B5dHA4M1I0T2pvTkpETXZfVnhCRQ?oc=5",
+   "source": "Fortune",
+   "date": "2026-11-26T08:07:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "7adeb4f809611a",
    "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
@@ -473,7 +493,7 @@
   },
   {
    "id": "2846b77f0d46dc",
-   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000",
+   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000%.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzMyUjJjQU9pdDFFalVPX0lBNkpuLWJWaDAxcVM4X1pjbUU1M0h0MTl0RGhqNGZISEN2SE44d1EyUUpTQmhYRWVmLVh0cDdlV1Nlb3RCRU5PZWRWNmswUk9JU1ZLdXZDMVBPUmZlQTcwQlBtdWJkQVBZQnAwTG4wcWxDbHRxaWNJejBBZGN4cVZVTkFQSHR0cEw5bWFJVGlTUnROWmhaZHRwamhsdHBubTk2T1VpNVFybHV0ZHpXaVNGcEIxdmdBMmkwMzhzNHM2MmI4?oc=5",
    "source": "Facebook",
@@ -922,6 +942,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -975,7 +1005,7 @@
    "id": "46f80705fe38af",
    "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n0gHYAUFVX3lxTE9nNmZrdVlfWGYxRi1oR2Fod015V0doaFNLQnNLN2dhLXc0TGhia0hSZmhCbTdwaHc1aVVGaEZncjFQTXh5Z1IzWnd0eVRUZ2Q0bnYtOS1UMm4ySnVPQjAwd0xTX1pQSTdhTzVjc3FyT3A1UTVraTB3dWI4UU5wSVpCd19pMHRLX0pGWmxibjRITEhKMFF4N1IwRlpvNlMwMnBMd1ZUZWgwdUp3dFV5dWlSRl9nR3kxZnEtQVNKcHFyUzUtUVJNdjNsc1NSS3QzMHFxVERmRWlvWQ?oc=5",
    "source": "Business Standard",
    "date": "2026-11-26T02:42:48Z",
    "score": 8,
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T01:53:20Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "9051b881ca7161",
-   "title": "US proposes up to 25% tariffs on Indian goods under Section 301: Check out the sectors and stocks impacted",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3ZQeEZPRUF4Ykd1TmE1OVlaam54eHgxRUY5dlNOUHpObHVlZjRpVUlqdUJjQnc0SXV2X1hfTGhEWjYtRmpQaG1KV2dZc2NhNC00TENSV3hLN0tJOHpkVzF0WXpVbVdsWlpDb0VGMFFsNkV1U2FwLVBsSFJUTEFRV0RJYU5tYVFiMnh2VnFfdTJMMXJWanhfQU5OUmdsNDhON0p4NWIzd2VhdlAyd0ZWdG10cG5lVTNkbTY5Q0RGVFhIVHZmZzJqQlVfX0dBU3I1VVdYQ3hfc9IB3AFBVV95cUxPbnVYdk1KeTYxSUFsVF9oeU9IMzI5a0EtQUpLZ2FlOGVXYl81eFF4OXBwcVNDdWVRTnYycEl0ZU9KczMtMUcxM055VjR0VGtMaExnakpGUjdpM0EtRV85cVZ6c1BSb0RLcEw1T2E5bjRGX1I1UUR0bHRSMnNjdDJsSkVxenJOSE9sMmpZaGZHZHdmTnVZMEY3bGtmMGwwLVZtRGtUSE5XSnBsQk5LS2FPeUtXQXFuQW0zYzhkSUpiZFN6QzlCYmtrM3A3UGc2MVpmWkdtcDc5Mzk2bDNG?oc=5",
-   "source": "CNBC TV18",
-   "date": "2026-11-26T01:52:39Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "f7079d78a66abb",
-   "title": "High US PCE, Trump tariffs and hawkish Fed outlook weigh on stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3Z2VURBaDlWOFd1TlRWVDh0dmVzM09POUpJLUY4djhwUDFpUDAzc3pISmc1RGpsRks1bEl0a3BEc01QSG9JUF9jQXlxT3NsLWZyV1MySXU0b1ZZbk9XM2JfQ3pkSGNYRWFCa2JWR2R4eWlCRWt5cDRXMG02RHJ0MFY3YjR4LUxYclItWUxtVDVnQ0k4emdsMGJ5RWxTb09sZFZCRlNVRU14a2VVcUFOTGJn?oc=5",
-   "source": "www.equiti.com",
-   "date": "2026-11-26T01:51:15Z",
-   "score": 14,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1021999720a71c",
-   "title": "Trump Tariffs 2027: Inflation, Fed Rates & Stock Risks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3RQTHA1azE5Uk1LWmJtYnpmRlQ0eEJEWnBsS1lYazl2THRsSFdtTVJtT2tGWER6VElya1JFRVhtc0JfZUZhY2VhMUNYaXllTDFEd1gtdkFLWU93X2pqTVM1Wi1BWEltdlY4N1M0ZEoxYzBuTmgtaWp5c3FVZEhnRGM1dEJiNmdLcU9lYjYwRVR2TWpLTFUwQWpZRUp0elJD?oc=5",
-   "source": "www.equiti.com",
-   "date": "2026-11-26T01:49:01Z",
-   "score": 12,
-   "category": "Fed y tipos"
   }
  ]
 }
