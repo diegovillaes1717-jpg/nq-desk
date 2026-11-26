@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:39:46Z",
+ "updated_at": "2026-11-26T20:44:29Z",
  "items": [
   {
    "id": "3d60207bb95915",
@@ -75,8 +75,8 @@
    "id": "6a49b7e9a09a8d",
    "title": "Five takeaways from Trump’s new tariffs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHhiekREaEpuUkFNcjJCc09KVW9lSEdQTFhzOVplUGd6VGFCZ29GNzRHd1JFcldXaTM5SzZYYUQ1a2hCTVZLSUw4YmVzaE9kbVZHQlBQUjctVG53R29CRC1IbGlyVWhFbnFSczRMazRWbXFqRG05NG50bHdGeUJiLUl2VTJPSmNYTlZMdk1OUXRocEdXVXc?oc=5",
-   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjVkYWQ3NDV5T2ZTTFI3c1d3eFA2QnNBN3lrbHVWZ2FoMzNFYzNVLV9ETk5LZTV4VEJBQWhYWlBVZUZMbkZsdWFLM0pENW9hSnVmdWYwYUFKZ1ctMWd1VC1VOU5feEVKTVF3NFdBbml3QXMySk03ME85MWZ5N3BVQXA3eDVHSjYwUDNjS2VFcw?oc=5",
+   "source": "BNN Bloomberg",
    "date": "2026-11-26T19:36:07Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
@@ -252,16 +252,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fd63a55abf4972",
    "title": "Fed December Rate Hike Odds Climb After Hot Inflation and GDP Data",
    "summary": "",
@@ -392,6 +382,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T17:35:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -449,16 +449,6 @@
    "source": "CryptoRank",
    "date": "2026-11-26T17:21:26Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T17:15:02Z",
-   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -725,9 +715,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:06Z",
+   "date": "2026-11-26T15:49:07Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -912,6 +902,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "ec642a75484768",
+   "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZBWVE0U1VoV3FUdW1wZmZqME1KdDFheEhLUTBSS0JCWjI5azVNZEhqdVlLdG9qSjlLTE11eTdPeVFoR0Rhd2xlS3ZUM0xOZzM3Y0RoMHV1aFctZnp4QVpLR0t1ekhmVXJnd2RxSkdYVHk5cjM2Y0tOZlNpUzRseVRONm05RWxaLWI4MExmZ2ZxSFIzNXhaV0Vrb3BzZExzeVVjOG1ub25UblZVRlJxeUprSEV2RWJXRnfSAboBQVVfeXFMTTNmQVlRNFNVaFdxVHVtcGZmajBNSnQxYXhIS1EwUktCQloyOWs1TWRIanVZS3Rvako5S0xNdXk3T3lRaEdEYXdsZUt2VDNMTmczN2NEaDB1dWhXLWZ6eEFaS0dLdXpIZlVyZ3dkcUpHWFR5OXIzNmNLTmZTaVM0bHlUTjZtOUVsWi1iODBMZmdmcUhSMzV4WldFa29wc2RMc3lVYzhtbm9uVG5WVUZScXlKa0hFdkViV0Z3?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-26T14:58:41Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "40d48ac3fdfc60",
    "title": "US Treasury Yields Stay Elevated as Growth and Inflation Expectations Shift",
    "summary": "",
@@ -958,16 +958,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGZZSW5hcF9tVkRJTG1lVk8ta3Y0VjJEQ1VkeDJ6M19XcC1KSnVNbGtXWlhVX1pscG1KNWY2MHFXLXIwUFFLdTdXb09kUGFmUFQ3VkxTZlEzRmZGWmhzSTVOMzA2dVFaSW1xeE1BRloyYkQ3R2RlYURsOVBRMFN3eA?oc=5",
    "source": "Barron's",
    "date": "2026-11-26T14:44:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "ec642a75484768",
-   "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T14:40:01Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -1200,6 +1190,16 @@
    "date": "2026-11-26T13:35:00Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "8562798026709c",
+   "title": "Trump’s new tariffs aim to prise global trade from China’s grip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5",
+   "source": "BNN Bloomberg",
+   "date": "2026-11-26T13:29:53Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   }
  ]
 }
