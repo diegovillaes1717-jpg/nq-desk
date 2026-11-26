@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T13:46:15Z",
+ "updated_at": "2026-11-26T13:51:02Z",
  "items": [
   {
    "id": "1730141347dceb",
@@ -32,6 +32,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "9c78eb6907de97",
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "source": "CNBC",
+   "date": "2026-11-26T13:19:25Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "3e29f22c411ec6",
    "title": "Trump tariffs may push Fed toward rate hikes amid inflation concerns",
    "summary": "",
@@ -52,6 +62,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "125c74fa1f3e35",
+   "title": "Schroders Warns: Even If the Fed Pivots to Easing, a US Stock Rebound Won't Last",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTWJXMkxiSUp0MjU0X0tMZV85a21lUmdjSExnM0RBcndFR1dsTDVxRmNGV0xZMDdLWDN3Ym1CaWtDMElESkpRQlJKRTFDamQxZWptemZRNTlQWEtJNGdXNkdjRmw4Qjk4Tl83RnBVRWtTOHE5LUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T13:05:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "af40757c87c373",
    "title": "An Apple Executive Just Filed to Sell $19 Million of Apple Stock With Shares a Hair Below Their Record",
    "summary": "",
@@ -59,6 +79,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T12:57:55Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "4d55f0d17083b6",
+   "title": "Nvidia’s ‘great man theory’ is flawed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHd4NWdic2VObXZYQmM1Q25PbHVDNDdOUFluUjI3aEZ4V0Q4MDJKc0dzUnBtclprYVppaTV4VmlKM3lNS2p4R2F5WjhEUEV2Uy03S2tYOEhHLVBhMjQ5ay0wcWRpYjA0ZjREak8wa0xVZVBabUVCdUJueV9RYmJlY0l5YmY?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-26T12:56:10Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T08:07:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "fe34625d8ce60f",
-   "title": "US Inflation Challenges Expectations For Faster Rate Cuts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN09nSi1GY0cwU3RiNUw2MjdqellicmdYTUJWMDREVHVvVERILWFaUlg5ck9rSmpqSnA3TjFrWnRtZmxWdlQyR2xtbEFwREphcE9lWVlTZkJVY0ZDQUZoQUcxTTBZM24yTUI0U256VFRQdElvdndTVHZLYjEzbHdzUHVXalRmMEFDQnZuQU5sNkdWQkE?oc=5",
-   "source": "Cointribune",
-   "date": "2026-11-26T08:05:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5b32bc44aac9e0",
-   "title": "China hits back at Trump’s latest tariff threat as trade war tensions resurface",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0YwWVBlV050R3lZWWNsZXpvc04wYktpSTBqeXlzNFFHcHEzWTMtdVVNZFVwOVliaWZHRkliVXJKb01JRy03YVlpWjBaaFAzZFFxdy1wdmdRaXBYNlZmN2w2NV9MT0xmbTNjaExJc1RBQzNkQ1M3Q2hEQk0zdkdfQVFGVEhmbnI5MmpXcVNsQzNSZXh1NHBDNGtFRUxHXzBRQnJ2clVLa0lVczJUZ1ItRg?oc=5",
-   "source": "investingLive",
-   "date": "2026-11-26T08:01:57Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "d7e94175a7cf5f",
-   "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
-   "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "source": "CNBC",
-   "date": "2026-11-26T08:00:27Z",
-   "score": 3.5,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
