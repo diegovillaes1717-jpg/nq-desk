@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T20:49:12Z",
+ "updated_at": "2026-11-26T20:53:55Z",
  "items": [
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-26T20:52:56Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXJmNnBwOWlWbURoVGNVZGd3MUpTN0pLNVBMczByUjN2NVRmYmZjaUpDX0J5VDlHLXJXSndGSkNQdEtQd2JhMEtkTG9LLUtyN05ZRjZMZ0RpTzNWYjRnLVkwVVdDaHNqLVNFR0ZQbTRwck5ibUdXQXFNaFFOZ05GQVZtS3dLY012clV0N2FDeGZ1MEFFYnd2ZXdVSUxLWHVnY2d0dFRsb3JSNS1JN2M5Mw?oc=5",
+   "source": "WGXA",
+   "date": "2026-11-26T20:51:08Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "3d60207bb95915",
    "title": "🇺🇸 The Fed may be forced to sacrifice its inflation target to save the AI bubble Trump's intervention to rescue Nvidia may have revived the stock market, but economist Jeffrey Currie argues it did absolutely nothing to address the underlying credit crisis threateni - X",
@@ -30,6 +50,16 @@
    "date": "2026-11-26T20:07:53Z",
    "score": 6,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "2ebc8752a04c56",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnplaktWQjBPaDF6ajJQbW1QM3BGQWNBcXBCZzNtYXpNaFh6ZkxSanhMZ0JLQU9FU01Xb1BnRFFWMjNfN1R3SWtwVVV2OXJ2MlVfeUIzc2pWa3lnSk9fWE9nVjlfY2M3YlFmS21NdnNyTE9mbURLcEFfM0swVGNSLWp5WmpDdzlzWHNsSUYtbElsQlloX01Jbw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T20:03:54Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "ba5385a4b3f745",
@@ -75,8 +105,8 @@
    "id": "6a49b7e9a09a8d",
    "title": "Five takeaways from Trump’s new tariffs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHhiekREaEpuUkFNcjJCc09KVW9lSEdQTFhzOVplUGd6VGFCZ29GNzRHd1JFcldXaTM5SzZYYUQ1a2hCTVZLSUw4YmVzaE9kbVZHQlBQUjctVG53R29CRC1IbGlyVWhFbnFSczRMazRWbXFqRG05NG50bHdGeUJiLUl2VTJPSmNYTlZMdk1OUXRocEdXVXc?oc=5",
-   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEdjSkhqTHNPTTNIYml4OHdxMlVUWmc2am1QcEUtTmZRQzlWUzZRMVQwQW1iV2wzanZ1bVR0SHY0eVRhQUM3bmVibVhJM2REc1FKbGFoZWl4ZlRtM0FZLUk3U3I5VWpvUW41d3o3OUpNZDJkRHNleHlBalJuc0h3bXdjR0dwQl95NFE?oc=5",
+   "source": "CP24",
    "date": "2026-11-26T19:36:07Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
@@ -220,16 +250,6 @@
    "date": "2026-11-26T18:18:05Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "e7d604cd8d5229",
-   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-26T18:16:37Z",
-   "score": 4,
-   "category": "Tecnológicas"
   },
   {
    "id": "bba671f1f702f8",
@@ -1035,7 +1055,7 @@
    "id": "c6c662e152b808",
    "title": "3 Export Stocks With Limited U.S. Revenue Exposure As Tariffs Reshape Trade",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFlqZ2tPTjNReUdzTEpKS3ZVTGw1b3dWYy1lams0RVY1OU1iNjI1X3RxLW5BZlByMDRfVnlhaGdxT205VFJtMHpsRWwtcXAyclVFVjE2TFpNRjB6bHc2RkRpR2E2MWZyU2xTZ21tcFIzQW5GVzNHQWNuZ05wc2RKQmFYMTdCdkZGM0tjSnNvQmhGQmZGTHdHMmpzZ1ZtVVZzVGtHN3BrVzNlRmdxQV9HLVJDQ2s3SXk1VldFSWpaX2p1SFk4c1Q1NFdPdllNSDB0WDNtTnplOWxsZVp3RHZqNjJR0gHiAUFVX3lxTFA0WWpna09OM1F5R3NMSkpLdlVMbDVvd1ZjLWVqazRFVjU5TWI2MjVfdHEtbkFmUHIwNF9WeWFoZ3FPbTlUUm0wemxFbC1xcDJyVUVWMTZMWk1GMHpsdzZGRGlHYTYxZnJTbFNnbW1wUjNBbkZXM0dBY25nTnBzZEpCYVgxN0J2RkYzS2NKc29CaEZCZkZMd0cyanNnVm1VVnNUa0c3cGtXM2VGZ3FBX0ctUkNDazdJeTVWV0VJalpfanVIWThzVDU0V092WU1IMHRYM21OemU5bGxlWndEdmo2MlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWEx0bVhBc3hCUnBfanAtS1VhRDhkWkE1WGk2bjRJQy1XREpkZ3MweGszajNlU1dBZEh5UXBCRjBWMDhGVmNmUmpZYkxvcUpXU0NBZ3htMXB1LVNXa1dhZnlTSE1Lc2ROUklNd0NUOHF3WGNkaV9JeWMtQ0hRTFJZUE1IN3JUeFhIZFVfQU1sTzREZmZmcS0tVExfdTc5cWFiQ0F0MG9uU0lFS0dvY3N3QTlHVDJ0YnM1Q1lnNFJQaU90b01mRjk2VEdVM2tBUUI0Nk5LWG9MQkZUT2900gHiAUFVX3lxTFA0WWpna09OM1F5R3NMSkpLdlVMbDVvd1ZjLWVqazRFVjU5TWI2MjVfdHEtbkFmUHIwNF9WeWFoZ3FPbTlUUm0wemxFbC1xcDJyVUVWMTZMWk1GMHpsdzZGRGlHYTYxZnJTbFNnbW1wUjNBbkZXM0dBY25nTnBzZEpCYVgxN0J2RkYzS2NKc29CaEZCZkZMd0cyanNnVm1VVnNUa0c3cGtXM2VGZ3FBX0ctUkNDazdJeTVWV0VJalpfanVIWThzVDU0V092WU1IMHRYM21OemU5bGxlWndEdmo2MlE?oc=5",
    "source": "Simply Wall St",
    "date": "2026-11-26T14:12:36Z",
    "score": 6,
@@ -1179,26 +1199,6 @@
    "source": "www.tokenpost.com",
    "date": "2026-11-26T13:40:17Z",
    "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "830e28fa019b6b",
-   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
    "category": "Fed y tipos"
   }
  ]
