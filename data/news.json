@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T06:51:15Z",
+ "updated_at": "2026-11-26T06:56:00Z",
  "items": [
+  {
+   "id": "3f88de8e7ddb25",
+   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T06:53:41Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "d6eec1673bbb1c",
    "title": "FTSE 100 Live: UK stocks to rebound after Wall Street recovers from AI sell-off",
@@ -35,9 +45,9 @@
    "id": "171cafa57f40d5",
    "title": "Michael Burry is more long than short after unwinding Nasdaq 100 put options",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTE0T1JwYVlwMzhHc21aeWFfZ3RVU1ZOUFBzNGhRWFhad0FiSC1Pc0VjS19nY3NmRGZSUU84SVJVNFkySFBkN3RIUWFwWjFpVDdvb0d3VnZnXzBZTFBsVXJiUUtIWHozVUxNbnRJLUc1cHZXQWF5cHZCOWhicDRGQkcwTEQwRnUtNjY3a3h0U0R0b09aTkpZTG9TSVdLMEZmLWhUQmxncXJ3bkJndjF1NkpPcE0?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T06:21:21Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM2ZOcTZ3Q1FBQUdNTUQ3UEl3WXozNmdwMjl5RXlrR3AzdHhiTXdGcnJPQnE4Q1k3QUk5MmRpdkFfdTY5cWpjZ2hTQzF3OHhSVlQ0WEN6N3ZVS0VxMGhqYUpscHJNb01rQ1plby1IVlRoZUxkZG4tVHhpUF80Sy0zbi1JeDVqR05BTXYxUE5xYWd0c0RXcnVYdXNUM20xTzJuVjRNYnFBYzhUdzNYRTVTcU9LdU1tTU1paWVyVTFFUjBlNlo5N1BBY0s1aUtzbUU5NjcxOWV3?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-26T06:21:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -52,26 +62,6 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "3f88de8e7ddb25",
-   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T06:01:28Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
-   "source": "Decatur Daily",
-   "date": "2026-11-26T06:00:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "871981e68663d1",
    "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards",
    "summary": "",
@@ -82,6 +72,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "a4f4198e59bd6b",
+   "title": "Australian market up despite Trump’s tariff announcement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0lTcERETXBIRWhSYTh1TWc4cXpNNXQ4MENXR0MwQ0dqNm9MeExpQWVsLVZpaDctSXExVTY2Vm5MVzlLZXZvZzQzd3YtRjFMZnRGVUZ1V2pka3VoTlhNNE54ZjZCTEhXOVl5UDM3SVpIbjB1UnlsQ0sxWW52blpXN1hoZWY?oc=5",
+   "source": "Mining.com.au",
+   "date": "2026-11-26T05:37:20Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "88ab43384553a8",
    "title": "Korean treasury yields fall across the board ahead of BOK rate decision",
    "summary": "",
@@ -90,16 +90,6 @@
    "date": "2026-11-26T05:35:27Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "a73f666a87c562",
-   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T05:34:39Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "1f61439424a712",
@@ -130,6 +120,16 @@
    "date": "2026-11-26T05:25:19Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "a73f666a87c562",
+   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T05:22:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "88eab4957d2e38",
@@ -617,7 +617,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:58:00Z",
+   "date": "2026-11-26T02:56:59Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -832,16 +832,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "725af62bcf944d",
-   "title": "Core PCE Inflation At 3.3% In October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
    "id": "13a6be33b39619",
    "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
    "summary": "",
@@ -850,6 +840,16 @@
    "date": "2026-11-26T01:55:00Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "725af62bcf944d",
+   "title": "Core PCE Inflation At 3.3% In October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-26T01:55:00Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "b052fc8e5d02cc",
