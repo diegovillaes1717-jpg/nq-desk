@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T00:23:32Z",
+ "updated_at": "2026-11-26T00:28:16Z",
  "items": [
+  {
+   "id": "93888dff47e013",
+   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
+   "source": "Bloomberg",
+   "date": "2026-11-26T00:18:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "31d37106a1141c",
    "title": "Michael Burry sells Nasdaq-100 puts, shifts mos...",
@@ -432,16 +442,6 @@
    "category": "Macro"
   },
   {
-   "id": "45f94a6ccfd47d",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T22:06:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "674a566e92dde7",
    "title": "This Is When AI’s Circular Deals Bite Back",
    "summary": "",
@@ -635,9 +635,9 @@
    "id": "fadc45924372ff",
    "title": "US Bond market down ahead of Thanksgiving holiday: Reasons why 10-year, 30-year, 2-year treasury notes fel",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOHZRU0QtM3pPc25ZMDhsbURWZS02Y0pvNzdfNmxVTlF5bGpDeXZkLUVkT2pLR0FGbHZHSDdGZlo2WnoxektoU3NZQTZ1MGhRRXVMTFZSVWpZcGxaLUg0X2hhMkJybGF6ZDVON3BWN1NSZlk0cXZDY1lGYjVtY0RYbWxrX05rZDdTSFR2T2dSVFdVdnhyWkZmckZYNUVWbldOQy1rUnI5aWxfSXJlTzYxcUNDX3Fjdno5MHVPSWY3MVVtOEFRaUZxSzAteFlkZlJoMXdqeTlwMW04RXFpa1pjR01BQkZsS2lmQ0ZlTi1jWVRoVy01US1OX3dHZDJqaGxxMFpVT09ZMjJtVjl6dWV1eVR6a2FUVXhacEHSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN25FQUVjUDA1b3NDT2dIMFBFNkNiODdGSEZ1dTRaUGFKbXVRSi1CNzlVT20xcV9YUWprdzI3UXZaLVpjYkZXTFgxanFxT3dyR1doaUtadTVRMEgzdWNjRzIySFVTYVZUd2RFYWJ6SXZlQVdMOTN1N0ZfWDE3b1FSNnNJVDNsWldoTHBFN28zS1RsSVM4RE8xSFI1VmJDOHBHZ0xTS0wyZGRPUlhqOUJGbWJfVlA3SVNVUWRzUHpFYVNJMDN3bWVpMmJUaFhSNFBmd3llUXlkaVNBQk5DWEV1WHhYUnhzRnpVRDlnUVJmN1Q2MEQ1eW91WHNKYUN2dW4zZ2VsX3pmOWdtZnVNYkhsMXJoenZsSVB3VUVmUzFFRzDSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
    "source": "The Economic Times",
-   "date": "2026-11-25T21:34:00Z",
+   "date": "2026-11-25T21:34:12Z",
    "score": 3,
    "category": "Fed y tipos"
   },
