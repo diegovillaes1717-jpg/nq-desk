@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T14:53:04Z",
+ "updated_at": "2026-11-26T14:57:50Z",
  "items": [
   {
    "id": "bdb12bb48cddac",
@@ -130,6 +130,16 @@
    "date": "2026-11-26T13:41:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "830e28fa019b6b",
+   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "8562798026709c",
@@ -942,6 +952,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1d403182edec99",
+   "title": "US Tariff Proposals Up to 35% Leave Inflation and Stocks Effect Unclear",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHpjVzdxYXA2cWctSk5LQlBaN0oxMkJhaW9XRWwwX3pBVUw0blNuRXZtcDNiVDJEVWFhdUh0Z3lCWTdlSXFjVlV3RjdnajZzQ1VFc3hPX3RUaVdJbjhNcHRLTjFiNXplbFJxNzQ3QkMxRUhtcUVweVExNTYxa21MMnBQQXdycm9uSjBfSjAyczlSa3puMmprYUJwSVp2bkxYN2pv?oc=5",
+   "source": "LeapRate",
+   "date": "2026-11-26T09:46:06Z",
+   "score": 9,
+   "category": "Macro"
+  },
+  {
    "id": "6e4360291b828d",
    "title": "Nasdaq 100 rebounds. Is the bottom in?",
    "summary": "",
@@ -1179,26 +1199,6 @@
    "source": "Zawya",
    "date": "2026-11-26T08:53:14Z",
    "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1d403182edec99",
-   "title": "US Tariff Proposals Up to 35% Leave Inflation and Stocks Effect Unclear",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHpjVzdxYXA2cWctSk5LQlBaN0oxMkJhaW9XRWwwX3pBVUw0blNuRXZtcDNiVDJEVWFhdUh0Z3lCWTdlSXFjVlV3RjdnajZzQ1VFc3hPX3RUaVdJbjhNcHRLTjFiNXplbFJxNzQ3QkMxRUhtcUVweVExNTYxa21MMnBQQXdycm9uSjBfSjAyczlSa3puMmprYUJwSVp2bkxYN2pv?oc=5",
-   "source": "LeapRate",
-   "date": "2026-11-26T08:53:02Z",
-   "score": 9,
-   "category": "Macro"
-  },
-  {
-   "id": "a788aceb4490b8",
-   "title": "U.S. GDP growth in the third quarter was revised sharply upward, with the Commerce Department citing strong investment and consumer spending, as the Fed's preferred inflation gauge hit a three-year high in October. Link to the full story in the comments sect",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5",
-   "source": "Facebook",
-   "date": "2026-11-26T08:48:03Z",
-   "score": 10,
    "category": "Fed y tipos"
   }
  ]
