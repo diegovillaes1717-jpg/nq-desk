@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-26T01:34:41Z",
+ "updated_at": "2026-11-26T01:39:25Z",
  "items": [
+  {
+   "id": "d0798417c2b4fa",
+   "title": "KMOR - Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFZEeGEzOUdDTWpjYy03WjVUZVJuSzlneFIxT0d5eU94eGJkRUE4dGxoRjY0R0g2NmN2U2J0anVULWxDNVFZS0tlZ3M1Nm01X2dvbVc4ZTJ1YXp6WWl5eVVkWHNlLUZsZVFXMzJJVGlrQmkxU1VobENpTEduTW5ON1FxWGdyY1Y2Z3pwOEJPc1lQamFOVjQ4Z0g2SW9mbng5b0p6S1ZjTDA3WmlWMC1hT3gzeTc?oc=5",
+   "source": "Rural Radio Network",
+   "date": "2026-11-26T01:37:41Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "75c1d9f4f4b287",
+   "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+   "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+   "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+   "source": "CNBC",
+   "date": "2026-11-26T01:34:58Z",
+   "score": 6.0,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "395245cf17ba33",
+   "title": "AI Boom Uncertainty Supports Ringgit Against US Dollar",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFWZlBteHJ5aXhEMzZ0cldrTkJ4M2JsTHhQdGZwaXl5MHZUM2hRVmFWZVBHZWh1clhfeGttNmRoQV93eDhxUWpXckw3LUZyVWZIUlo5ckdBd3VhaW1PNWVKMjNwY1dySi15Zm5CM3VRTThZc2tVMFBrdGZ5a1B1TkphdGNfTzBtT284eWx3RDUwRkVMRW9UeTBBdFgzdkpM?oc=5",
+   "source": "BusinessToday Malaysia",
+   "date": "2026-11-26T01:30:06Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "e57103169a375b",
    "title": "US Proposes Keeping 15% Tariff Cap on South Korea; Battery Stocks Rally Across the Board",
@@ -252,6 +282,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbkM1blo3VXVUYlhjMjBPWlA2LUZMaDhYYnNQVGNGWFdDXzRrYkJ2RjdIcXoweTRQSGJkdVNHVUJNOGVqNHZvSHNVMENlMzNTOC1FemI4MFZhdXpQX2NJaEFwbkt4S0FCUGV0LVRiQzJFVGNzQkdoOW9wQkh0Uy1aSHZ6Ri1yYkZkV3lmbWs2bGhQbmFJSDRmWVlvYjF1eFJBMmVnT0wtd3ByUXJxcjVmSHJteFRVNVJmNHJEaVR1OWJJaDJNMGNTa1UtRXZ0a1l4Z051TTZiOWl3clltaHkyeFZfWWtaVjJndUtJMFp3?oc=5",
+   "source": "WCHS",
+   "date": "2026-11-26T00:11:15Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "31d37106a1141c",
    "title": "Michael Burry sells Nasdaq-100 puts, shifts mos...",
    "summary": "",
@@ -438,16 +478,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWTV2YnlUYnVyajFFenNINWt0LW9IRU5GeUNoZmdFVS16UXlfQXk5MnVCLUZ6NUhSSnRXdk9vUXRIZUlxVlgxU05ON0JKcDh1TTlLX1dhWEt6SGFiZ0o4M0JVSjZQQXYtNlUzVUFia3ItMzRVdEE?oc=5",
    "source": "BigGo Finance",
    "date": "2026-11-25T23:25:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOS1ac0pnSHJsc1V5YkFuQS02V09sNWN2VzJjZElzTmR5VUNEcGlFOWhETHU3Z2Q0RE5yemZKSmhqd29qaDZIaHYwd2ZvMkNYTTFTeWhIQTItUURway1qQTJQVHRrZnRVY3hYY182dEtRaEhQRzdtUUpKVng0NzdqajkxY3B3X2NHSTF0MWdPSE56V3RYQUs3OGk0NnhXLWZlRzJrUENQYmdoLWQ3VDBTaGVNQW1haGw0OW5abmF5cHRNSVhXbGJqVU4tUEFBQjZXeDVOQXIxUmVzSUJGNmw2TlpBdzVXOS1BNWNmTUpn?oc=5",
-   "source": "KFOX",
-   "date": "2026-11-25T23:24:32Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -740,16 +770,6 @@
    "date": "2026-11-25T22:06:55Z",
    "score": 6,
    "category": "Macro"
-  },
-  {
-   "id": "45f94a6ccfd47d",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "source": "AP News",
-   "date": "2026-11-25T22:06:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "674a566e92dde7",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T21:04:57Z",
    "score": 9.5,
    "category": "Macro"
-  },
-  {
-   "id": "8b3d0e222ac2f2",
-   "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-   "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
-   "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-   "source": "CNBC",
-   "date": "2026-11-25T21:02:05Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "8a94473e376037",
-   "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T21:02:00Z",
-   "score": 3,
-   "category": "Fed y tipos"
   }
  ]
 }
