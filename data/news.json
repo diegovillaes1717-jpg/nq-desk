@@ -1,13 +1,23 @@
 {
- "updated_at": "2026-11-26T04:53:51Z",
+ "updated_at": "2026-11-26T04:58:35Z",
  "items": [
+  {
+   "id": "85ea7f6f85b8e0",
+   "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGprU3pveUxVMVc1WXVnS0w5TFltSmhBSDUwaW1YMnNwaGxHTTBfMWdMX0xJcUszSU1HZFJ5RjY2eUxRYjRvZWFNSVpyTjlDZEZxQVU2dTg3V0xzb25TS19Xa0FCS1RmeHRFM0ZTcU9QdVBTMzBMYjhoelB0dDYtQno3UFhTcWNRdEoxYkJJTFdJdHc5NkFJ0gGcAUFVX3lxTE5EU19BYVVheFdsUGgwUHMxREJySEdrQ0I2V1hxekthZ0hadTNOU1pHYl9yalJFczlQWXh3ekw1Nl8wV0g4Rl9FUDN5OUtxWjFnNHhMX281bGpqMFNKa2RPSmUzcm9mVnpMc1lvN2hXUHBnTDJBclEyNllKOGJKYVJ0ZHI0Nnl0SjlhR2s3ejVlMnNpZ3J4QWRta2p0Ng?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-26T04:51:29Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "df21609951179b",
    "title": "Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtGeEZ5cFZyZTg1RjVmUFhjTThkX1JFc0I5c29hd2RsWTR0SVdrZHRoalFEQnp4YzNYYWJwdzJzaEZGcnc5dmxhZkVMQWd4V1dkOFJjdE9GNlotdHNkam01b0tDZ0FKcXpmOHZrTGlyaVl6RS1OUlhEVVNFbnRWNVItSFhCdjJteDNpQmR6ZjBKRFRMYUJsR3RnYUU5U180RExZSGJjdUF2VTNEUW1SWnVRV0ZVUi03aXlwYg?oc=5",
-   "source": "Radio Royal",
-   "date": "2026-11-26T04:52:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5",
+   "source": "Sky News",
+   "date": "2026-11-26T04:49:48Z",
    "score": 10,
    "category": "Tecnológicas"
   },
@@ -182,16 +192,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0876207ae47d5f",
-   "title": "Stocks rally in Asia, unrocked by US tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWZzMzV0WHhZMV9nZUE4ZWtHSjZNLW5LSE05bWltekNTTlB4X3R4ZnRTa21NLWdvOFl4LWc5OExfMEFpQ1RaVW9ueWctS1RhUm9PMGVUa1d1YWtfVzNTUERqd29uRWU3S1kxUzNEWHJlTWRjdklYeWtONW90MmZmdzdMZG55QkgyM2NoVkJPajloUTI0UHcxdlRQR1VGZlhaMW92QU9tR1lhR0VrS1NQOUF5QmNiTEdnUWNzODByTE9aOUxJZXF6NzJGQUhxeC0wSGYxekVHUUV6Znc?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-26T03:17:28Z",
-   "score": 7,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "ee1c277ffc86c4",
    "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
    "summary": "",
@@ -330,6 +330,16 @@
    "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -682,6 +692,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "0876207ae47d5f",
+   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-26T01:35:00Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "75c1d9f4f4b287",
    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
    "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
@@ -732,16 +752,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
-   "source": "KUTV",
-   "date": "2026-11-26T01:30:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "4659346722a02b",
    "title": "Nasdaq Falls to 23,585.80 After a 4.6% Plunge as the Nasdaq 100 Briefly Enters Bear-Market Territory",
    "summary": "",
@@ -770,16 +780,6 @@
    "date": "2026-11-26T01:23:26Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
   },
   {
    "id": "14abc9198bb43a",
