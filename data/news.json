@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-26T11:13:13Z",
+ "updated_at": "2026-11-26T11:17:59Z",
  "items": [
   {
    "id": "fd08d6324037df",
    "title": "Nasdaq Fades After Huang Rally: What Traders Should Know",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3pnRHVLblM0NWhlZUxnRFlobjFRQ1hFejNxd2ktWlNSM2FQWGxnQ0VKRF9wSi1yMUR4dTl0ZGVYUTVhRGVYYUhINkRack1DdnQtZGYyOHJVTzBWX1Q1UndHeGFiczJ0VUVkUHQwS0hPNG1tVmxpb3FFcHNsTTRyMWlPV01XalRaRG1yZkh2alFVeEdLdEZMRHNTLWtJSG5Gci1wUzZjNl9XSm9I?oc=5",
-   "source": "www.ig.com",
+   "source": "IG",
    "date": "2026-11-26T11:09:39Z",
    "score": 6,
    "category": "Tecnológicas"
@@ -180,16 +180,6 @@
    "date": "2026-11-26T10:02:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "651543e5615f1c",
-   "title": "Bank of Japan’s Ueda Vows to Keep Careful Eye on Fed Moves",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnNza2NNRXZGYWpkOFZlTS1qYV9TRUQyMTFnSWxTQVlIQW01R0tzTm41dVhsa2VUZHRkcHJkbko1NjNVZ0I4emgwdXcxcElXa3ViRnA5NWZDWndSeExsQk5CQTJ0NS1JX1duQ0dORTZ6MVludnFYOFBKM2h1aWNyXzk2SG9JVDlwU0YxUkVpdzhtVENLSmgzZnlvbFRVdXhCeW5naU5TSHhOcjdmLWptUVRXT1A?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T09:55:39Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "00e8a5540cf25a",
@@ -835,7 +825,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1200,6 +1190,16 @@
    "date": "2026-11-26T05:15:11Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "b4a47c5afee0fa",
+   "title": "GLOBAL MARKETS-Stocks rally in Asia, US tariffs not as dire as feared",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGo4VF9hcVpIczdUMWQ2MDhXM21OTnZJeU9YdDhaZHBZU05pTTgtZkhONmV4WnVKRkhRSGdXSUZkcWhNVmtzaFpJTEhGVHA2dkEwZzZXLWZ6TzkycEpRajVhakRnVmNTWHhGZ3Y5VXRVdmxmUnBsMEp4a2NoNGFfODQydVVEdnJlZ2ZYMEFHU0lRRWtkRFRudzk2Z21ndXdNcVRkaGhubUJEeXZodTloQ0dzckExSzQwZTJHaF9FYXZBMEluT3JqNE8wTdIBywFBVV95cUxNWGo4VF9hcVpIczdUMWQ2MDhXM21OTnZJeU9YdDhaZHBZU05pTTgtZkhONmV4WnVKRkhRSGdXSUZkcWhNVmtzaFpJTEhGVHA2dkEwZzZXLWZ6TzkycEpRajVhakRnVmNTWHhGZ3Y5VXRVdmxmUnBsMEp4a2NoNGFfODQydVVEdnJlZ2ZYMEFHU0lRRWtkRFRudzk2Z21ndXdNcVRkaGhubUJEeXZodTloQ0dzckExSzQwZTJHaF9FYXZBMEluT3JqNE8wTQ?oc=5",
+   "source": "Devdiscourse",
+   "date": "2026-11-26T05:02:18Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   }
  ]
 }
