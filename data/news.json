@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:11:20Z",
+ "updated_at": "2026-11-26T20:16:03Z",
  "items": [
   {
    "id": "34f28e5b186d08",
@@ -742,6 +742,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "3f50104cc0613f",
    "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
    "summary": "",
@@ -1142,6 +1152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "77abc10e1076c9",
+   "title": "Swiss Franc falls as easing risk aversion and hawkish Fed bets weigh | FXStreet",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyZjlXNkdOWkMwWUxVMnF1MHlaSWRyU3VmeTB0dl9aNVJYQngtT29lRWlZMVZycEtSdTJUTGd0eUdGa1NPQ0VlSGIyNFZFbjFwSEpn?oc=5",
+   "source": "شبكة تواصل الإخبارية",
+   "date": "2026-11-26T13:40:54Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "cf85369658c6cc",
    "title": "Strong U.S. GDP Challenges Bitcoin Recovery as Fed Hike Bets Rise",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T13:29:53Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "7e674b4d6b7077",
-   "title": "New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWFnNG1XdlNsMElLZmxMT21EaGp3bUNEc3NaRExXQWpOMnJUVzAxaEJLNXc3WUlOdjJMWEtSLW5ILU4wMnJ2cUNHSlMyQTl0bWNCc1pKODFrSFR6eDZhOXBJa1pNS3JoakdQOE0wSFVyRW1pWXlRa0dGdDlNajl4MDh1MFYtSFllRi1mMXRNWFM?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T13:28:29Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5af08857b24acf",
-   "title": "S&P 500, Nasdaq 100 Drive into Correction Territory",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmVNR3I3LXY2RUluQ05YaFQwVlBVT1RuYkVnTThNTmtkTktOVzlGdDlzVFBUelg0RlpBcHptY0JqZE9GUDM1dUNKOVdyVVJ1SmJGUGVEaFhZZUd6amFFNlRQS3RITXk0TlowQzFvWGdmMVpmdlcyM21tNURFdGVkT1pZMkF0X1Q5WHZjZVdKeW5yRzc5b3VEbHJIc0ZpWVZC?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T13:26:49Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
