@@ -1,12 +1,22 @@
 {
- "updated_at": "2026-11-26T07:48:08Z",
+ "updated_at": "2026-11-26T07:52:52Z",
  "items": [
+  {
+   "id": "5b2357b83bb6e8",
+   "title": "Top Analyst Flags 5 Major Risks for NVDA Stock, Says Nvidia Could Stay in ‘Penalty Box’ for 1-2 Quarters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0h2OGVIVXpRNWtNWDd6bk5iWnJmZTAtNG5sOW80UnpZbUJKOXVlUHB5WUk0TGVoYkJ6aHhuZUV0YkFrdWVSaEJjV1ZGaTczRnYzUXBydG92VUc1WGR5SjN3SndmczZIYUpNdkFpM3RQMHlCdUtLcmotZHEybXhKVUlpaUFqUkZzNjBLRVM3b252WmZXRjlPUnZuRVJXM3lRTWViMmc4bzJKT3UwZTJoc1V6OWJ1YTVxdDVXVV9ndUduTkMzb0E?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-26T07:43:58Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "2a3a98b8e8f038",
    "title": "Fed Chair Warsh Keeps Tight Grip on Rates Over AI-Driven Price Pressure, Clashing With Calls for a Slower Pace",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55TVY4WXg2eVFTNmQyc2ZOYlFRU3BUWWpXNWwtY3BrSFYxcG44MmpETlloOXh2Yjhveno4YXBYMWNtUUZvYi1vNTNPbkNSN2M2Y21vdUZDOVNWeVkwMEhZLWF5WDZDR1hjZTZpQTdIMzMycUlzbWc?oc=5",
-   "source": "finance.biggo.com",
+   "source": "BigGo Finance",
    "date": "2026-11-26T07:36:00Z",
    "score": 7,
    "category": "Fed y tipos"
@@ -122,16 +132,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3f88de8e7ddb25",
-   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T06:53:41Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "1188f6b998eb17",
    "title": "Wealthy Europeans are looking beyond the stock market amid the AI sell-off",
    "summary": "High-net-worth investors are looking to alternatives as turbulent markets continue to raise questions about the outlook for traditional assets.",
@@ -232,6 +232,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3f88de8e7ddb25",
+   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T06:01:28Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7209cf507ab402",
    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
    "summary": "",
@@ -250,6 +260,16 @@
    "date": "2026-11-26T06:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "fd1f3aa9f6dce1",
+   "title": "Trump Tariffs On India: Which Stocks Are Likely To Be Impacted? Jefferies Decodes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOXFxVk9FbDhlSV9vQ05aUjd0WmtNTGVJN0RtdDlJaENVRWVkNDVsVHZsM3dZYlJuUEZ5c2lVdHhwdmNSc0lVWlJqZXR3WFFQYWZqYXA2UUJUMndEMVJlQlVzajRMUWhndEZhWVo2aXpGNGRYek5BTTBPSEVoMWZVTEw1SlZPeHBEdFBBNUNwZllRX3BRVHAtS1RldFY2d1lTQTJsZjU5UFg4YW1iTXYxcFlKbHFfWjJLV0FJdWEwSHU2Q0p4dUJTNmZQaURTZDZSU0ZQeUtVLVk5TlFuTG45UXZkSmV1U0hleVRHbGJKNkbSAfgBQVVfeXFMT3Nzd1FjOC1ualM1Z21HbmNlNUFnM0lyelJPUDgtTkdzeWVyQlRpaFhYcVRub1o1SGVmUHVkNVc0ZWRNckMyTVp5aE5SOVJJRWxsV3NrZGMxRXRBTWx5LUdoQ291MkY5MkMwbzZzSFp5VmxVQzhqRHRjYThlWHliLXBxOTE2VEtpeGFfYlVMd3N0cFVoNG5MVWs1Znp4NFhONmEwSENYS3pGbmxZSTdyTGdUeERTUndzdjl0bzVGaHpOcmdvNjdVVjdQTEZYc2YzM2s1ei0xZW5vNlVrczl2MXNkbjh5Qmk5ZTdPeHBkNnA4SUx5VGdiNC0?oc=5",
+   "source": "NDTV Profit",
+   "date": "2026-11-26T05:55:29Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "a4f4198e59bd6b",
@@ -1032,6 +1052,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "96b736bd0e40f8",
+   "title": "Inflation report to provide Fed’s preferred gauge of prices ahead of possible rate hike",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0VzZXV5RmZKR1lNcE10dWxjQlpUdXllMjNaWm9tb0ktMVpQLXNRZ0lxY0IzekY0TnIxVi1TSUQ2NVc1VXVHU3pRTUNMaW94bzNGR0pVTzFiQWM3b1NBZlczOXVXaEZmeGFWQ0FxM0NkVk9kZzAtWU5IcUpxMEx2Mzc3X00zVmtraDlRWW9jVUc5ek00UlhDUnc2RTdUM3lZakI4cjhyNFVNMzFrZFRzenU5cldfRHBTMnZGQg?oc=5",
+   "source": "weisradio.com",
+   "date": "2026-11-26T02:00:08Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "5bd02a975adaca",
    "title": "\"The Big Short\" investor Burry drops bets against Nasdaq, expands long positions : Finance : JKN",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T01:37:41Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "a4214bc393551d",
-   "title": "US stocks swing wildly before Thanksgiving: Dow turns positive while Nasdaq falls, Nvidia placed on negative watch by S&P",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q0x1V3Axd1R5SXcwNnBiaUZEaHJIRVBwbHpRdTh2d0JTLTJlb0JmVy04VVZycnJtbERmWERGYlM3T1dZbXRhaDdEZ0t2YUN3eTZkdEJpdkhYLWdkNElFQ2JjT2FseHRQOFFkUTltazBjUXVkZlE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-26T01:36:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1d178b1f74ee0e",
-   "title": "S&P Puts Nvidia On Credit Watch, Moody's Leaves It Unchanged - NVIDIA (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMkttZjJpTmF1SWxrRXNIUXo0Y1hBaXdzSUswWUx5YVJkV29rdnV3UzlYVlIzay0tZ051MVBneWVzNVhFSlZGMVdDQVNOSHlQVm9sUHZoa2ZyUWxXckZrTnpSTVFQWWgwY19ZalU0cHlvbVFLQmxJdDI2c0RGUUtHT1d4WnB5Zy1hSExsWUlfUmlfT01xRzZvMVUydnBkaDFSanlsN25BUXZyRE5VNmhaSTJWNThqeldjcFdFQ0tORDhudlN4?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-26T01:35:58Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5779ba26d97965",
-   "title": "The US dollar moves higher as Treasury yields extend their gains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
-   "source": "investingLive",
-   "date": "2026-11-26T01:35:48Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
