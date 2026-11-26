@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:35:49Z",
+ "updated_at": "2026-11-26T23:40:34Z",
  "items": [
   {
    "id": "e16433f737c914",
@@ -10,6 +10,16 @@
    "date": "2026-11-26T23:29:07Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8e7af7634ea214",
+   "title": "US Stock Futures Rebound After AI Rout; Traders Brace for a Fed Rate-Hike Replay",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUcFlTR0laRnZ1WE9SanZVVXZXbEs5RzlOTkZ0UXJYdFNrTk5PWGtid3E3bi1PWUtfdWY3SzdIdkFHU2Y1LThUSWtILVkyZjF4cGRwWXRvd0JXM3N6RlVxREJteldkSkJnbE9rbFdMU3paN0hRcWc?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T23:25:00Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "a9f45b768bfca4",
@@ -180,6 +190,26 @@
    "date": "2026-11-26T21:39:00Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "2f008829c8b0ac",
+   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-26T21:35:41Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7cb866c74b97b7",
+   "title": "Trump pushes new tariffs as inflation hits 3-year high; US media call it 'economic self-harm'",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqbUI5dEN0MVpVbUlZNENadGxfbXlfQ3lvUVZBcS12aS1ua2sxZzZRdklheTFlM0k4LWRELUFEdlFEb0lWaFF2dTVULWdtZE4zOExMNnk2VQ?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-11-26T21:35:20Z",
+   "score": 10,
+   "category": "Macro"
   },
   {
    "id": "0ce1739f35806f",
@@ -522,6 +552,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -692,16 +732,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T17:35:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -769,6 +799,26 @@
    "source": "CryptoRank",
    "date": "2026-11-26T17:21:26Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0064ada5db2fe0",
+   "title": "Nvidia Corp Share Price - NVDA, RNS News, Articles, Quotes, & Charts (NASDAQ:NVDA)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkYlFhdDJJbEpZV2lMYW9HQUs2QmhwNlFESkRDZkpudE5DT1UzWHBZemhNT3BSWHlhUmFRUE5kaWVlYkh4X1lnUm5vMk96OTVnZjdHd1ZDMy1NX1dIcWw2MV9ZeFc2a2puNzVaVVpn?oc=5",
+   "source": "Proactive financial news",
+   "date": "2026-11-26T17:16:41Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T17:15:02Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1150,56 +1200,6 @@
    "date": "2026-11-26T15:15:41Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "3c27765db068aa",
-   "title": "US PCE inflation due as markets brace for December Fed hike and firmer dollar dynamics",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1JXdVROT2YtekpwNFdpV1FLbnZxMzlmQmhQWVA3Wll6VFIzRVN3SXdrNk1rY0F4RVNTeXRnaF9BNnctYzYwblgtdnF0MHR5VGxhdjBPUE80dTNhMTM2MzAxS1c5UlJvaVdRT0d1b2pacWEtckhBZ1ZLcG9zcDBsREVOcFlWU1J3TkE1MjZCRXlJOFc2X1pGYUo1TzhpNXpKVWZWcEwzTkdseFRndUpqQVhhYXhDd1dQdmNwczZLQ3pNdnhMdWhYQXVFZ0o?oc=5",
-   "source": "VT Markets",
-   "date": "2026-11-26T15:15:41Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c59ac6bd763b9e",
-   "title": "Trump Blames the Midterm Election Results for the Stock Market Selloff",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmlzZ191RFhlME1kMTEwVEZycWJ4LWk4a2xocUIxQkxvQWFFNTc5V1ZsNTZPai1SNlpaTlBuUXJjVUlUaGhvUHcxOEpybGE0ZGRRaXNybWpPS2YtaGtLeVJQNV9EUm5zMGJTRW5yTFRiT3ZYQ3NVRnNBWFFrVF9xZUVxcVcyNUNYODgxVkE2VENqU2JjbzI2Uy03LTc0MV9YbW9MREluLXkxX1lsbVRhODBxdGo?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T15:12:00Z",
-   "score": 5,
-   "category": "Mercado"
-  },
-  {
-   "id": "ef4aacbdd49123",
-   "title": "U.S. GDP Growth Revised to 4.3% as Core Inflation Tops Forecasts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpeUkwYU1YLUVlMnZfT3NqaURETWdMV2xxZkFKMDYwXzQtcVd4MkZGZGZGeVptWE4zMG44b0RjU1RwZ3VYS0c5blJFRWl5YnhqSFU4OEdDOWdIUQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-26T15:10:25Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "41800585e7a968",
-   "title": "US GDP Forecast Federal: Growth Revised Higher Before Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KaXQwOHRlSXdKaVA2TUdheGE2UVVHTDdXY3QtcnltdzFHN0Q3YkFtTWY0Yll3VFNIMmdFb1VhVldSbGVrSDZUbl84RVNsTjdtNEp1MkU4UkEtOWtCOVhwaWhIX21jMnlOTDZEN2luWQ?oc=5",
-   "source": "The Cryptonomist",
-   "date": "2026-11-26T15:07:27Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "db4dd9c8fbbe51",
-   "title": "2 Retailers Are Spending Their Tariff Refunds on Holiday Discounts—Will It Pay Off?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTZWQTBhV1JOSUl6ME16MjFiRUlWa0c1bFl5cWR5ZVpPelBsOFRQUVRzdXM2b3RjYm9xM1RkZENvaTlHZjh5SjhLM2pEZEtLZWZrY2hscXVqdkxqV0MxWDU5Ynh6TXpRVFA2UVZ6Mi1zTEtkUy1oR2lRSkJ3RjJHdUZfQjJjell2TF9mNHlpbDg0d0NiLVo4Q3htUEo4UUttejRsdU1iMzNaNFRGLWJCcEdUOTdiQU5mdHc?oc=5",
-   "source": "MarketBeat",
-   "date": "2026-11-26T15:06:45Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
