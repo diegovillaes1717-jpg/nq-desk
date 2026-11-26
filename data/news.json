@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:12:02Z",
+ "updated_at": "2026-11-26T23:16:47Z",
  "items": [
   {
    "id": "a9f45b768bfca4",
@@ -110,6 +110,16 @@
    "date": "2026-11-26T22:17:57Z",
    "score": 5,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "da89798951d7ea",
+   "title": "Nvidia halts chip shipments to Southeast Asian countries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ3pnc000Z1pTSHEzU1FCZ3pmSkFmbHFxS1hES1FieFRKMUctMlFSak1XUC1YVU4wY3lxVXJpVjd4OFptdmJ4ejAtak9KUUd6RzRxTDZDOXhoRVl4UjlsM3h1MkZjRmZGeExmdkhkM3dDLVFXSlBaRFMtUi01SldoX29JS2dCR3J3aDB5X0dDel9td1V3WW1UTGU3UXVRVDQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T22:15:23Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "b6d1071046ff71",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T14:58:45Z",
    "score": 6,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "2f008829c8b0ac",
-   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-26T14:57:16Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
