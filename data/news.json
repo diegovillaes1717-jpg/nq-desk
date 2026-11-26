@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T00:37:45Z",
+ "updated_at": "2026-11-26T00:42:28Z",
  "items": [
+  {
+   "id": "45d9dec8fffb87",
+   "title": "Did Trump invest $3M in Nvidia before it reinstated Jensen Huang?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PMzZzbEl0ckpwVlNDUkJveUZOdkQ2ZGVBMUg3YUZlaUU5dldUOXZfYk14U05FMm45SjVnQnBXME1CdjAybG1LZ3ZhaUZyUTlCNnR6UnF1Rkxxems1bTlDSExRb0NISWtmNlVkQnhZQlZHSEU?oc=5",
+   "source": "Snopes",
+   "date": "2026-11-26T00:40:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d3bdff3996d14a",
+   "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-26T00:35:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c9fc4ff3aef859",
    "title": "Silver (XAG) Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
@@ -329,6 +349,16 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T20:17:51Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "3c2bea294ee13d",
-   "title": "Fed survey finds continued US growth and sticky inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3ZNZXJrYXpQZHhuQ0t0RElhUGdyWXNoaFNEWGFMZ1ZQT29pUDdjQ0s0bmVUY05NWjQxRzBublVuT1poVnhodUFWUFozQks4ZEJwYU5SVlk0M2l5T2tJWjk4UEJxMVFJbGtaN2VlaUVGQ2M5T3JSamVMU1h3ZDZzbw?oc=5",
-   "source": "Mezha.net",
-   "date": "2026-11-25T20:17:49Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "9d09185dbf1c54",
-   "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-25T20:17:01Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "ef1f05e311f1d2",
-   "title": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJDVjhhVjFUYXB1U2xsamF2akNBT00yNjBHRmhERDRfRUpHS1Nlc0dHay1YRDhLa19hYWF3cTZKc2VneWl6Y1lRZUFqc0RLTGhnR0duUlVFLXNoWGN6R2NMdlBqUVdNMnhYRC1NRjNwalpTR2JINjB2UW5mRGFDMTRJY0FMZW4wV0RpQ3d3eEZjQ3JkY3FFZlpKQkdkaEdiTTR0U3VmbG1SZi1tSGxsd3gyU1FOV2N0WFhCa3ZGU3lwZw?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T20:15:08Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
