@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T15:02:42Z",
+ "updated_at": "2026-11-26T15:07:29Z",
  "items": [
   {
    "id": "6597990d3a3c77",
@@ -132,6 +132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ce62fed99b976c",
+   "title": "Economist Robin Brooks blames Fed for stock market correction",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG93bUFHLVpEOXZ6YVpJcTMxVjk1TzVRT2lid3hXSGhRWmF0NWIzZEdNVERPZkZiS0ZoZEhNVHpWNWpjV1ZuNW8yTmxEX1lEVFZXLXJSR0VIMC1hbW4zbjUxR3M0NUV4dlVlSjZnSnAyMlFUWFhUbEg1QUhpNnlqU21YTGtrcjNqNmY4MXVIQU81d2tKZmRlWEM5aUZTQQ?oc=5",
+   "source": "Investorsobserver",
+   "date": "2026-11-26T13:48:53Z",
+   "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "71b4e5138f2193",
    "title": "Nvidia's credit rating, the AI trade's collateral, is at risk",
    "summary": "",
@@ -239,6 +249,16 @@
    "source": "TheStreet",
    "date": "2026-11-26T13:17:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "7afa5b0522b2b9",
+   "title": "Core Inflation Rises to 3.3%, Warsh May Face 'Opposing His 2018 Self' at December FOMC Meeting",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMlQ0Q1podUJtcG9FS2lGeHVVNDNZc0tlT2hUR0pQRUNPYndJZzZqWXNFVHdZLXN4U2wtYlN1ZVptLU1fdmNTZ3pJWmdNOWN0Zkh0Q19lcUxhX1JPcklWdjBrZVIwbkNJak5qRlkwaDR0eTR1MFE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T13:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T08:59:11Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "ed8e4c7e31a216",
-   "title": "Eurozone bond yields rise as global stock rally dents safe-haven demand",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS1RjZFVteHk5TjVsWThfQThkdlRHT1hZS0kxdkQ1OHlLZVJuRDQ3NEg2Z3N5Mm9mcDRuQmZORkx1TE90OHExMjdJM2g2d0VJMlF5cjF2SWNQeWZlWUVqTW5SdDY1dzZMYlVTZ2tZaXpTUlJpVE1aUklMTHZLRU1EbkNCYklGdlVEb09xd2VoNG1WcVZtMWJ3RVdPX3lwV1FpbEhiZDFFaUZNVldORTlJa1JUMHRObU5MODNaMVI0RVFBU2Q2MXJ6Ti1DbGZLZXdLSUhReEN5YkpMZEpGTjF0ckpR0gHnAUFVX3lxTE5fNEg2WDJrRHVMcXhyeEJpQ1lMRnQybDNONHVUdHA0dG9DeE9CcGt0cXAwN1Y0VXQwWHpleHl6Mkp1T1VvRHo5ajczTHN6MVBZMl8zaXh6aXBFVmhNMGo4ZGRrSEZpVkhZZFNxZVFVWkJWb2ZlUGtjajVSOUk4QmUxUTdrUGpCeXdiZldRY3FXdTBHOUZVMGU4MFNCQ0txZEljS0lCMTlpLUgtSTRlRFFLZXdPRndTTmtsem0wNzRzazF4QU1xLUMxT0xrYWRuZFBUMm1YNnNibzFhWS00WXhTOEFNZDRLTQ?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-26T08:59:09Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "b9539e88e5b4b4",
-   "title": "US announces new tariffs over excess capacity",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yNThsZlpycUpLcXZRWHZtcnltc1dQcFZhV1NmX1I1LWhSNHRwc2gtNDBxNlZ4eHJKWXgybnlKRFN1czZZTk9KNk1Fc3FER3pObXgwMEY1TUVOb05wU3lSaDNWS3JLbnZPVkg3b0xOX0tUSXZ6VER4THhObEpHd9IBgwFBVV95cUxPc25JbGZObUJ4R0RxSDA4T01jYnVQbFR1NzFNU3ZuN0xTQ2xVY2VBYU5KZktDM3Nna3pwMzJQUmdLWFY3dG9mNjVWdUJaT1VBQVBQZlpxNnBoSklwQTZnOXdtQlRFb2lBOHhIZWVPQ19tWGFPWDNsdEtmUE1MZVNudzlkTQ?oc=5",
-   "source": "GMK Center",
-   "date": "2026-11-26T08:56:05Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
