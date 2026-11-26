@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T17:11:56Z",
+ "updated_at": "2026-11-26T17:16:39Z",
  "items": [
+  {
+   "id": "534f17d0adda34",
+   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHRlS0VSb01ULTlZQy1jTXFUOUtIaG1pQldaNDEwWHhtbi13ZkpOWE5TVTF6NDRra1I0TG8yS2Fyc2hNZ0tLQVRKVDBjMExKNlB6RmE2ek82dHhSQ2RyMU9VaGtkWWNZZzVwMHVmeS1GTlZVb2lVNFVIYnRDd0EwM0V2cHVfNERSMGwwM2lXbVlHazRvd3ZMY3RGMGZaZw?oc=5",
+   "source": "Coinpaper",
+   "date": "2026-11-26T17:05:54Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "ebe2326ff46a15",
    "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
@@ -170,16 +180,6 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T15:40:03Z",
-   "score": 8,
-   "category": "Tecnológicas"
   },
   {
    "id": "2fd8e58eedcfde",
@@ -416,6 +416,16 @@
    "title": "How Inverse Nasdaq-100 Exposure Operates for Tactical Hedging in the Global X Ultra Short Nasdaq 100 Hedge Fund (ASX:SNAS)?",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS3dEaVFYUzVXQkprT051X285ampCOTFHUEUyeFFNOFU3V2l4MHRSVTcteVdtWUJKcWdjNkZ2UDRSR0VJcXpTNGJEWkVVZ3JoODBacmdTdFhkWmRFNWQ3OS1CYTRhLU1KZXlKRDVfVjdKQlg0T0NIZlBhMldTTERCWlQ2eWNwQS1zZDNOM1JZZ05lYkdFQ0xscWNrS2loZENlT0htU2tNbGRLb2lTcDJJazJ6dzI5WnN3WC1ERkY0dUo4VVRiWUtueW9hWWxTZzRMb01yS1hnblBrOHlIbkg4U19tSy1qa2YzNmlFeXYxQTV3T3ZDUUZxQg?oc=5",
+   "source": "Kalkine",
+   "date": "2026-11-26T14:15:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "23390ae1135db2",
+   "title": "How At-the-Money Buy-Write Income Operates in the Global X Nasdaq 100 Covered Call ETF (ASX:QYLD)?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS0I4ZUxIYlQ1cUdsUmVFeE5Vb3NMbjJBU3NhNDluai0wM0VaWlVwa1NHaHJQVk1ON2lqOUlQLVVFUUpHNi1iUVB5QkVaSlFadzFfcS14d1F0djBPa1pIdW5aaFpRNnBQa0huT1ZMcVFGOEpIY3ZRMXotb1JiUDJEbVMwYWFTWnJKbU5vQzFWSGp5c2NiSXZUWUpBR3dwQ1ozRGF4N3F1b25CaGRyRmxvR0pnczN6dk5qS1hDSDdqUGxUMFRpaXh6WW9JVHE1aGVkeWxlQjdfTQ?oc=5",
    "source": "Kalkine",
    "date": "2026-11-26T14:15:00Z",
    "score": 4,
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T11:05:04Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "dd664682bedcbb",
-   "title": "Dow Jones Futures Rise, Nasdaq Leads After Wild Wednesday as Markets Close for Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1Z1YVRieDl5Z0U1dFcxWXZFdHdNczBkSTZFRE9BZ1J5d3hldHdZZDBOTFdxZjJsZzJ2eW1tZU94U0gySWwzblhOZ055NXRCTnVxWVZJZW5ZMElQTVFjTkZvTndjXzVwYlotd2RtM1dzM1B1ZTlWVXhiM3RtblpNcG5jbmQzOWhCZlZ5NmdfTGQ5VjNHOVpWUkpVTVItSnNzVFc5dGRNQ0NBcGJBS0w3cDBqNmN2REtu?oc=5",
-   "source": "SSBCrack",
-   "date": "2026-11-26T11:02:10Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
