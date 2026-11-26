@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T00:42:28Z",
+ "updated_at": "2026-11-26T00:47:12Z",
  "items": [
   {
    "id": "45d9dec8fffb87",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T00:35:37Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ad39649b8a59fc",
+   "title": "Sushant Sareen Warns Trump Tariff Threats May Spark Global Trade War",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjBSNHNWcXlHbzYyb0x6aDdVckt0RmNoUVN1NG1Pbmg4Yks3Z0hfTjh1VGZKN1BPUXZBWHY0VG9OWG1oYzVXZWJIVFdWNllOcTg1S1hWaktHMGFad1ZfUHhnSzBRRkVHLTRwZ2V1WGhfNEFmWXk0V0V1T1pRQ2pqU2lGd1IwbWlfVWdJdTM5bk1GY0otTnlxN0NUTkR0RkxsMkxwTWtyd3RnbmRjTFh3Nl9YLTg3V1ZOU2xuZ2tHQXNhWWZrTkHSAcsBQVVfeXFMTnlSbDZUamh1S0xYUjRsY1ZqMm5ZaW5VWHVubm82SDVPc3lxeEtJNG8xcEx4NXhWY1E1Nk1ySHI4c21qYzN4bld0cVVjV2hCZnJpdFFwNzZhX3llMWNWdDAta2s2WlJtYWN3X2R1LUh0OU9wZzdoX3lLcEJxVEF2NzVHeXl5ejVla3hpbWxLeGJURTE4cTVIWjZ1V2dhS2czc3dCaFlZZkJhLVA0bVVHMDJ1QVR6V1dKZ1BMQzBTbFNjQTlvSzFqbDk1X3M?oc=5",
+   "source": "Asianet Newsable",
+   "date": "2026-11-26T00:30:03Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "c9fc4ff3aef859",
@@ -480,6 +490,16 @@
    "date": "2026-11-25T22:06:36Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "45f94a6ccfd47d",
+   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
+   "source": "AP News",
+   "date": "2026-11-25T22:06:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "674a566e92dde7",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T20:20:02Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "72723a4c5459f0",
-   "title": "As Nvidia stock fluctuates and talk of an AI bubble heats up, here's what you need to know about saving for retirement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFQ5UlUxem1PQWhBYnBCbW45X2JSNnBoN3dISjRSTDhZRGJqRVh2bGdXdDFlbkIwOHdRYmN4OGdNRHhOeGRmUEtoQmRhM0RSQVowQm9Pc1ZTWUNxMWhWejFOSkwzYnhOVjcxY2pOeHVsZHJfc1V6RGRmMGEySmtiQUh0WFJxdE90eVBLZnJMUQ?oc=5",
-   "source": "Marketplace.org",
-   "date": "2026-11-25T20:19:28Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e6bf22995ad29d",
-   "title": "US inflation hits 3.8 per cent, so will interest rates rise again?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhHU09qa1JVbzhBY2JsT2VYS2pYZm5PdVB0d0FXdW81VEZLaXVyVmJnQnREa1IxandUaUdCTTY2b1BnT01MNGxSdGtwbUlfUXRDZDJoNmR5TGUxcVZaeG5NSWZpckV6b3VibHdGMW8tZTRhaFk2LUdoV1k1V3VUclZn?oc=5",
-   "source": "India Weekly",
-   "date": "2026-11-25T20:17:51Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
