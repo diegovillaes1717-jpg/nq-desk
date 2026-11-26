@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T03:47:36Z",
+ "updated_at": "2026-11-26T03:52:19Z",
  "items": [
   {
    "id": "09d55aab69a5a5",
@@ -45,11 +45,21 @@
    "id": "0876207ae47d5f",
    "title": "Stocks rally in Asia, unrocked by US tariffs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa09oWTlvekdOUXlkVXcxUGNFcHY3cDdKdWtLMlNpYzJpdHpaQUVKbkxBckJCUGt5RWYtVHM5VkZhQkZacTFRNHMzdG8xSmRIclRoYUhOZDgtbThXYWFrTHdLdncwWjItTUMxRFZ3RkV4czRqc2hUd2RRUFJXWXBaWlhJdlBHTkFoMEV1OTFXWEczS2Fja3FVZUcySlVpSnV2SmFN?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2EySjVXeUxfZTdNa0g1MFh6Z2hwVHR4OHJ3RXIwVnlDWUFtdHJ4NThtVXE1MVF2bkNraHozMlM3TExaMm9Jcl9vM053dlpSZURWcWR2aXY2cEhnc1F0QWxON2hGczNLdkhKUmRRTFNLeTIxMkpoMWh1aE9CMFI5U0swZGhYSzhoMno3NTdjWVFVb08zdmtRRkoxbHg5X21kQS1fZlhnNVVPOU9DN3VoY0liUQ?oc=5",
+   "source": "TradingView",
    "date": "2026-11-26T03:17:00Z",
    "score": 7,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "ee1c277ffc86c4",
+   "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUd3eE9QdHc0TFlpa0w0YWZGbjl5OHB6YXZUdWdSZ2dMcVRBQ0doUDZFallrZ3ZLWGlMOUxzYkRqRVh2amlET0FSRGlWaG4tMU5YZkNQREs2eThRbmhSVXN5RWhiMW16VVNXUzMwU0Zja2pTTnI2NndoeFFwRFh4eFJmMzRaWXF3a2UwVE5sWjUxUEk?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T03:14:00Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "7c57492fd5b9e9",
@@ -172,16 +182,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -225,7 +225,7 @@
    "id": "46f80705fe38af",
    "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
    "source": "Business Standard",
    "date": "2026-11-26T02:42:48Z",
    "score": 8,
@@ -590,6 +590,16 @@
    "date": "2026-11-26T01:23:26Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
+   "source": "Metrobank Wealth Insights",
+   "date": "2026-11-26T01:21:25Z",
+   "score": 11,
+   "category": "Tecnológicas"
   },
   {
    "id": "14abc9198bb43a",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-25T22:36:51Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "ca85da13f0b530",
-   "title": "S&P Discovers Nvidia’s Governance Lapses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmRjYlJmdGRqMnB5d3V6TE1YdDk4akRmclpKMnlkdjVjSEExRnpObEItWjBTSmN0dUpjU3U3cWlqeFBRdllLcHkxOEpXM0F1V0o5ZzItMWVSX3Nqb1lDRzRHNjQ0eUJlZF9nQnlYSWdiSV90eGNwTkNILTJLQ3A2RmlBczZJVlN2bndHTERvdmJqbE11WUkzaXplWQ?oc=5",
-   "source": "The Information",
-   "date": "2026-11-25T22:31:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
