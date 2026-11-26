@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T04:49:07Z",
+ "updated_at": "2026-11-26T04:53:51Z",
  "items": [
+  {
+   "id": "df21609951179b",
+   "title": "Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtGeEZ5cFZyZTg1RjVmUFhjTThkX1JFc0I5c29hd2RsWTR0SVdrZHRoalFEQnp4YzNYYWJwdzJzaEZGcnc5dmxhZkVMQWd4V1dkOFJjdE9GNlotdHNkam01b0tDZ0FKcXpmOHZrTGlyaVl6RS1OUlhEVVNFbnRWNVItSFhCdjJteDNpQmR6ZjBKRFRMYUJsR3RnYUU5U180RExZSGJjdUF2VTNEUW1SWnVRV0ZVUi03aXlwYg?oc=5",
+   "source": "Radio Royal",
+   "date": "2026-11-26T04:52:19Z",
+   "score": 10,
+   "category": "Tecnológicas"
+  },
   {
    "id": "8f9e3612b52879",
    "title": "Global stocks fall as Trump threatens new tariffs on 16 trading partners, tech giants slide, and fears of higher U.S. interest rates grow",
@@ -150,6 +160,16 @@
    "date": "2026-11-26T03:22:36Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "3eb58c70bc570a",
+   "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUJhVHlsUnhxU0NyNHhoX2s2N0dMOGNDVFVqdVhuNGJyVEt3UG4xNUFJREVBMWZWMmlmM1hTaEl3UkM1Tzh5M0Y0UHpXUmJaQlRIU3o0RDJIQmVYaFNRQzlkV0p0TENCQ0ZPWjNlbmFmdlh4TzA5WV8zSy0teFpBemFhWFlVUWNhRlhXUHgxa19sMGhpV0E?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T03:22:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "4908ba78f09158",
@@ -310,16 +330,6 @@
    "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -720,6 +730,16 @@
    "date": "2026-11-26T01:30:06Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:30:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "4659346722a02b",
@@ -1179,26 +1199,6 @@
    "source": "FXStreet",
    "date": "2026-11-25T23:26:01Z",
    "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "8f9a2cdfb9bf52",
-   "title": "US Capital Spending Surge Keeps Stock Rebound Hopes Alive as Inflation Tests Fed Patience",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWTV2YnlUYnVyajFFenNINWt0LW9IRU5GeUNoZmdFVS16UXlfQXk5MnVCLUZ6NUhSSnRXdk9vUXRIZUlxVlgxU05ON0JKcDh1TTlLX1dhWEt6SGFiZ0o4M0JVSjZQQXYtNlUzVUFia3ItMzRVdEE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-25T23:25:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "65123ac2003a5c",
-   "title": "Materials Down as Inflation Data Seen Spurring Fed Rate Hike -- Materials Roundup",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYW9KbzNKWV9TZUhOSjJId0RsUUFaVWJPQnUtQzJkSjBWNVJWcEJwbVJ5bDRqYzdCXzhfdFZ4MktmUFJmdWwtejZWbUVvRVQ5TUstd00tOW5vLUUwMV9XV2xWVTlxR0VJU1daVUFDWHFXejNrU0FPV2hpZ2J2Tm5IM1BIUG5sd1hKTGJyelNFbE8tX2prVFpCaDYyUGxOLUVzcC0zNVc1QUlyS1RpT052dmkzLTFOR1ZweU56dERvSGNBbmctVWJSem1fMA?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-25T23:20:29Z",
-   "score": 8,
    "category": "Fed y tipos"
   }
  ]
