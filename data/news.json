@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T21:22:17Z",
+ "updated_at": "2026-11-26T21:27:00Z",
  "items": [
   {
    "id": "f6a810a55333c7",
@@ -100,6 +100,16 @@
    "date": "2026-11-26T20:02:19Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "c6128a27e9f008",
+   "title": "Gold Price Forecast: XAU/USD Rebounds Above $3,600 as Buyers Defend Key Support Despite Stronger PCE Inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDNTS0o1dWZlZ252TF8xcWRta3o2NWpGUEs4LXdRb1NUWkt3NWw2YjZNWkhxZk9xOUFVMUhoUWJjdDNTMnpqQkRMNU42UUlDbU5MV19ZeUdDeVhYUW5VN0w5X3ZuZTNwb1FfYlY1MTYxT2hHMUtOSkZJeEVHSkFDaUtkU3ZQOXNoYTlWUHhqa05ncjF2SUd6VXFQd3lyRF9hQTdhMmFmZ2xpdERUOFBUdG80OVE1Vk1YRUhEWjRFeTRJZkMyS1ZfU3p3Q01UdDFlbmJmSTR2MDhVSmJoSi03UzJQd0U?oc=5",
+   "source": "FXLeaders",
+   "date": "2026-11-26T19:47:15Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "d6632d2845faa2",
@@ -309,16 +319,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -556,7 +556,7 @@
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-11-26T17:02:41Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -822,16 +822,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "35e186ee31d22d",
-   "title": "US Stock Market Futures Rise Ahead of Black Friday as AI Stocks Rebound Globally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51TElmZm1DUkloUm5nRUFRc2FYQlJjZWhVVVB0NjZJUUI4ODh2RWFEYjJLVE1nM181dzVveTJtNHZwZTlLV0x2YkM2NGhRcktVWmNMbWJ0N0E4LWsxdzVvUDNuUVNBVG5nN2Z3Zjh1TXU2MER4aTdOZUtrbFFFbDA?oc=5",
-   "source": "Stocks Down Under",
-   "date": "2026-11-26T15:38:20Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "2fd8e58eedcfde",
    "title": "Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
    "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
@@ -849,6 +839,16 @@
    "source": "MarketWatch",
    "date": "2026-11-26T15:30:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "35e186ee31d22d",
+   "title": "US Stock Market Futures Rise Ahead of Black Friday as AI Stocks Rebound Globally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51TElmZm1DUkloUm5nRUFRc2FYQlJjZWhVVVB0NjZJUUI4ODh2RWFEYjJLVE1nM181dzVveTJtNHZwZTlLV0x2YkM2NGhRcktVWmNMbWJ0N0E4LWsxdzVvUDNuUVNBVG5nN2Z3Zjh1TXU2MER4aTdOZUtrbFFFbDA?oc=5",
+   "source": "Stocks Down Under",
+   "date": "2026-11-26T15:22:01Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1085,11 +1085,21 @@
    "id": "c6c662e152b808",
    "title": "3 Export Stocks With Limited U.S. Revenue Exposure As Tariffs Reshape Trade",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFlqZ2tPTjNReUdzTEpKS3ZVTGw1b3dWYy1lams0RVY1OU1iNjI1X3RxLW5BZlByMDRfVnlhaGdxT205VFJtMHpsRWwtcXAyclVFVjE2TFpNRjB6bHc2RkRpR2E2MWZyU2xTZ21tcFIzQW5GVzNHQWNuZ05wc2RKQmFYMTdCdkZGM0tjSnNvQmhGQmZGTHdHMmpzZ1ZtVVZzVGtHN3BrVzNlRmdxQV9HLVJDQ2s3SXk1VldFSWpaX2p1SFk4c1Q1NFdPdllNSDB0WDNtTnplOWxsZVp3RHZqNjJR0gHiAUFVX3lxTFA0WWpna09OM1F5R3NMSkpLdlVMbDVvd1ZjLWVqazRFVjU5TWI2MjVfdHEtbkFmUHIwNF9WeWFoZ3FPbTlUUm0wemxFbC1xcDJyVUVWMTZMWk1GMHpsdzZGRGlHYTYxZnJTbFNnbW1wUjNBbkZXM0dBY25nTnBzZEpCYVgxN0J2RkYzS2NKc29CaEZCZkZMd0cyanNnVm1VVnNUa0c3cGtXM2VGZ3FBX0ctUkNDazdJeTVWV0VJalpfanVIWThzVDU0V092WU1IMHRYM21OemU5bGxlWndEdmo2MlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWEx0bVhBc3hCUnBfanAtS1VhRDhkWkE1WGk2bjRJQy1XREpkZ3MweGszajNlU1dBZEh5UXBCRjBWMDhGVmNmUmpZYkxvcUpXU0NBZ3htMXB1LVNXa1dhZnlTSE1Lc2ROUklNd0NUOHF3WGNkaV9JeWMtQ0hRTFJZUE1IN3JUeFhIZFVfQU1sTzREZmZmcS0tVExfdTc5cWFiQ0F0MG9uU0lFS0dvY3N3QTlHVDJ0YnM1Q1lnNFJQaU90b01mRjk2VEdVM2tBUUI0Nk5LWG9MQkZUT2900gHiAUFVX3lxTFA0WWpna09OM1F5R3NMSkpLdlVMbDVvd1ZjLWVqazRFVjU5TWI2MjVfdHEtbkFmUHIwNF9WeWFoZ3FPbTlUUm0wemxFbC1xcDJyVUVWMTZMWk1GMHpsdzZGRGlHYTYxZnJTbFNnbW1wUjNBbkZXM0dBY25nTnBzZEpCYVgxN0J2RkYzS2NKc29CaEZCZkZMd0cyanNnVm1VVnNUa0c3cGtXM2VGZ3FBX0ctUkNDazdJeTVWV0VJalpfanVIWThzVDU0V092WU1IMHRYM21OemU5bGxlWndEdmo2MlE?oc=5",
    "source": "Simply Wall St",
    "date": "2026-11-26T14:12:36Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "9728826c45f58f",
+   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Euronext Markets: Real-time Stock Market Data | live",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFU0MGVaQ3FORTJicWJ1QTlNQWRob3haZGpGQUR2bDg2QXpYNHZtSTZyUGFCN256S3ZpWlI5cC1mT2MxR0NfZ2FJYXpnRVc2VG9ycTNvN1A4QzdiQmF5SWdhNEdscW9VTFFhdlhfaXJGZm4wcElWU2tyaTRrWmRMY0tSZ0JpbS1yTERnME54SmxSMWFNclRRMzgtOXJScVNVSDNkVmZwNXNaczg?oc=5",
+   "source": "Google News",
+   "date": "2026-11-26T14:10:33Z",
+   "score": 11,
+   "category": "Tecnológicas"
   },
   {
    "id": "52ceef03c58f8b",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T13:45:07Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "984f5ad07c1d09",
-   "title": "What Daily Compounding and Volatility Drag Mean for the Global X Ultra Long Nasdaq 100 Hedge Fund (ASX:LNAS)?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkJ5SFZNR01rYUp2TkNZY1M5cDlRUkt4dzVUT1I4U19QN01ZdlZYQUlvTHNNTXNWb2NsX1AzQ2VVY1hVT25wM3FhVFM3bi1nSXBILXY1bVJpemozNk9fVXJqcEJsQlZLRXpPNmpoYWhtdU1LX0VSanV4cm1mWkEtWE44RlBsUWt1cl9wSHY2ajdnU2dBYjBKODU5VDhKT1d5YzZmUjk5eXQzTXJNbDI2TWZHWmZzeDRGVDdfZm9wS3lhNGlhMU9zV21VeXhBeElOSWFQMUU1YjRCOGRwT0JpRGhwdml4Zw?oc=5",
-   "source": "Kalkine",
-   "date": "2026-11-26T13:41:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
