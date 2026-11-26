@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T01:58:22Z",
+ "updated_at": "2026-11-26T02:03:06Z",
  "items": [
+  {
+   "id": "96b736bd0e40f8",
+   "title": "Inflation report to provide Fed’s preferred gauge of prices ahead of possible rate hike",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0VzZXV5RmZKR1lNcE10dWxjQlpUdXllMjNaWm9tb0ktMVpQLXNRZ0lxY0IzekY0TnIxVi1TSUQ2NVc1VXVHU3pRTUNMaW94bzNGR0pVTzFiQWM3b1NBZlczOXVXaEZmeGFWQ0FxM0NkVk9kZzAtWU5IcUpxMEx2Mzc3X00zVmtraDlRWW9jVUc5ek00UlhDUnc2RTdUM3lZakI4cjhyNFVNMzFrZFRzenU5cldfRHBTMnZGQg?oc=5",
+   "source": "weisradio.com",
+   "date": "2026-11-26T02:00:08Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "5bd02a975adaca",
+   "title": "\"The Big Short\" investor Burry drops bets against Nasdaq, expands long positions : Finance : JKN",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45RGs1YTNrdFlMZi1KRklEWWJZWkwwNlhLOXJOS0pjN1NzbkdIcDVMdmRRX0RBM3BjWWw3UDhpSTBNbUdFdEtSMU9GUm1SeGYtR0N2Xzlxay1vY1JYUVZpbnFn?oc=5",
+   "source": "재경일보",
+   "date": "2026-11-26T01:55:04Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "f7079d78a66abb",
    "title": "High US PCE, Trump tariffs and hawkish Fed outlook weigh on stocks",
@@ -12,6 +32,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1f9cd95df13a9f",
+   "title": "GLOBAL MARKETS-Asia Shares Bounce, AI and Tariffs Lurk in Background",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3BVcjQxYm9TUzVtODVtTVRsa2dfUWhlZ2JfOU15VWR1R1BETndBVXhmY0w3UllkMTJwN3hXSjdzM2hWWmpaYmFIVjRSQVVGMUt2R3BZOWZsY3FBT1J3ZHJtWXNxZndmS1JEVFJmdTF1ZEZ3UXRYVDhfck1HcWxzMDNFTGNSQnJWZEdnR1ctQ1E5M3VZeFVTOGs1SEFHUWIzNU5v0gGeAUFVX3lxTE0tRWtnMERzaG1lZm5FLXdIWEo1ejNmZlVlWmFvajNQVGRJUERzUWx2S1ZqU2JfOWNZNGV3ZHctcGZFUjBmTGctelUtd2NvVV9sbmtXSERFTkxES1lLNFRUUWduVm5PV0lGTk5qSzRuYjBVYkNsa3RrRmxBSC1TNFQ4UWtlMjc2ZF9peGltUmhFT05HcUdvMWRoMUotOVRB?oc=5",
+   "source": "KONTAN",
+   "date": "2026-11-26T01:50:45Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "1021999720a71c",
    "title": "Trump Tariffs 2027: Inflation, Fed Rates & Stock Risks",
    "summary": "",
@@ -20,6 +50,16 @@
    "date": "2026-11-26T01:49:01Z",
    "score": 12,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "f7d686d9dd6626",
+   "title": "S&P 500 edges lower as tariff proposals and AI doubts rattle Wall Street",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHBUNDl3YVJ3NkRIRkRHVE9TTkgyR0xxanh0amhLQUpmY1hrdEgtbUd3VnBxNnNpMU52U2V2X3M1VTV4cjVXMTluR3pRVTlkcWRLUndMV0ItbFpBaEx0Q0NVOW5BMzVlLUFNZl9PQjVObDJWN0czSmQ4eFMyYWZhUEpyd0FyRHBMS2d1ZFh1elJCVExyUW02S3pGNlB0SmstdFNQNTNuTjZ4bS1SWVNJ?oc=5",
+   "source": "JournalArta",
+   "date": "2026-11-26T01:48:34Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "99a7b7d5f5fa94",
@@ -652,16 +692,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "96b736bd0e40f8",
-   "title": "Inflation report to provide Fed’s preferred gauge of prices ahead of possible rate hike",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONjNQNUlSM3N2Vldzek1xNmNSczVWYjBfalNpOHFjQUhwS1plOVBYZjNfOG55NmdZMjBhRlZzLThNUkpLZmlVMFk1Nmk5d0hncnI0a1BxT0VDZV9UeXhNVlVhdmxLU2htdjZGRGgycW1Hc1RpM3AybnBHdnBlNDYyTEdpdmlpVENPRkxseUhzY2JBQ0tFOGdmRmVUQkNrWXhjT2FXeTMtV2otYXJDTlg5dENzRGg4clpyUzgyaldFWU1FS2habTZ0TUhzbVVDVVRpcDdqUQ?oc=5",
-   "source": "Rural Radio Network",
-   "date": "2026-11-25T22:54:43Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "53f8ae3ac38648",
    "title": "Nvidia credit rating put on negative watch as S&P questions oversight",
    "summary": "",
@@ -759,6 +789,16 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1160,46 +1200,6 @@
    "date": "2026-11-25T21:26:47Z",
    "score": 3.0,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "c24545ed38c616",
-   "title": "US stocks close lower in volatile session as AI trade remains under pressure",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU4xMm9XeS02RlVfRHptOVoyRXNfa2cxRmxISXhnOFBrVnYtSk94bnVDWklKQzVhODdtbEViRThXVkdIYWw4aUpLME9fc3cxQ01WZ0ZTejdGTXJZdnNESmxlRl9Tb2ZEaElSRExXTWs3Ymg5QmxjZVdZNDdnT3ZNSWV3bDE?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-25T21:26:33Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "066c44ce42e68a",
-   "title": "Nasdaq Erases Most of 4.6% Slump as Dip Buyers Step In, Burry Turns More Long",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTWoyM0RWXzJNeWFWb1pFZ1I1RjBsTW9UYWV5V1VuV0RUSW5aVWFib1lWV2VuYnpJbUhTS2h5U0lpU3Z5SUpnX25NVUR1dWlVQXQtcg?oc=5",
-   "source": "bloomingbit",
-   "date": "2026-11-25T21:25:32Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1ff818879b601e",
-   "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkQxbTNiWEs3QmZBV1ZoVV9Nb1kyM1dUSmRYT2RWYkQ0eTV6cktjakV3OXRjalVYSkJ2Q2FBdFhUbHl6V3VBTHFzbGJFU1RacTRrUGxFWHU2Y0R3OXZKXzlaQUVPc3Z3TjJ1MkRnVGNwMlpHYzhwbVkwRTFLbVc0ZTkxa3ExQU1iYTcxU3Q4czZTVVhDRE9iYTFCak1aZ3BnQ1ZGbldMSGdaQ2szYXNQX1FJTQ?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-25T21:25:11Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "9cc96bd6c6db96",
-   "title": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful - ABC News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXBwN2dRNk9DT3RHOHFraXdZb0xCMjQ2VXNiNjRjcXE2b18waG54Z1BkTFFRUkVieHA4VDRuV3NXb21NQ2FoNGVrY0hGOWM2dG15NjAxVC1wOEdqcU00NWg3TDlvRlNudTZtZEhoTnpuX1gyMTVUZGo0dUhobXk2X0ozZ2t6TGszVGlpVHpKRlRPWnpWWVhoTGVEYTZ6cWlS0gGmAUFVX3lxTE9xOEI5bWN1STBoWXNub3JQS3RTY0RVUzYzRE9ZTXJweEdCS1dWeFZxV1RRTk9RZGQ1VUlleURDSmEzdkZFMUM4dG1BUFZra1ppRklsdGVJM0NzTkVDY2ZRN2F3TEN3UXRscEdvc24yUDVocmFvVnJWM2lDcGo1U180LXNUN0pKalVtbHo1eVpTenpSZjlvRVVhYTVDVWMwOENKWUd4M0E?oc=5",
-   "source": "Breaking News, Latest News and Videos",
-   "date": "2026-11-25T21:24:54Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
