@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T03:14:15Z",
+ "updated_at": "2026-11-26T03:19:05Z",
  "items": [
   {
    "id": "7c57492fd5b9e9",
@@ -19,6 +19,16 @@
    "source": "CNBC",
    "date": "2026-11-26T03:09:47Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "cbf5217d1c5b38",
+   "title": "Big Short's Burry Clears Out Nasdaq Put Positions, Turns Mostly Bullish; Holding 25% Cash, Aims to Short Nvidia Again Near $200",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hdXd2X3FrM3V1empuby1wY0hmMEpKcWZWQ0pXWkVXR2FISlVvQi1BV0todDZqTGdYU25RWXJEcW9qdlBlN24zazdxRFR1Z1dJTFVINFQ1bnNFTVNBU1lrRUhyVnQtNFVESzhtVkgwcmt2aWQtWlE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T03:09:29Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -42,6 +52,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "b81d4f0683696a",
+   "title": "Nasdaq 100 Dips Into Bear Market Territory, Then Rebounds as Chips Lag",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZzdMYTUta1Niak9MZU9RWWdncnBFTDNCTmJUczZsU0ZFSTBwcDhoZmYwRVpITUt3Vl8tdUUtNFBNZTRiak95RTlnLTV2OUV3YTdsSUpncXdySEVXRnJaNUlEbkFfdGtDYThoVVFNMTVwbmM?oc=5",
+   "source": "www.trendingtopics.eu",
+   "date": "2026-11-26T03:07:41Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "615879d490571b",
    "title": "US Inflation Climbs to 3.8% as Fed Faces Rate Decision",
    "summary": "",
@@ -62,6 +82,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "55020c64dc1e74",
+   "title": "Gold Slips Toward $3,575 as Firm Inflation Keeps Fed Hikes on the Table",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-26T02:58:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "4908ba78f09158",
    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
    "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
@@ -72,24 +102,14 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "id": "ee1c277ffc86c4",
+   "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "55020c64dc1e74",
-   "title": "Gold Slips Toward $3,575 as Firm Inflation Keeps Fed Hikes on the Table",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-26T02:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdllrYnlYZUdONjllbGdjdTFwNE5mbE1ST2NINnNNRlJJQkVYQVBOdkF5cURoY18xU1Z2SDFzQ01pcEVja1hoalk4SjZRZXZheEJQSUR4eV9YMk9tUjR2NnROTWpiYWZydUFtWll1V05fWXg4RTlEN1V4TFJ6RVV1NW9NT242UWFUbFotZTg4LWRjV2dKVm5jWVl1MUVsYVF3Z3YtWldOQm5hblB4RWZFMFl3cDdreTRfM2RJNEFYdFl1YU5nREQ4VlRCQ0VsYlRNNkdwVjc3NEcyWjZNa2ZtN0U2ZGV5eHh6QW80WTdPaHlLOWo0SEE?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-26T02:56:49Z",
    "score": 8,
-   "category": "Fed y tipos"
+   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -530,6 +550,16 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:06:33Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
@@ -1169,36 +1199,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T22:16:00Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f8a5b3c6f29f0f",
-   "title": "Nasdaq 100 Recovers as Investors Buy Technology Stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Sk5YWkpmcHpnSGNtTHUtdFhZTERiZUE4OWZEN3JHVTBYOUREcmd1QjJYaVFZWlBkejJmRTI1ZWNITDBic1ZTLUREVGFPVEFmY2dKWFR5eHJsTGo1WFRoNTNKdWM?oc=5",
-   "source": "Peradaban.id",
-   "date": "2026-11-25T22:15:00Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "67933234404c75",
-   "title": "Nasdaq 100 Recovers as Tech Stocks Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YUi16OURBak1BQ1JzbHFpTHcxM1h3Tmp1cWhiTlNVR0lTZWg2djRGLVpqWnRGQkZqeHdEYnppUldVWGg0QkdXN3RRMjQ1NFptdXk3WTNvRE90c0VVUDdVRWV0RG9HV28?oc=5",
-   "source": "Limapagi",
-   "date": "2026-11-25T22:12:00Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "de3bb99b9742c2",
-   "title": "S&P 500, Nasdaq, Dow Forecast: Wall Street Rebound Faces Major Resistance—Bull Trap or Breakout?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdklPRnp5aF8zbVJaTnU0QUJXNWpVUnJPUjRxUzNoUjNCVjFsVW5mQWpLbWFJMUo2SXo3empTdkl3S253eUZiZzIxXzhwVzlEa1NNNl94X2J1V0lVRDNrTjVncGhNTnlRYktqeXZUbjg5QzF0bFJlRXo1WlBFWnExWEJXTllQRDlRQmZmb20tMjFrX0hnQllORXN4azdVcmFXMnhIVG9EN2lnNWFzNzJhdGZTMGZVUFNQWkplTW40UFJQc1c3NW16WHFpejlBLTVyclN2ZUduSU95UQ?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T22:11:21Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
