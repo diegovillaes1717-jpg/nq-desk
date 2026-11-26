@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T21:50:45Z",
+ "updated_at": "2026-11-26T21:55:28Z",
  "items": [
   {
    "id": "73b00b2bf9eeaf",
@@ -62,16 +62,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb082Ml90WDEyNE5FM3BfaVA5Z1FFRnVPV2xyX3p6UE5kOEh2RGhwaVdwZzh1bHE3aHk4a0w2Rk5rS2lHZnJTWkdFd0UxT1FiTnZKUm4zTkFjQl9FeHlQWUFyQkFLSXdLRlNDUDg2X2VzbnZGX1lGUjVZZ2xPLTVCNWEyUS1GYy1VUGFDV2dCNlhPdGtyMEVmQnJWTXpwTnBKWDFYSHZIdF8wN1NJVXhTcTJiQ1FhQlVSU3ZVMUZFUWNhWm5XOHhITTZfNUF3ZmxsMVE?oc=5",
-   "source": "13wham.com",
-   "date": "2026-11-26T20:56:43Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "28cf2aa1941483",
    "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
    "summary": "",
@@ -80,6 +70,16 @@
    "date": "2026-11-26T20:52:56Z",
    "score": 4,
    "category": "Mercado"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEhJRzlhZVR5YWdFdlpfWnNRVGt3QTEzSEZhbXNZS1RHMTFVazdQQjJZd0x4TlF5empqbmNKcjhIRXM3UHRmd3JYeVd3Ykx3c0pBUlgtWXRldHA4dFp4ZGdVdjVCdVFMcEJXS2xCakZ6a25xZERGSEhNVk9SX2RPd0FvQUlER3VhNGNLTU9pcXJBY210dGVTaDIydS03cjVCb3NscTdHQXhkcU0zRGJXVllR?oc=5",
+   "source": "WGME",
+   "date": "2026-11-26T20:52:28Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "3d60207bb95915",
@@ -550,6 +550,16 @@
    "date": "2026-11-26T17:14:43Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "d067656f29e18c",
+   "title": "European stocks rally as tech jitters ease",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelNNYmp0cjhETnFlM3lDeVMxLW9mVTJIbXdPRGU1SngycnZLVkJTN2tod1FYdzdiRFotMUNCV1l3UW9USEVMMGtKdkFVanp2QzFCRlotR1ljdGVWTlFoZFMxZlNBNjBmZ1NjYlducUFKaUM4RGt5cjFHMzY1czRxTlVJZTh5Nk4xQnBJeFRKSmx0NWo2X3BHWW9BSFB2bUVLczBEQ3J0aGQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T17:09:40Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "ebe2326ff46a15",
@@ -1075,8 +1085,8 @@
    "id": "bdb12bb48cddac",
    "title": "Wall Street Is Suffering a $2 Trillion Huangover. Is It Time to Buy Nvidia Stock?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN04zQkhBbm1EVF9KRl9WLTlOdGJ2d3RFbFI1VkNQNk8xTVNqSXpkWmlJYkxITDFVak11cUJxMzFXQmVRUUE0ZEozekFkcmFQYjFfSHByR0hkd3dMWXpGSFMtUHBFYzkyMG1FVm5rcWNhempVekZZdENyVTh1MHpEaUZ0ZVhGUXUzWXdKTmZ6ek1Vb3FBajJMNjJuUGxpdw?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXd6d0p5LWJxeHR0bUV4ZHdURVk3RWYwRi0wcnZpQnJCS3RwM1hhY0dIdE9aa1NTMTB4Y0tWN09pVXJ0ZTNpQUFweXZqSlpNaWZQNFAzR0VEV1FVaTlfOEJxdzFWWUEyaW1aWm50QWc5bFd0dnI2YTEzRXFfZVFFSXgyTjFhZVZ2djdDeXVTRUh1QXp3SmRxT1JMbjhadC00YlZYeTlvTi1XcWxqcWNIQU1BUFUtREdwZDVfRC1lQQ?oc=5",
+   "source": "Barchart.com",
    "date": "2026-11-26T14:30:03Z",
    "score": 5,
    "category": "Tecnológicas"
@@ -1186,16 +1196,6 @@
    "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
    "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
    "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-26T14:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "dc2295cf88a186",
-   "title": "Opinion: Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckRMcWF2UHFHa1RwWmRiX1VTdVh4c0ZVYXpKbnpETjNxT1NSU1VBcDRKQmQtT3FTbHBNNF84Sm8tbXpBa25VQXNqMC05S1puSkxiODVMSWdYT3NocXl6MEE3WE5VU2NwZzlFdjFyeWhodUxTN0pPQXVMcDdNTzRzRDA0UmVUZFVRNWVMaWtYQ3N4QTVLWEItalN0YkFqbV9aMjdmRGo1R0lWQktqWGlaMkZNSk8?oc=5",
    "source": "MarketWatch",
    "date": "2026-11-26T14:00:00Z",
    "score": 3,
