@@ -285,21 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de Nvidia han superado las expectativas con un beneficio por acción sólido, impulsando el optimismo en el sector tecnológico. A pesar de estos buenos datos, la reacción del mercado ha sido mixta y el Nasdaq ha sufrido caídas recientes.",
+  "resumen": "Los últimos resultados de Nvidia superaron las expectativas y elevaron su previsión, impulsando al sector de chips aunque con cierta incertidumbre de los inversores. El mercado reaccionó con un rally en semiconductores que apoyó al Nasdaq.",
   "puntos": [
    {
-    "fecha": "18 nov",
+    "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados sólidos pero con dudas",
-    "resumen": "Presentó un beneficio por acción superior a lo estimado impulsado por la demanda de IA, aunque la acción reaccionó con caídas bursátiles.",
+    "titulo": "Supera expectativas y guía al alza",
+    "resumen": "Presentó un beneficio por acción real de 2.68 frente al 2.47 estimado y elevó su outlook, provocando un ligero pop en la acción y un rally en valores de chips.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 dic.",
-  "que_vigilar": "Vigilar la evolución de la demanda de IA y los riesgos geopolíticos en los próximos informes.",
-  "sig": "7a905effca62b7",
-  "generated_at": "2026-11-26T12:24:56Z"
+  "proximos": "Los próximos resultados clave llegarán con Adobe y Broadcom el 9 de diciembre, seguidos por Costco el 10 de diciembre y Micron el 17 de diciembre.",
+  "que_vigilar": "Vigilar la evolución de la demanda de IA en los informes de semiconductores de diciembre y la sostenibilidad del impulso en los futuros del NQ.",
+  "sig": "397fb25f129ba3",
+  "generated_at": "2026-11-26T15:26:44Z"
  },
  "updated_at": "2026-11-26T09:37:33Z"
 }
