@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T18:03:53Z",
+ "updated_at": "2026-11-26T18:08:38Z",
  "items": [
+  {
+   "id": "d3366cc47ce295",
+   "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb29vaFQ2a1Z3UmxfQzZKcnpMcGMtMmZwcGNZZkkxOGhDSWVqczlWbTV2eThPY3FvczlnQVI4aXg4UEx4UVIzcnlSNmNQT0dzT1JRRG1mVmcxUHVxNEY3bVZjc3RmUEZFY3lKcmV0cVpoWXdkSXJrWl9COXlUbTFKVEZLMjNtZEMycGdvZUhwRVFwU2cyak5wZlhIcmZ0X0QwZU02ZS1vZjh3Zw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T18:01:26Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "7328012c7ca50e",
    "title": "Stop worrying about bond yields – history says stocks don’t care",
@@ -30,6 +40,16 @@
    "date": "2026-11-26T17:57:02Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "a249d4f4be3cb8",
+   "title": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWJYZnBRMFQwTDY5blN3VE0tSk9sQmhJN29KQjdrNTZwQ1FIOXpLZHNnTUpJbkY0Qm5wYS1VWFh5Z2kzWEtwTDJhUG55a0xXRjRFU25ZeGptWlU5azVYTWRreG9XSWtvbUZ3MTNReEVneVRLbG9XOS1YbDgxQWwyUWZmTjVoQk9NWlNEUTVOZDB5UWFBMzRYNmtuTmdCNGx0MG9WXzM1Yjl2bnNSQUR1VXU1NEc4NzdRWnZFbk4wY0hoZ2s0NEt3?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-26T17:53:28Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "9c78eb6907de97",
@@ -272,6 +292,26 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "fb1549b073c881",
+   "title": "Crypto Market Rally as Bond Yields Fall and Oil Prices Drop",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTdhOE5lSndPUHpFRkJLMVFZdWJZUGl4bDZiMHRuZEk1R0xJT0hzLUJHNVhnOE5mck0tTUtDblBUSFc1RUtoT1R4MVVJNWVJeEtTWFlvN05CbW9GdjVaQTUyM0xYNklzTFBXNTE1UF92bzhtYUtfT3BMWE9yNmprdGJuN25YQlc2VURuckk4a2RNeFlnS2FMNQ?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T15:54:21Z",
+   "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "b9b75a0118eea7",
+   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThVVEd0RE01LUtWcjZPaWQ0cVNnUFQ0cFIzSlpCUlQxWGxJdTlneElCbE80SHdDVTEyelZFNjVHcXRWbHRhdVNWOUNZbVU0Wmk4MmtnUHQ4dWRVNFl4TzFnWjJGc21rbzBMaXVxWmp4bEdnNEo0X0VsZXpTdzlJMDZKSVpQN1lOQUhFbTlhc3RGa3A1bjBwSnZYZVd1b3c0OE9jZ2ZFLWt3cHpCbGlOSjVJdGljTHZ1a01BWE5MekVxTDRBVHRYcENfQXQ3bnlzSTRn?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T15:53:27Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
@@ -302,6 +342,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "3f50104cc0613f",
    "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
    "summary": "",
@@ -329,16 +379,6 @@
    "source": "MarketWatch",
    "date": "2026-11-26T15:30:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b9b75a0118eea7",
-   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0hzN3hmOC1uaWVMNlhEeXJWakdQODZWdzN5U0JBQjB6M2ltbktsRmFEN1NtNkVDV3c4Rl9SaFpybkQwR2s0cXpYTnd1ZUxZZkFuaGxRSUJCQzJWLW0tOVdMQ0JxbEZyUFdmcDNFeF8wZ3ozby1BMEQtOGFxb0FIZmNoLUxlMHNzWFR4dmQ5TnNmT2Y3SldhenpySDh1bU1uSHpfVndEQkRHS2c5azZXU1dlcHpmN09jeUV2aG1aLWlPcngyZ0N0QjNJRG5VTnd6TURNUmd3UVZqelNPVTJjM2NpcF9PZXJ3eVVvQ09hdnExVXBvMWpraw?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T15:28:23Z",
-   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1160,46 +1200,6 @@
    "date": "2026-11-26T11:42:24Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "13a6be33b39619",
-   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T11:42:17Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e7d604cd8d5229",
-   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95RGVhVWIzYms5NTB5SGZ2ZmtLRjVZOC12WlpvaWRRbENGblRFLTEycjVoNFJxLTNkSi1rVWl5eDFLb254X1VUUkt1MGNKd0lsZnp4ekNvaE5wUmxPMHc?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-26T11:40:31Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d4d3e70b3a6bb4",
-   "title": "Michael Burry Ditches Nasdaq Puts and Goes Mostly Long — But Eyes $200 Nvidia Short",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUhpMDUtMkdHOTlHdHpHb1laMVpGS0x6UnUtdXp4Q3Vqa2Z4SHpnOEdNbzF2UXJKb3psQ1FjeVI0ZDNOVkZwY2Jzd3pmWW9WOVY2TkpTa1Q1NHdfZmUwZ2hwVlMxOWI2Ukc4Z3BqdVlIZ3hXQlVEZTNiN3dWMThfUmluYWFjTlRUNHBSMFZBczRQdDZKcy1BRUo3cWhfeUxlbzRKVkdJUlFEYkl0UHJz?oc=5",
-   "source": "TipRanks",
-   "date": "2026-11-26T11:39:16Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3546bfffac5fa7",
-   "title": "AI Stocks Resume Their Slide",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T11:33:46Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
