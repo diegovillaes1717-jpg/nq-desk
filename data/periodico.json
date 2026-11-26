@@ -1,112 +1,96 @@
 {
- "edition_key": "2026-11-26-preapertura",
- "edition": "preapertura",
- "edition_name": "Previa de la apertura de Nueva York",
- "generated_at": "2026-11-26T14:09:54Z",
+ "edition_key": "2026-11-26-cierre",
+ "edition": "cierre",
+ "edition_name": "Resumen del cierre",
+ "generated_at": "2026-11-26T21:03:25Z",
  "ai": true,
  "model": "gemini-3.5-flash-lite",
  "content": {
-  "titular": "El Nasdaq 100 rebota un 0,73% previo a la apertura mientras los inversores buscan gangas tras las caídas",
+  "titular": "El Nasdaq rebota tras el desplome por la IA, mientras crecen las apuestas de subida de tipos de la Fed",
   "en_pocas_palabras": [
-   "Las bolsas globales y los futuros del Nasdaq suben hoy porque muchos inversores están comprando tras las fuertes caídas recientes.",
-   "La economía de Estados Unidos creció mucho más de lo esperado en el tercer trimestre, lo que demuestra que va fuerte.",
-   "Sin embargo, una inflación alta en octubre y los nuevos aranceles de la Casa Blanca preocupan porque podrían hacer que los tipos de interés suban.",
-   "Los tipos de interés son el coste del dinero; si suben, suele ser negativo para las empresas tecnológicas del Nasdaq.",
-   "Por ahora, el mercado ignora parte de ese miedo y los futuros se mueven en verde antes de abrir Nueva York."
+   "El futuro del Nasdaq 100 sube hoy un 0,46% hasta los 26.221,25 puntos tras un fuerte castigo previo.",
+   "La economía estadounidense creció un 4,3% en el tercer trimestre, un dato superior al previsto.",
+   "Esta fortaleza económica y la inflación persistente disparan las apuestas a que la Reserva Federal (el banco central de EE. UU.) subirá los tipos de interés en diciembre.",
+   "Las tecnológicas viven una sesión mixta con caídas en Nvidia y subidas en Meta, mientras el mercado digiere los aranceles y la intervención de Trump."
   ],
-  "resumen": "Los futuros del Nasdaq 100 suben un 0,73% hasta los 26.291,5 puntos gracias a un rebote técnico y a la caza de gangas tras las últimas caídas tecnológicas. No obstante, persisten los temores por una inflación acelerada y unos aranceles de Trump que podrían forzar a la Fed a subir los tipos.",
+  "resumen": "Los futuros del Nasdaq recuperan terreno un 0,46% en una sesión marcada por festivo en EE. UU., mientras el fuerte crecimiento del PIB al 4,3% y la presión inflacionaria elevan las probabilidades de un endurecimiento por parte de la Fed.",
   "tono": "Mixto",
-  "tono_motivo": "Rebote de los futuros por compra de gangas y PIB fuerte, contrarrestado por la presión de la inflación y los aranceles sobre la Fed.",
+  "tono_motivo": "Rebote bursátil diario del NQ pero con persistentes temores sobre tipos de interés y caídas mensuales acumuladas.",
   "claves": [
    {
-    "titulo": "Rebote técnico y caza de gangas",
-    "detalle": "Los futuros del Nasdaq 100 suben un 0,73% mientras los inversores aprovechan para comprar tras el reciente castigo en el sector tecnológico.",
+    "titulo": "PIB del tercer trimestre y tipos de la Fed",
+    "detalle": "El crecimiento económico se revisó al alza hasta el 4,3%, impulsando las probabilidades de que la Fed suba los tipos de interés en diciembre debido a la fuerte inflación.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+      "title": "Around Prague",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeE9Xb0JON2wzdzZSZ3ZjTEJpdk05T0xWbHQtTkxDMEFhREZhVUVtRWdBNFV2S3JIamdWbXZTaU8xbXZkN3dJVi1jZE83a1BCNDdpX0V0a3M0VXRWM2JfN0FydlZPX3Yyc0hxMzQ1QU9tVHlUTGhkWVNXbW9Nc1AtVUk2d0VmMVU5aVBqMWVYc0c4eXlkSFdibDZaSGtLb2ZwdHpN?oc=5"
      },
+     {
+      "title": "www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpeUkwYU1YLUVlMnZfT3NqaURETWdMV2xxZkFKMDYwXzQtcVd4MkZGZGZGeVptWE4zMG44b0RjU1RwZ3VYS0c5blJFRWl5YnhqSFU4OEdDOWdIUQ?oc=5"
+     }
+    ]
+   },
+   {
+    "titulo": "Rebote del sector tecnológico e IA",
+    "detalle": "Los futuros del Nasdaq rebotan tras el reciente desplome ligado a valoraciones de inteligencia artificial y restricciones a la exportación de chips de Nvidia.",
+    "impacto": "Alto",
+    "links": [
      {
       "title": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5"
+     },
+     {
+      "title": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUU5HOXAyWDVZa0d3LURpX0d3U3pxZER0SWN6VHJtci1OTmpmU2U3RDFXRV95ZUxIc25qa0tLOV81N29odHV3czhzRmhQajUwM292M0xMMEtMMWN1MzZLTGpla1pDRUM3MHM2TnM0b2JuOUJrei05QmFhYlVWbElUN2p6bEp3ZXpfcTdKUzVjTG1xeF9KRG4xSFVLSkdfLWpWLWFlT0xJU2Fid1VTYjVfYzlKejZFbVF1ZjF5dEw1WQ?oc=5"
+     },
+     {
+      "title": "www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3U3dySDB5cDdhVS1mOXQ4WVkxM0E4YUdCckY2TFN0dVJzZ0NUQWRRek9oUFpsaGlWSUNvT2JUWjNLbjVQZjQtYzFPeXRxOHhVclNQWXlZNjJOQQ?oc=5"
      }
     ]
    },
    {
-    "titulo": "Crecimiento del PIB al 4,3%",
-    "detalle": "El PIB del tercer trimestre en EE. UU. fue revisado al alza hasta el 4,3%, mostrando una economía muy sólida pero avivando presiones inflacionistas.",
-    "impacto": "Alto",
-    "links": [
-     {
-      "title": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
-     },
-     {
-      "title": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcU5WaEJ5c0JpdzVicVRORVZpMHBnbjdoYlIzdFROcDlVUWJoaWRlTjFpdWpJS25ZYVk2dktEb3F3WmQ5aDcwQ2ZVeFNoTDQtQl9tZTN5b3JVUEpaQWxWeVZ3eG5RdDRaeTBoQTRyc3FjWW5jd3p6LVlNWDgzMkZWQzRqbkNRZFBrT1NoQlRQTjhvWTVEYW90c1ZIdWYxeWlhdVFDQUNyQ3ktNFBZSWMxWWVYUFZZNE1vc0NSN2pHRUpqd3Faa252ampQSTRXWFZTLVpRMG4xRHMzS2Z4UkdMWlRYVk1CNW4xVWdqLVhfUWdnUkpwNUE?oc=5"
-     }
-    ]
-   },
-   {
-    "titulo": "Inflación alta y riesgo de tipos",
-    "detalle": "La inflación de octubre y el indicador preferido de la Fed en máximos de tres años aumentan las apuestas de que el banco central suba los tipos.",
-    "impacto": "Alto",
-    "links": [
-     {
-      "title": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
-     },
-     {
-      "title": "Capital FM Africa",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFR1Ri1yRjNXUFhQVHBMWTFIU0FGQ0NMQ1I2bkFXUldmbW82Yl9zV3pGM0hrYTFVUnlucUQxWkhfWS1CQXNiMUtpRlBRelBQS1FRLVpMOFNqaEEtTVRGa3NTUmttTFVsR2FnWmVUTXVRdjBTRHZyZ25rdVo3WXQ3RzNOQmxPVDNiUjJrYTlSWXRrZw?oc=5"
-     },
-     {
-      "title": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5"
-     }
-    ]
-   },
-   {
-    "titulo": "Nuevos aranceles de Trump",
-    "detalle": "La Casa Blanca ha anunciado aranceles contra más de una decena de socios comerciales, generando incertidumbre inflacionaria.",
+    "titulo": "Impacto político y aranceles",
+    "detalle": "Las declaraciones y propuestas de aranceles de Donald Trump continúan generando debate sobre el impacto en las acciones globales y el comercio.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVItckt2bWxpckNqWGxHZE1vXzZWNGFUUlNBX1p3R0ZqMThJdmwxa3RNOGIyaURDY19adEpyY056LUVGTjRwMU5tS2NHb3MzZXpYNWlFYTZVNzY2cVRBVjFvalMzd2FNVWVwYTJWSUxuOGFMdnltV0gxYTk3TWdiY0I5cUUzMXJNSFBrZWVFVDc4X0xmSVpQVTBEa084VHNyYUhralRQa3NYeVBOQU1VcWZHMnNFSFl5OFRaZFBWX3lLTEZLa0xkMnQ3R29PRGVNNDZhRFVkdUtsZVJJbWpYNzNlS0d1aWVBWVVURDNvckRIQjAwd0NITHA4VEFnamZGcXI3Q2tZdw?oc=5"
+      "title": "VT Markets",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNDVld1RpTGJEU3FKeHJOb0psRDRLQ1JzM3hBTW1JQ3hIMjhKWGc5ME12azBuMkw2SklOWXA4ZXlwZi1jVU5JWS1COEN0eTV3c0o0V0JyUm52OTYtV1lTYU1tSnA0ZldSUV9GZ00zWVNvMEs5TTFQU0xvN1I5empVSVl0ZVhuYzROLXZXZkJEWVVjUWw1UFJUejhKYzJHSk5HMVhidmtpODZBemFMYk11c1BJWFktcHJ3RXRUUFFWa0l2WDNIbXNoMWJ2MlN1RFpSYV8wUWhJNXJDQQ?oc=5"
      },
      {
-      "title": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+      "title": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDAxVGFpS2R1UjZqMXF1ZG94NHZweWw0MU1LTEJzN0ZDZUFjdDl5eW1fOWZ5dEZ3ZzFDQWFhVTFHUEptQ25WOXI0dEtNd1JtcVBfXzEyaTllV0g3RXFrWVRXU0ppbE94U0hBT0pITzd1YmtqTHJZc0ZQdHZVeVdMMjZ1YkFCZms?oc=5"
      },
      {
-      "title": "BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5"
+      "title": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTBveXA4NzdsYkVYVk41SkFEeHBwdXNGS2NSTWJjNV9ZY3JlQjlrQjBWM2x0X0dzajlWa2xJM2x5OHl1Rk9vY25PcTlpbjlRSnRnX3A2ekhOWW1NcHBIREU5dkRLbTNSLUFiMG9GLTZycFRnbGN0LUxMbEg3YnJkcjJ5Skw3U1Fhb2ozTko0ZzFWUEV2ek5yX0E5b3BZVGtvX3hR?oc=5"
      }
     ]
    }
   ],
   "secciones": [
    {
-    "nombre": "Macro",
+    "nombre": "Fed y tipos",
     "puntos": [
      {
-      "texto": "El PIB del tercer trimestre repuntó con fuerza hasta el 4,3%, mientras la inflación de octubre y el deflactor del PCE suben, complicando el panorama de la Fed.",
+      "texto": "Las expectativas de una subida de tipos de la Reserva Federal en diciembre rozan el 100% tras conocerse los datos de inflación y el PIB.",
       "links": [
        {
-        "title": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
+        "title": "Around Prague",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeE9Xb0JON2wzdzZSZ3ZjTEJpdk05T0xWbHQtTkxDMEFhREZhVUVtRWdBNFV2S3JIamdWbXZTaU8xbXZkN3dJVi1jZE83a1BCNDdpX0V0a3M0VXRWM2JfN0FydlZPX3Yyc0hxMzQ1QU9tVHlUTGhkWVNXbW9Nc1AtVUk2d0VmMVU5aVBqMWVYc0c4eXlkSFdibDZaSGtLb2ZwdHpN?oc=5"
        },
        {
-        "title": "AzerNews",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BM0V6STdiUGQzdkZZeVhMa3g4Y056REVjQnBDZkRlUGpTemFKeURNUmMxWW4ydnlTWGRFeVhrdkpXQmNKNEZ3ajY5M1FhSDJhLWg3LQ?oc=5"
+        "title": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ25sd1hlcGlCVEU2X0w3SDJUQWVVV0ZpTnBzdThUZUVLblZ4aURpOTlobm84XzI3U042OS1VeWNudWxlQ3RXME80bXU4VldEM2pucW1HZDZQcUNwMkZoWGUtNEJYbklxYnJZX1RScUhuMDFQYmtSUnBUcS1xVGVNaEhBRWFnMHF2X0ZWMU1EX2lmSEdxV1k4RU83eXgxd1hrWnd5dVF4OXhDdUtUQ0lrZGhfUzJnd3ItWlJmWTdJd0lDMXM?oc=5"
+       },
+       {
+        "title": "Livewire Markets",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUxsMTFWOFhPU0h3ZUU0UDF1LTNjV3NZZGQzOUdtNXR2aHREZW1nRnF0ejVkV3RPWThXUzVyUUhpcHFWMThjSFRUMGpLZkwxdmVXS2VlbmhjNURUOUQyZUEydV9LR3RwSXJyTnRuYzNCaS04UHlHMGxNWkc1WVI4emNn?oc=5"
        }
       ]
-     },
-     {
-      "texto": "El bono estadounidense a 10 años (US10Y) baja 5,6 puntos básicos hasta el 4,848% en la jornada.",
-      "links": []
      }
     ]
    },
@@ -114,21 +98,13 @@
     "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "El Nasdaq 100 se acerca peligrosamente a una zona de mercado bajista tras las recientes ventas masivas en valores de inteligencia artificial.",
+      "texto": "Nvidia cae un 3,91% en la sesión tras conocerse restricciones de envíos de servidores de IA, mientras Meta sube un 3,4%.",
       "links": [
        {
-        "title": "Sky News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5"
-       },
-       {
-        "title": "Sky News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5"
+        "title": "CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUU5HOXAyWDVZa0d3LURpX0d3U3pxZER0SWN6VHJtci1OTmpmU2U3RDFXRV95ZUxIc25qa0tLOV81N29odHV3czhzRmhQajUwM292M0xMMEtMMWN1MzZLTGpla1pDRUM3MHM2TnM0b2JuOUJrei05QmFhYlVWbElUN2p6bEp3ZXpfcTdKUzVjTG1xeF9KRG4xSFVLSkdfLWpWLWFlT0xJU2Fid1VTYjVfYzlKejZFbVF1ZjF5dEw1WQ?oc=5"
        }
       ]
-     },
-     {
-      "texto": "Entre los pesos pesados del índice en la sesión destacan las caídas de NVDA (-3,91%), AMZN (-3,12%) y GOOGL (-2.13%), frente a las subidas de META (3,4%).",
-      "links": []
      }
     ]
    },
@@ -136,12 +112,101 @@
     "nombre": "Trump",
     "puntos": [
      {
-      "texto": "Donald Trump celebró en redes sociales la fuerte revisión al alza del PIB estadounidense hasta el 4,3%.",
-      "links": []
+      "texto": "Donald Trump destacó la corrección al alza del PIB del tercer trimestre hasta el 4,3% y celebró reuniones en Mar-a-Lago sobre conflictos geopolíticos.",
+      "links": [
+       {
+        "title": "www.tokenpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpeUkwYU1YLUVlMnZfT3NqaURETWdMV2xxZkFKMDYwXzQtcVd4MkZGZGZGeVptWE4zMG44b0RjU1RwZ3VYS0c5blJFRWl5YnhqSFU4OEdDOWdIUQ?oc=5"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "agenda": [],
+  "riesgos": [
+   "Una subida imprevista de tipos por parte de la Fed ante el recalentamiento de la economía.",
+   "La volatilidad continua en las acciones de inteligencia artificial y grandes tecnológicas.",
+   "La escalada de tensiones comerciales y arancelarias a nivel global."
+  ]
+ },
+ "archive": [
+  {
+   "edition_key": "2026-11-26-preapertura",
+   "edition": "preapertura",
+   "edition_name": "Previa de la apertura de Nueva York",
+   "generated_at": "2026-11-26T14:09:54Z",
+   "content": {
+    "titular": "El Nasdaq 100 rebota un 0,73% previo a la apertura mientras los inversores buscan gangas tras las caídas",
+    "en_pocas_palabras": [
+     "Las bolsas globales y los futuros del Nasdaq suben hoy porque muchos inversores están comprando tras las fuertes caídas recientes.",
+     "La economía de Estados Unidos creció mucho más de lo esperado en el tercer trimestre, lo que demuestra que va fuerte.",
+     "Sin embargo, una inflación alta en octubre y los nuevos aranceles de la Casa Blanca preocupan porque podrían hacer que los tipos de interés suban.",
+     "Los tipos de interés son el coste del dinero; si suben, suele ser negativo para las empresas tecnológicas del Nasdaq.",
+     "Por ahora, el mercado ignora parte de ese miedo y los futuros se mueven en verde antes de abrir Nueva York."
+    ],
+    "resumen": "Los futuros del Nasdaq 100 suben un 0,73% hasta los 26.291,5 puntos gracias a un rebote técnico y a la caza de gangas tras las últimas caídas tecnológicas. No obstante, persisten los temores por una inflación acelerada y unos aranceles de Trump que podrían forzar a la Fed a subir los tipos.",
+    "tono": "Mixto",
+    "tono_motivo": "Rebote de los futuros por compra de gangas y PIB fuerte, contrarrestado por la presión de la inflación y los aranceles sobre la Fed.",
+    "claves": [
+     {
+      "titulo": "Rebote técnico y caza de gangas",
+      "detalle": "Los futuros del Nasdaq 100 suben un 0,73% mientras los inversores aprovechan para comprar tras el reciente castigo en el sector tecnológico.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+       },
+       {
+        "title": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5"
+       }
+      ]
      },
      {
-      "texto": "Los nuevos aranceles dirigidos a más de una decena de socios comerciales generan dudas sobre el impacto en los precios y el comercio global.",
+      "titulo": "Crecimiento del PIB al 4,3%",
+      "detalle": "El PIB del tercer trimestre en EE. UU. fue revisado al alza hasta el 4,3%, mostrando una economía muy sólida pero avivando presiones inflacionistas.",
+      "impacto": "Alto",
       "links": [
+       {
+        "title": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
+       },
+       {
+        "title": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcU5WaEJ5c0JpdzVicVRORVZpMHBnbjdoYlIzdFROcDlVUWJoaWRlTjFpdWpJS25ZYVk2dktEb3F3WmQ5aDcwQ2ZVeFNoTDQtQl9tZTN5b3JVUEpaQWxWeVZ3eG5RdDRaeTBoQTRyc3FjWW5jd3p6LVlNWDgzMkZWQzRqbkNRZFBrT1NoQlRQTjhvWTVEYW90c1ZIdWYxeWlhdVFDQUNyQ3ktNFBZSWMxWWVYUFZZNE1vc0NSN2pHRUpqd3Faa252ampQSTRXWFZTLVpRMG4xRHMzS2Z4UkdMWlRYVk1CNW4xVWdqLVhfUWdnUkpwNUE?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Inflación alta y riesgo de tipos",
+      "detalle": "La inflación de octubre y el indicador preferido de la Fed en máximos de tres años aumentan las apuestas de que el banco central suba los tipos.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
+       },
+       {
+        "title": "Capital FM Africa",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFR1Ri1yRjNXUFhQVHBMWTFIU0FGQ0NMQ1I2bkFXUldmbW82Yl9zV3pGM0hrYTFVUnlucUQxWkhfWS1CQXNiMUtpRlBRelBQS1FRLVpMOFNqaEEtTVRGa3NTUmttTFVsR2FnWmVUTXVRdjBTRHZyZ25rdVo3WXQ3RzNOQmxPVDNiUjJrYTlSWXRrZw?oc=5"
+       },
+       {
+        "title": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Nuevos aranceles de Trump",
+      "detalle": "La Casa Blanca ha anunciado aranceles contra más de una decena de socios comerciales, generando incertidumbre inflacionaria.",
+      "impacto": "Medio",
+      "links": [
+       {
+        "title": "Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVItckt2bWxpckNqWGxHZE1vXzZWNGFUUlNBX1p3R0ZqMThJdmwxa3RNOGIyaURDY19adEpyY056LUVGTjRwMU5tS2NHb3MzZXpYNWlFYTZVNzY2cVRBVjFvalMzd2FNVWVwYTJWSUxuOGFMdnltV0gxYTk3TWdiY0I5cUUzMXJNSFBrZWVFVDc4X0xmSVpQVTBEa084VHNyYUhralRQa3NYeVBOQU1VcWZHMnNFSFl5OFRaZFBWX3lLTEZLa0xkMnQ3R29PRGVNNDZhRFVkdUtsZVJJbWpYNzNlS0d1aWVBWVVURDNvckRIQjAwd0NITHA4VEFnamZGcXI3Q2tZdw?oc=5"
+       },
        {
         "title": "CNBC",
         "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
@@ -152,17 +217,83 @@
        }
       ]
      }
+    ],
+    "secciones": [
+     {
+      "nombre": "Macro",
+      "puntos": [
+       {
+        "texto": "El PIB del tercer trimestre repuntó con fuerza hasta el 4,3%, mientras la inflación de octubre y el deflactor del PCE suben, complicando el panorama de la Fed.",
+        "links": [
+         {
+          "title": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
+         },
+         {
+          "title": "AzerNews",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BM0V6STdiUGQzdkZZeVhMa3g4Y056REVjQnBDZkRlUGpTemFKeURNUmMxWW4ydnlTWGRFeVhrdkpXQmNKNEZ3ajY5M1FhSDJhLWg3LQ?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "El bono estadounidense a 10 años (US10Y) baja 5,6 puntos básicos hasta el 4,848% en la jornada.",
+        "links": []
+       }
+      ]
+     },
+     {
+      "nombre": "Tecnológicas",
+      "puntos": [
+       {
+        "texto": "El Nasdaq 100 se acerca peligrosamente a una zona de mercado bajista tras las recientes ventas masivas en valores de inteligencia artificial.",
+        "links": [
+         {
+          "title": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5"
+         },
+         {
+          "title": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5"
+         }
+        ]
+       },
+       {
+        "texto": "Entre los pesos pesados del índice en la sesión destacan las caídas de NVDA (-3,91%), AMZN (-3,12%) y GOOGL (-2.13%), frente a las subidas de META (3,4%).",
+        "links": []
+       }
+      ]
+     },
+     {
+      "nombre": "Trump",
+      "puntos": [
+       {
+        "texto": "Donald Trump celebró en redes sociales la fuerte revisión al alza del PIB estadounidense hasta el 4,3%.",
+        "links": []
+       },
+       {
+        "texto": "Los nuevos aranceles dirigidos a más de una decena de socios comerciales generan dudas sobre el impacto en los precios y el comercio global.",
+        "links": [
+         {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+         },
+         {
+          "title": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "agenda": [],
+    "riesgos": [
+     "Una subida de tipos de la Fed impulsada por datos de inflación más calientes de lo previsto.",
+     "Que los nuevos aranceles de Trump desaten represalias comerciales o sigan tensionando las cadenas de suministro.",
+     "Mayor volatilidad y presión bajista en los gigantes tecnológicos si el sector de inteligencia artificial sigue sufriendo correcciones."
     ]
    }
-  ],
-  "agenda": [],
-  "riesgos": [
-   "Una subida de tipos de la Fed impulsada por datos de inflación más calientes de lo previsto.",
-   "Que los nuevos aranceles de Trump desaten represalias comerciales o sigan tensionando las cadenas de suministro.",
-   "Mayor volatilidad y presión bajista en los gigantes tecnológicos si el sector de inteligencia artificial sigue sufriendo correcciones."
-  ]
- },
- "archive": [
+  },
   {
    "edition_key": "2026-11-26-manana",
    "edition": "manana",

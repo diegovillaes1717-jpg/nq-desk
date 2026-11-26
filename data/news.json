@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:58:38Z",
+ "updated_at": "2026-11-26T21:03:21Z",
  "items": [
   {
    "id": "28cf2aa1941483",
@@ -105,8 +105,8 @@
    "id": "6a49b7e9a09a8d",
    "title": "Five takeaways from Trump’s new tariffs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEdjSkhqTHNPTTNIYml4OHdxMlVUWmc2am1QcEUtTmZRQzlWUzZRMVQwQW1iV2wzanZ1bVR0SHY0eVRhQUM3bmVibVhJM2REc1FKbGFoZWl4ZlRtM0FZLUk3U3I5VWpvUW41d3o3OUpNZDJkRHNleHlBalJuc0h3bXdjR0dwQl95NFE?oc=5",
-   "source": "CP24",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHhiekREaEpuUkFNcjJCc09KVW9lSEdQTFhzOVplUGd6VGFCZ29GNzRHd1JFcldXaTM5SzZYYUQ1a2hCTVZLSUw4YmVzaE9kbVZHQlBQUjctVG53R29CRC1IbGlyVWhFbnFSczRMazRWbXFqRG05NG50bHdGeUJiLUl2VTJPSmNYTlZMdk1OUXRocEdXVXc?oc=5",
+   "source": "CTV News",
    "date": "2026-11-26T19:36:07Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
@@ -159,6 +159,16 @@
    "source": "LinkedIn",
    "date": "2026-11-26T19:00:13Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b9b75a0118eea7",
+   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1hobVFwRllEeUdYbTlReGxVekdEdW1BLWhzcWN3X0lkOURIWWs2SGVJdmdnaDdsTm5jYVY4dnNSbFlEU2lOYnh6SWlsUFFCWVNCb3hIMDREdFNvT1NQVG5ZRkdYX0xvZzY0YUpPdm1CUlRNdWtSZXJ2Vkp4N0psOXczcXFDY25ZU2drM2VFWFZndGxqTzlETUZpREFwTkVJZ21ra3lQeEhRazZpamVJSnI2VXpHTWREYTRDazRHUUkxUQ?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T18:56:15Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -742,22 +752,12 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "b9b75a0118eea7",
-   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThVVEd0RE01LUtWcjZPaWQ0cVNnUFQ0cFIzSlpCUlQxWGxJdTlneElCbE80SHdDVTEyelZFNjVHcXRWbHRhdVNWOUNZbVU0Wmk4MmtnUHQ4dWRVNFl4TzFnWjJGc21rbzBMaXVxWmp4bEdnNEo0X0VsZXpTdzlJMDZKSVpQN1lOQUhFbTlhc3RGa3A1bjBwSnZYZVd1b3c0OE9jZ2ZFLWt3cHpCbGlOSjVJdGljTHZ1a01BWE5MekVxTDRBVHRYcENfQXQ3bnlzSTRn?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T15:53:27Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:06Z",
+   "date": "2026-11-26T15:49:07Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -849,6 +849,16 @@
    "source": "VT Markets",
    "date": "2026-11-26T15:15:41Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "3c27765db068aa",
+   "title": "US PCE inflation due as markets brace for December Fed hike and firmer dollar dynamics",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1JXdVROT2YtekpwNFdpV1FLbnZxMzlmQmhQWVA3Wll6VFIzRVN3SXdrNk1rY0F4RVNTeXRnaF9BNnctYzYwblgtdnF0MHR5VGxhdjBPUE80dTNhMTM2MzAxS1c5UlJvaVdRT0d1b2pacWEtckhBZ1ZLcG9zcDBsREVOcFlWU1J3TkE1MjZCRXlJOFc2X1pGYUo1TzhpNXpKVWZWcEwzTkdseFRndUpqQVhhYXhDd1dQdmNwczZLQ3pNdnhMdWhYQXVFZ0o?oc=5",
+   "source": "VT Markets",
+   "date": "2026-11-26T15:15:41Z",
+   "score": 9,
    "category": "Fed y tipos"
   },
   {
@@ -999,16 +1009,6 @@
    "source": "TradingView",
    "date": "2026-11-26T14:40:01Z",
    "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "3c27765db068aa",
-   "title": "US PCE inflation due as markets brace for December Fed hike and firmer dollar dynamics",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3pEUDFvRTdtZ0JUbFNqVXhWMVY5alpkY2VTM2gtTkVkQzRrb29FZlRrd3J6YmJoU3JrV3E0YUZEcDJieFVVRGxiYmNWWlZGUEVQaTVENVdYUVJHNHludk1NblF1SjRRNFNnd3QxSVkyZWRHLXN5S0FMRFo5RThQS1hYU0xwV2Y0OFBqZnB3c3JHWkFDMnAzd21Jbkt3RXFqTV9PdzNYWHI2R0lTc3Fqb0FPNUdyYW1UdXRFejRlZWU1UFY4UjA5ZFhhUjVhcTZK?oc=5",
-   "source": "VT Markets",
-   "date": "2026-11-26T14:35:40Z",
-   "score": 9,
    "category": "Fed y tipos"
   },
   {
