@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T00:04:31Z",
+ "updated_at": "2026-11-26T00:09:15Z",
  "items": [
+  {
+   "id": "31d37106a1141c",
+   "title": "Michael Burry sells Nasdaq-100 puts, shifts mos...",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRElhdFJuaFp4dmliZW9FaXRreHZfUFZiVDBsRTVkaXZtd3pKUlI4d3E5N2w1VVZ6MU1SYjBMVHRBWm1tblVMM1JGQkNLYVpncER1T0ltTkl4RDFQWkFsSlVtODJvTkZYSXVOQjR5cGdlci0tLV9PQTNWV3JNUU96QUpiemE0bEY4d0EyeWhR?oc=5",
+   "source": "Pluang",
+   "date": "2026-11-26T00:05:22Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "120ba405c1eca2",
    "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
@@ -10,6 +20,16 @@
    "date": "2026-11-26T00:01:07Z",
    "score": 4.0,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "7c27ae4579eba1",
+   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmZrbTVDV04tT2F3aWRFaUxPQ3ptSXJfXzhVOTJYUExCMkVBcmRuRG5HcUlDQWhuZFB0dFdkNU9qUGJUbVRwazhqeU1zcmZPanc0ekg5NUZ6YXVVcVZlSVVBSkZ6eFNtMWRVcVU3WFdzYUhjMS1qd1A2dGdfcS1rNnRYRWg1S2NYQks5SWdKQWNoQ0hHUXdGbHl6bTJyUzVubFdLekJINHBkbTA?oc=5",
+   "source": "Deltaplex News",
+   "date": "2026-11-25T23:47:54Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "81777fe575f64e",
@@ -60,6 +80,16 @@
    "date": "2026-11-25T23:30:00Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "b20d2695d61456",
+   "title": "News | US inflation climbs to 3.8%, moving further above Fed target",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3pHc0RWVmg3aGpDQ09raWpUdlg5MVZYdjZjMk1ybzVUSnFSRVJ5dG5NZFMwTjlYQnNYbElCZ3p2LUNIY1BTMklacGhIaFJldFlsc0d1TFlMd29xblVsWGtSMTZJQmdIdzZOdDh1WTFLck81bmNRRV9xdjhYQnhqV0RSMldidExEYmk2SWpwQmFDSnJqV0J3?oc=5",
+   "source": "CoStar",
+   "date": "2026-11-25T23:28:17Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "1cec4d5d976109",
@@ -272,6 +302,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "78e57bd08c479e",
    "title": "Fed faces tougher inflation case under Kevin Warsh than in Greenspan era",
    "summary": "",
@@ -362,16 +402,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "22f29156c51572",
-   "title": "Pullback in AI Stocks Eases",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Zb2xYdHpGSDBEMzVXLXBHY3U0VE9QY0plb21INHNJTm5wZGJpQU51MG9UV011RWV5X0JTMF92MUQ0OG41d3BmZXB4a3VkZVJlN1RXWHY0RFlfVXhHMnpXSGRMUXJHZEF3Q3h1cWd1R0lKay1fRUV3?oc=5",
-   "source": "Newser",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cf15cbf71a308f",
    "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
    "summary": "",
@@ -379,6 +409,16 @@
    "source": "bsinews.id",
    "date": "2026-11-25T22:11:00Z",
    "score": 10,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "22f29156c51572",
+   "title": "Pullback in AI Stocks Eases",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Zb2xYdHpGSDBEMzVXLXBHY3U0VE9QY0plb21INHNJTm5wZGJpQU51MG9UV011RWV5X0JTMF92MUQ0OG41d3BmZXB4a3VkZVJlN1RXWHY0RFlfVXhHMnpXSGRMUXJHZEF3Q3h1cWd1R0lKay1fRUV3?oc=5",
+   "source": "Newser",
+   "date": "2026-11-25T22:11:00Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -390,16 +430,6 @@
    "date": "2026-11-25T22:06:55Z",
    "score": 6,
    "category": "Macro"
-  },
-  {
-   "id": "b20d2695d61456",
-   "title": "News | US inflation climbs to 3.8%, moving further above Fed target",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3pHc0RWVmg3aGpDQ09raWpUdlg5MVZYdjZjMk1ybzVUSnFSRVJ5dG5NZFMwTjlYQnNYbElCZ3p2LUNIY1BTMklacGhIaFJldFlsc0d1TFlMd29xblVsWGtSMTZJQmdIdzZOdDh1WTFLck81bmNRRV9xdjhYQnhqV0RSMldidExEYmk2SWpwQmFDSnJqV0J3?oc=5",
-   "source": "CoStar",
-   "date": "2026-11-25T22:06:52Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "ef56cb8ece8255",
@@ -792,16 +822,6 @@
    "category": "Macro"
   },
   {
-   "id": "7c27ae4579eba1",
-   "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGxsS2FQcFJqSzBpWU9Rc2hiVC1VOGhEYTdZMlVmUndCLW9sWGVUQVIyU3dybWZhb2Y3b3RIeW1YUFlwNDFVU1N1SG9rcE1VQUJTQ1NwVlpKVko5NHl3a2xQOElram5remtKT21mc0FkdVRsM3hhUVUwcmhLbFFUeDcyU1Rqc2RSXzBYRS1PdEJJTEtUUXVBWWEweHN6eTdXWUE?oc=5",
-   "source": "Everett Post",
-   "date": "2026-11-25T21:09:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "dce2933132f307",
    "title": "Nvidia stocks plunge ahead of Jensen Huang's Capitol Hill showdown",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T20:17:01Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "61440906a7d811",
-   "title": "Ottawa imposing import limits, tariffs on some canned vegetables",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGhGMWg4OXJ0MG1zQUJ3elNJSE5tU3NMZmdaWExxTThITkpGdlNlTm94TUVWbnZKdTl0YzVUbEQwa3A5Zl9sSkFlaGxsTzBtOGctSnJRaXlLOWNtdEw0d3FPX3hJRHJ4aFR5d2RFYmtBMVYxZUxSZ1ZmLUZ0LWFhTzlOdnMtc0FqSXpocXlGeHBlRVd2b05lU1M3Y2dvTFZOUUgtQkI4UXdEdDlZSm5VNQ?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-11-25T20:16:51Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "ef1f05e311f1d2",
-   "title": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJDVjhhVjFUYXB1U2xsamF2akNBT00yNjBHRmhERDRfRUpHS1Nlc0dHay1YRDhLa19hYWF3cTZKc2VneWl6Y1lRZUFqc0RLTGhnR0duUlVFLXNoWGN6R2NMdlBqUVdNMnhYRC1NRjNwalpTR2JINjB2UW5mRGFDMTRJY0FMZW4wV0RpQ3d3eEZjQ3JkY3FFZlpKQkdkaEdiTTR0U3VmbG1SZi1tSGxsd3gyU1FOV2N0WFhCa3ZGU3lwZw?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-25T20:15:08Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
