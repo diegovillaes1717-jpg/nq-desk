@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T22:10:06Z",
+ "updated_at": "2026-11-26T22:14:52Z",
  "items": [
   {
    "id": "07b811bb0a4b85",
@@ -105,9 +105,9 @@
    "id": "8094311abc3ace",
    "title": "New trade war could be brewing following tariff proposal",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1ZYVE13MnRBZjljQWRYSHJyenBQaVo2OExaMU9uOE9nSmRhS056bWFKTlczTmY1WjVKT05kMnk5d0lEOTEwQVRqNFVqN2I4TzhFbmc0TWtVTVFOcDdnRGlhRlp1MDFuc0xWNDFKZFktOEpSTlY5ME9IaS1mb2kyU2ZrQjZCM25tTmZhVlpwcHZFWmx6QUlZd1FKVjZ6WWFFWEpoMXA1S0stLWRzd2J6WkdCT0s3eU5UTFRXUXlwaHkwME4yeHlqVGhWeDcwMkkzaDJnWVNB?oc=5",
-   "source": "KEYE",
-   "date": "2026-11-26T20:53:34Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2MzUndyTnRMcXV6V21BU1R4UVctdnhiNGxZMEMxM2Mwc0JZMDBwN0hMQjV1bmRRSS1fRmVUNHJuSWdyZ2ZhUlZvXzVGUDAtbGd1LTlZeHh6XzlDblFpMElZU05tbk4wZDM0V2o5aHE0U1JyQ3R0T2tvMktrajNjVzhqRVlMcXN0OGxhUTZOQ2JvaUxrNXdPNlEtNllVUlFna0c0aU1TWlVmVHJ0VnZSZUV2SldLLURzMi1MMw?oc=5",
+   "source": "WBFF",
+   "date": "2026-11-26T20:57:18Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
   },
@@ -382,6 +382,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fd63a55abf4972",
    "title": "Fed December Rate Hike Odds Climb After Hot Inflation and GDP Data",
    "summary": "",
@@ -602,6 +612,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "bebf1d4a8a5feb",
+   "title": "Bitcoin Falls 1.3% After US Inflation and GDP Reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEFkdXFGWElQWHNfUUloM3E2aU8zZ2l6OWZRdXdBOC16Q21melIzNHZVSVI2RFRlcnlxb0VSTWstakt2RFhqRHRsOHY3MnJkLXVCcGdVS0tsVjItQmJCTE83S1daLXdBWnpPbUFoRGRTeVNmRG4zdl9aWnNvVzhIRmlHZHJfWUY0ckVWM1JXREc?oc=5",
+   "source": "The Defiant",
+   "date": "2026-11-26T17:12:11Z",
+   "score": 6,
+   "category": "Macro"
+  },
+  {
    "id": "d067656f29e18c",
    "title": "European stocks rally as tech jitters ease",
    "summary": "",
@@ -770,16 +790,6 @@
    "date": "2026-11-26T16:21:03Z",
    "score": 6,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "bebf1d4a8a5feb",
-   "title": "Bitcoin Falls 1.3% After US Inflation and GDP Reports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEFkdXFGWElQWHNfUUloM3E2aU8zZ2l6OWZRdXdBOC16Q21melIzNHZVSVI2RFRlcnlxb0VSTWstakt2RFhqRHRsOHY3MnJkLXVCcGdVS0tsVjItQmJCTE83S1daLXdBWnpPbUFoRGRTeVNmRG4zdl9aWnNvVzhIRmlHZHJfWUY0ckVWM1JXREc?oc=5",
-   "source": "The Defiant",
-   "date": "2026-11-26T16:18:34Z",
-   "score": 6,
-   "category": "Macro"
   },
   {
    "id": "ca5b92f034faef",
@@ -1189,16 +1199,6 @@
    "source": "Google News",
    "date": "2026-11-26T14:10:33Z",
    "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "52ceef03c58f8b",
-   "title": "European Stocks Rally as US Tariff Proposals Ease Concerns and Technology Shares Recover: DAX, CAC, FTSE100",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDAxVGFpS2R1UjZqMXF1ZG94NHZweWw0MU1LTEJzN0ZDZUFjdDl5eW1fOWZ5dEZ3ZzFDQWFhVTFHUEptQ25WOXI0dEtNd1JtcVBfXzEyaTllV0g3RXFrWVRXU0ppbE94U0hBT0pITzd1YmtqTHJZc0ZQdHZVeVdMMjZ1YkFCZms?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-26T14:10:31Z",
-   "score": 7,
    "category": "Tecnológicas"
   }
  ]
