@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T08:35:30Z",
+ "updated_at": "2026-11-26T08:40:14Z",
  "items": [
   {
    "id": "3be7b126ef8594",
@@ -152,6 +152,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "5416e81685f284",
+   "title": "Japan bond yields rise as BOJ rate hike bets strengthen; Tamura comments in focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQnlFdHpCUlN6b1hjQWZmRkZqYjU3ZUhPRmFyOGlueXpPdEhVZ2pPbDFkY1RadUVnTlpJRU9YM2lWWXhBdGpGa1BsLXdicDRmUmV2bHRQSDd6R251b2I0NGE0SUNXWlpBakdNQ2JzUVZaNkltaTRhWEZaOHF0TDdUWDBxMjZJQmhjaWZMamJ0YWt4THViNEIwb29KNTB0dFREZDhTb1VhRU5WTml6cTJQWGRMd1NUU2MwTUtwTDNIT0dxbDBUTGQ1SmJKRmJ5U1VTNUpkNHFmWENaSUFYMlpBQi1GWTZDLVZBUnBtOHFCcy1oS2lHS1pkVzV6YlNEMHPSAYQCQVVfeXFMUDAtSDJWODllckxVUHloR3gxWXY4TktvYWJkWlh0cy1Vb21CTG12THZiWWV2a284YkVHWWFPbk5wQ01fQmI0M1cycHRHTjBaQmZIcEluRTRtc0NCNEdseFBDcHB6S3NzalNGX2dSNnZXOFdsdU5pU2lTUks3Q1JONUQ4SXhlMDhka1JOcGRjUmhqY3BFWmcyUGZOcDJxN0pDVTVvMUdqTl9VcHp2X0ZucWJjMUFyLXA1bFRWLXN0cnBsVTJVeVJOUzMydUhsTWl5b1MxbS12ZTNqWFFpLUlrOWczX25Ldk43UEszVnNBU1RIUmJ3WkF1OTJYSVpmQ1lGMFdfb2s?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-26T07:48:23Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "5b2357b83bb6e8",
    "title": "Top Analyst Flags 5 Major Risks for NVDA Stock, Says Nvidia Could Stay in ‘Penalty Box’ for 1-2 Quarters",
    "summary": "",
@@ -210,6 +220,16 @@
    "date": "2026-11-26T07:29:00Z",
    "score": 8,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "49315dec23e540",
+   "title": "US Treasury Yields Ease Despite Stronger Growth and Sticky Inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEZJZTV6ck5odDFCd2p4dXlaT3lSUnpNLTQ5S3k0aDl6OU9kY0x5V1pqMEhCeUltQ1daQzhleDl3a2JGTl9PNDRPSzJuVGN0MXdPbklGSjJobXM3OW85SXpTOVl3c0RMcklXQ25FcmRyVXl4ODJBNVpad0g5dnVxMXNVVHd3VGZFbFI5T3U2czh4ZlpCU014ZHNXMWxFWEpLMnN6TFdKMnM2SnVR?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T07:29:00Z",
+   "score": 7,
+   "category": "Fed y tipos"
   },
   {
    "id": "5e797beada2165",
@@ -862,6 +882,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "ae168e7501a2d8",
+   "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers By Investing.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclVOZjdVc2JNTGZ3TF9pbGZtR3NEMjZJSHZnNlZzU3psYTEySThPbWhfeGQ3NmJKeWlpT1RzZ1FoRnhkWXYzM3hlSnl3OEh2MFNBU0dhUFpVR09FVmYwZU9PM0h0aEZZaDdZNW1rWElCbk80MmZCaWlmS3BBWG43WDNzaFl0eUx2RVJldnFQVHQ3UHhZZG1MRTdPbEVRQ3E5SVNTNlVvVUMxbzZjYjJCbHE3X2RnNElCN0REZm1LeVI1TWM2?oc=5",
+   "source": "Investing.com India",
+   "date": "2026-11-26T03:29:44Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c97b4cfd017afc",
    "title": "US PCE Inflation Rises to 3.8% in October; Will the Fed Hike Interest Rates in December?",
    "summary": "",
@@ -1062,16 +1092,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -1102,16 +1122,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-26T02:50:43Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "7a36f92209ae0e",
    "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
    "summary": "",
@@ -1135,7 +1145,7 @@
    "id": "46f80705fe38af",
    "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n0gHYAUFVX3lxTE9nNmZrdVlfWGYxRi1oR2Fod015V0doaFNLQnNLN2dhLXc0TGhia0hSZmhCbTdwaHc1aVVGaEZncjFQTXh5Z1IzWnd0eVRUZ2Q0bnYtOS1UMm4ySnVPQjAwd0xTX1pQSTdhTzVjc3FyT3A1UTVraTB3dWI4UU5wSVpCd19pMHRLX0pGWmxibjRITEhKMFF4N1IwRlpvNlMwMnBMd1ZUZWgwdUp3dFV5dWlSRl9nR3kxZnEtQVNKcHFyUzUtUVJNdjNsc1NSS3QzMHFxVERmRWlvWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
    "source": "Business Standard",
    "date": "2026-11-26T02:42:48Z",
    "score": 8,
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T02:27:00Z",
    "score": 10,
    "category": "Macro"
-  },
-  {
-   "id": "c9fc4ff3aef859",
-   "title": "Silver (XAG) Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFk3RDBWLXc2emI2YkZnczZxcTBqYkZjSk5VcHJkR0o0b0UyaF9WVVRhTVNlSVNKZ3JuS1lSdG9zVGRQSzRIUmpYRW9IbmRKMWQ4MkMxdXljbmUwcHRpdFA5dUFFajNIbmxUOUpOeXBJWU9Mb0lONmI3Q1hUc0FQMlgtbXQ4YVZ3WFk4Z2JpWUVwZWE1TXpieDdTZkIydl9uWVhaQ2tKRXBPMWhsTzNjR1QzSW1NQnQt?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-26T02:25:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
