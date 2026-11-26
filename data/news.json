@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T03:19:05Z",
+ "updated_at": "2026-11-26T03:23:49Z",
  "items": [
+  {
+   "id": "4908ba78f09158",
+   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+   "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+   "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+   "source": "CNBC",
+   "date": "2026-11-26T03:19:44Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "7c57492fd5b9e9",
    "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -62,6 +72,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ac0a274d89b546",
+   "title": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuati",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmt5LTVNWGpHOHM4WG9NdDdQUkZGamNqNDZrb0QzVkdRZWk4R0hIOHVlZVdUM25IMllJOWxCYk1MOWdURWJvVS0wTXc5ZXhSdVJjNDExNG5HMndZVlN5aEJqQUM0R0RiN29UQXF2aENIVUZaV0dYOXdLQzRkODJmeGkyOThySFZlRWpxMlJfNGozUjJQR0FSQkVqWjdoTF9sb2xkYmcxVlBDWTh0S21WVzRKT1JOc0dNTUtpTVJtYVM2MUl5c1lVT201b2NjS1VzalRoZHBNRXVqTGhLVEFuYXM0SjUwVnJGZlV3SkZ2RnBCeTN4dUROV3RDSU95UQ?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-26T03:06:25Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "615879d490571b",
    "title": "US Inflation Climbs to 3.8% as Fed Faces Rate Decision",
    "summary": "",
@@ -90,16 +110,6 @@
    "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "4908ba78f09158",
-   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-   "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-   "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-   "source": "CNBC",
-   "date": "2026-11-26T02:57:32Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "ee1c277ffc86c4",
@@ -220,6 +230,16 @@
    "date": "2026-11-26T02:13:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "e1027cd6daef04",
+   "title": "October PCE Inflation Hits 3.8%: What It Means for the Fed's December Decision",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW5UTFZONjVxdVkydGFrdU4yUTFfdGpJWERkYmZleEFyVW9LTTctSjZILU91MUM5REFMclJYUlQ1RUhvaHo3X2YtV2hfQUtKQWNNUl9fWGVQMjdIZFBSOWd0SWN6RzlUcHZuQV9hZm9NVW55dTNCanpORUpRT3BJNFU5TmJvOFRpOV8zRHBocURza2c3SFRUWnB4Y0ROenM3WFRLa1FEZVhva2JOTXotUg?oc=5",
+   "source": "Around Prague",
+   "date": "2026-11-26T02:11:16Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "daa6635f48a23c",
@@ -502,16 +522,6 @@
    "category": "Macro"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "4b36655822feee",
    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -550,16 +560,6 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
-   "source": "KUTV",
-   "date": "2026-11-26T01:06:33Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
@@ -772,6 +772,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTmFFSENvNXczTTdKSmhHQ3ZsQ1JuUERHc1VpaHRDdnh2Mk54MDFpRkd6V3g4amhZTEVDRWNZMi1PRUJQQ2NURnJsOVpTalhCTURmMkxPalVqNEI1cDZ4d1JCS1hQS0QyMXhZMXdGRVZrVWk5V3dmSDNoamVFcV9QTzRubWlKejhsNjFvT0pZbFRuRi0yNHREVzZydzYzWkIxRFFvN3JUd2xtdE1aWmxFazdkRWZQQkNWWUNqMWVtczlWMWFjRmMydTRVQkF0YlVWdFpGR3p4R2ppZlY5cmdQQTRwWVZnU2MtMlJjd3BFaVhGV1BvZUp1bA?oc=5",
+   "source": "KBAK",
+   "date": "2026-11-26T00:02:42Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "120ba405c1eca2",
    "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
    "summary": "Asia-Pacific markets were set to open higher Thursday, after Wall Street staged a dramatic recovery from session lows overnight.",
@@ -952,16 +962,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aea23eba608b33",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T23:20:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "a35bc9a322d507",
    "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
    "summary": "",
@@ -1012,6 +1012,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "aea23eba608b33",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUhzVmRIbGQxLW1ZQ2gyMnpQZUFlRzVjMzFFSVVJLWRGazdKVHNLbnlTa2psUjRhams4M2lIRnNfOVdRSzl3YUV4d3h6T20weWRscG5CWm9lRWhibUZRMmgwc0I2MzR4T05aak5vdzNCWUd1Wkk2NW1La0NkajVVZFg3ZGU1MExlLWFfcUFmcDlsQ1RkcmFUU05IUzl6OXJUYXJ5RllKaWI2dXhzbzI5RVNtUmlPT1E4WnRnUGRibE1kSlIxWTE0b0R5a0NSNHJZNE9BQkdnRjBZOWVVakJucF9vN24?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T23:00:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "20e45d7532d8c5",
    "title": "Michael Burry closes his Nasdaq bets and shifts to value, but still plans an Nvidia short",
    "summary": "",
@@ -1040,6 +1050,16 @@
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "1ac3fb10d0b5b2",
+   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxYMmF3bk5GcW5ocUxTTWhPdXpMLTlTSUlsaUJoRjJBN0tWb1UtcmdfU3dycEV5eFI1clhrOUlBWDZlU0VqNkNYd01ERl82Q2xxdkpfT01jQ2lRbGg0a3BkQndrc01hb0JtTGNpOHRPT1RITkZEUTJXVHRLc0FCYk5CQ1VzeTR5ampkbmZ2bVRsckRuQ0l3Z1ByODBScENJU3pvYnR0M3hyYXFLd2pnU0d5YUg1V0t1TG1YQ0kzeGtidw?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-25T22:46:44Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "b20071c2525c52",
@@ -1112,6 +1132,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-25T22:32:30Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "ca85da13f0b530",
    "title": "S&P Discovers Nvidia’s Governance Lapses",
    "summary": "",
@@ -1169,36 +1199,6 @@
    "source": "WSJ",
    "date": "2026-11-25T22:21:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "76bb0604d63206",
-   "title": "Nasdaq 100 Recovers From Tech Driven Bear Market Lows",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sZzFlUlVVWkdub3lXS2cwZW85emZ2aFdlTy1GclBmSVNHWE9TaHR1dHBHRVhhbGtZZG03SzhDODlYT3IyUS1WeFNuSVhwVEdEQjBVS3cySUEzcjZyLWxhN0U3bGc2dUE?oc=5",
-   "source": "SuaraGarut.ID",
-   "date": "2026-11-25T22:20:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "08fcd43b8b8d67",
-   "title": "US STOCKS-Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGpMbmJpOTIyakFnNUEyTWZ5QzhoamxrUVlsd1F0eXJpX0VMMjV2cmphRUhjQnlkeVlpT2hXMV80QzJOelJ0MDhLb3hLR05zSnNhMWpweTFhQ25WRWJMV1JDdU1MWF9mQlNzSUl1YmZDWFlCNEtMdlNjU0MwRGpTNjFkZmdoRmdFdHVqbnBEenZ0LXpwWmxZSXBqYzV0a0tvQnNTU3dVdkNYcHhfeU1QemJOMWZhOW9mZGFFZy1VNzF6ZzBFLWlYYjZVTWMzUmF1YnZIV1NB0gHWAUFVX3lxTE9EakxuYmk5MjJqQWc1QTJNZnlDOGhqbGtRWWx3UXR5cmlfRUwyNXZyamFFSGNCeWR5WWlPaFcxXzRDMk56UnQwOEtveEtHTnNKc2ExanB5MWFDblZFYkxXUkN1TUxYX2ZCU3NJSXViZkNYWUI0S0x2U2NTQzBEalM2MWRmZ2hGZ0V0dWpucER6dnQtenBabFlJcGpjNXRrS29Cc1NTd1V2Q1hweF95TVB6Yk4xZmE5b2ZkYUVnLVU3MXpnMEUtaVhiNlVNYzNSYXVidkhXU0E?oc=5",
-   "source": "Devdiscourse",
-   "date": "2026-11-25T22:19:58Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bf51f43db9eef8",
-   "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-   "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
-   "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T22:16:00Z",
-   "score": 8,
    "category": "Tecnológicas"
   }
  ]
