@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T08:16:31Z",
+ "updated_at": "2026-11-26T08:21:15Z",
  "items": [
   {
    "id": "d9d945b640818b",
@@ -22,6 +22,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "fe34625d8ce60f",
+   "title": "US Inflation Challenges Expectations For Faster Rate Cuts",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN09nSi1GY0cwU3RiNUw2MjdqellicmdYTUJWMDREVHVvVERILWFaUlg5ck9rSmpqSnA3TjFrWnRtZmxWdlQyR2xtbEFwREphcE9lWVlTZkJVY0ZDQUZoQUcxTTBZM24yTUI0U256VFRQdElvdndTVHZLYjEzbHdzUHVXalRmMEFDQnZuQU5sNkdWQkE?oc=5",
+   "source": "Cointribune",
+   "date": "2026-11-26T08:05:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "7adeb4f809611a",
    "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
    "summary": "",
@@ -40,6 +50,16 @@
    "date": "2026-11-26T08:00:27Z",
    "score": 3.5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "11d2bc8e3822d9",
+   "title": "S&P Weighs Nvidia Downgrade Despite Huang's Return. What Would a Cut Mean?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGNEREhsZHg1RXFKYm5lVFZ4SXZ0MHN4cm9pVzBzelh6d3V3eDljQ1dkakFjZkV4TjJCOFZFX3JTcHVCTkw3YW5XbnpxbDdGek1oM2NHOHVfTmN5b3hDeDdJSUI2cWZoZ1NObEdIYWFSbDM0YXZ5bUJ5RFpqTTN0UmU1S1FrZEg2SDc4cUhxX0g1RDRHaVROQVBIUVZWQm8?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T08:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "850e41ac468867",
@@ -1172,16 +1192,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "13a6be33b39619",
-   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "725af62bcf944d",
    "title": "Core PCE Inflation At 3.3% In October",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Seeking Alpha",
    "date": "2026-11-26T01:55:00Z",
    "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "b052fc8e5d02cc",
-   "title": "Bitcoin slides as tech stocks fall amid U.S. inflation and tariff worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFBaMkFFQmJmMk1nWExfT0k2MWlpYVM1ZzZLbjNEbk1YZUR6Y2taYnUtS0Jka21VelIwX216SXctelRycC1jUnVRYTljTU0zdDZVZHdRa0pNOE1MSFgxekpuV3YxNVhycXNaNHltT0ZUc0ZtdkFvdldzdzlaUlFSWkVYSjVsTEZGaWt0eTA2MjRaZnFGTUFpT1haeTViS2RXWTlMelRLWk9ka2ZFQkRNdks3Mms3dTNyZ1E?oc=5",
-   "source": "디지털투데이",
-   "date": "2026-11-26T01:54:38Z",
-   "score": 13,
    "category": "Macro"
   }
  ]
