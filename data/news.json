@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T00:14:00Z",
+ "updated_at": "2026-11-26T00:18:48Z",
  "items": [
   {
    "id": "31d37106a1141c",
@@ -285,8 +285,8 @@
    "id": "8250f50cce8a13",
    "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
-   "source": "KONTAN",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
+   "source": "TradingView",
    "date": "2026-11-25T22:32:30Z",
    "score": 11,
    "category": "Tecnológicas"
@@ -309,16 +309,6 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T22:30:21Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -522,6 +512,16 @@
    "category": "Macro"
   },
   {
+   "id": "d5ae2318a09795",
+   "title": "[U.S. Stocks] Dow Rebounds After Early Plunge... Nasdaq Falls 0.62% on AI Stock Weakness",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wcDdlTUVUSlhpS3VwV1dKVmtjXzZsQkkwMHRZZGU1UUJtV3RCQWFPazQ1cXdBenhHeWNtaDl0MGEwSU1jbjJ1NTZ1a1ZIU2Y2NWxFcjNsSUlLcHNabEFtNjlHUy0?oc=5",
+   "source": "아시아경제",
+   "date": "2026-11-25T21:55:40Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8d2b5275b0dfd1",
    "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
    "summary": "",
@@ -682,6 +682,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "99c751cf0b63c5",
+   "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5",
+   "source": "Fox Business",
+   "date": "2026-11-25T21:30:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c7a6b2a7b00918",
    "title": "Nasdaq Plunges 4.6% Before Dramatic Rebound. Wall Street Faces A Triple Threat From AI, Inflation And Trump Tariffs.",
    "summary": "",
@@ -750,16 +760,6 @@
    "date": "2026-11-25T21:21:06Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "99c751cf0b63c5",
-   "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5",
-   "source": "Fox Business",
-   "date": "2026-11-25T21:20:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
   },
   {
    "id": "ed00ccd84c694f",
