@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T08:11:48Z",
+ "updated_at": "2026-11-26T08:16:31Z",
  "items": [
   {
    "id": "d9d945b640818b",
@@ -493,7 +493,7 @@
   },
   {
    "id": "2846b77f0d46dc",
-   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000%.",
+   "title": "“This is INSANE,” said an account on X, which, according to its bio, is run by a stock and options trader. The post claimed that someone had bought $3.4 million worth of Nvidia options on Friday, which resulted in a profit of $312 million, a gain of roughly 9,000",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzMyUjJjQU9pdDFFalVPX0lBNkpuLWJWaDAxcVM4X1pjbUU1M0h0MTl0RGhqNGZISEN2SE44d1EyUUpTQmhYRWVmLVh0cDdlV1Nlb3RCRU5PZWRWNmswUk9JU1ZLdXZDMVBPUmZlQTcwQlBtdWJkQVBZQnAwTG4wcWxDbHRxaWNJejBBZGN4cVZVTkFQSHR0cEw5bWFJVGlTUnROWmhaZHRwamhsdHBubTk2T1VpNVFybHV0ZHpXaVNGcEIxdmdBMmkwMzhzNHM2MmI4?oc=5",
    "source": "Facebook",
@@ -982,6 +982,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-26T02:50:43Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7a36f92209ae0e",
    "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
    "summary": "",
@@ -1162,16 +1172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "725af62bcf944d",
-   "title": "Core PCE Inflation At 3.3% In October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T01:55:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
    "id": "13a6be33b39619",
    "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
    "summary": "",
@@ -1182,6 +1182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "725af62bcf944d",
+   "title": "Core PCE Inflation At 3.3% In October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkJvbUcxVnR6Nmh0UWhCSGpGVl80dEtNbmhxNUhLNElEWU9yZHUtOGJBTWhtNTg2d25WWkFiRXFlRldhSFFuRUN5RTY5bmF4djd2VEd0bjdqdWcwY1FkZU9yWVl1Vkh6S0JiVkZfNjZlSkJTVzVIc28tZERvWW41THdqbDV5dlBITHozRzRB?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-26T01:55:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
    "id": "b052fc8e5d02cc",
    "title": "Bitcoin slides as tech stocks fall amid U.S. inflation and tariff worries",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T01:54:38Z",
    "score": 13,
    "category": "Macro"
-  },
-  {
-   "id": "d3bdff3996d14a",
-   "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5",
-   "source": "The New York Times",
-   "date": "2026-11-26T01:53:20Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
