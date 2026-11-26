@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T17:45:00Z",
+ "updated_at": "2026-11-26T17:49:44Z",
  "items": [
   {
    "id": "3a58fb61bb05bc",
@@ -220,6 +220,16 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "2fd8e58eedcfde",
@@ -1092,6 +1102,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T11:42:17Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e7d604cd8d5229",
    "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
    "summary": "",
@@ -1120,16 +1140,6 @@
    "date": "2026-11-26T11:33:46Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "536102f35bf5dd",
-   "title": "Thanksgiving Inflation, the Fed’s Debt Trap, and Gold’s Eastward Shift",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEJlUExIaTg2R2Npb2ViUnNERFAwTEF2V0pRVWVMMFlSTmhzMHktWkllR1dGWG1keDRHSmh2VWpXcnF1NksyWG5UVGdvOUJrY1Q1bkRLcV9WR19ETElqX0FpbWM0SUtJVjhISDdjZ0lYd0hQNUplRV9oa00ydGJJQU5vWXVnR2hMRy01R2VHa1pfQlpnUnlLbUdsSnVjaG1TTURtT29OQzY1cTVKTTNYcE5aNDljam5oUmJv?oc=5",
-   "source": "Medium",
-   "date": "2026-11-26T11:31:01Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "115bf7e5d00f24",
@@ -1162,6 +1172,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "536102f35bf5dd",
+   "title": "Thanksgiving Inflation, the Fed’s Debt Trap, and Gold’s Eastward Shift",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3RvakhBOGw4TkhZbWhMakM0RjdVcVNsNlhoeVlZU2wyc3JyYlpqVE5GRnlUSWR2MTAxbHRvOXdBa0xHQWtZdWJvek5HVkdDMHppR2V1bVk2ZHZSU2pUSFVudWdwLTh3bWFUVFFITWEyZEx6dVYzdlZxbzZwclViZVFaNjlqVUFzYVZ6Nnh5RmxNNEk1SlFIS0dtZw?oc=5",
+   "source": "LinkedIn",
+   "date": "2026-11-26T11:30:23Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "fc356a47165574",
    "title": "As AI Stocks Get Pummeled, Analyst Bucks the Trend and Buys Nvidia and Alphabet—Two Veteran Giants",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T11:24:26Z",
    "score": 16,
    "category": "Macro"
-  },
-  {
-   "id": "ae915f54bdbdd1",
-   "title": "Can Trump's tariffs fast-track India-US trade deal? Jefferies decodes — KEI, Welspun, Cipla, SRF, other stocks to watch",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNelVybThZdHhETTlWMl9hT2xqcWV5cm9zQnlWZXBLR1NncEtiWGU1QW4xZzhnVTNyOXBkbjJoYjJfbk53VG50bEdEbC1PeEhVaWN6YXVhZjlKbGlKYWl4Z3NiTVV5TTExRlJEYkpZTExJdHFNZmw3dHhWamFYZDIxMkpVcmJTZTNieHdqV1hUeFZhRkgxOFhJcHlDdTc3UUN5ZjZfeTRGVWtLLXI2UVNXamY4RGFfMnhoRkpXVUg0c2o5VFMtX093MXYtVXVrVm44RGl6bVV0VHZLMGNmbVM4dXdMN1FraXYwS0x1S3paVzhuX21EdjdNb0lCWEdQOWNFLTQyOVBxYVNUdGdHREHSAZMCQVVfeXFMTkNjRWxOVWZrcDVzNUhnb0lZR254ZDl4dExacjR6SGw3Z2lJckFGd3B0VHNYaF92Z3BsVkphVmg5dkFpWEhyNloyZ3draTVLS05Wa01tSFBUTDZGczdoQlBKR3dvdGhmLVFXZUk0SFZaVDI3MFVyRk5lR3pRXzB2dDZTZUNac1c3WUluS01MbWVpTHYxS3dWX2h4b2xmSHZONnFsTTVzMmZkaFRoeFktcjh5YnlIOFhsTjFmdXN3NG5ZU3gwQWhkMDV1Wm5pa3RneUtGX1BjM215ZHBpN29SRFV2TERYNmwzZHZ5Q1JsMzljZTlRVXVQdEZqeFJreDJSTzd2Q3RYVTJ6ZnVFVUotWUxzWGM?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-26T11:18:02Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "951c8a31f7364d",
-   "title": "Nvidia Halts Server Shipments To 4 Southeast Asian Countries Amid New U.S. Export Curbs, Report Says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2IzeDRBUHdXNi1LQjBNUEl3S21Va0NyeGN6eFZQZmdHUU5STk5FRXZTSFVhd2tYbTBHNjRfUkNDS29yNDlXYXdYMXZGMVZOZzE1STd1dEdVdk1iM0szN3B4ai1QWkpHTDlnVGZzZzNlQ09acXRCRklnWTgwMGV2Q3MtbWtYbkg0SnV1bjNCMV9tbW5zMUVEUU1IOTBNRHdDZUpGWXZuaG1MLWlSV3p2UkZFQVhoeF94RDY3Yzh6MkdtamtCVGQzamRsQ1VkbTU3X1huQ3NJTQ?oc=5",
-   "source": "Forbes",
-   "date": "2026-11-26T11:17:43Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
