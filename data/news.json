@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T18:51:06Z",
+ "updated_at": "2026-11-26T18:55:49Z",
  "items": [
   {
    "id": "f6a810a55333c7",
@@ -189,6 +189,16 @@
    "source": "CryptoRank",
    "date": "2026-11-26T17:21:26Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "31f6b8c61ea774",
+   "title": "Nvidia, Dell and Supermicro Halt AI Server Shipments Amid New US Chip Export Controls",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUU5HOXAyWDVZa0d3LURpX0d3U3pxZER0SWN6VHJtci1OTmpmU2U3RDFXRV95ZUxIc25qa0tLOV81N29odHV3czhzRmhQajUwM292M0xMMEtMMWN1MzZLTGpla1pDRUM3MHM2TnM0b2JuOUJrei05QmFhYlVWbElUN2p6bEp3ZXpfcTdKUzVjTG1xeF9KRG4xSFVLSkdfLWpWLWFlT0xJU2Fid1VTYjVfYzlKejZFbVF1ZjF5dEw1WQ?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-26T17:21:26Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -425,9 +435,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:07Z",
+   "date": "2026-11-26T15:49:06Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -460,16 +470,6 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T15:40:03Z",
-   "score": 8,
-   "category": "Tecnológicas"
   },
   {
    "id": "3f50104cc0613f",
@@ -655,8 +655,8 @@
    "id": "3b194c3c92af64",
    "title": "Michael Burry exits Nasdaq-100 short",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVrMjRZdjhIbjN4YWFlakNFTUJ2ZHZndjgxLXFZOVd4XzRuQWkzNjUzNW1fUGNfby1tNnhWSDlDYkdZc0R3N2NJVHZtWnVkLXVRbXVMdjRUNWM2U2JpWDFpQmRzWnNLZlJ1eDFQMzdIS1FXeW5LdVRxQjJMa2EwckJGUTlISWpqeW5uR01pXzhxbllrN2w5S1BYRkM?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTlweUdtelVQNjRTRFpZSEZhRnNSTlJFRm5ESUZDOUVJcmlIcDdYMUhzdElkT2lmUW5nRGVmTGk5NGNuSVBSWFRHSnp3WWd4NFBMT2puM2NUSTR3c0IzYXBZU3FFdEZaR1BnV2l5ekV4QmpLbnZrbjM1T0Y2WDBZQzk5Y0hVQQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-26T14:47:00Z",
    "score": 4,
    "category": "Tecnológicas"
@@ -882,16 +882,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "830e28fa019b6b",
    "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
    "summary": "",
@@ -899,6 +889,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -1012,6 +1012,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1f3fabf4604af4",
+   "title": "Gold drifts lower as Fed rate-hike fears loom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaS01cTRpU3QtN3AzeHN4UHdHdFQ3UTVFUzNqenpXcWdiMUdOU2lpQVh1bk1uWklCRTZSUHpJMExkY2ZPaUh1VVFXMnJFWnB6TVhmNjV4Mm1jbU02X0hBcERnMm8xb204NE5QNTYtbkwwZVM2YUNpNl82NzlUTzRfUVZYelBVRXlRX0FtOUh6U3JYaEpIR2ZMNA?oc=5",
+   "source": "Kitco",
+   "date": "2026-11-26T13:03:19Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "be043af9bf949c",
    "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
    "summary": "",
@@ -1067,7 +1077,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUktDV3dFXzg3dWJtNTRBa3ZJSnI2UnNscUNsUUg5dDVtRmh2Z1ZoU3FoTkZFd1Z0NGVnaXFxcWtVY1RZTnZ0RGpDZmg5R1YzNm9zdml4enNLV2d2T3JsenVZVVdoN2c4SHBwYVhTd2g3c0ZRN0o0SlFKRk8taUVRbThlUDdGWXlUcnF2X0M0VTdJNUJqTFdzYXFlNTM?oc=5",
    "source": "NAI500",
-   "date": "2026-11-26T12:51:52Z",
+   "date": "2026-11-26T12:50:28Z",
    "score": 6,
    "category": "Fed y tipos"
   },
@@ -1189,16 +1199,6 @@
    "source": "CNBC",
    "date": "2026-11-26T12:22:25Z",
    "score": 10.5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7679254fd03bee",
-   "title": "Apple Stock: Not A Great Place To Hide From The Tech Wreck (NASDAQ:AAPL)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUNMcFA5eDFrWm5ic3NGU1F4Wms5ckVPakxiOGFtVzZrMm93R2tlUUUtT1ZnQUx1dlh0TFFwbVhMbmc0TXdFNU02cUhtMFdNVGVTUm9lRElZdmYwZ3FBWVhfWHpHRXJwUkpjTW1WU25WRDVLTmRmbnI1ZG9OcUo5V1lSTHFsYUlVZENtRDJBWUlucFVoZEhF?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T12:20:05Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
