@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T05:03:40Z",
+ "updated_at": "2026-11-26T05:08:24Z",
  "items": [
   {
    "id": "7adeb4f809611a",
@@ -52,6 +52,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "63551bd66cb0ad",
+   "title": "Wall Street Morning Brief: US Stocks Closed Tonight; Nasdaq Grazes Bear Market Line, Then Escapes; CDS of Five Giants Hit New Highs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ycWxacVlPcWVjak9HRWhWYmJUMHYwWWg3OS1McGdyRHpudndzRVVBZURjLUFkV283M25fSThEblBYQklaR29qdnBPZ29fUU9pb0hIMS1OOUNoel9MWkY4c2g2VkpIemVpbE80MGRiN1YwdmxXUXpqUk9hX1d2anM?oc=5",
+   "source": "PANews",
+   "date": "2026-11-26T04:20:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "0b8fca637599f2",
    "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
    "summary": "",
@@ -86,7 +96,7 @@
    "title": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "date": "2026-11-26T04:08:00Z",
    "score": 5,
    "category": "Tecnológicas"
@@ -337,7 +347,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-11-26T02:58:00Z",
+   "date": "2026-11-26T02:56:59Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -549,6 +559,16 @@
    "source": "재경일보",
    "date": "2026-11-26T01:55:04Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T01:55:00Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -802,6 +822,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "1ac3fb10d0b5b2",
+   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMFJxamNRNVliV2dsWDhoN3E1Rjl3azlFV1ZMaUlyNlp0c0FMZUtEeVVMcGZMaTBPVEd4SXVELURMRXdNb0tLQ1lVelQwUFVoMEt4ZmFqSFNrdWhRZ3VYRXpUajNvOW5XdEpJYUh2Sk51SEdCR1F2LXBjalZtekdQSFp0SlA1UUZPU3U1LVAyd3lCM05RNVIxd2d2cUFzV1hiaTAwRDJnOEFIb2k4QXVmcG1LMXlnR0ZjbGVNdmVhNGlKZw?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T01:21:16Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "14abc9198bb43a",
    "title": "Ringgit opens higher vs US dollar on AI-related market caution",
    "summary": "",
@@ -852,6 +882,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:06:33Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ae168e7501a2d8",
    "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers By Investing.com",
    "summary": "",
@@ -890,16 +930,6 @@
    "date": "2026-11-26T01:00:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "13a6be33b39619",
-   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFVMQXQ3ZnRNeTFDdEtMNjFZbklUM3EwUHhnMWVMR0lRUmlyS1BzcEh1QTNYRGZnc2tDMXJnSi0xUkVSYmxkQlREYUg1VWEtWE52OGItaFhHME9iNXNrS3NMa29hR2VZTTlaYjlGbndrczY5TUlCV1lERGlBcFJpZEdyQlEwVjJzWnk0LXdtcVZPRTZfVDZVTEln?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T01:00:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "2bd9d1a0ea3140",
@@ -1016,7 +1046,7 @@
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "date": "2026-11-26T00:18:00Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T23:33:44Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "cc4b32ed04e566",
-   "title": "Nasdaq Futures Fall 2% on Tariff Fears, Inflation Data Due",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXQ1WVlIbzF0OExtUTQ5azEwSEM0VWRqVmVscXU0YXRKaU5rLVZXT2lzOWF3S3FnaVlhR05tbHFpX216RklGT0NrWTY5Z0JrVWJWc2tRaDlreWgwQTZFNTdEX2NvdmI3TXN3dVpOb1p4dU1TSmg3aGtZVm9FT0ZIazJCbWdjNWwybW80Ym92SzFNX3hpWkJ4YWJTaHZSUQ?oc=5",
-   "source": "Hoodline",
-   "date": "2026-11-25T23:32:10Z",
-   "score": 13,
-   "category": "Macro"
-  },
-  {
-   "id": "c57ffca28d5d2b",
-   "title": "How Jensen Huang’s return may cost Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzBleEZ1S2xGaEZ2Q2RqYlUya1dCcXFlTzlxYlNvUlpEbms1c3VIYkJqRTRhUzRWenVLN0dZUTNTbnJkY01EQlBOakl5ZDZINXlIZHpmOVlmaV9RUURLTDMtaEhvMzg1aWVHNWZUMzZhM205TE9tQ25VaDdmNnA5WmJHZjh6T2lsekE?oc=5",
-   "source": "KRDO",
-   "date": "2026-11-25T23:31:55Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a70a9587f3d530",
-   "title": "Trump targets China & EU with new tariffs; will he restart the trade war?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCdnRMR1ctOFN4U3ROR1dHbEdleGhfYlVFdnZBWDNzcmphQXd2VVhZSmpNQjNWRUNTclJlS19oWURvVDZCeUhtR05WOFVuRVVqNW1IUU5SUnNHeVU0dWlJ0gFcQVVfeXFMTURudUlQTlZCZXhOTzdINjlXazhQNnRuM3B2aGx0SHZxMjlwenpnVXFIc1ZZWEp0V1RZcGtWU3NUZjBlR3FVN0Y1bWxWUHVMUFVzWDBaQ2lzXzZacDc?oc=5",
-   "source": "Modern Ghana",
-   "date": "2026-11-25T23:30:00Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
