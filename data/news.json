@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T00:18:48Z",
+ "updated_at": "2026-11-26T00:23:32Z",
  "items": [
   {
    "id": "31d37106a1141c",
@@ -392,16 +392,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "cf15cbf71a308f",
-   "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByeEpQR1VNeWV4bzNkcHJ2SkdaY2luc09hZk5mUVhaOUFNN0dnUXVyQ3p4cGtpUGVwZm1OcGxXYWlNMlFWY1Naa3M1Q2pBTF9EMjNRZ3M5aE1lWFpkWVRscg?oc=5",
-   "source": "bsinews.id",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "22f29156c51572",
    "title": "Pullback in AI Stocks Eases",
    "summary": "",
@@ -409,6 +399,16 @@
    "source": "Newser",
    "date": "2026-11-25T22:11:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "cf15cbf71a308f",
+   "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByeEpQR1VNeWV4bzNkcHJ2SkdaY2luc09hZk5mUVhaOUFNN0dnUXVyQ3p4cGtpUGVwZm1OcGxXYWlNMlFWY1Naa3M1Q2pBTF9EMjNRZ3M5aE1lWFpkWVRscg?oc=5",
+   "source": "bsinews.id",
+   "date": "2026-11-25T22:11:00Z",
+   "score": 10,
    "category": "Tecnológicas"
   },
   {
