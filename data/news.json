@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:40:34Z",
+ "updated_at": "2026-11-26T23:45:20Z",
  "items": [
   {
    "id": "e16433f737c914",
@@ -159,6 +159,16 @@
    "source": "Google News",
    "date": "2026-11-26T22:13:14Z",
    "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "2098e7b2a663a7",
+   "title": "S&P Puts Nvidia on CreditWatch After CEO Turmoil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajU3V2lBZEhmYV9WMW4wbFhFNmJUVFNPTmltTGF2M3NfM292UlFSN3NFT2w0elFTTVBMbk1ZZFVpdHhlWjNSa1dVTlRyYUdybGNsRTk5MmU2MkJkQVQ4MW16ZWkxLWREc0RvallHLVlWYlRPNE12ZGE4cEd0R0NCbG54UEQ1U2c?oc=5",
+   "source": "Briefs Finance",
+   "date": "2026-11-26T22:10:59Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -552,16 +562,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e7d604cd8d5229",
-   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-26T18:16:37Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -589,6 +589,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T15:15:42Z",
    "score": 12,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "5ff37e4cec9cbc",
-   "title": "Sterling slides as US inflation revives Fed hike bets despite Bank of England hawkishness",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkZVV3dTTk1lUXNfLVk0LTRCSjBVeTRZRDVfMFdtc2VOZ1dyNF9sckZmRldyRTJ3VjUtbE1lcWs2VXdIZzdLd21ZZ3dxM1NTSmRyUjgzZ203c3loU09XNC1rbnhNNUFXb04xeXh2cHA3TTd2dk0wRVlqdVowdVg1NGdBMHVndFVsSDUzQ2NZSml0V1NISlR5YkpPX1RKSkNSWXZwaTBnNjdzWXpETTJ6MjBEMWxjNjIzM01iUlAtajYwV0g4THJRTGNTQ0FPaS1y?oc=5",
-   "source": "VT Markets",
-   "date": "2026-11-26T15:15:41Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
