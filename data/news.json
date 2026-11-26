@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T18:32:14Z",
+ "updated_at": "2026-11-26T18:36:57Z",
  "items": [
+  {
+   "id": "f6a810a55333c7",
+   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "date": "2026-11-26T18:32:29Z",
+   "score": 3,
+   "category": "Macro"
+  },
+  {
+   "id": "86419adb07d08c",
+   "title": "US Dollar Rises Against Canada's Loonie, Treasury Yields Fall",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXA5R0ZoVnpIRW1vNTN6SDlVY3NfdHltc3BFZGFDS2tWVDIzNTFXalc5WHhnQ1lLXy12NWFSTlZZaGxZMmJDcUM0UmlvZU1yQmtsLUh3djQ3OWswN3ROQVhMRTRNbHI5NVhoWDRTRmpKdE1iS3B3TXZWSWY0OEZIcFV5T2ZDejEzdGFSTGJIbmt4MmJENk5qOUZGeVpxZjdzeHdKaFJOR1BxNFlNalNoQWd6NA?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-26T18:31:21Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "0e5f616d955973",
    "title": "S&P 500 and Nasdaq 100 perpetuals climb on Liquid while Wall Street sits out Thanksgiving",
@@ -60,16 +80,6 @@
    "date": "2026-11-26T18:00:00Z",
    "score": 5,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "f6a810a55333c7",
-   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a historic mistake, claiming that it should be \"immediately investigated.\"",
-   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "source": "CNBC",
-   "date": "2026-11-26T17:57:32Z",
-   "score": 3,
-   "category": "Macro"
   },
   {
    "id": "d521c2f5277ff1",
@@ -385,9 +395,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:07Z",
+   "date": "2026-11-26T15:49:06Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -792,16 +802,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "830e28fa019b6b",
    "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
    "summary": "",
@@ -809,6 +809,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -912,6 +922,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1f3fabf4604af4",
+   "title": "Gold drifts lower as Fed rate-hike fears loom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaS01cTRpU3QtN3AzeHN4UHdHdFQ3UTVFUzNqenpXcWdiMUdOU2lpQVh1bk1uWklCRTZSUHpJMExkY2ZPaUh1VVFXMnJFWnB6TVhmNjV4Mm1jbU02X0hBcERnMm8xb204NE5QNTYtbkwwZVM2YUNpNl82NzlUTzRfUVZYelBVRXlRX0FtOUh6U3JYaEpIR2ZMNA?oc=5",
+   "source": "Kitco",
+   "date": "2026-11-26T13:03:19Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "be043af9bf949c",
    "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
    "summary": "",
@@ -949,6 +969,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T12:54:02Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "2dac3c6cf239a2",
+   "title": "NASDAQ-100 2x Short Net Total R (^XNDXS2NNR) Seasonal returns chart",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JakM5M09PcFlxZ3NZRzY4WUZ2NEdPTVMtNHdpS1MyU1Z4M2J0eFNUSlZ1RHkwZFZnQVlaakVxazlWeDVWdGtNSVlJZWxoSlF2MXBzUnNycmM0SnlJTmM5bnZsSjhpX0hVSjdWeg?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-11-26T12:52:14Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1132,6 +1162,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "d9c7b64b2c36c8",
+   "title": "Does S&P's Credit Warning Matter For Nvidia Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU4tbkNUaWVWelZQY1lSRDFKb3I3b0JCeDhUa0VMWXBLTGE4UnJtbDdtTEJyMWN5NW1TaUplLWR6SHYtRm51OURlcFp3M3NvSl9TV2lGU2ZhQTdnMG5raDVjUnFMQi1yaUtOdlM1UnFGMEQzNDFMZkotQTd1N3lMVzhGc3hfcklxa29NZHI0SHJrNWs4Tlg4blR3?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:03:23Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "911eea5be731b0",
    "title": "Nasdaq 100: Does the bounce mark the trough?",
    "summary": "",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-26T12:01:07Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "55a5085726ccc1",
-   "title": "Strong US growth and high inflation fuel expectations of Fed rate rise",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmFvd1FVR0NHOFFkME1CUGZpeDEwcmpZRWRNMWF1TjZJeEZsQVBERVltaUcxT215dW44OUYtSjBjb25CU2V0LWlwWEhxanBFNGhNXzVncDFRSFRBMk4zUklDc1dOa2U1VDNEZG1QTExxQjlZVngzX2FFQnJNS25MSU1pVWZlTVFTeTJwTFNFX2lYR1ZPb2NPbHlycHE3Nzg2N2dUYjNSd1BSczhDVUZteDF2akltdERIelZZMUZoejVrR0hWaW5V?oc=5",
-   "source": "联合早报",
-   "date": "2026-11-26T12:00:34Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4e2cbce3e1879f",
-   "title": "Jensen Huang’s Nvidia Return Drew Trump’s Support, but White House, FBI and CIA Differ on Whether Alice H",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZDFZcUNtdGRCTHVRZmZnSTl4cVZ4bU9ISHRTY2oxc3VlaS0wcF9pX2t0UUJxN1ZsQ2RyYWNudmhrZ0NjajNRVFZTMUg2V2l3aVdTRmJjSGgzRDNWRGNmcGVOMlpqZmtYSUdrdXlWMWd1emhXOUZpWHVTOXBDQWhkdGtOM2ViVVJ4cHBVSXFzLThtUjNqLXRoaDllT3BieG9Ba0VrLUtocGtHSEh6UjZvcVM0OTNjZ0Nxd25JTGtzOVZldy1RQl84ZVd5OW9RRlNIU3lyVmVjby1NSVZGanN4aDZ2bVVrcWU5X0pNdEdtVkdZUjlqSG1CZFBBTlp0YVRwZ3U2cHBaZTZOdDd5cWVLWDlR?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-26T12:00:05Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bf198b54eda5cb",
-   "title": "LONDON MARKET MIDDAY: Stocks rally as tech and tariff worries subside",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaktQVHF4Rkh5NlRfYVN3d2V6MzZ1djZpTlJ1Q0FxQVZ6NmNFMEtsWWNpRkk2WGdTT0tqWVhhUkk5VlFuczJ1NDlMRmVSOGpUaE0yQ1BQdlZVQnBDQzFMTXlzMlRIdk5rUFJRMUVMcVFhVnhHT1FuXzNJcGFlenZnMUE3a1UzQnlfeDFCMUlXdVV3N1lhcTFjaEpWRE5YRjBTb3lsVEp4YUJ2ei1jMkJXTkUxY20tSUk?oc=5",
-   "source": "London South East",
-   "date": "2026-11-26T12:00:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "44a57c4f08c95c",
-   "title": "South African Reserve Bank Warns AI Debt Could Raise Government Borrowing Costs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGoxb3NyZ2I2VDZjNzRNN1pUWEJoM2lpc2trSnhCVXdTV3pGUTJSa0gwaU1NYUR0RTB6Rk9veVpHT3dEa19wWEhZT09uc1dwWUx6dDAxbXRtV0dWOEt2RHRreE1IajcwRHcza0wxZ2VQRXZhdnhnSzdpRWR3VVBkMDhlaHZsWF9DdGVNZjRGUm9DODJaYWEzd3VKazN4OFJvZzNwbHlNQUZUa0tWekVDUEYwTGE3UGdTLWZNcDdwM3p2R1Rkd2dGS3RlNE5XcVE?oc=5",
-   "source": "Tech Times",
-   "date": "2026-11-26T11:57:32Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
