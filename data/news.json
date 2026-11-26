@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T19:43:02Z",
+ "updated_at": "2026-11-26T19:47:45Z",
  "items": [
   {
    "id": "fe4e68c94a9182",
@@ -79,6 +79,16 @@
    "source": "LinkedIn",
    "date": "2026-11-26T19:00:13Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b9b75a0118eea7",
+   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1hobVFwRllEeUdYbTlReGxVekdEdW1BLWhzcWN3X0lkOURIWWs2SGVJdmdnaDdsTm5jYVY4dnNSbFlEU2lOYnh6SWlsUFFCWVNCb3hIMDREdFNvT1NQVG5ZRkdYX0xvZzY0YUpPdm1CUlRNdWtSZXJ2Vkp4N0psOXczcXFDY25ZU2drM2VFWFZndGxqTzlETUZpREFwTkVJZ21ra3lQeEhRazZpamVJSnI2VXpHTWREYTRDazRHUUkxUQ?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T18:56:15Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -310,6 +320,16 @@
    "date": "2026-11-26T17:30:18Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "9a5b3c74d8f46e",
+   "title": "Fed Rate-Hike Bets Deliver Fresh Blow To Your Holiday Budget - TalkMarkets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5PQXVUZE1NWkhoLTNmOVhqSWxuTmhVa25XNk0yX1FJX3VidWF1LXMwU25fMmRwWnVGX18w?oc=5",
+   "source": "Howl.Link",
+   "date": "2026-11-26T17:30:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "534f17d0adda34",
@@ -582,16 +602,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "b9b75a0118eea7",
-   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThVVEd0RE01LUtWcjZPaWQ0cVNnUFQ0cFIzSlpCUlQxWGxJdTlneElCbE80SHdDVTEyelZFNjVHcXRWbHRhdVNWOUNZbVU0Wmk4MmtnUHQ4dWRVNFl4TzFnWjJGc21rbzBMaXVxWmp4bEdnNEo0X0VsZXpTdzlJMDZKSVpQN1lOQUhFbTlhc3RGa3A1bjBwSnZYZVd1b3c0OE9jZ2ZFLWt3cHpCbGlOSjVJdGljTHZ1a01BWE5MekVxTDRBVHRYcENfQXQ3bnlzSTRn?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T15:53:27Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9dd8faefde0e81",
    "title": "Stocks rally, Europe sizes up next ECB chief",
    "summary": "",
@@ -640,6 +650,16 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "3f50104cc0613f",
@@ -830,16 +850,6 @@
    "date": "2026-11-26T14:47:00Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "9a5b3c74d8f46e",
-   "title": "Fed rate-hike bets deliver fresh blow to your holiday budget",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjk4bGp2YTctNUZDM2U0dDZpck94d2hhc1B4eEFlNFkycmxRNXFtNUQ5MzRuTm9OOU5OTU1YNTR1OEpKNEt6b0h5cEhtMTBZd2NCVTU5d3hxN2xxZlZQR2hXSU9iSUI3dE1aTHY3N0d4Yjk0Q1Z4WERsLTdsVkpoamlILUxwU2hwQUx2LTVscmdxS19l?oc=5",
-   "source": "TheStreet",
-   "date": "2026-11-26T14:47:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "b3208d6e5b004d",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T13:05:00Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "be043af9bf949c",
-   "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T13:01:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
