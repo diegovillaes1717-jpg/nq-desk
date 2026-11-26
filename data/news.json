@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T09:51:45Z",
+ "updated_at": "2026-11-26T09:56:29Z",
  "items": [
+  {
+   "id": "355a4b1c8a6ee3",
+   "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+   "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "source": "CNBC",
+   "date": "2026-11-26T09:51:40Z",
+   "score": 10.5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDY5M0VnOGhrcWFqLVRjd1JURjE4aGdDeHg1d1QwRjRxLTNuQVhGMnA0ckU0TzFEYk5oVWtoYndKdzZsN1dwbzlkTlNncDlxNDZZU0d0YlctYThhbVNMSjNsQ0p2N0Y2T1VyWDcwbFNFVkJWQ2lzdlpsMXJxTmNPVXFyeGROa2U0TXhnd0FzWV9MUWplc2w4QUZjVm5OeWxwMmFiQmFQTmNtOTBZMEE?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-26T09:50:29Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "6e4360291b828d",
    "title": "Nasdaq 100 rebounds. Is the bottom in?",
@@ -189,16 +209,6 @@
    "source": "London South East",
    "date": "2026-11-26T08:45:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0cbe383ceac986",
-   "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
-   "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "source": "CNBC",
-   "date": "2026-11-26T08:42:26Z",
-   "score": 10.5,
    "category": "Tecnológicas"
   },
   {
@@ -565,7 +575,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -770,6 +780,16 @@
    "date": "2026-11-26T06:01:28Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
+   "source": "Decatur Daily",
+   "date": "2026-11-26T06:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "871981e68663d1",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T03:30:54Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "ae168e7501a2d8",
-   "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers By Investing.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclVOZjdVc2JNTGZ3TF9pbGZtR3NEMjZJSHZnNlZzU3psYTEySThPbWhfeGQ3NmJKeWlpT1RzZ1FoRnhkWXYzM3hlSnl3OEh2MFNBU0dhUFpVR09FVmYwZU9PM0h0aEZZaDdZNW1rWElCbk80MmZCaWlmS3BBWG43WDNzaFl0eUx2RVJldnFQVHQ3UHhZZG1MRTdPbEVRQ3E5SVNTNlVvVUMxbzZjYjJCbHE3X2RnNElCN0REZm1LeVI1TWM2?oc=5",
-   "source": "Investing.com India",
-   "date": "2026-11-26T03:29:44Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c97b4cfd017afc",
-   "title": "US PCE Inflation Rises to 3.8% in October; Will the Fed Hike Interest Rates in December?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTJQeWhhXzNOWVUwSjE4Q1VRR05lcGVyd3NRcW1idWdIWlU0SXh3ajJaNTJ1dndSdW5pZ3ZMLWVjWDB0U01TNnZWQVhnV1VCUzlGaTFyXzVoUThBLWJkVC1zQW1Gb0FTM1JWSTFYcHNfNGRfd2NZWGRMcDBrUDUzdEJOUTN1Ym4yb3lIYkZKaU80SzBGOE5OVHZfdExVcS1KNnN4UlhLYjBuRDVXUWhPV1hmZnFpQjUtR1JrRm5QdndCUTZNcm1jTnhxejh3dnNrQWp0d0VPekNCMU0wTVpTVGR5YUc?oc=5",
-   "source": "Kotak Neo",
-   "date": "2026-11-26T03:26:15Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
