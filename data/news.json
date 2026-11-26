@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T08:40:14Z",
+ "updated_at": "2026-11-26T08:44:58Z",
  "items": [
+  {
+   "id": "0cbe383ceac986",
+   "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+   "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "source": "CNBC",
+   "date": "2026-11-26T08:42:26Z",
+   "score": 10.5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ef90bb14f80bf3",
+   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1JzZlNXOTJ0TEZXcUR5Z0FXaHBnNkRqX0pWQ0VjeFljZ1NoSExfcUdMR0JKTUJIM2wzM1dPdGl4T0dXcF92Mi1kRE9RZGs0ajVoc2xpN3ItZGZRdVVuajZCY3puRGdrSEw1TXpRZ3hxLWhBYjI1TEVDMG9oVDdmYnRUTWp6c0pmOWc?oc=5",
+   "source": "Charlotte Observer",
+   "date": "2026-11-26T08:39:06Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3be7b126ef8594",
    "title": "Quantum Sector Sheds Hundreds Of Millions In Market Value As D-Wave (NASDAQ: QBTS) Leads Tuesday Retreat",
@@ -30,6 +50,16 @@
    "date": "2026-11-26T08:15:00Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "13ad7d96f58907",
+   "title": "FTSE 100 today: Stocks rise as tech rebound offsets tariff worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGZOYXlLdDROdWJiOTVMNFNzVHlHM1FoRWlvdFpxT0RKMVRoR0JJMi1FeGlRa0NlREFPZ3IzVWZaLUxlNm9nbFN3dXJsdlVfbmhyNUFjZlFwcmpnNkdHYlpqbE1MbFlEWmdUWmNSOXZYVUxmRmx3YVdSYzdEamxCbV8yY09VWlZVMmZTTEVqZzFFRkwwX091MkVjb2J6TWNSVlNHRzdoV2hYNkFyY0VaYVlyMG1pYVFDZlROQjF3?oc=5",
+   "source": "Investing.com UK",
+   "date": "2026-11-26T08:14:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "8e152de40772f6",
@@ -172,6 +202,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "500f84bd3fe1c2",
+   "title": "10-Year Treasury Futures Stabilize Ahead of CPI: Is Bond Selloff Losing Momentum?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlVTQ1RnZ1FGOFp6N2VDZE1zdVByRGdtcy1ZbEhTX3JIcWhrZTRhYVVkdzNiUFJtVWJPb2ZOUnVMZzFTWkNDZS1Db0RnQWJtajdPU2ozelJnYTNKWTFWbjBZQlZXTDlSdTdUQ25tcDJadXhHRXRvdWRVRVBPRlluMWlXU3RpRUhhSWxUMmdYYVZxMVlhU3NUQW9zNDEyUmNqaDZpUDF5M05iOUpuWWJtUkdZX2ZCTU9Xem90bDNJWEg?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-26T07:41:27Z",
+   "score": 11,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "2a3a98b8e8f038",
    "title": "Fed Chair Warsh Keeps Tight Grip on Rates Over AI-Driven Price Pressure, Clashing With Calls for a Slower Pace",
    "summary": "",
@@ -189,6 +229,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-26T07:34:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "42e823086fc7f7",
+   "title": "Apple Is November's Mag7 Winner — Nvidia Takes The Biggest Hit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREFyRVJWQTg4ZEgwUUItc0wya2xoLW9JYXBLcm5LTzNZVHRubVFtUnVNdGF2Q3Y4ODNNU1Z2ZHBBdWFfbXhYOHQyZmlJMjdBVTk2UElYZ1ZhaGxsT3JiTlVoWUlLT2hMRmRYUlNnZ2p0WVhjOVhTemZDeS0xaGtCRUVkaHBhajk5dmF5UUN3NnM2RVBlZzNvVUFqd28ydDRx?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T07:32:00Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1092,6 +1142,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -1122,6 +1182,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-26T02:50:43Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7a36f92209ae0e",
    "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
    "summary": "",
@@ -1130,76 +1200,6 @@
    "date": "2026-11-26T02:49:55Z",
    "score": 6,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "645f92b29464b3",
-   "title": "Indonesia Stocks Rebound as Rupiah Weakens, US Tariff Threat Adds Pressure",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlV1ZXlJaWZhbzh4S1pqTGVfeEtHNGZtZDh5ZjJlaHYxcVZsS0dGNlVya0VMVzBqNXZxN3dxMmZHdXZYMHp4a0pNUWxRQjFWOGhyNnpmNkFZX1ZsRzNQdVBRd2w0QmpQb0RxdE5FamYwNlM0TEdUcmhDZVZ1SUNlYmd2WHNjWEhIY1F0LXRVUjBQQmJqRW5DVlllREVJN0dYeFBvTTU4ZDBuQQ?oc=5",
-   "source": "Jakarta Globe",
-   "date": "2026-11-26T02:44:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "46f80705fe38af",
-   "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
-   "source": "Business Standard",
-   "date": "2026-11-26T02:42:48Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7ad8222e5ce5a7",
-   "title": "Should you be worried about the Nvidia scandal affecting your wallet?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1dFa2Fud1RmXzA4aGFTLUhYR2IzbWxsblBNQmZkUW1MRDZzdEhKN1IxNzU3R0N5QXBEdEdhb1VweUdOa0JoYjYtYWktZTVmb3FTQjBfbDY0R05WcUxrRDFuaUJEWlhEakMxQW9DRnJVT19IZ05Va0NVaG8xRG5wZmJJUE5QZDZWanZ3cTU2eHByU3hPUmxoUm9Ha1JFZw?oc=5",
-   "source": "Queen City News",
-   "date": "2026-11-26T02:41:42Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8b087c11a557a8",
-   "title": "Tech Stocks Stall as Nasdaq Falls 0.6% Amid AI Spending Doubts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBDbmZ4aHhKY0RoakZyT2RNaXRzanp2VElveDB2dUw0QXdTQW5qOGpiRldic183ZVQ1YTQwX0lnWmh6OXZmWGdTaEViUWJJUXlWa2RTYllMRmdvZnh2amN6TlRMalBqVkNZNDFZeEdoVWpyUUZBcXJrbDNqaFdGalQzR1F2TlA2RkZkRXlWcGY5ekFMaHNCVkdEdw?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T02:39:16Z",
-   "score": 13,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4f938a5cfab991",
-   "title": "S&P 500 Slips Ahead of Thanksgiving as Tariffs Weigh on Stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdU04VWVwV25WdTBfaEpyZTFKYU9rYkRSVkV6d0tndnE1aTZhS1NOX1M0bVZITTRxeUdpMURFdHlTcmpiSk9FWnVhODl6c0FaSVRseEpHZTZ0STc3ZUd5OXBnQWtYTU5QSVpUVm82VFNNdnpHYTh5dUNLQkY4OEJFOEhwem9UMlRCMVZpT0dRZjdkZ01Qek9wNk5aNGhBc0FvN3N4ckNlYw?oc=5",
-   "source": "JournalArta",
-   "date": "2026-11-26T02:29:24Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "f16cf193f826f3",
-   "title": "Treasury Yield Slide Limits Dollar Gains Ahead Of Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWlFRU1CM2wzOERXQ3c1RkttUF9zeS1mT0M1Skhva05wQk5uSmlKS0stdVNveVNTTl9wejdPNk40ZXJlb1hMbldXOExWZnA0aUkxeHNPS3o5V01LT3VvV3Ixbng3WHJXM01DVDk1dUI2STNMUnhzNDlQRzlNSUFlbkhOTDFta0U1c1I3RFBjWkVUTEN4VVVLTzZtSHJaeEVvSngxQmF4UWY1aDg?oc=5",
-   "source": "BusinessToday Malaysia",
-   "date": "2026-11-26T02:28:01Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "766237518cf76f",
-   "title": "Trump tariffs 2027: a new threat to inflation and US stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0dSMWpGcEQ3SjRqa2ZaLU1sWTVLX3BIWFU1cnc0Z3RCRXNjQXdETS05NGRUd3ZKcGdNRHBUZHYwTmJPTmpodk1NY2lDZ0tMblFldUt6UkR2clZocEZJcnN0QmVId1RUYmluRjFWTmlVNVpGTVE4amlCRExsMzFzM0tQNlBzNUhCQ0xkTmJIONIBlAFBVV95cUxQUk5nbV9QQ1hLWV9wUVgzVlczX3BsUVBJRnMxT0F1NS1DOTJ5UWMtd2JjaUM2c29ZMnFGX1ktdXhFcGlmdEVEUXlTZTluclpvVGsxVjlXeko3bHlxX21YT1dmcnpvdjhYUUNvQ1VVWWVZRkJWRlN3eG92N0wyd19vMVhZdi1kel94QnpWSGdPaGdrTjRU?oc=5",
-   "source": "Forex Factory",
-   "date": "2026-11-26T02:27:00Z",
-   "score": 10,
-   "category": "Macro"
   }
  ]
 }
