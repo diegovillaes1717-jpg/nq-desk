@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T11:22:45Z",
+ "updated_at": "2026-11-26T11:27:32Z",
  "items": [
+  {
+   "id": "d9d945b640818b",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "source": "CNBC",
+   "date": "2026-11-26T11:26:52Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "fd08d6324037df",
    "title": "Nasdaq Fades After Huang Rally: What Traders Should Know",
@@ -122,6 +132,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "f4472ad29ef21a",
+   "title": "Bank of Korea: Spread between 3-year and 10-year Treasury bond yields hits 20-month low : Finance : JKN",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBncnVuZXZfY2tKaTRleGVsbmtGc19zZGZLb3pNQkhLZ2RGYzJsUzEybWNncDJuTEZWSGJOaHBkeERFV2VRbkR5eXhrWkxRMmZjSkNwclVOTXg3cEhnekJ3WXNn?oc=5",
+   "source": "재경일보",
+   "date": "2026-11-26T10:20:05Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "4aa42660c08c92",
    "title": "AI boom is first time economy depends on unregulated industry, investor says",
    "summary": "",
@@ -172,16 +192,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "d9d945b640818b",
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-   "source": "CNBC",
-   "date": "2026-11-26T10:02:44Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "44dbdce829623c",
    "title": "Opinion | The Next Fed Leader Should Be a Bot",
    "summary": "",
@@ -192,6 +202,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "00e8a5540cf25a",
+   "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-11-26T10:02:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d6149f884014bf",
    "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
    "summary": "",
@@ -199,16 +219,6 @@
    "source": "The Guardian",
    "date": "2026-11-26T10:02:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "00e8a5540cf25a",
-   "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
-   "source": "Investor's Business Daily",
-   "date": "2026-11-26T09:55:00Z",
-   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -430,6 +440,16 @@
    "date": "2026-11-26T08:59:09Z",
    "score": 5,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "b9539e88e5b4b4",
+   "title": "US announces new tariffs over excess capacity",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yNThsZlpycUpLcXZRWHZtcnltc1dQcFZhV1NmX1I1LWhSNHRwc2gtNDBxNlZ4eHJKWXgybnlKRFN1czZZTk9KNk1Fc3FER3pObXgwMEY1TUVOb05wU3lSaDNWS3JLbnZPVkg3b0xOX0tUSXZ6VER4THhObEpHd9IBgwFBVV95cUxPc25JbGZObUJ4R0RxSDA4T01jYnVQbFR1NzFNU3ZuN0xTQ2xVY2VBYU5KZktDM3Nna3pwMzJQUmdLWFY3dG9mNjVWdUJaT1VBQVBQZlpxNnBoSklwQTZnOXdtQlRFb2lBOHhIZWVPQ19tWGFPWDNsdEtmUE1MZVNudzlkTQ?oc=5",
+   "source": "GMK Center",
+   "date": "2026-11-26T08:56:05Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "d55d9a072be34c",
@@ -845,7 +865,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1179,26 +1199,6 @@
    "source": "marketscreener.com",
    "date": "2026-11-26T05:25:19Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "88eab4957d2e38",
-   "title": "U.S. Core PCE Inflation Hits 3.3% in October, Lifting Odds of December Fed Rate Hike: how 8 outlets framed it",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzl1SGlQRHBUTTFKZHdSNkF6SmthbjNhZFhXZWs0azBJM1BZWXFGMk1yeW93WHZDTE9HTzQ0eWZUYkU1eTByUm9QLTRjalM3MEtsZl9PN2lVZGtjLVBZRTQ4WFYyNk1oaHZIaDhwWkhYWnBYT0tmdXRLVW93RjFjUkFRMkZiVzNybEdLUDM3Z2pMWGJHNWJ4aVVSSXJCUXZ1ekNwakd6a3F5QWpZNGN3dU1lTlI1dk0wdF90U1RRdXRKWXVYN3d6MU0ybGY2ZE5pRVBQbU4wOGF3QXdnVEtiREs5Rjk2dmdm?oc=5",
-   "source": "NewsCord",
-   "date": "2026-11-26T05:21:31Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2f2d3c565523a8",
-   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm5zRmt6UVpKbW85Z080Mzh3MXFQWG9KQkNJZnlLNzNNVmZxenRZVlFsTGxoc09tT2czVkhOUFpxUTZod2h0cTF6a1ZTTHNwaGxkRnVySFBuSkYwOVhoMEZ1cVBFODVkcXAydkJGRDJTd2ZMSXZMMnNPa25FZTNYZjhUclpOMk9ud19aSUtfRVNRWVFMZHA4?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T05:21:00Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
