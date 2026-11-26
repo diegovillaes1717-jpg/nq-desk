@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T22:43:26Z",
+ "updated_at": "2026-11-26T22:48:11Z",
  "items": [
+  {
+   "id": "e3ac32f33d5234",
+   "title": "Nasdaq 100 Futures, European Tech Stocks Rise as Kospi Rebound Hopes Build",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54bU90RTUzQ213VU9ONVZVdGhsaTk3cVQyY3phM2QwTFdvTzRGck9Cd01mXzVvMnVCSEJEWXZFQk45Qm1KM0JCQVlhcGY2eTF3TzFZMQ?oc=5",
+   "source": "bloomingbit",
+   "date": "2026-11-26T22:42:41Z",
+   "score": 10,
+   "category": "Tecnológicas"
+  },
   {
    "id": "887add88324fca",
    "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
@@ -185,9 +195,9 @@
    "id": "8094311abc3ace",
    "title": "New trade war could be brewing following tariff proposal",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2MzUndyTnRMcXV6V21BU1R4UVctdnhiNGxZMEMxM2Mwc0JZMDBwN0hMQjV1bmRRSS1fRmVUNHJuSWdyZ2ZhUlZvXzVGUDAtbGd1LTlZeHh6XzlDblFpMElZU05tbk4wZDM0V2o5aHE0U1JyQ3R0T2tvMktrajNjVzhqRVlMcXN0OGxhUTZOQ2JvaUxrNXdPNlEtNllVUlFna0c0aU1TWlVmVHJ0VnZSZUV2SldLLURzMi1MMw?oc=5",
-   "source": "WBFF",
-   "date": "2026-11-26T20:57:18Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1ZYVE13MnRBZjljQWRYSHJyenBQaVo2OExaMU9uOE9nSmRhS056bWFKTlczTmY1WjVKT05kMnk5d0lEOTEwQVRqNFVqN2I4TzhFbmc0TWtVTVFOcDdnRGlhRlp1MDFuc0xWNDFKZFktOEpSTlY5ME9IaS1mb2kyU2ZrQjZCM25tTmZhVlpwcHZFWmx6QUlZd1FKVjZ6WWFFWEpoMXA1S0stLWRzd2J6WkdCT0s3eU5UTFRXUXlwaHkwME4yeHlqVGhWeDcwMkkzaDJnWVNB?oc=5",
+   "source": "KEYE",
+   "date": "2026-11-26T20:53:34Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
   },
@@ -459,6 +469,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1106,7 +1126,7 @@
    "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-11-26T15:01:40Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T14:44:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "3c27765db068aa",
-   "title": "US PCE inflation due as markets brace for December Fed hike and firmer dollar dynamics",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3pEUDFvRTdtZ0JUbFNqVXhWMVY5alpkY2VTM2gtTkVkQzRrb29FZlRrd3J6YmJoU3JrV3E0YUZEcDJieFVVRGxiYmNWWlZGUEVQaTVENVdYUVJHNHludk1NblF1SjRRNFNnd3QxSVkyZWRHLXN5S0FMRFo5RThQS1hYU0xwV2Y0OFBqZnB3c3JHWkFDMnAzd21Jbkt3RXFqTV9PdzNYWHI2R0lTc3Fqb0FPNUdyYW1UdXRFejRlZWU1UFY4UjA5ZFhhUjVhcTZK?oc=5",
-   "source": "VT Markets",
-   "date": "2026-11-26T14:35:40Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "bdb12bb48cddac",
-   "title": "Wall Street Is Suffering a $2 Trillion Huangover. Is It Time to Buy Nvidia Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXd6d0p5LWJxeHR0bUV4ZHdURVk3RWYwRi0wcnZpQnJCS3RwM1hhY0dIdE9aa1NTMTB4Y0tWN09pVXJ0ZTNpQUFweXZqSlpNaWZQNFAzR0VEV1FVaTlfOEJxdzFWWUEyaW1aWm50QWc5bFd0dnI2YTEzRXFfZVFFSXgyTjFhZVZ2djdDeXVTRUh1QXp3SmRxT1JMbjhadC00YlZYeTlvTi1XcWxqcWNIQU1BUFUtREdwZDVfRC1lQQ?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-26T14:30:03Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
