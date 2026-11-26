@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T13:17:35Z",
+ "updated_at": "2026-11-26T13:22:21Z",
  "items": [
+  {
+   "id": "3e29f22c411ec6",
+   "title": "Trump tariffs may push Fed toward rate hikes amid inflation concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzYwVnAtcnFuYXJBRk5jc2d1eVE3Q0VQMURMcUdjeUpLXzhhQWxmTkpNc0Q0MHktaU4yckJhWnBkekxkb1NScVczVzNzZUJub3dhZC10Z1IyOUd2R2Z2bWIxRTA0V2ktaVZ3bmZnS1NwbVRHXzhhaWxDZXNlcmRrOTN2ZS13UVJiVmE4Wm9tRVBsYXlMMENXWGFEN0M?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-26T13:18:18Z",
+   "score": 12,
+   "category": "Fed y tipos"
+  },
   {
    "id": "af40757c87c373",
    "title": "An Apple Executive Just Filed to Sell $19 Million of Apple Stock With Shares a Hair Below Their Record",
@@ -9,6 +19,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T12:57:55Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:54:02Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -72,13 +92,13 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "id": "ec566af9997902",
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T12:34:02Z",
-   "score": 5,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-26T12:30:57Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -332,16 +352,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "ec566af9997902",
-   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-26T11:28:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fc356a47165574",
    "title": "As AI Stocks Get Pummeled, Analyst Bucks the Trend and Buys Nvidia and Alphabet—Two Veteran Giants",
    "summary": "",
@@ -462,16 +472,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "d14d9add1f6aef",
-   "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRWtlZlM3ekxUVUE2VjFCMlNJLThaUmNMWUl0aGpLS1ZDMk1wSEMyanRvYUlILVFuai05cXFHQnN0dmJSNHUxX1l5U0VTUG14LVZ4NmNMWEk1MUpmVHlKbWx5d0plbUgxZ3dZT1dqSHllN1JwRFVUNg?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T10:53:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ffefad3b942d3c",
    "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
    "summary": "",
@@ -479,6 +479,16 @@
    "source": "KuCoin",
    "date": "2026-11-26T10:53:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "d14d9add1f6aef",
+   "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRWtlZlM3ekxUVUE2VjFCMlNJLThaUmNMWUl0aGpLS1ZDMk1wSEMyanRvYUlILVFuai05cXFHQnN0dmJSNHUxX1l5U0VTUG14LVZ4NmNMWEk1MUpmVHlKbWx5d0plbUgxZ3dZT1dqSHllN1JwRFVUNg?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T10:53:00Z",
+   "score": 6,
    "category": "Fed y tipos"
   },
   {
@@ -789,6 +799,16 @@
    "source": "bloomingbit",
    "date": "2026-11-26T09:13:40Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "b7b3041375e82b",
+   "title": "Hawkish Fed risks deeper market selloff as real yields climb, Brooks warns (US10Y:)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0drZWZ5eXg5MUdnWlMtS3hxS1BLbVdtdVpkVWFoTW0td1F4TUdkdzVYb3lnSnZvNVl4dlFCTF9OSkoxcFptYWs4cFpENTNmSkJSc1ROd2RHOF9EMmZoRFc4TTBERVFLWDRUemI2S19hTnpta1FFNnFMOFBJbmpsWm1HU0tvWkZuMmZXNmk0UkFKUmpCdlNocm43MF90ZHRPb0hzX0l0Qk5fNXh1ZWE3aA?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-26T09:12:42Z",
+   "score": 6,
    "category": "Fed y tipos"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T07:50:00Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "5416e81685f284",
-   "title": "Japan bond yields rise as BOJ rate hike bets strengthen; Tamura comments in focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTzJYTGZmbVk0M1l6VDJqbDdTRF9kellGckI1SHpkR0IwY2dORjVLT0tNVHpadHZSdEdZM2hwM3ZUN0hjOEhOVDFweUFvNkI2R3llRjJZRUxrc2VVUjczWUdVd0lka003eGg2WkRQX0pvd3NGeEJmbG5BemJLYVNRaUdpS3c5T0ZTclBZcnpXbXZraTJ4aE4tSFdYWFRDcE1nVWlYRGhVSDRXSTZOeDY1MDNEdmlnSnd5UmRhR19Va1gwVzdOcVBqSXpJcjZrdmlfc1E5YlhJcHBxNjdMOWxQaHhnYXlJckJ3enIzaThCSW03RTZJSFYwX3AxeGppcFZTaXVaN1l1X2phNU3SAYQCQVVfeXFMUDAtSDJWODllckxVUHloR3gxWXY4TktvYWJkWlh0cy1Vb21CTG12THZiWWV2a284YkVHWWFPbk5wQ01fQmI0M1cycHRHTjBaQmZIcEluRTRtc0NCNEdseFBDcHB6S3NzalNGX2dSNnZXOFdsdU5pU2lTUks3Q1JONUQ4SXhlMDhka1JOcGRjUmhqY3BFWmcyUGZOcDJxN0pDVTVvMUdqTl9VcHp2X0ZucWJjMUFyLXA1bFRWLXN0cnBsVTJVeVJOUzMydUhsTWl5b1MxbS12ZTNqWFFpLUlrOWczX25Ldk43UEszVnNBU1RIUmJ3WkF1OTJYSVpmQ1lGMFdfb2s?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-26T07:48:23Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "35cca556c17ae6",
-   "title": "Inflation remains stubbornly high - Northwest Arkansas Democrat-Gazette",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeWN5VVh5ZlNVSEZlenN4am5LNGJmclhESFhtSDBTX1Jfc2pRaFdHZU5QQjJRa2NWakpEVERHR2VxYnFFZHQyR2dYM2hNQm5NdUZZejFTbEtvS0RfLXA4TmdfTUJfTWZFWmZ0NjNfVjZtbUo5ZFVFMHNRYXdzQXVzYm11Zw?oc=5",
-   "source": "Google News",
-   "date": "2026-11-26T07:48:00Z",
-   "score": 4,
-   "category": "Macro"
   }
  ]
 }
