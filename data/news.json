@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T22:48:11Z",
+ "updated_at": "2026-11-26T22:52:57Z",
  "items": [
   {
    "id": "e3ac32f33d5234",
@@ -95,9 +95,9 @@
    "id": "f5896dc1a357be",
    "title": "Nate Silver predicts Trump ‘absolutely’ could be impeached over Nvidia’s China chip sales",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdDb25hLTZMd1VieS1Fa25JYVgwQU95eHh3c19TclQtUmxIRE9YRWczbzVfY2pxTE1MVXNYTmsyeUV6LXZEZmRkdmZWNGFTd0hXY2RCSU91TVU0dDA5Slc5X1lwbEhQLUtyRUJBXzExNWU5aW01endXS0tqc3RVQjg5SnZjNFBNempRRzN1dzVvd1UwVkFPdUU0YURGQQ?oc=5",
-   "source": "Yahoo",
-   "date": "2026-11-26T21:51:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUEyOVFtYkFUMXBYQmtNbnVaOVJERGxZWmVFM202b2luUmNiRlRHck5vQm9nTXNCM1YtRG9NelJtVXZwd2dHaVJIdno0QlB0N2xaZFE0TDZESllxd0MxTjhKc0hrZ1hsLUd2cFFib2RVeFBibXV6eHVuamtReXdZNWF2TjlqTE5sTzctTEktVHNnLXRoamVwQUhFYUxvVmcwUmh2VklPd3pMTTYxX2VUOEd5bTFiZEdzRkE?oc=5",
+   "source": "The Independent",
+   "date": "2026-11-26T21:51:00Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -872,6 +872,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "fb46471f8f8e68",
+   "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHU2RFNjQk1ablhVU1NGdWZxNUItMGxNMURqb2tpSFpNQ2FfejBXa2c4V0U1bnFmZzQyTTc4d1NudlF5WG4wRnhBTm5fZjI0UjRxcDd6NG9wZ1NIUl9HQmpzTG5NUmF2akQwbmpjaXRVdXlweURNbmFrUUNkczVzVkl6S2xZX1NjZzlLOUVURFhISDRCd3pQRFFn?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T16:30:03Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d9f61d8bab0255",
    "title": "Gold’s rebound shows markets fear recession and doubt Fed rate follow-through – StoneX’s Stanley",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T14:47:00Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "b3208d6e5b004d",
-   "title": "Stocks’ Swoon and Higher Interest Rates Are a Bad Combo for the Economy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGZZSW5hcF9tVkRJTG1lVk8ta3Y0VjJEQ1VkeDJ6M19XcC1KSnVNbGtXWlhVX1pscG1KNWY2MHFXLXIwUFFLdTdXb09kUGFmUFQ3VkxTZlEzRmZGWmhzSTVOMzA2dVFaSW1xeE1BRloyYkQ3R2RlYURsOVBRMFN3eA?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-26T14:44:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
