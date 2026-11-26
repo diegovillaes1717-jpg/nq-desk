@@ -1,112 +1,112 @@
 {
- "edition_key": "2026-11-26-manana",
- "edition": "manana",
- "edition_name": "Edición de mañana",
- "generated_at": "2026-11-26T06:03:11Z",
+ "edition_key": "2026-11-26-preapertura",
+ "edition": "preapertura",
+ "edition_name": "Previa de la apertura de Nueva York",
+ "generated_at": "2026-11-26T14:09:54Z",
  "ai": true,
- "model": "gemini-3.6-flash",
+ "model": "gemini-3.5-flash-lite",
  "content": {
-  "titular": "El NQ rebota tras rozar terreno de corrección ante el PCE y la debilidad del sector tecnológico",
+  "titular": "El Nasdaq 100 rebota un 0,73% previo a la apertura mientras los inversores buscan gangas tras las caídas",
   "en_pocas_palabras": [
-   "Las grandes empresas tecnológicas han sufrido caídas por dudas sobre la rentabilidad de sus inversiones en Inteligencia Artificial y la debilidad de valores clave como Nvidia.",
-   "A esto se suma que la inflación del PCE (el índice de Gastos de Consumo Personal, el indicador de precios preferido por la Reserva Federal para medir la inflación) subió al 3,8%, lo que aviva el temor a que los tipos de interés se mantengan altos o vuelvan a subir.",
-   "Además, la amenaza de nuevos aranceles comerciales por parte de Donald Trump está generando nerviosismo sobre el crecimiento económico global.",
-   "Como resultado, el futuros del Nasdaq 100 ha experimentado fuertes oscilaciones tras rozar terreno de mercado bajista, aunque intenta estabilizarse con un rebote moderado.",
-   "Hoy es día festivo en Estados Unidos por Acción de Gracias, por lo que se espera un volumen de negociación muy reducido y menor liquidez."
+   "Las bolsas globales y los futuros del Nasdaq suben hoy porque muchos inversores están comprando tras las fuertes caídas recientes.",
+   "La economía de Estados Unidos creció mucho más de lo esperado en el tercer trimestre, lo que demuestra que va fuerte.",
+   "Sin embargo, una inflación alta en octubre y los nuevos aranceles de la Casa Blanca preocupan porque podrían hacer que los tipos de interés suban.",
+   "Los tipos de interés son el coste del dinero; si suben, suele ser negativo para las empresas tecnológicas del Nasdaq.",
+   "Por ahora, el mercado ignora parte de ese miedo y los futuros se mueven en verde antes de abrir Nueva York."
   ],
-  "resumen": "El futuro del Nasdaq 100 intenta consolidar un rebote del 0,94% hasta los 26.346 puntos tras sufrir ventas acusadas en valores como Nvidia (-3,91%). El repunte del PCE al 3,8% y las amenazas arancelarias refuerzan la expectativa de una Reserva Federal más dura. La sesión estará marcada por la falta de volumen debido al festivo bancario en EE. UU.",
+  "resumen": "Los futuros del Nasdaq 100 suben un 0,73% hasta los 26.291,5 puntos gracias a un rebote técnico y a la caza de gangas tras las últimas caídas tecnológicas. No obstante, persisten los temores por una inflación acelerada y unos aranceles de Trump que podrían forzar a la Fed a subir los tipos.",
   "tono": "Mixto",
-  "tono_motivo": "El futuro del NQ sube un 0,94% buscando estabilizarse, pero persiste la presión por la alta inflación del PCE, la vigilancia crediticia a Nvidia y los aranceles.",
+  "tono_motivo": "Rebote de los futuros por compra de gangas y PIB fuerte, contrarrestado por la presión de la inflación y los aranceles sobre la Fed.",
   "claves": [
    {
-    "titulo": "La inflación PCE se acelera al 3,8% y aviva temores de subidas de tipos",
-    "detalle": "El indicador subyacente del PCE se situó en el 3,3%, aumentando la probabilidad de que la Reserva Federal efectúe nuevos incrementos de tipos en sus próximas reuniones.",
+    "titulo": "Rebote técnico y caza de gangas",
+    "detalle": "Los futuros del Nasdaq 100 suben un 0,73% mientras los inversores aprovechan para comprar tras el reciente castigo en el sector tecnológico.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzl1SGlQRHBUTTFKZHdSNkF6SmthbjNhZFhXZWs0azBJM1BZWXFGMk1yeW93WHZDTE9HTzQ0eWZUYkU1eTByUm9QLTRjalM3MEtsZl9PN2lVZGtjLVBZRTQ4WFYyNk1oaHZIaDhwWkhYWnBYT0tmdXRLVW93RjFjUkFRMkZiVzNybEdLUDM3Z2pMWGJHNWJ4aVVSSXJCUXZ1ekNwakd6a3F5QWpZNGN3dU1lTlI1dk0wdF90U1RRdXRKWXVYN3d6MU0ybGY2ZE5pRVBQbU4wOGF3QXdnVEtiREs5Rjk2dmdm?oc=5"
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
      },
      {
-      "title": "Kotak Neo",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTJQeWhhXzNOWVUwSjE4Q1VRR05lcGVyd3NRcW1idWdIWlU0SXh3ajJaNTJ1dndSdW5pZ3ZMLWVjWDB0U01TNnZWQVhnV1VCUzlGaTFyXzVoUThBLWJkVC1zQW1Gb0FTM1JWSTFYcHNfNGRfd2NZWGRMcDBrUDUzdEJOUTN1Ym4yb3lIYkZKaU80SzBGOE5OVHZfdExVcS1KNnN4UlhLYjBuRDVXUWhPV1hmZnFpQjUtR1JrRm5QdndCUTZNcm1jTnhxejh3dnNrQWp0d0VPekNCMU0wTVpTVGR5YUc?oc=5"
-     },
-     {
-      "title": "Businesskorea",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5"
+      "title": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5"
      }
     ]
    },
    {
-    "titulo": "Nvidia cae un 3,91% y S&P la coloca en vigilancia crediticia negativa",
-    "detalle": "El gigante de los chips encabezó los retrocesos del sector tecnológico entre dudas sobre la sostenibilidad del gasto en Inteligencia Artificial y rebajas en su perspectiva crediticia.",
+    "titulo": "Crecimiento del PIB al 4,3%",
+    "detalle": "El PIB del tercer trimestre en EE. UU. fue revisado al alza hasta el 4,3%, mostrando una economía muy sólida pero avivando presiones inflacionistas.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBDbmZ4aHhKY0RoakZyT2RNaXRzanp2VElveDB2dUw0QXdTQW5qOGpiRldic183ZVQ1YTQwX0lnWmh6OXZmWGdTaEViUWJJUXlWa2RTYllMRmdvZnh2amN6TlRMalBqVkNZNDFZeEdoVWpyUUZBcXJrbDNqaFdGalQzR1F2TlA2RkZkRXlWcGY5ekFMaHNCVkdEdw?oc=5"
+      "title": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
      },
      {
-      "title": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q0x1V3Axd1R5SXcwNnBiaUZEaHJIRVBwbHpRdTh2d0JTLTJlb0JmVy04VVZycnJtbERmWERGYlM3T1dZbXRhaDdEZ0t2YUN3eTZkdEJpdkhYLWdkNElFQ2JjT2FseHRQOFFkUTltazBjUXVkZlE?oc=5"
-     },
-     {
-      "title": "KQ2",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXdRRE1SWGhNQUlVSXpFYjNmU0NDOWI4NmNjdHJUOGpMUFd2a1o2TlNZVncyN1cwVTFyeUdpTEtWMDg4QkdydDJzeS1wZUduUHowRWdHTjBMUV9sZW4xVE9OLVFjUk42Q3dhNGdqeFVySFRWZFhFbWhXQWU4SUI2YURFcGpJMmVOWE0wb1RJaUR2YkFVZWNWZVBrZTlmVHM0WnVWM2xVOWZ1VTN3a2t1aDdhdFpZT1RfN05EaXVKNUs?oc=5"
+      "title": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcU5WaEJ5c0JpdzVicVRORVZpMHBnbjdoYlIzdFROcDlVUWJoaWRlTjFpdWpJS25ZYVk2dktEb3F3WmQ5aDcwQ2ZVeFNoTDQtQl9tZTN5b3JVUEpaQWxWeVZ3eG5RdDRaeTBoQTRyc3FjWW5jd3p6LVlNWDgzMkZWQzRqbkNRZFBrT1NoQlRQTjhvWTVEYW90c1ZIdWYxeWlhdVFDQUNyQ3ktNFBZSWMxWWVYUFZZNE1vc0NSN2pHRUpqd3Faa252ampQSTRXWFZTLVpRMG4xRHMzS2Z4UkdMWlRYVk1CNW4xVWdqLVhfUWdnUkpwNUE?oc=5"
      }
     ]
    },
    {
-    "titulo": "Amenaza de aranceles de Trump a 16 socios comerciales",
-    "detalle": "Las propuestas arancelarias impulsadas por la administración entrante continúan agitando el mercado por su impacto alcista en la inflación y en los costes corporativos.",
-    "impacto": "Medio",
+    "titulo": "Inflación alta y riesgo de tipos",
+    "detalle": "La inflación de octubre y el indicador preferido de la Fed en máximos de tres años aumentan las apuestas de que el banco central suba los tipos.",
+    "impacto": "Alto",
     "links": [
      {
-      "title": "www.equiti.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3RQTHA1azE5Uk1LWmJtYnpmRlQ0eEJEWnBsS1lYazl2THRsSFdtTVJtT2tGWER6VElya1JFRVhtc0JfZUZhY2VhMUNYaXllTDFEd1gtdkFLWU93X2pqTVM1Wi1BWEltdlY4N1M0ZEoxYzBuTmgtaWp5c3FVZEhnRGM1dEJiNmdLcU9lYjYwRVR2TWpLTFUwQWpZRUp0elJD?oc=5"
+      "title": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
      },
      {
-      "title": "CPG Click Oil and Gas",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ0U5Y2RoY1J4UzRtQVRNdUxKZXVheFgzS0dGRTZ6LVJ2ZXpDV2xBdld0R3RyaVJ4UVZHYm1BdlcwamgzemhfZ29qSlg0SHVOSkRZbGlyY29PdHB5YmtkaVJWSjdrTTFzOUZsdkNCTEpGVDhOWHlUeDdxcnFfcTVTams0dGxzRVcwX0NJWVhod1g3YXItbFk1RUZnYmpCbUE2TnFZd2pQSThTWjZOTFRlemVGNmJ2M1lUZ01FVUFTaEdXNGRZODB6ajNUdFNZOGFydWVwQTJRc2xqamJPVGZ0TVpBcEthZlpxN3Z5QUVTU0NXMVIxcFlwTm04Zmp1NngwcTJnMW13bw?oc=5"
+      "title": "Capital FM Africa",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFR1Ri1yRjNXUFhQVHBMWTFIU0FGQ0NMQ1I2bkFXUldmbW82Yl9zV3pGM0hrYTFVUnlucUQxWkhfWS1CQXNiMUtpRlBRelBQS1FRLVpMOFNqaEEtTVRGa3NTUmttTFVsR2FnWmVUTXVRdjBTRHZyZ25rdVo3WXQ3RzNOQmxPVDNiUjJrYTlSWXRrZw?oc=5"
      },
      {
-      "title": "Forex Factory",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0dSMWpGcEQ3SjRqa2ZaLU1sWTVLX3BIWFU1cnc0Z3RCRXNjQXdETS05NGRUd3ZKcGdNRHBUZHYwTmJPTmpodk1NY2lDZ0tMblFldUt6UkR2clZocEZJcnN0QmVId1RUYmluRjFWTmlVNVpGTVE4amlCRExsMzFzM0tQNlBzNUhCQ0xkTmJIONIBlAFBVV95cUxQUk5nbV9QQ1hLWV9wUVgzVlczX3BsUVBJRnMxT0F1NS1DOTJ5UWMtd2JjaUM2c29ZMnFGX1ktdXhFcGlmdEVEUXlTZTluclpvVGsxVjlXeko3bHlxX21YT1dmcnpvdjhYUUNvQ1VVWWVZRkJWRlN3eG92N0wyd19vMVhZdi1kel94QnpWSGdPaGdrTjRU?oc=5"
+      "title": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5"
      }
     ]
    },
    {
-    "titulo": "Michael Burry cierra sus posiciones cortas sobre el Nasdaq",
-    "detalle": "El famoso inversor eliminó sus opciones de venta (puts) sobre el índice Nasdaq y mantiene una postura mayoritariamente alcista con liquidez a la espera de niveles clave.",
+    "titulo": "Nuevos aranceles de Trump",
+    "detalle": "La Casa Blanca ha anunciado aranceles contra más de una decena de socios comerciales, generando incertidumbre inflacionaria.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hdXd2X3FrM3V1empuby1wY0hmMEpKcWZWQ0pXWkVXR2FISlVvQi1BV0todDZqTGdYU25RWXJEcW9qdlBlN24zazdxRFR1Z1dJTFVINFQ1bnNFTVNBU1lrRUhyVnQtNFVESzhtVkgwcmt2aWQtWlE?oc=5"
+      "title": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVItckt2bWxpckNqWGxHZE1vXzZWNGFUUlNBX1p3R0ZqMThJdmwxa3RNOGIyaURDY19adEpyY056LUVGTjRwMU5tS2NHb3MzZXpYNWlFYTZVNzY2cVRBVjFvalMzd2FNVWVwYTJWSUxuOGFMdnltV0gxYTk3TWdiY0I5cUUzMXJNSFBrZWVFVDc4X0xmSVpQVTBEa084VHNyYUhralRQa3NYeVBOQU1VcWZHMnNFSFl5OFRaZFBWX3lLTEZLa0xkMnQ3R29PRGVNNDZhRFVkdUtsZVJJbWpYNzNlS0d1aWVBWVVURDNvckRIQjAwd0NITHA4VEFnamZGcXI3Q2tZdw?oc=5"
+     },
+     {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+     },
+     {
+      "title": "BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5"
      }
     ]
    }
   ],
   "secciones": [
    {
-    "nombre": "Fed y tipos",
+    "nombre": "Macro",
     "puntos": [
      {
-      "texto": "El dato de PCE de octubre impulsa las apuestas del mercado a favor de una política monetaria más estricta por parte del FOMC. Bank of America contempla hasta tres subidas adicionales de tipos hacia 2027.",
+      "texto": "El PIB del tercer trimestre repuntó con fuerza hasta el 4,3%, mientras la inflación de octubre y el deflactor del PCE suben, complicando el panorama de la Fed.",
       "links": [
        {
-        "title": "36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5"
+        "title": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJWQmJoVFllRFZNcXBackNPcFA3dWl5VUlIN1RWZ0F1empBRnpRWDZXbmd4eUU4QVY4Q1RhWGEyQ2dEX0VUV0xzQ3U3U2F6cTRJdVBoQkZJX3JPVG1scFR5ZHVlQW9yQk44VVFwTHduVldubi05QUp5VzRDVVg2UUlqVHdwSXdxQ1JPaXk4Vk5idTlkTVBWZ1NuOWlfYzd1N0tGWTlUYkgtRS1qc0pBMkNwSzQybDRxb3NERXVFNVBxb08ydEFXQVdzc1F0TGNjWkdHX0VQSzA?oc=5"
        },
        {
-        "title": "NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzl1SGlQRHBUTTFKZHdSNkF6SmthbjNhZFhXZWs0azBJM1BZWXFGMk1yeW93WHZDTE9HTzQ0eWZUYkU1eTByUm9QLTRjalM3MEtsZl9PN2lVZGtjLVBZRTQ4WFYyNk1oaHZIaDhwWkhYWnBYT0tmdXRLVW93RjFjUkFRMkZiVzNybEdLUDM3Z2pMWGJHNWJ4aVVSSXJCUXZ1ekNwakd6a3F5QWpZNGN3dU1lTlI1dk0wdF90U1RRdXRKWXVYN3d6MU0ybGY2ZE5pRVBQbU4wOGF3QXdnVEtiREs5Rjk2dmdm?oc=5"
-       },
-       {
-        "title": "Businesskorea",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5"
+        "title": "AzerNews",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BM0V6STdiUGQzdkZZeVhMa3g4Y056REVjQnBDZkRlUGpTemFKeURNUmMxWW4ydnlTWGRFeVhrdkpXQmNKNEZ3ajY5M1FhSDJhLWg3LQ?oc=5"
        }
       ]
+     },
+     {
+      "texto": "El bono estadounidense a 10 años (US10Y) baja 5,6 puntos básicos hasta el 4,848% en la jornada.",
+      "links": []
      }
     ]
    },
@@ -114,26 +114,120 @@
     "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "Jornada de notables caídas en pesados del NQ como Nvidia (-3,91%), Amazon (-3,12%) y Alphabet (-2,13%), propiciando una rotación hacia valores de otros índices como el Dow Jones.",
+      "texto": "El Nasdaq 100 se acerca peligrosamente a una zona de mercado bajista tras las recientes ventas masivas en valores de inteligencia artificial.",
       "links": [
+       {
+        "title": "Sky News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5"
+       },
+       {
+        "title": "Sky News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Entre los pesos pesados del índice en la sesión destacan las caídas de NVDA (-3,91%), AMZN (-3,12%) y GOOGL (-2.13%), frente a las subidas de META (3,4%).",
+      "links": []
+     }
+    ]
+   },
+   {
+    "nombre": "Trump",
+    "puntos": [
+     {
+      "texto": "Donald Trump celebró en redes sociales la fuerte revisión al alza del PIB estadounidense hasta el 4,3%.",
+      "links": []
+     },
+     {
+      "texto": "Los nuevos aranceles dirigidos a más de una decena de socios comerciales generan dudas sobre el impacto en los precios y el comercio global.",
+      "links": [
+       {
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+       },
+       {
+        "title": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "agenda": [],
+  "riesgos": [
+   "Una subida de tipos de la Fed impulsada por datos de inflación más calientes de lo previsto.",
+   "Que los nuevos aranceles de Trump desaten represalias comerciales o sigan tensionando las cadenas de suministro.",
+   "Mayor volatilidad y presión bajista en los gigantes tecnológicos si el sector de inteligencia artificial sigue sufriendo correcciones."
+  ]
+ },
+ "archive": [
+  {
+   "edition_key": "2026-11-26-manana",
+   "edition": "manana",
+   "edition_name": "Edición de mañana",
+   "generated_at": "2026-11-26T06:03:11Z",
+   "content": {
+    "titular": "El NQ rebota tras rozar terreno de corrección ante el PCE y la debilidad del sector tecnológico",
+    "en_pocas_palabras": [
+     "Las grandes empresas tecnológicas han sufrido caídas por dudas sobre la rentabilidad de sus inversiones en Inteligencia Artificial y la debilidad de valores clave como Nvidia.",
+     "A esto se suma que la inflación del PCE (el índice de Gastos de Consumo Personal, el indicador de precios preferido por la Reserva Federal para medir la inflación) subió al 3,8%, lo que aviva el temor a que los tipos de interés se mantengan altos o vuelvan a subir.",
+     "Además, la amenaza de nuevos aranceles comerciales por parte de Donald Trump está generando nerviosismo sobre el crecimiento económico global.",
+     "Como resultado, el futuros del Nasdaq 100 ha experimentado fuertes oscilaciones tras rozar terreno de mercado bajista, aunque intenta estabilizarse con un rebote moderado.",
+     "Hoy es día festivo en Estados Unidos por Acción de Gracias, por lo que se espera un volumen de negociación muy reducido y menor liquidez."
+    ],
+    "resumen": "El futuro del Nasdaq 100 intenta consolidar un rebote del 0,94% hasta los 26.346 puntos tras sufrir ventas acusadas en valores como Nvidia (-3,91%). El repunte del PCE al 3,8% y las amenazas arancelarias refuerzan la expectativa de una Reserva Federal más dura. La sesión estará marcada por la falta de volumen debido al festivo bancario en EE. UU.",
+    "tono": "Mixto",
+    "tono_motivo": "El futuro del NQ sube un 0,94% buscando estabilizarse, pero persiste la presión por la alta inflación del PCE, la vigilancia crediticia a Nvidia y los aranceles.",
+    "claves": [
+     {
+      "titulo": "La inflación PCE se acelera al 3,8% y aviva temores de subidas de tipos",
+      "detalle": "El indicador subyacente del PCE se situó en el 3,3%, aumentando la probabilidad de que la Reserva Federal efectúe nuevos incrementos de tipos en sus próximas reuniones.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzl1SGlQRHBUTTFKZHdSNkF6SmthbjNhZFhXZWs0azBJM1BZWXFGMk1yeW93WHZDTE9HTzQ0eWZUYkU1eTByUm9QLTRjalM3MEtsZl9PN2lVZGtjLVBZRTQ4WFYyNk1oaHZIaDhwWkhYWnBYT0tmdXRLVW93RjFjUkFRMkZiVzNybEdLUDM3Z2pMWGJHNWJ4aVVSSXJCUXZ1ekNwakd6a3F5QWpZNGN3dU1lTlI1dk0wdF90U1RRdXRKWXVYN3d6MU0ybGY2ZE5pRVBQbU4wOGF3QXdnVEtiREs5Rjk2dmdm?oc=5"
+       },
+       {
+        "title": "Kotak Neo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTJQeWhhXzNOWVUwSjE4Q1VRR05lcGVyd3NRcW1idWdIWlU0SXh3ajJaNTJ1dndSdW5pZ3ZMLWVjWDB0U01TNnZWQVhnV1VCUzlGaTFyXzVoUThBLWJkVC1zQW1Gb0FTM1JWSTFYcHNfNGRfd2NZWGRMcDBrUDUzdEJOUTN1Ym4yb3lIYkZKaU80SzBGOE5OVHZfdExVcS1KNnN4UlhLYjBuRDVXUWhPV1hmZnFpQjUtR1JrRm5QdndCUTZNcm1jTnhxejh3dnNrQWp0d0VPekNCMU0wTVpTVGR5YUc?oc=5"
+       },
+       {
+        "title": "Businesskorea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Nvidia cae un 3,91% y S&P la coloca en vigilancia crediticia negativa",
+      "detalle": "El gigante de los chips encabezó los retrocesos del sector tecnológico entre dudas sobre la sostenibilidad del gasto en Inteligencia Artificial y rebajas en su perspectiva crediticia.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "KuCoin",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBDbmZ4aHhKY0RoakZyT2RNaXRzanp2VElveDB2dUw0QXdTQW5qOGpiRldic183ZVQ1YTQwX0lnWmh6OXZmWGdTaEViUWJJUXlWa2RTYllMRmdvZnh2amN6TlRMalBqVkNZNDFZeEdoVWpyUUZBcXJrbDNqaFdGalQzR1F2TlA2RkZkRXlWcGY5ekFMaHNCVkdEdw?oc=5"
+       },
        {
         "title": "BigGo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q0x1V3Axd1R5SXcwNnBiaUZEaHJIRVBwbHpRdTh2d0JTLTJlb0JmVy04VVZycnJtbERmWERGYlM3T1dZbXRhaDdEZ0t2YUN3eTZkdEJpdkhYLWdkNElFQ2JjT2FseHRQOFFkUTltazBjUXVkZlE?oc=5"
        },
        {
-        "title": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNXVURlpVaDFBQWdnZ1ZRQTd4eUliRndTRldELWd2cXY4dDJMZ2lXNHprNWZDcU9sbVpGaXpFZXpIWjEwYmhjZzR6aW1vOXV4MmlHU3VYZWRLaG1HRVljaW4zYmRnTVQwVjU1bGdCWmwtSlUzUm5kcHNsMFZIcTM1VnFJNTNjbmxHb2h5dGcwdjYzMEUwb1NLMDhObTktN1lmY0x4U3hLcWpUM2RYTlU2X2R1ZG41VkdYdFpiUV9SbXFkNHdaaXhmX3cyMkpXMjllVjdNZGE0RzFiek5aWUNxVkFqeXJsamRlR3FjbFQ3VWtybzBOY2QxZUVDM1RES1ZRcl9V?oc=5"
+        "title": "KQ2",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXdRRE1SWGhNQUlVSXpFYjNmU0NDOWI4NmNjdHJUOGpMUFd2a1o2TlNZVncyN1cwVTFyeUdpTEtWMDg4QkdydDJzeS1wZUduUHowRWdHTjBMUV9sZW4xVE9OLVFjUk42Q3dhNGdqeFVySFRWZFhFbWhXQWU4SUI2YURFcGpJMmVOWE0wb1RJaUR2YkFVZWNWZVBrZTlmVHM0WnVWM2xVOWZ1VTN3a2t1aDdhdFpZT1RfN05EaXVKNUs?oc=5"
        }
       ]
-     }
-    ]
-   },
-   {
-    "nombre": "Geopolítica y aranceles",
-    "puntos": [
+     },
      {
-      "texto": "La retórica sobre aranceles generales a 16 países socios empaña las previsiones sobre los flujos comerciales y el crecimiento económico global.",
+      "titulo": "Amenaza de aranceles de Trump a 16 socios comerciales",
+      "detalle": "Las propuestas arancelarias impulsadas por la administración entrante continúan agitando el mercado por su impacto alcista en la inflación y en los costes corporativos.",
+      "impacto": "Medio",
       "links": [
+       {
+        "title": "www.equiti.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3RQTHA1azE5Uk1LWmJtYnpmRlQ0eEJEWnBsS1lYazl2THRsSFdtTVJtT2tGWER6VElya1JFRVhtc0JfZUZhY2VhMUNYaXllTDFEd1gtdkFLWU93X2pqTVM1Wi1BWEltdlY4N1M0ZEoxYzBuTmgtaWp5c3FVZEhnRGM1dEJiNmdLcU9lYjYwRVR2TWpLTFUwQWpZRUp0elJD?oc=5"
+       },
        {
         "title": "CPG Click Oil and Gas",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ0U5Y2RoY1J4UzRtQVRNdUxKZXVheFgzS0dGRTZ6LVJ2ZXpDV2xBdld0R3RyaVJ4UVZHYm1BdlcwamgzemhfZ29qSlg0SHVOSkRZbGlyY29PdHB5YmtkaVJWSjdrTTFzOUZsdkNCTEpGVDhOWHlUeDdxcnFfcTVTams0dGxzRVcwX0NJWVhod1g3YXItbFk1RUZnYmpCbUE2TnFZd2pQSThTWjZOTFRlemVGNmJ2M1lUZ01FVUFTaEdXNGRZODB6ajNUdFNZOGFydWVwQTJRc2xqamJPVGZ0TVpBcEthZlpxN3Z5QUVTU0NXMVIxcFlwTm04Zmp1NngwcTJnMW13bw?oc=5"
@@ -141,30 +235,99 @@
        {
         "title": "Forex Factory",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0dSMWpGcEQ3SjRqa2ZaLU1sWTVLX3BIWFU1cnc0Z3RCRXNjQXdETS05NGRUd3ZKcGdNRHBUZHYwTmJPTmpodk1NY2lDZ0tMblFldUt6UkR2clZocEZJcnN0QmVId1RUYmluRjFWTmlVNVpGTVE4amlCRExsMzFzM0tQNlBzNUhCQ0xkTmJIONIBlAFBVV95cUxQUk5nbV9QQ1hLWV9wUVgzVlczX3BsUVBJRnMxT0F1NS1DOTJ5UWMtd2JjaUM2c29ZMnFGX1ktdXhFcGlmdEVEUXlTZTluclpvVGsxVjlXeko3bHlxX21YT1dmcnpvdjhYUUNvQ1VVWWVZRkJWRlN3eG92N0wyd19vMVhZdi1kel94QnpWSGdPaGdrTjRU?oc=5"
-       },
+       }
+      ]
+     },
+     {
+      "titulo": "Michael Burry cierra sus posiciones cortas sobre el Nasdaq",
+      "detalle": "El famoso inversor eliminó sus opciones de venta (puts) sobre el índice Nasdaq y mantiene una postura mayoritariamente alcista con liquidez a la espera de niveles clave.",
+      "impacto": "Medio",
+      "links": [
        {
-        "title": "KONTAN",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3BVcjQxYm9TUzVtODVtTVRsa2dfUWhlZ2JfOU15VWR1R1BETndBVXhmY0w3UllkMTJwN3hXSjdzM2hWWmpaYmFIVjRSQVVGMUt2R3BZOWZsY3FBT1J3ZHJtWXNxZndmS1JEVFJmdTF1ZEZ3UXRYVDhfck1HcWxzMDNFTGNSQnJWZEdnR1ctQ1E5M3VZeFVTOGs1SEFHUWIzNU5v0gGeAUFVX3lxTE0tRWtnMERzaG1lZm5FLXdIWEo1ejNmZlVlWmFvajNQVGRJUERzUWx2S1ZqU2JfOWNZNGV3ZHctcGZFUjBmTGctelUtd2NvVV9sbmtXSERFTkxES1lLNFRUUWduVm5PV0lGTk5qSzRuYjBVYkNsa3RrRmxBSC1TNFQ4UWtlMjc2ZF9peGltUmhFT05HcUdvMWRoMUotOVRB?oc=5"
+        "title": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hdXd2X3FrM3V1empuby1wY0hmMEpKcWZWQ0pXWkVXR2FISlVvQi1BV0todDZqTGdYU25RWXJEcW9qdlBlN24zazdxRFR1Z1dJTFVINFQ1bnNFTVNBU1lrRUhyVnQtNFVESzhtVkgwcmt2aWQtWlE?oc=5"
        }
       ]
      }
+    ],
+    "secciones": [
+     {
+      "nombre": "Fed y tipos",
+      "puntos": [
+       {
+        "texto": "El dato de PCE de octubre impulsa las apuestas del mercado a favor de una política monetaria más estricta por parte del FOMC. Bank of America contempla hasta tres subidas adicionales de tipos hacia 2027.",
+        "links": [
+         {
+          "title": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5"
+         },
+         {
+          "title": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzl1SGlQRHBUTTFKZHdSNkF6SmthbjNhZFhXZWs0azBJM1BZWXFGMk1yeW93WHZDTE9HTzQ0eWZUYkU1eTByUm9QLTRjalM3MEtsZl9PN2lVZGtjLVBZRTQ4WFYyNk1oaHZIaDhwWkhYWnBYT0tmdXRLVW93RjFjUkFRMkZiVzNybEdLUDM3Z2pMWGJHNWJ4aVVSSXJCUXZ1ekNwakd6a3F5QWpZNGN3dU1lTlI1dk0wdF90U1RRdXRKWXVYN3d6MU0ybGY2ZE5pRVBQbU4wOGF3QXdnVEtiREs5Rjk2dmdm?oc=5"
+         },
+         {
+          "title": "Businesskorea",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Tecnológicas",
+      "puntos": [
+       {
+        "texto": "Jornada de notables caídas en pesados del NQ como Nvidia (-3,91%), Amazon (-3,12%) y Alphabet (-2,13%), propiciando una rotación hacia valores de otros índices como el Dow Jones.",
+        "links": [
+         {
+          "title": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q0x1V3Axd1R5SXcwNnBiaUZEaHJIRVBwbHpRdTh2d0JTLTJlb0JmVy04VVZycnJtbERmWERGYlM3T1dZbXRhaDdEZ0t2YUN3eTZkdEJpdkhYLWdkNElFQ2JjT2FseHRQOFFkUTltazBjUXVkZlE?oc=5"
+         },
+         {
+          "title": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNXVURlpVaDFBQWdnZ1ZRQTd4eUliRndTRldELWd2cXY4dDJMZ2lXNHprNWZDcU9sbVpGaXpFZXpIWjEwYmhjZzR6aW1vOXV4MmlHU3VYZWRLaG1HRVljaW4zYmRnTVQwVjU1bGdCWmwtSlUzUm5kcHNsMFZIcTM1VnFJNTNjbmxHb2h5dGcwdjYzMEUwb1NLMDhObTktN1lmY0x4U3hLcWpUM2RYTlU2X2R1ZG41VkdYdFpiUV9SbXFkNHdaaXhmX3cyMkpXMjllVjdNZGE0RzFiek5aWUNxVkFqeXJsamRlR3FjbFQ3VWtybzBOY2QxZUVDM1RES1ZRcl9V?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Geopolítica y aranceles",
+      "puntos": [
+       {
+        "texto": "La retórica sobre aranceles generales a 16 países socios empaña las previsiones sobre los flujos comerciales y el crecimiento económico global.",
+        "links": [
+         {
+          "title": "CPG Click Oil and Gas",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ0U5Y2RoY1J4UzRtQVRNdUxKZXVheFgzS0dGRTZ6LVJ2ZXpDV2xBdld0R3RyaVJ4UVZHYm1BdlcwamgzemhfZ29qSlg0SHVOSkRZbGlyY29PdHB5YmtkaVJWSjdrTTFzOUZsdkNCTEpGVDhOWHlUeDdxcnFfcTVTams0dGxzRVcwX0NJWVhod1g3YXItbFk1RUZnYmpCbUE2TnFZd2pQSThTWjZOTFRlemVGNmJ2M1lUZ01FVUFTaEdXNGRZODB6ajNUdFNZOGFydWVwQTJRc2xqamJPVGZ0TVpBcEthZlpxN3Z5QUVTU0NXMVIxcFlwTm04Zmp1NngwcTJnMW13bw?oc=5"
+         },
+         {
+          "title": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0dSMWpGcEQ3SjRqa2ZaLU1sWTVLX3BIWFU1cnc0Z3RCRXNjQXdETS05NGRUd3ZKcGdNRHBUZHYwTmJPTmpodk1NY2lDZ0tMblFldUt6UkR2clZocEZJcnN0QmVId1RUYmluRjFWTmlVNVpGTVE4amlCRExsMzFzM0tQNlBzNUhCQ0xkTmJIONIBlAFBVV95cUxQUk5nbV9QQ1hLWV9wUVgzVlczX3BsUVBJRnMxT0F1NS1DOTJ5UWMtd2JjaUM2c29ZMnFGX1ktdXhFcGlmdEVEUXlTZTluclpvVGsxVjlXeko3bHlxX21YT1dmcnpvdjhYUUNvQ1VVWWVZRkJWRlN3eG92N0wyd19vMVhZdi1kel94QnpWSGdPaGdrTjRU?oc=5"
+         },
+         {
+          "title": "KONTAN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3BVcjQxYm9TUzVtODVtTVRsa2dfUWhlZ2JfOU15VWR1R1BETndBVXhmY0w3UllkMTJwN3hXSjdzM2hWWmpaYmFIVjRSQVVGMUt2R3BZOWZsY3FBT1J3ZHJtWXNxZndmS1JEVFJmdTF1ZEZ3UXRYVDhfck1HcWxzMDNFTGNSQnJWZEdnR1ctQ1E5M3VZeFVTOGs1SEFHUWIzNU5v0gGeAUFVX3lxTE0tRWtnMERzaG1lZm5FLXdIWEo1ejNmZlVlWmFvajNQVGRJUERzUWx2S1ZqU2JfOWNZNGV3ZHctcGZFUjBmTGctelUtd2NvVV9sbmtXSERFTkxES1lLNFRUUWduVm5PV0lGTk5qSzRuYjBVYkNsa3RrRmxBSC1TNFQ4UWtlMjc2ZF9peGltUmhFT05HcUdvMWRoMUotOVRB?oc=5"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "agenda": [
+     {
+      "hora": "Thu 26 14:00",
+      "evento": "Festivo bancario en EE. UU. (Día de Acción de Gracias)",
+      "por_que_importa": "Implica el cierre de los mercados al contado en EE. UU. y un menor volumen de operaciones en los futuros del NQ durante la tarde."
+     }
+    ],
+    "riesgos": [
+     "Baja liquidez y volatilidad errática motivadas por el festivo bancario de Acción de Gracias en EE. UU.",
+     "Sensibilidad continuada del sector de semiconductores tras el deterioro en la perspectiva de crédito de Nvidia.",
+     "Repunte adicional del rendimiento de los bonos si el mercado descuenta con más fuerza nuevas subidas de tipos por parte de la Fed."
     ]
    }
-  ],
-  "agenda": [
-   {
-    "hora": "Thu 26 14:00",
-    "evento": "Festivo bancario en EE. UU. (Día de Acción de Gracias)",
-    "por_que_importa": "Implica el cierre de los mercados al contado en EE. UU. y un menor volumen de operaciones en los futuros del NQ durante la tarde."
-   }
-  ],
-  "riesgos": [
-   "Baja liquidez y volatilidad errática motivadas por el festivo bancario de Acción de Gracias en EE. UU.",
-   "Sensibilidad continuada del sector de semiconductores tras el deterioro en la perspectiva de crédito de Nvidia.",
-   "Repunte adicional del rendimiento de los bonos si el mercado descuenta con más fuerza nuevas subidas de tipos por parte de la Fed."
-  ]
- },
- "archive": [
+  },
   {
    "edition_key": "2026-11-25-cierre",
    "edition": "cierre",
