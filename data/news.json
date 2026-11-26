@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T05:36:51Z",
+ "updated_at": "2026-11-26T05:41:35Z",
  "items": [
   {
    "id": "1f61439424a712",
@@ -30,6 +30,16 @@
    "date": "2026-11-26T05:21:31Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "44ac30e5e5ac34",
+   "title": "Netanyahu Celebrates Jensen Huang’s Nvidia Return, Citing Israel AI Partnership: 10 outlets compared",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVhPUWxoZGo0bzFOeXBLZG54UFdNcHRKX1V3Vm5DdjBtLS1henpWMFlJbElOVVVmRy1vNW93Mk50QmxNN2hvS1hoZFdiT3RHUGczSjZyUmdCOXFyRmJoT3VqVmVQSTFyMjlfdjExamVTTC0zYlE0R1NPcXhiejI4ZXJ3d2k5bWU1MGdva09yaHVjSUFSeTh6NjFxVThleFFpVmpXY0VPNEI0NXFCTUhsZFUteDRIQ2kwakE5cjhqWjJSUXFFMVdjRHUxZw?oc=5",
+   "source": "NewsCord",
+   "date": "2026-11-26T05:19:40Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "29437ab8a89dd2",
@@ -882,16 +892,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
-   "source": "KUTV",
-   "date": "2026-11-26T01:30:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "4659346722a02b",
    "title": "Nasdaq Falls to 23,585.80 After a 4.6% Plunge as the Nasdaq 100 Briefly Enters Bear-Market Territory",
    "summary": "",
@@ -920,16 +920,6 @@
    "date": "2026-11-26T01:23:26Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
   },
   {
    "id": "1ac3fb10d0b5b2",
@@ -990,6 +980,16 @@
    "date": "2026-11-26T01:06:40Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
+   "source": "KUTV",
+   "date": "2026-11-26T01:06:33Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "ae168e7501a2d8",
