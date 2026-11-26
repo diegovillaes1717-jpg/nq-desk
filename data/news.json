@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T01:01:30Z",
+ "updated_at": "2026-11-26T01:06:14Z",
  "items": [
+  {
+   "id": "db20d660b061ad",
+   "title": "Bank of America 2027 Economic Outlook: AI Investment as the Top US Economy Uncertainty, Fed Projected to Hike Interest Rates 3 More Times",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5",
+   "source": "36Kr",
+   "date": "2026-11-26T01:04:34Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "ca5ecb61a54d8c",
+   "title": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T01:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "5250b86e62575f",
    "title": "South Korea raises rates to highest in two years, as inflation remains above target",
@@ -29,6 +49,16 @@
    "source": "Investor's Business Daily",
    "date": "2026-11-26T00:58:00Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T00:54:58Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -272,6 +302,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "de14835ad07e93",
+   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOS1ac0pnSHJsc1V5YkFuQS02V09sNWN2VzJjZElzTmR5VUNEcGlFOWhETHU3Z2Q0RE5yemZKSmhqd29qaDZIaHYwd2ZvMkNYTTFTeWhIQTItUURway1qQTJQVHRrZnRVY3hYY182dEtRaEhQRzdtUUpKVng0NzdqajkxY3B3X2NHSTF0MWdPSE56V3RYQUs3OGk0NnhXLWZlRzJrUENQYmdoLWQ3VDBTaGVNQW1haGw0OW5abmF5cHRNSVhXbGJqVU4tUEFBQjZXeDVOQXIxUmVzSUJGNmw2TlpBdzVXOS1BNWNmTUpn?oc=5",
+   "source": "KFOX",
+   "date": "2026-11-25T23:24:32Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "65123ac2003a5c",
    "title": "Materials Down as Inflation Data Seen Spurring Fed Rate Hike -- Materials Roundup",
    "summary": "",
@@ -435,8 +475,8 @@
    "id": "8250f50cce8a13",
    "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUh1ZjN0TnVJMXdYU3RPOFAxNFVueUlpNmM4SDlnWnkzejRhQ3VxMEZ4MVVLekMwMmp0RDZIVEUxUHI0eks0MTdDdWFzS2hfTGVOSzN0c2dFczJ0Y0EweXd0dkJMY3Y2Z3B1bHRVVkRVN1ltWHJhTVRzRHV3dVdQWkpOMExEcFlQTl81eGV1ZG56Um4wbmZOQV9jdzJoak8zdW9qbkc0ZzRlc3NTWDRhRG9GamY2UdIBsAFBVV95cUxOaEtBNlMxNm9JRDQxWEVxdDJoazBGNHRvenA3Y3lEdUNVN3JBRjRidGVScnIyN1RxeFVJS19sU3ZyRnB2QWNqd3p1cW54QmV2RWhaSGVIWE1jeFJJR3NLaEdyakpBRmJQaUVCNVVjdjJORXB1azAzcnp4TWVHT015bl9sQ05BOTJYZWoybm02aV80S3dEd0J4Y2ZFSXBaM0NfQ3pxWFhFTzZYRzRRQ1QyTg?oc=5",
+   "source": "KONTAN",
    "date": "2026-11-25T22:32:30Z",
    "score": 11,
    "category": "Tecnológicas"
@@ -1092,16 +1132,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "787749a1f88074",
-   "title": "Fed policymakers at odds over causes of high inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-25T20:50:24Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "4eca3561ea7ba1",
    "title": "US stocks tumble as artificial intelligence sell-off, sticky inflation, and new tariffs rattle Wall Street",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T20:40:17Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "c11a62740d4fb9",
-   "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T20:39:42Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "61ec45f5bec932",
-   "title": "Nasdaq Slides on AI Jitters and Hot Inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTRyNVkzTG9wanBNaTJVbmx6ZWpzenk2eFlpbG9EV0xyY3g1RThoeHNGbHhlUnJBQ2h6TXgzd2Vpb0s3OUNWYkpjV1ZXYktEMEFtV2ZkeUFzYkpxa1JoSGlUVkxNSzRpZEVMaU5xYmtIMmxXaVBNTVNteXR2WDdsQ2ctTkFJMXMzMDYtbjhNc28?oc=5",
-   "source": "Briefs Finance",
-   "date": "2026-11-25T20:38:42Z",
-   "score": 11,
-   "category": "Macro"
-  },
-  {
-   "id": "e9af5d5d55bf81",
-   "title": "Tariff inflation was fading. New proposed tariffs could reverse that",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2EyV2NPWlV3cUJhMnhrNE9DX2ZZUTkzU05NZTdBUy1rbGpTQ1BwN1lMTGdiZHpSWHFPNVNTQlVBRldzYlJmV3ZPNkEzQTlsTXdPcWhLRE55VWNMV2RUc1pxVDYwSUdmZHI2ZzRjakdrbHRZUzktQnpQX19wWXVVLWFTTEROYmt4V204MHZ1QS1URG5kcUg1bDd6VHBYMUVOdm1rc2hnZWZsOHJDZncyckJSTjZwMWl3Ykd2SlBZb01BZE9va0g1UHJ1RW9IdnNVYU9Cekx6VQ?oc=5",
-   "source": "Detroit Free Press",
-   "date": "2026-11-25T20:38:00Z",
-   "score": 7,
-   "category": "Macro"
   }
  ]
 }
