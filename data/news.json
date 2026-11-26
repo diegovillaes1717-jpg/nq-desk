@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T05:13:07Z",
+ "updated_at": "2026-11-26T05:17:52Z",
  "items": [
+  {
+   "id": "29437ab8a89dd2",
+   "title": "【TMGM Financial Recap】U.S. Inflation Intensifies Pressure; Markets Look for a Bottom as Gold Recovers Over $150 Following a Decline of More Than 3%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRUR2QlZvVTBKV2ZIMFppRlNfWFZMTDRKTk50NG03NEI5V0JLZ0lrVTJJYk1QVzVaUVlTdUcwSUVEVmNGT1NxbmZLeGJLWDZQTGUzS1hHY3JBbFc4UHZDbUl0QkZDRkR1VkVpLUxXanJFRnN2RUpOLWthVlJ4TWdzR0JyZw?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T05:15:11Z",
+   "score": 4,
+   "category": "Macro"
+  },
   {
    "id": "7adeb4f809611a",
    "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
@@ -20,6 +30,16 @@
    "date": "2026-11-26T04:51:29Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "5324e7cd0a84c8",
+   "title": "Gold struggles to extend bounce from 15-month low as Fed hike bets, USD uptick cap gains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDZGRlJPd3FENDIyc2tkWjZqMzNXbVV4eTN0WEVrY0Y5cGhVSkJhUzF6Um1FZ01pTC1yN0kxRUFnUklELXpOQ0xpVXNSRmZRbzhlOUg1VENNa2pBc0dRU21rU3dMdmtSZUttNmgwSzFsUXUySVhTLTlVSllDY3piaTZ0YnBFXzFVR1k2OEVhYTdVWUx4VWpKZUExVWtTRHZPWlZubXlFM3F1dnZ2OFV1NkpMQWRva25rZzNTNkM0V1R6X1M4YWl4WTFB?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T04:50:44Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "df21609951179b",
@@ -222,6 +242,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "0876207ae47d5f",
+   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2EySjVXeUxfZTdNa0g1MFh6Z2hwVHR4OHJ3RXIwVnlDWUFtdHJ4NThtVXE1MVF2bkNraHozMlM3TExaMm9Jcl9vM053dlpSZURWcWR2aXY2cEhnc1F0QWxON2hGczNLdkhKUmRRTFNLeTIxMkpoMWh1aE9CMFI5U0swZGhYSzhoMno3NTdjWVFVb08zdmtRRkoxbHg5X21kQS1fZlhnNVVPOU9DN3VoY0liUQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-26T03:17:00Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "ee1c277ffc86c4",
    "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
    "summary": "",
@@ -390,6 +420,16 @@
    "date": "2026-11-26T02:53:25Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-26T02:50:43Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "7a36f92209ae0e",
@@ -722,8 +762,8 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "0876207ae47d5f",
-   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "id": "c2840df0d8c741",
+   "title": "Stocks rally in Asia, US tariffs not as dire as feared",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
    "source": "Reuters",
@@ -780,16 +820,6 @@
    "date": "2026-11-26T01:30:06Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "de14835ad07e93",
-   "title": "Lower energy prices aren’t enough to cool inflation, raising pressure on Fed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTk2d2dma1Q0NWdpZjE4b2ExcUN4TE5Bc2c3Umx4Z2taeFlkZXB2QTZ6eExNd1JrRExoVlNsaVhscFg4MW9iZnExZkk2bHY0bktyVGlpa2RwRktubDZYVFZEcEdfVlRkRmZiWlNaaEppSmR6b2hkV3Y2WnJfaXY0MnQwS0R0bUIzUUNZRlNiNkFGcVhKUzFMQXNPNWMtbUNXV0s2TjFEYkE0b192Q1ZxY3liNHktZ2xKSjA4X1k2OFVVVjhMUV9rbDlzSmpSQnAwdnRzM1Vqd2E1M0F1UVVseWVaZWdTTS03SXBn?oc=5",
-   "source": "KUTV",
-   "date": "2026-11-26T01:30:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "4659346722a02b",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-25T23:35:34Z",
    "score": 9,
    "category": "Macro"
-  },
-  {
-   "id": "ef56cb8ece8255",
-   "title": "Inflation Refuses to Go Back into the Bottle: PCE Price Index Worst YoY since 2023, on Services, Electronics, Energy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDkxWGZ5MTk2cndYZEpsaWxqZ01KVTFHYUFFallnaFJCLTlKSFRFVzVyZWI3MUxQb210RFRRRVdIZFEzajRZcUlDdjRIQW0xMFhTN2NsSS1IZWlmaUNJR0Z3NTYxeUM5UVdkZ0lnNFdmSzNVOGRheExnVlhGTUY3NGRNNGxkYkxJMUZOam1adnMtenVSRDJzWEtMVW5HSVhDSGM0cDVwRzg1QjlQcnhiaEpnR2VmMEpqNE9hTjJpR2NPLThWOXdwbXJ4VXJvMERrZ25CNGtSWFktcXl6QnN6Qg?oc=5",
-   "source": "Wolf Street",
-   "date": "2026-11-25T23:35:17Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "0e7e93b6f1eeca",
-   "title": "AI Investment Return Doubts Intensify as Nasdaq-100 Briefly Breaks Bear Market Threshold",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fenh0eDlyWXRNMmhseHV0TmRZNlJQdU43OThFOG5MbEtNX1ZnalUyeFNmUXNRUlZUdUZ3ZENXRlNhNHNQZng5VXpnNVpmYm9xMlozSzY2MnJYaURHVHgxQmlmaUlTOGNtcmdMaG51WVFQOHhSdmc?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-25T23:35:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "29890a59ed96c6",
-   "title": "Trump owned millions in Nvidia stock while pushing for Jensen Huang's reinstatement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTVFd0lscmZjX0hMeHpIcFNDeGZUNDlRbE5jakZ3dnQ1RnZENDRUcmN1TXUwUnM0aF84eTJQUGJRb2w2R0E5OEp6VFVFeG02WmlhQWJzX0k3X1gtSlZnMWFKd0RFY2h4VGpyNFJNTGJiWUg4RkNTTi1iWG5sUF95YXFoZ1R1VDFCcnIxRFpXcVR3YXJvSkdGSk8tNkFualZzM09Nc2xuZDJ3eUI5WDNoeGxaV0lvN05HZWFyaURTM1lLOEM0N0NRbmYzYjE?oc=5",
-   "source": "CBS News",
-   "date": "2026-11-25T23:35:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
