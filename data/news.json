@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T10:25:08Z",
+ "updated_at": "2026-11-26T10:29:54Z",
  "items": [
   {
    "id": "8ac2338fae6352",
@@ -165,7 +165,7 @@
    "id": "5677dde97b71f4",
    "title": "Nasdaq 100 teeters comes close to bear market as Wall Street tech stocks fall further",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNEZxQnZhRHVKMHAwbnVYOEp3NHozdUMxNUdZUDVoNFEzTmNtTUp6cTdNZUhvNjVta3FRSmFLcDlSUl95TFhLNE9fNmZnTHNIR2RzR3B0eVExTUtTZlFnMGZhU054YjBLU1ZqNGdyMXZSYlRxbkY1cFNGdDE5V2hZMER4TExZeWxjTzJuTENkdTBackM0UW83Q1l4WGxNZzVwcm1GZ2txbmF6Q2lYNjg3eVYtcFdLX256ZFc1d3ZCWVFZY2R2MUxRcTBsY0RsTnlMdElr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnc2aVc3ekFNN0I1MHBSa3lwMFNXanRwZUpfUjJCUTVnQnBJOXBxdnpFYlhqRFZXRFZ3ZFlwNHEzR01TZ0lwN3pZYnJrdHlMZW1hb0p1MUxOSDhLVml2c1hEWmFTbmVsZXROOWZTenE3S24wY1B3OVFXRHBrbzdjLWJYckstNWJna3EzalpmYVdoMHdjZ3ZLekRZM2V2cWY3akpaNlJxekU1bFh0Qi1KRTV1OU9Ec1VTajgybG5qc3BuY0VWZy1iY0s0Vkk5RWFXOGhKZEs5VQ?oc=5",
    "source": "V2 Radio",
    "date": "2026-11-26T09:23:00Z",
    "score": 10,
@@ -319,6 +319,16 @@
    "source": "marketscreener.com",
    "date": "2026-11-26T08:41:20Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bc0749c3583e63",
+   "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease By Reuters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFpVcjhCdWZiX2h3bXBxaG51RUVXc0V5R2Z2UW1Jb2NtOEFzNWxad0E5RGxSNzJlOXZQa1FWVkh3N2k4OFpYUE5kSktNVjNxNGdXWHBzMGpkaFJEZVJYcWVMbXVtSVFuSXVxM0p0OThLOVJnSkM1N3YwXy1ZLXhMMEZDYmoxZkU1ZGpLVy1sXzFSZ1g2dnRiYk1sMDFEOTZWM20zYVhIRE1wRE9WVlRKWHVOT0dPSWVZ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-26T08:39:40Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -665,7 +675,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1189,16 +1199,6 @@
    "source": "CNBC",
    "date": "2026-11-26T04:12:18Z",
    "score": 5.0,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "dcb862d4b596e4",
-   "title": "New Zealand Stocks Slipped While Asia Looked Past US Tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnRoWGlqYTdOM1V1T0Zrb3I0aFJRMlFPMmJKRFpLVGhkYW1lTTlfR0VoV21Mamg1d2lFLXhmaGQtakR0VVdadkphS1lnNkxBRmhHNV9vQms1ZDJBeDQyUDRyTHlldUZFOFlLZGNHVFBtTVJwZUFKclVsNE1tbk9ZQnhta3FkSWp4TUNzY291cmlqZFU?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T04:05:14Z",
-   "score": 5,
    "category": "Geopolítica y aranceles"
   }
  ]
