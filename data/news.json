@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T05:17:52Z",
+ "updated_at": "2026-11-26T05:22:36Z",
  "items": [
   {
    "id": "29437ab8a89dd2",
@@ -20,6 +20,16 @@
    "date": "2026-11-26T04:56:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5b2a554ab63a95",
+   "title": "INDIA STOCKS-Indian shares pause after recent rally; US tariffs in focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVN3cE9jSDd0YXh5WkM5anRXU0RIeXpKdXBDQTd5M0MwYlZSWi1qTnpyTTE0TGxYN2lTd1lLNkhuYmx2T2RJTnI0ZFJQcTFuT18tM3NyenBJT2NkVlY0eFAwOWx5RFI1dEJXNHFlR3l1NjJkNDBLWmtmSFhxdVl0a1pSdkFXd28wVXh4d1VwTktyOS10ckJRMmZIM3kyb2Z6WW12VllmbDl1Q3RLT0VBTWtIaWZZSjFaVHZYY1d6WU9ZNTBvQjZ1dEhaVnjSAdIBQVVfeXFMTXN0WnYzZnhoYUZwQktRU3VILUszUFZfaklneEhYOVY3d053cTA5eXN5eFNwM3RwSG94amtMY0w5U2RORklUejFWZ0ZNVzRUS0pTR3RDRUlwbkFWeDNHOTlVR1VoSEFlNG45aVc3bkthMUZMX2laNzZLSnJ6M28xcW5nQWtxeHFIdU1EY3Y0TXdJVHNHTTc4M25YY2hlQTE5dDFLelItbFQxWE01SnllTElLeTRqYkpQeTA0OVBoRG5JWU02ajM2SERmTHNYaDlvNElB?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "date": "2026-11-26T04:54:01Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "85ea7f6f85b8e0",
@@ -390,16 +400,6 @@
    "date": "2026-11-26T02:58:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T02:56:08Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "de29f314b06338",
@@ -852,16 +852,6 @@
    "category": "Macro"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
-   "source": "Metrobank Wealth Insights",
-   "date": "2026-11-26T01:21:25Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "1ac3fb10d0b5b2",
    "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
    "summary": "",
@@ -1199,6 +1189,16 @@
    "source": "富途牛牛",
    "date": "2026-11-25T23:35:34Z",
    "score": 9,
+   "category": "Macro"
+  },
+  {
+   "id": "ef56cb8ece8255",
+   "title": "Inflation Refuses to Go Back into the Bottle: PCE Price Index Worst YoY since 2023, on Services, Electronics, Energy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDkxWGZ5MTk2cndYZEpsaWxqZ01KVTFHYUFFallnaFJCLTlKSFRFVzVyZWI3MUxQb210RFRRRVdIZFEzajRZcUlDdjRIQW0xMFhTN2NsSS1IZWlmaUNJR0Z3NTYxeUM5UVdkZ0lnNFdmSzNVOGRheExnVlhGTUY3NGRNNGxkYkxJMUZOam1adnMtenVSRDJzWEtMVW5HSVhDSGM0cDVwRzg1QjlQcnhiaEpnR2VmMEpqNE9hTjJpR2NPLThWOXdwbXJ4VXJvMERrZ25CNGtSWFktcXl6QnN6Qg?oc=5",
+   "source": "Wolf Street",
+   "date": "2026-11-25T23:35:17Z",
+   "score": 4,
    "category": "Macro"
   }
  ]
