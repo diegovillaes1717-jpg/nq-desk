@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T12:10:33Z",
+ "updated_at": "2026-11-26T12:15:19Z",
  "items": [
   {
    "id": "a52b124a792dc6",
@@ -19,6 +19,16 @@
    "source": "24/7 Wall St.",
    "date": "2026-11-26T12:07:00Z",
    "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "55a5085726ccc1",
+   "title": "Strong US growth and high inflation fuel expectations of Fed rate rise",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXVzQ1p5WTJYc1pJbGZMcEw3UGdtQXEtc25KSlNDS05hcG1SdjNkcnMyelhhVVd6Wlg4NVZ5aXdsSEpKUzFuQkxRTUNVYkd6YkhKekxiemVfTzdEaUZUX1VpZjVTZUZFcDV5LWg0TTlqTGhhdDd5VFZyRmFDVGgtV21pdDlTaDEta0hkQ3ZObUg4Y1o2WktUalBudzVRSkw0ajdyRFZUa3g0cWM?oc=5",
+   "source": "联合早报",
+   "date": "2026-11-26T12:00:34Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -122,6 +132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "c0356e49b3a4cd",
+   "title": "Global stocks rebound after AI sell-off as investors assess Trump's tariffs, oil prices and inflation risks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVItckt2bWxpckNqWGxHZE1vXzZWNGFUUlNBX1p3R0ZqMThJdmwxa3RNOGIyaURDY19adEpyY056LUVGTjRwMU5tS2NHb3MzZXpYNWlFYTZVNzY2cVRBVjFvalMzd2FNVWVwYTJWSUxuOGFMdnltV0gxYTk3TWdiY0I5cUUzMXJNSFBrZWVFVDc4X0xmSVpQVTBEa084VHNyYUhralRQa3NYeVBOQU1VcWZHMnNFSFl5OFRaZFBWX3lLTEZLa0xkMnQ3R29PRGVNNDZhRFVkdUtsZVJJbWpYNzNlS0d1aWVBWVVURDNvckRIQjAwd0NITHA4VEFnamZGcXI3Q2tZdw?oc=5",
+   "source": "Hindustan Times",
+   "date": "2026-11-26T11:24:26Z",
+   "score": 16,
+   "category": "Macro"
+  },
+  {
    "id": "951c8a31f7364d",
    "title": "Nvidia Halts Server Shipments To 4 Southeast Asian Countries Amid New U.S. Export Curbs, Report Says",
    "summary": "",
@@ -202,16 +222,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "d14d9add1f6aef",
-   "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRWtlZlM3ekxUVUE2VjFCMlNJLThaUmNMWUl0aGpLS1ZDMk1wSEMyanRvYUlILVFuai05cXFHQnN0dmJSNHUxX1l5U0VTUG14LVZ4NmNMWEk1MUpmVHlKbWx5d0plbUgxZ3dZT1dqSHllN1JwRFVUNg?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T10:53:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ffefad3b942d3c",
    "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
    "summary": "",
@@ -222,6 +232,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "d14d9add1f6aef",
+   "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRWtlZlM3ekxUVUE2VjFCMlNJLThaUmNMWUl0aGpLS1ZDMk1wSEMyanRvYUlILVFuai05cXFHQnN0dmJSNHUxX1l5U0VTUG14LVZ4NmNMWEk1MUpmVHlKbWx5d0plbUgxZ3dZT1dqSHllN1JwRFVUNg?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T10:53:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "46cb9b40177050",
    "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
    "summary": "",
@@ -229,6 +249,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-26T10:46:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "887add88324fca",
+   "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFVzOE1mLWpqd1d0Q3otdVlORVcyOENNcnFBVGpObm5jWlVBZmVsQjRLN1R5NjMwWUlJUzVlaHo5UUlhMVJNLWdtakZMUlQ0X3ZSWkhYakJHSmJOSUVoUDlGZmN5TFd6UkExd0hkZW9uRVpEUDI2V0hXTmhYVV93c3E2RnVrUXlzd2lmQ1JkblBWcVYtc2JHV0FRWjJGUUk?oc=5",
+   "source": "Admirals",
+   "date": "2026-11-26T10:41:38Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1045,7 +1075,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1169,36 +1199,6 @@
    "source": "City AM",
    "date": "2026-11-26T06:31:00Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "079fc19603f0ba",
-   "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnZkQXk4VGxKb3BMQ2RkX3BhZVdVRzJrRWFsaEhjQi0tdDV5ZmNIVWE2X0JtUXlFLTZBTXN2TkV1Z2Z6NU5CNU1MSmkyb3NCeTVTZ0hqekw0VWQ5dHMzemxyQjZWV2JaVEJtdEpRVnNELTh0YXN3R2lrVGlMcjBDazZNa241YzVjUi0wbVluWW5hSFU?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T06:30:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "19a6e056c1c08a",
-   "title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T06:29:00Z",
-   "score": 3,
-   "category": "Macro"
-  },
-  {
-   "id": "51096672ea6004",
-   "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOG1SZ0NJWURGMzVNSTdMM2NWdW9mVFhNMUVQZTlMWVBQNFlaVFNLSEVSMnIwNXRYbVM0SnlOVTJkbWNXTmpTZEJnTW81aXlxMm9hU3JWX2NmR2lOQkRKQnBnNnJfQmFVVzJ2RUNIS3RtRjhxdHNKWEJVN3FlX3V2OFU0LUhib3pKcUZFSzhHbTIyVE45dmQtei03UmlKT19wbU1j?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T06:28:00Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
