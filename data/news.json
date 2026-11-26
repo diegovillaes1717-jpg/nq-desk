@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T21:55:28Z",
+ "updated_at": "2026-11-26T22:00:13Z",
  "items": [
   {
    "id": "73b00b2bf9eeaf",
@@ -62,6 +62,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2MzUndyTnRMcXV6V21BU1R4UVctdnhiNGxZMEMxM2Mwc0JZMDBwN0hMQjV1bmRRSS1fRmVUNHJuSWdyZ2ZhUlZvXzVGUDAtbGd1LTlZeHh6XzlDblFpMElZU05tbk4wZDM0V2o5aHE0U1JyQ3R0T2tvMktrajNjVzhqRVlMcXN0OGxhUTZOQ2JvaUxrNXdPNlEtNllVUlFna0c0aU1TWlVmVHJ0VnZSZUV2SldLLURzMi1MMw?oc=5",
+   "source": "WBFF",
+   "date": "2026-11-26T20:57:18Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "28cf2aa1941483",
    "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
    "summary": "",
@@ -70,16 +80,6 @@
    "date": "2026-11-26T20:52:56Z",
    "score": 4,
    "category": "Mercado"
-  },
-  {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEhJRzlhZVR5YWdFdlpfWnNRVGt3QTEzSEZhbXNZS1RHMTFVazdQQjJZd0x4TlF5empqbmNKcjhIRXM3UHRmd3JYeVd3Ykx3c0pBUlgtWXRldHA4dFp4ZGdVdjVCdVFMcEJXS2xCakZ6a25xZERGSEhNVk9SX2RPd0FvQUlER3VhNGNLTU9pcXJBY210dGVTaDIydS03cjVCb3NscTdHQXhkcU0zRGJXVllR?oc=5",
-   "source": "WGME",
-   "date": "2026-11-26T20:52:28Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "3d60207bb95915",
@@ -442,6 +442,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "2b0daec9488435",
+   "title": "Gold spot prices slip as dollar firms, while U.S. futures gain By Investing.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkQwRkdhYk5oamJkQ0Rmdi1CMEVCbERfVjlLLTRORjNxUmk2Z3VBLVhVcENHZUR0a0c2N1NCWUlMTWozWXRZRld3a1YxNTBraVhXMmRnNDFxTkUxMFQ2X1puWHJBWURld3ktbUZva2lHT3gtenpTNEV3ZWxuaGN3X1V4N0RLYkpFTXhiZ1lJelJmY3c1bFhNcmNsblJ3S2wxNUZRMXZoYjg5UjJxNlhTUEJPXzBWdw?oc=5",
+   "source": "Investing.com South Africa",
+   "date": "2026-11-26T17:44:37Z",
+   "score": 3,
+   "category": "Energía y dólar"
+  },
+  {
    "id": "9d351806b04c84",
    "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
    "summary": "",
@@ -669,16 +679,6 @@
    "source": "24/7 Wall St.",
    "date": "2026-11-26T16:38:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjNRNzA4cVZNNU1XNkE4ai1wcEdQQ1ZrbVhKcWkxV0I5S2Q1U2lJZlJfWG5HZ1FZQkdhUGhMOUdmVU9hUlV2NnIzeXoyN1BiZmh2OVFhNlVzZnlJSXNjZkp3SUNDUG5Ral9LSkkwaDBsWGR1UUN3bF8ybURRUWVzWkphRVBqRmVON3ZuM1dWdFBGV3g5Tncxd3FES25XSlA0TkZPbWdLTEFzdXlrUUZCMXZLQWQ?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T16:36:30Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1055,8 +1055,8 @@
    "id": "fa8fed35ca64a7",
    "title": "Is Apple Stock Outperforming the Nasdaq?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGd3UlZyNFBud2JrUmVsR2tWRDFHcXdMLUxTaGRuR3hqVlpaVG8zUDZpM2ZvSTc4SXYxMC1YOFQyZTVMWGFNVkxXNTlZN1BjWnZtRUsxcmxGMG12LXBib05nR0tobHpUaHlnckhJTXBjYlNpTU91TVdqdUt4Y2hGLXZKMHk1YTV6SUZraEc3ZnB4dWkzNDV6eWVVaEtUUQ?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazg2R1lYQVpOWHZoV0NCcHdxdGpkMWlDZ09VT2lteEVwR1VONDhNV2lKZG14dDdGdG9iQWI5T2tNTVRDOFh6M1NYYnBQb1BGRFdLZHR4YXVINHpXRlFIQkJ3YzRiamp2Z3lvZGtrb1JGeWtnMHVmUWctNHhNWnlaTUZ2QUhWVVZ4b05J?oc=5",
+   "source": "Barchart.com",
    "date": "2026-11-26T14:50:07Z",
    "score": 6,
    "category": "Tecnológicas"
