@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T02:22:08Z",
+ "updated_at": "2026-11-26T02:26:52Z",
  "items": [
   {
    "id": "7c57492fd5b9e9",
@@ -712,16 +712,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aea23eba608b33",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-25T23:20:28Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "a35bc9a322d507",
    "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
    "summary": "",
@@ -762,6 +752,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "aea23eba608b33",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUhzVmRIbGQxLW1ZQ2gyMnpQZUFlRzVjMzFFSVVJLWRGazdKVHNLbnlTa2psUjRhams4M2lIRnNfOVdRSzl3YUV4d3h6T20weWRscG5CWm9lRWhibUZRMmgwc0I2MzR4T05aak5vdzNCWUd1Wkk2NW1La0NkajVVZFg3ZGU1MExlLWFfcUFmcDlsQ1RkcmFUU05IUzl6OXJUYXJ5RllKaWI2dXhzbzI5RVNtUmlPT1E4WnRnUGRibE1kSlIxWTE0b0R5a0NSNHJZNE9BQkdnRjBZOWVVakJucF9vN24?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-25T23:00:28Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "20e45d7532d8c5",
    "title": "Michael Burry closes his Nasdaq bets and shifts to value, but still plans an Nvidia short",
    "summary": "",
@@ -790,6 +790,16 @@
    "date": "2026-11-25T22:50:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "1ac3fb10d0b5b2",
+   "title": "Nasdaq 100 Analysis: Uncertainty Returns to NDX Following Tariff Announcements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxYMmF3bk5GcW5ocUxTTWhPdXpMLTlTSUlsaUJoRjJBN0tWb1UtcmdfU3dycEV5eFI1clhrOUlBWDZlU0VqNkNYd01ERl82Q2xxdkpfT01jQ2lRbGg0a3BkQndrc01hb0JtTGNpOHRPT1RITkZEUTJXVHRLc0FCYk5CQ1VzeTR5ampkbmZ2bVRsckRuQ0l3Z1ByODBScENJU3pvYnR0M3hyYXFLd2pnU0d5YUg1V0t1TG1YQ0kzeGtidw?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-25T22:46:44Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "b20071c2525c52",
@@ -869,6 +879,16 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T22:30:21Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-25T21:36:24Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8b10fe0ca06a4b",
-   "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-   "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
-   "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-25T21:36:00Z",
-   "score": 4.0,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fadc45924372ff",
-   "title": "US Bond market down ahead of Thanksgiving holiday: Reasons why 10-year, 30-year, 2-year treasury notes fel",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN25FQUVjUDA1b3NDT2dIMFBFNkNiODdGSEZ1dTRaUGFKbXVRSi1CNzlVT20xcV9YUWprdzI3UXZaLVpjYkZXTFgxanFxT3dyR1doaUtadTVRMEgzdWNjRzIySFVTYVZUd2RFYWJ6SXZlQVdMOTN1N0ZfWDE3b1FSNnNJVDNsWldoTHBFN28zS1RsSVM4RE8xSFI1VmJDOHBHZ0xTS0wyZGRPUlhqOUJGbWJfVlA3SVNVUWRzUHpFYVNJMDN3bWVpMmJUaFhSNFBmd3llUXlkaVNBQk5DWEV1WHhYUnhzRnpVRDlnUVJmN1Q2MEQ1eW91WHNKYUN2dW4zZ2VsX3pmOWdtZnVNYkhsMXJoenZsSVB3VUVmUzFFRzDSAZoCQVVfeXFMTjh2UVNELTN6T3NuWTA4bG1EVmUtNmNKbzc3XzZsVU5ReWxqQ3l2ZC1FZE9qS0dBRmx2R0g3RmZaNlp6MXpLaFNzWUE2dTBoUUV1TExWUlVqWXBsWi1INF9oYTJCcmxhemQ1TjdwVjdTUmZZNHF2Q2NZRmI1bWNEWG1sa19Oa2Q3U0hUdk9nUlRXVXZ4clpGZnJGWDVFVm5XTkMta1JyOWlsX0lyZU82MXFDQ19xY3Z6OTB1T0lmNzFVbThBUWlGcUswLXhZZGZSaDF3ank5cDFtOEVxaWtaY0dNQUJGbEtpZkNGZU4tY1lUaFctNVEtTl93R2QyamhscTBaVU9PWTIybVY5enVldXlUemthVFV4WnBB?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-25T21:34:12Z",
-   "score": 3,
-   "category": "Fed y tipos"
   }
  ]
 }
