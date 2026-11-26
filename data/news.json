@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:00:23Z",
+ "updated_at": "2026-11-26T16:05:10Z",
  "items": [
   {
    "id": "c065c492615b83",
@@ -362,16 +362,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "830e28fa019b6b",
-   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "aaa5d5c846a5f2",
    "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
    "summary": "",
@@ -379,6 +369,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "830e28fa019b6b",
+   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
