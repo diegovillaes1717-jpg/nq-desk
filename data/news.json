@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T19:24:09Z",
+ "updated_at": "2026-11-26T19:28:52Z",
  "items": [
   {
    "id": "3d60207bb95915",
@@ -90,6 +90,16 @@
    "date": "2026-11-26T18:18:05Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "97f3c8799325a6",
@@ -540,6 +550,16 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "3f50104cc0613f",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T12:41:30Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "88ea78745834a4",
-   "title": "Nvidia Stock to $620 by January? Meta AI Predicts Wild Rally After Jensen Huang’s Return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHR1WkYxb0NDMm92ejlYWklaN2t0Q0RfbEx2cndXMk5NaUF5Ty1ESktpa3NTME54MkhhcWdTRXVGQTJFekZ2VlVBTi1yLWJYSHh0bjNwOUlGajNMZ3Ytdno1QzVMbEVaVjBoV2JoOG9ZVjZ5dExRSHJsUWltVkNubWctdm1WLXZpaDAxdDdkMzFic0NJV1ZmYll0ZFV4U2wtM0Z1Sm1wd2h1VlE?oc=5",
-   "source": "Tokenist",
-   "date": "2026-11-26T12:39:37Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c37105bda41594",
-   "title": "Nvidia Stock to $620? Meta Ai’s Wild 2027 NVDA Prediction",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHR1WkYxb0NDMm92ejlYWklaN2t0Q0RfbEx2cndXMk5NaUF5Ty1ESktpa3NTME54MkhhcWdTRXVGQTJFekZ2VlVBTi1yLWJYSHh0bjNwOUlGajNMZ3Ytdno1QzVMbEVaVjBoV2JoOG9ZVjZ5dExRSHJsUWltVkNubWctdm1WLXZpaDAxdDdkMzFic0NJV1ZmYll0ZFV4U2wtM0Z1Sm1wd2h1VlE?oc=5",
-   "source": "Tokenist",
-   "date": "2026-11-26T12:39:37Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
