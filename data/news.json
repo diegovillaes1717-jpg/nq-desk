@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:44:29Z",
+ "updated_at": "2026-11-26T20:49:12Z",
  "items": [
   {
    "id": "3d60207bb95915",
@@ -75,8 +75,8 @@
    "id": "6a49b7e9a09a8d",
    "title": "Five takeaways from Trump’s new tariffs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjVkYWQ3NDV5T2ZTTFI3c1d3eFA2QnNBN3lrbHVWZ2FoMzNFYzNVLV9ETk5LZTV4VEJBQWhYWlBVZUZMbkZsdWFLM0pENW9hSnVmdWYwYUFKZ1ctMWd1VC1VOU5feEVKTVF3NFdBbml3QXMySk03ME85MWZ5N3BVQXA3eDVHSjYwUDNjS2VFcw?oc=5",
-   "source": "BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHhiekREaEpuUkFNcjJCc09KVW9lSEdQTFhzOVplUGd6VGFCZ29GNzRHd1JFcldXaTM5SzZYYUQ1a2hCTVZLSUw4YmVzaE9kbVZHQlBQUjctVG53R29CRC1IbGlyVWhFbnFSczRMazRWbXFqRG05NG50bHdGeUJiLUl2VTJPSmNYTlZMdk1OUXRocEdXVXc?oc=5",
+   "source": "CTV News",
    "date": "2026-11-26T19:36:07Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
@@ -220,6 +220,16 @@
    "date": "2026-11-26T18:18:05Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "bba671f1f702f8",
@@ -715,9 +725,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:07Z",
+   "date": "2026-11-26T15:49:06Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -902,16 +912,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "ec642a75484768",
-   "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZBWVE0U1VoV3FUdW1wZmZqME1KdDFheEhLUTBSS0JCWjI5azVNZEhqdVlLdG9qSjlLTE11eTdPeVFoR0Rhd2xlS3ZUM0xOZzM3Y0RoMHV1aFctZnp4QVpLR0t1ekhmVXJnd2RxSkdYVHk5cjM2Y0tOZlNpUzRseVRONm05RWxaLWI4MExmZ2ZxSFIzNXhaV0Vrb3BzZExzeVVjOG1ub25UblZVRlJxeUprSEV2RWJXRnfSAboBQVVfeXFMTTNmQVlRNFNVaFdxVHVtcGZmajBNSnQxYXhIS1EwUktCQloyOWs1TWRIanVZS3Rvako5S0xNdXk3T3lRaEdEYXdsZUt2VDNMTmczN2NEaDB1dWhXLWZ6eEFaS0dLdXpIZlVyZ3dkcUpHWFR5OXIzNmNLTmZTaVM0bHlUTjZtOUVsWi1iODBMZmdmcUhSMzV4WldFa29wc2RMc3lVYzhtbm9uVG5WVUZScXlKa0hFdkViV0Z3?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-26T14:58:41Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "40d48ac3fdfc60",
    "title": "US Treasury Yields Stay Elevated as Growth and Inflation Expectations Shift",
    "summary": "",
@@ -958,6 +958,16 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGZZSW5hcF9tVkRJTG1lVk8ta3Y0VjJEQ1VkeDJ6M19XcC1KSnVNbGtXWlhVX1pscG1KNWY2MHFXLXIwUFFLdTdXb09kUGFmUFQ3VkxTZlEzRmZGWmhzSTVOMzA2dVFaSW1xeE1BRloyYkQ3R2RlYURsOVBRMFN3eA?oc=5",
    "source": "Barron's",
    "date": "2026-11-26T14:44:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "ec642a75484768",
+   "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-26T14:40:01Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -1025,7 +1035,7 @@
    "id": "c6c662e152b808",
    "title": "3 Export Stocks With Limited U.S. Revenue Exposure As Tariffs Reshape Trade",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWEx0bVhBc3hCUnBfanAtS1VhRDhkWkE1WGk2bjRJQy1XREpkZ3MweGszajNlU1dBZEh5UXBCRjBWMDhGVmNmUmpZYkxvcUpXU0NBZ3htMXB1LVNXa1dhZnlTSE1Lc2ROUklNd0NUOHF3WGNkaV9JeWMtQ0hRTFJZUE1IN3JUeFhIZFVfQU1sTzREZmZmcS0tVExfdTc5cWFiQ0F0MG9uU0lFS0dvY3N3QTlHVDJ0YnM1Q1lnNFJQaU90b01mRjk2VEdVM2tBUUI0Nk5LWG9MQkZUT2900gHiAUFVX3lxTFA0WWpna09OM1F5R3NMSkpLdlVMbDVvd1ZjLWVqazRFVjU5TWI2MjVfdHEtbkFmUHIwNF9WeWFoZ3FPbTlUUm0wemxFbC1xcDJyVUVWMTZMWk1GMHpsdzZGRGlHYTYxZnJTbFNnbW1wUjNBbkZXM0dBY25nTnBzZEpCYVgxN0J2RkYzS2NKc29CaEZCZkZMd0cyanNnVm1VVnNUa0c3cGtXM2VGZ3FBX0ctUkNDazdJeTVWV0VJalpfanVIWThzVDU0V092WU1IMHRYM21OemU5bGxlWndEdmo2MlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFlqZ2tPTjNReUdzTEpKS3ZVTGw1b3dWYy1lams0RVY1OU1iNjI1X3RxLW5BZlByMDRfVnlhaGdxT205VFJtMHpsRWwtcXAyclVFVjE2TFpNRjB6bHc2RkRpR2E2MWZyU2xTZ21tcFIzQW5GVzNHQWNuZ05wc2RKQmFYMTdCdkZGM0tjSnNvQmhGQmZGTHdHMmpzZ1ZtVVZzVGtHN3BrVzNlRmdxQV9HLVJDQ2s3SXk1VldFSWpaX2p1SFk4c1Q1NFdPdllNSDB0WDNtTnplOWxsZVp3RHZqNjJR0gHiAUFVX3lxTFA0WWpna09OM1F5R3NMSkpLdlVMbDVvd1ZjLWVqazRFVjU5TWI2MjVfdHEtbkFmUHIwNF9WeWFoZ3FPbTlUUm0wemxFbC1xcDJyVUVWMTZMWk1GMHpsdzZGRGlHYTYxZnJTbFNnbW1wUjNBbkZXM0dBY25nTnBzZEpCYVgxN0J2RkYzS2NKc29CaEZCZkZMd0cyanNnVm1VVnNUa0c3cGtXM2VGZ3FBX0ctUkNDazdJeTVWV0VJalpfanVIWThzVDU0V092WU1IMHRYM21OemU5bGxlWndEdmo2MlE?oc=5",
    "source": "Simply Wall St",
    "date": "2026-11-26T14:12:36Z",
    "score": 6,
@@ -1172,16 +1182,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "830e28fa019b6b",
    "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
    "summary": "",
@@ -1192,14 +1192,14 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8562798026709c",
-   "title": "Trump’s new tariffs aim to prise global trade from China’s grip",
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-11-26T13:29:53Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
+   "category": "Fed y tipos"
   }
  ]
 }
