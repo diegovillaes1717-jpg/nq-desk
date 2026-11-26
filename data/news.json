@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T12:29:42Z",
+ "updated_at": "2026-11-26T12:34:28Z",
  "items": [
+  {
+   "id": "7adeb4f809611a",
+   "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
+   "source": "theopenpress.in",
+   "date": "2026-11-26T12:30:20Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "355a4b1c8a6ee3",
    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
@@ -19,6 +29,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-26T12:20:05Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "f70c65efa2ac48",
+   "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-26T12:19:30Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -242,16 +262,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7adeb4f809611a",
-   "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
-   "source": "theopenpress.in",
-   "date": "2026-11-26T11:01:03Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "3c4873e38760db",
    "title": "The small-cap Santa Claus rally is on — but a December Fed rate hike has spoiled it before: Chart of the Day",
    "summary": "",
@@ -370,16 +380,6 @@
    "date": "2026-11-26T10:25:30Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "f70c65efa2ac48",
-   "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-26T10:22:47Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "ca757981a4c152",
@@ -1115,7 +1115,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
