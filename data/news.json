@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T18:41:40Z",
+ "updated_at": "2026-11-26T18:46:23Z",
  "items": [
+  {
+   "id": "f6a810a55333c7",
+   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "date": "2026-11-26T18:44:15Z",
+   "score": 3,
+   "category": "Macro"
+  },
   {
    "id": "6c2b57b2c9d7da",
    "title": "Nvidia upgraded to Hold amid unresolved investigations, cautious outlook remains",
@@ -12,16 +22,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f6a810a55333c7",
-   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "source": "CNBC",
-   "date": "2026-11-26T18:32:29Z",
-   "score": 3,
-   "category": "Macro"
-  },
-  {
    "id": "86419adb07d08c",
    "title": "US Dollar Rises Against Canada's Loonie, Treasury Yields Fall",
    "summary": "",
@@ -30,6 +30,16 @@
    "date": "2026-11-26T18:31:21Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97bb94b587b52d",
+   "title": "S&P 500 and Nasdaq 100 Perpetuals Rise on Liquid Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMWdGZlVISENRcElWOU9jTWxIWkhJQ0E0d0hETlVqcGN3ckxsMF8tcDMtaWdXcHhDTk84d0MxV0lkeGlpUHh5T2RfRlo5bEVicFlJQUdvU1dmZw?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-26T18:28:57Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "0e5f616d955973",
@@ -172,6 +182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "534f17d0adda34",
+   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0dDRUxNRHZ5UDVGekZRbjVMdHJqSThwbFBLY09UQW9fVFNTdjRXVjl1bUV5bFN5WFdSaWlZNm5idGM4ZWNfY2E3eTZjUEE4aWkyT1RPaUFZNXh0NS1DOUNoaHZkbFBEQ05ic2txYm1TalBwOUpwc3Y5LU9aWXV1cHF2OFdZMUgxRVNrVUpfT082dmF4Rk9wb1dvU0V3SDdXZTZweHQxdmFOdW8?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-26T17:21:26Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bfd4619c36fbd5",
    "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
    "summary": "",
@@ -190,16 +210,6 @@
    "date": "2026-11-26T17:14:43Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "534f17d0adda34",
-   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHRlS0VSb01ULTlZQy1jTXFUOUtIaG1pQldaNDEwWHhtbi13ZkpOWE5TVTF6NDRra1I0TG8yS2Fyc2hNZ0tLQVRKVDBjMExKNlB6RmE2ek82dHhSQ2RyMU9VaGtkWWNZZzVwMHVmeS1GTlZVb2lVNFVIYnRDd0EwM0V2cHVfNERSMGwwM2lXbVlHazRvd3ZMY3RGMGZaZw?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-26T17:05:54Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "ebe2326ff46a15",
@@ -280,6 +290,16 @@
    "date": "2026-11-26T16:44:41Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "c919c6f0e7ad55",
+   "title": "Video | China Slams Trump's New Tariffs, Warns Against Trade War Escalation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTBveXA4NzdsYkVYVk41SkFEeHBwdXNGS2NSTWJjNV9ZY3JlQjlrQjBWM2x0X0dzajlWa2xJM2x5OHl1Rk9vY25PcTlpbjlRSnRnX3A2ekhOWW1NcHBIREU5dkRLbTNSLUFiMG9GLTZycFRnbGN0LUxMbEg3YnJkcjJ5Skw3U1Fhb2ozTko0ZzFWUEV2ek5yX0E5b3BZVGtvX3hR?oc=5",
+   "source": "NDTV",
+   "date": "2026-11-26T16:44:31Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "887add88324fca",
@@ -802,6 +822,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "81fca397d4dfcc",
+   "title": "Saudi Stocks Weighed A New Minimum Tax As Trump Floated Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUltMXRSczVJMGZ6eHlNSjljVWFYRnd4SU5EdHh5OEJhQ0RScmtQMTVOQ2U2eEJrQl9ydHpnbGg1Vjc2MHRmUldkZUptdzBQSlFYQTllMm9WM19iR0tJZ0oxMFJweHVOMlhxX080Rzl6WmRMUWIyRU05WGVGR0laTko4SVVMRHJXLUF4aEZYMVNibnM2UWVz?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-26T13:45:07Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "984f5ad07c1d09",
    "title": "What Daily Compounding and Volatility Drag Mean for the Global X Ultra Long Nasdaq 100 Hedge Fund (ASX:LNAS)?",
    "summary": "",
@@ -1122,6 +1152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "1e6f958485bd3e",
+   "title": "Banks and tech stocks drive markets higher, tariff concerns ease",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFh3SWVNZ2ZpVnNPTVg5UWFWSktYblRIQmp2OG5CV0RtSkwzWVJLY01ndkdXNUlwV3hlYTVlTk9NOWN2OF9BaEUxNVdDZUkwTV9EdmNNRkxGaHp4S2o3U1RrbjRQUUdwTTUzcS1tczJpOXhZZlVRVGo5aTdqRV9XWlBmREctUENRbGVBMFZLMXl0cEl5aWpFeGJrUFJFRTFyRGVuM2xEU0dyTmJNVjluMjdOaTVjVTg?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-26T12:25:05Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "355a4b1c8a6ee3",
    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
    "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
@@ -1159,46 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T12:13:55Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "160b23c9a4df82",
-   "title": "Hang Seng Closes 1.19% Higher as Tech Stocks Rebound - ad-hoc-news.de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVUhyQzZzLTdKdjZSTGppMHI4ZEVRZHVjUmJJSVhQQmpPWnV2WWQ5U0s2TXFwd0ZGYVYxUFlVZ2hocm84ZGQ5ZzhMMjRNbGNDdnZnUktNSkdlUng2MFBiakxpb2hfejRoZVI2M3FGOEpBV0J2b3hkYUdkc3BHTXl1aHJrWmJ6aWFXaUNoWmpJZHBnLV9mQ3NvUmFrTVRXOVZWRDYtS1U1R18yRWFOazRHZy1hbw?oc=5",
-   "source": "Google News",
-   "date": "2026-11-26T12:08:58Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a52b124a792dc6",
-   "title": "Jensen Huang's Nvidia return just gave Denny's a viral marketing moment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEhfSC1YWmdWM2pnYW9lT3p0UUh2Qi0zRjB2YXJfVjQzby16Wkh0S3JaWkVGTnJPRzhRU29zWmYzdktlMi1wdEpxQ3ZwOVNNSzlLNDhyM1dNa0hUX0lXSWtxVXlORmZydGJjM2hiV2F1SFpSZ3BtQW9XRW0xX3lOcTNmZnd1YlBBd3gyWW4zOU9DMGNSMXBfazdnaw?oc=5",
-   "source": "Business Insider",
-   "date": "2026-11-26T12:08:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "def286aa0c2efb",
-   "title": "10-Year Treasury Yields Just Fell to 4.85%. These 3 Dividend Stocks Pay More",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW5JX2dYN3dzZUdaWWx0YkhDeV9Zd3k5RHFXeENDbFYybDJvY21MZXM2LUlSYWdKOFR4Q2FkRkZvVDQwLXcwWDJoUFpVdW9WRlM2eEdsanU3UWQwYTNBdTZjQjlFRDRLdEw1UVprOTlaZ0Q3LUNtTjBiemVyZ0FkSVd1ei1CLVhGemo4YW9KZmNFZHZjSVNOWQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:07:31Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "d9c7b64b2c36c8",
-   "title": "Does S&P's Credit Warning Matter For Nvidia Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU4tbkNUaWVWelZQY1lSRDFKb3I3b0JCeDhUa0VMWXBLTGE4UnJtbDdtTEJyMWN5NW1TaUplLWR6SHYtRm51OURlcFp3M3NvSl9TV2lGU2ZhQTdnMG5raDVjUnFMQi1yaUtOdlM1UnFGMEQzNDFMZkotQTd1N3lMVzhGc3hfcklxa29NZHI0SHJrNWs4Tlg4blR3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:03:23Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
