@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-26T14:57:50Z",
+ "updated_at": "2026-11-26T15:02:42Z",
  "items": [
+  {
+   "id": "6597990d3a3c77",
+   "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-26T14:58:45Z",
+   "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "fa8fed35ca64a7",
+   "title": "Is Apple Stock Outperforming the Nasdaq?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazg2R1lYQVpOWHZoV0NCcHdxdGpkMWlDZ09VT2lteEVwR1VONDhNV2lKZG14dDdGdG9iQWI5T2tNTVRDOFh6M1NYYnBQb1BGRFdLZHR4YXVINHpXRlFIQkJ3YzRiamp2Z3lvZGtrb1JGeWtnMHVmUWctNHhNWnlaTUZ2QUhWVVZ4b05J?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-11-26T14:50:07Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b3208d6e5b004d",
+   "title": "Stocks’ Swoon and Higher Interest Rates Are a Bad Combo for the Economy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGZZSW5hcF9tVkRJTG1lVk8ta3Y0VjJEQ1VkeDJ6M19XcC1KSnVNbGtXWlhVX1pscG1KNWY2MHFXLXIwUFFLdTdXb09kUGFmUFQ3VkxTZlEzRmZGWmhzSTVOMzA2dVFaSW1xeE1BRloyYkQ3R2RlYURsOVBRMFN3eA?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-26T14:44:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "bdb12bb48cddac",
    "title": "Wall Street Is Suffering a $2 Trillion Huangover. Is It Time to Buy Nvidia Stock?",
@@ -410,16 +440,6 @@
    "date": "2026-11-26T12:07:00Z",
    "score": 5,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "d9c7b64b2c36c8",
-   "title": "Does S&P's Credit Warning Matter For Nvidia Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU4tbkNUaWVWelZQY1lSRDFKb3I3b0JCeDhUa0VMWXBLTGE4UnJtbDdtTEJyMWN5NW1TaUplLWR6SHYtRm51OURlcFp3M3NvSl9TV2lGU2ZhQTdnMG5raDVjUnFMQi1yaUtOdlM1UnFGMEQzNDFMZkotQTd1N3lMVzhGc3hfcklxa29NZHI0SHJrNWs4Tlg4blR3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:03:23Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "911eea5be731b0",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T08:56:05Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "ef90bb14f80bf3",
-   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3lLWTJoOVk4ZnVVZWpOSGE0SVJHSkwzV2ltS3ZZWmh3M2FHV0U3RFZnLS1oNEowUjIxVE8zRUlSVG5ZZXV1OTVZT0N6dnNUTVViLXFvTXhLeW4yLXVtbWRwQmRFdkt0Q01pemZwUWFrSmdZZC1PdTVXMmZ3c1lnbUx1TktRZmtFcDA3UXF5ZDlEOVBGd0ZibloxQ2U?oc=5",
-   "source": "WTVB",
-   "date": "2026-11-26T08:55:27Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4c274a0da8a224",
-   "title": "Euro zone government bond yields rise as stocks rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSG5rQ2ZjT0didjNxUGtVc0JKTUp5TUtNZjhPazkzbjR0QjN4YlFzanc2OXpEbUtGelRJUE50UVhNSUZpcDdxQ3djb0hRMVBfdUE3YUV6THA0cmZVUjBGRHFwMjNIR2RTYktBV2MtOHZ6TzRLWmN0d1VaVkZnTnpWNWxNUlZxSjZHanNPOVdpTlpjOUctRnJjMlR1ZUFFOE9WdGtsMVVYeUZlT21QUU5RVGR5ZG55am5YT0E?oc=5",
-   "source": "Zawya",
-   "date": "2026-11-26T08:53:14Z",
-   "score": 5,
-   "category": "Fed y tipos"
   }
  ]
 }
