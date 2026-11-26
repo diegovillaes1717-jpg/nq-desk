@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T11:56:14Z",
+ "updated_at": "2026-11-26T12:01:00Z",
  "items": [
   {
    "id": "6e5645207909b2",
@@ -30,6 +30,16 @@
    "date": "2026-11-26T11:42:24Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "3546bfffac5fa7",
+   "title": "AI Stocks Resume Their Slide",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T11:33:46Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "60238ec166feae",
@@ -152,6 +162,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ffefad3b942d3c",
+   "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFFZThqbzEzaUZjWGFXNWdYRHdvcGJWMzlXWlZ3bWNpeHlaSlFSUUZ3SlZpM1BXVEdTZDVnN05VZFc4MG13RWFreURIbk00aV80MUNrU0ZseUZmWlU3Wk5IQU0tZkltV2tUYU4xa0MyMUpXSWdsSFVBRzRoLXMyT3JMRklhTjNseGhMUWptWTNVc1I4clhYZ3FMWGlQVXBFQUln?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T10:53:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "d14d9add1f6aef",
    "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
    "summary": "",
@@ -210,6 +230,16 @@
    "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5b96c4c9c158d4",
+   "title": "Silver Price Forecast: XAG/USD steady as US bond yields retreat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEdDckJ3ODJvWno0S3JfLXVCTkZmTy12RUlPTHhYYThnbHZSSk9TRDY3VVkta1BvLVBpYzhMOEJMRUdVUnVvNE1mMkJNRWl0c2loVjdycEJIUUo4d1lJMWtxUWZyRzdvcWtSbEhOS3QzSFh2cGVJUVpfUC1NOEhoa05jX1hUczNHR2M5dlpGQjNXR2lPT1dhWkVibFltVlc4VFVmSDFWbm9FNFhSNjRkRlczd05zY3Fqb2FDMjc0dE9MVHluWWllT2VpaHlUUlVtTThldkZVYw?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T10:25:30Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "f70c65efa2ac48",
@@ -965,7 +995,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T06:04:05Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "3f88de8e7ddb25",
-   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T06:01:28Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "871981e68663d1",
-   "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTNYTTZ1N1VZSUpCMHUzWVJrMnN5M2NJQjlLTllwaGdjZ3pDZnJTNWlZbEs3OExGOXhCeVlDczRLaGFEaDJ5dklMbUl1TGllTmpZd09ZMnFsS0xhR1ZaYTQwUDU0eG5pZi1VSk1oS3RibGJvMWJ3R1g2V2U5VnBKMjh6UmVWM1RNQ3RiUnhjRjhmV1FVWUtMQ01vU2poVXhfbDFsYkRSMDdkdFJMdWxmYm42STByb2NSdHFEMUlR?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-26T06:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fd1f3aa9f6dce1",
-   "title": "Trump Tariffs On India: Which Stocks Are Likely To Be Impacted? Jefferies Decodes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOXFxVk9FbDhlSV9vQ05aUjd0WmtNTGVJN0RtdDlJaENVRWVkNDVsVHZsM3dZYlJuUEZ5c2lVdHhwdmNSc0lVWlJqZXR3WFFQYWZqYXA2UUJUMndEMVJlQlVzajRMUWhndEZhWVo2aXpGNGRYek5BTTBPSEVoMWZVTEw1SlZPeHBEdFBBNUNwZllRX3BRVHAtS1RldFY2d1lTQTJsZjU5UFg4YW1iTXYxcFlKbHFfWjJLV0FJdWEwSHU2Q0p4dUJTNmZQaURTZDZSU0ZQeUtVLVk5TlFuTG45UXZkSmV1U0hleVRHbGJKNkbSAfgBQVVfeXFMT3Nzd1FjOC1ualM1Z21HbmNlNUFnM0lyelJPUDgtTkdzeWVyQlRpaFhYcVRub1o1SGVmUHVkNVc0ZWRNckMyTVp5aE5SOVJJRWxsV3NrZGMxRXRBTWx5LUdoQ291MkY5MkMwbzZzSFp5VmxVQzhqRHRjYThlWHliLXBxOTE2VEtpeGFfYlVMd3N0cFVoNG5MVWs1Znp4NFhONmEwSENYS3pGbmxZSTdyTGdUeERTUndzdjl0bzVGaHpOcmdvNjdVVjdQTEZYc2YzM2s1ei0xZW5vNlVrczl2MXNkbjh5Qmk5ZTdPeHBkNnA4SUx5VGdiNC0?oc=5",
-   "source": "NDTV Profit",
-   "date": "2026-11-26T05:55:29Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
