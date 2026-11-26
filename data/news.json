@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T17:02:30Z",
+ "updated_at": "2026-11-26T17:07:13Z",
  "items": [
+  {
+   "id": "ebe2326ff46a15",
+   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+   "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+   "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+   "source": "CNBC",
+   "date": "2026-11-26T17:04:54Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7d8ef5247bb579",
+   "title": "What a ‘Fed put’ would mean for your portfolio",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYk4yYzNzaWVuXzlBcHNHN21NWHd1aEhJdFJWdmVfUjFDMUdTSUNwdnNpUDVySFltaDMyak9fbTVkWUJxejZuTDdmSFQyVkIxeFVBRzdua244YTI3OUVuWEpXWWhldTVBbWtyeDh0ZXpnNTVtWkY4Q1pXcy03RTE4OGJIcTFMSFBYVEtn?oc=5",
+   "source": "Trustnet",
+   "date": "2026-11-26T17:03:08Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "7adeb4f809611a",
    "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
@@ -135,9 +155,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:06Z",
+   "date": "2026-11-26T15:49:07Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -482,6 +502,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "b749dcdfe2f8ba",
+   "title": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXFfM3AxNjAxLVVEMXMzVEhVc3FvUXFNaDFuRlV6dmlTVEpsNGdDZU5VOGZZWTh5eUJ5dWQzZlByZ2ZIcE9nX01Tak5KRDN6Q1Z2Z3Jqbk9WYzVYZVVtVjNobWxndnFSZk02TXo3Vlk2Z0pDZUFGbDZKSE00SXpVYWlSVmZjdWZmQ2xxUTF2RzZnYllpUUhaYm1SV1dGa0o3SUZndmd4dlFQSXNWN0gzUnhUbDZlQQ?oc=5",
+   "source": "Kitco",
+   "date": "2026-11-26T13:54:01Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ce62fed99b976c",
    "title": "Economist Robin Brooks blames Fed for stock market correction",
    "summary": "",
@@ -772,6 +802,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "23ce8c153f10ec",
+   "title": "Global Selloff Pushes S&P 500 Futures Down Nearly 2 Percent",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sc05kbUI5T3JtZnFySTBxUTIxRnFPMEVLUmNWRml4MEZTZlVLd0VMTUxneHhwYWVCOWlvZ01QVk5meXYyRUR5UGxLaXhwM2hNVk00eDBNS3UwQ21LNnI5UlRNMA?oc=5",
+   "source": "bsinews.id",
+   "date": "2026-11-26T12:34:01Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "6256c2209c3c5f",
    "title": "European Stocks Rally as U.S. Tariff Plans Prove Less Severe Than Feared",
    "summary": "",
@@ -885,7 +925,7 @@
    "id": "55a5085726ccc1",
    "title": "Strong US growth and high inflation fuel expectations of Fed rate rise",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXVzQ1p5WTJYc1pJbGZMcEw3UGdtQXEtc25KSlNDS05hcG1SdjNkcnMyelhhVVd6Wlg4NVZ5aXdsSEpKUzFuQkxRTUNVYkd6YkhKekxiemVfTzdEaUZUX1VpZjVTZUZFcDV5LWg0TTlqTGhhdDd5VFZyRmFDVGgtV21pdDlTaDEta0hkQ3ZObUg4Y1o2WktUalBudzVRSkw0ajdyRFZUa3g0cWM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmFvd1FVR0NHOFFkME1CUGZpeDEwcmpZRWRNMWF1TjZJeEZsQVBERVltaUcxT215dW44OUYtSjBjb25CU2V0LWlwWEhxanBFNGhNXzVncDFRSFRBMk4zUklDc1dOa2U1VDNEZG1QTExxQjlZVngzX2FFQnJNS25MSU1pVWZlTVFTeTJwTFNFX2lYR1ZPb2NPbHlycHE3Nzg2N2dUYjNSd1BSczhDVUZteDF2akltdERIelZZMUZoejVrR0hWaW5V?oc=5",
    "source": "联合早报",
    "date": "2026-11-26T12:00:34Z",
    "score": 8,
@@ -1160,46 +1200,6 @@
    "date": "2026-11-26T11:02:10Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "3c4873e38760db",
-   "title": "The small-cap Santa Claus rally is on — but a December Fed rate hike has spoiled it before: Chart of the Day",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcU5WaEJ5c0JpdzVicVRORVZpMHBnbjdoYlIzdFROcDlVUWJoaWRlTjFpdWpJS25ZYVk2dktEb3F3WmQ5aDcwQ2ZVeFNoTDQtQl9tZTN5b3JVUEpaQWxWeVZ3eG5RdDRaeTBoQTRyc3FjWW5jd3p6LVlNWDgzMkZWQzRqbkNRZFBrT1NoQlRQTjhvWTVEYW90c1ZIdWYxeWlhdVFDQUNyQ3ktNFBZSWMxWWVYUFZZNE1vc0NSN2pHRUpqd3Faa252ampQSTRXWFZTLVpRMG4xRHMzS2Z4UkdMWlRYVk1CNW4xVWdqLVhfUWdnUkpwNUE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T11:00:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e7f1471fd51e8a",
-   "title": "Nvidia Reportedly Halts AI Server Shipments to Four Southeast Asian Countries Amid Tighter US Export Controls",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3dMNG5nSXB6aWtwVVpJSTc5SU5ST0l3MjZkdUtVOGhHalBMaGFBaWVHT1UxM3dLTXd3QlhmaW5iV2dxQ0N6R1F3R3Zwd0p2cjQzajM5NUVuRDhnallFMHpGa1VObVZvb0pfaWRlX3ZuQTF5RVYxOWV1ZzRZQ0IybVlUZWIwM0xOb2RnRWh4MWF1a1BmMzRXNEdSaUl6dw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T10:59:10Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f5d729e3aee0e0",
-   "title": "Nvidia shipment halt threatens to stall the AI rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlI2MmFSNGVseUkxcGNLWW5RQklfcDJnUE9weDhQT2hOXzQ3dkdQekxaX3dET1ZzS0FMd0ozOWF3ZTlaVHdxcW0yeFJBTjFDTlVscU1CT25KTUd2cjdHSnM1ZG1CZTFkay1ZVHBZR204cWRacUJpbi1WZ1M1SnN1U25CLW1sbHZ6emFXMzRfNnBzVUxMcUlfOTVEdGZER2ZlcFZmU3JmUlJWemVtUldxTmFOdkM?oc=5",
-   "source": "CoinDesk",
-   "date": "2026-11-26T10:56:08Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ffefad3b942d3c",
-   "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFFZThqbzEzaUZjWGFXNWdYRHdvcGJWMzlXWlZ3bWNpeHlaSlFSUUZ3SlZpM1BXVEdTZDVnN05VZFc4MG13RWFreURIbk00aV80MUNrU0ZseUZmWlU3Wk5IQU0tZkltV2tUYU4xa0MyMUpXSWdsSFVBRzRoLXMyT3JMRklhTjNseGhMUWptWTNVc1I4clhYZ3FMWGlQVXBFQUln?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T10:53:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
