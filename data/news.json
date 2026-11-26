@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T02:36:20Z",
+ "updated_at": "2026-11-26T02:41:07Z",
  "items": [
+  {
+   "id": "f16cf193f826f3",
+   "title": "Treasury Yield Slide Limits Dollar Gains Ahead Of Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUVFwd2c3ejN6eU9ydFRDZVJwUDV6X3R1STd4UG9KZkZIN3czTE9rOElwMjVvd21BdVlHMWVRVW9Gd3d5RFA0TzBvUm1NNjQwNXZxdW9iWVdtVEl5a3RHb3pxQllnRnRWbGFqX01aS29yX3hXOHplWU9RRWF0cWc0TFdDZEtodVRWbWxWNUxuS1I3N1RIWmoxcVRGRTVNdFo1M3ZlbklCWWFKUFRhYVZzYjlHX2Y2d29ITTN1M0Z0UzVQWWNheUhON2xoQmJObEJPVTBKQ0tad2dUamROWkpKaUlQS1NxQUFhbklfQmJBbDlzTkNlWkZ5dG9uNUszaGtEclh1TW5zUGJiZ3g4aHRPWGwwdElzajR6U1REQTViODBnZG15d1dGYkZNQ1FwYWRLYVhVcF9XNTk?oc=5",
+   "source": "BusinessToday Malaysia",
+   "date": "2026-11-26T02:28:01Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "ee97795d33a6a1",
    "title": "Australian Dollar gathers strength above 0.6600 on hotter CPI inflation data",
@@ -290,6 +300,16 @@
    "date": "2026-11-26T01:23:26Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "8250f50cce8a13",
+   "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
+   "source": "Metrobank Wealth Insights",
+   "date": "2026-11-26T01:21:25Z",
+   "score": 11,
+   "category": "Tecnológicas"
   },
   {
    "id": "4b36655822feee",
@@ -872,16 +892,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8250f50cce8a13",
-   "title": "GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T0s4VFE5cWxvYUhldEZKYUlwakk3NXducXg4VXNJelh4bTRpeVZmMDh0YVFMNDdIN3FQWXFLVzZXcTJSMERweUlxT1dMVkpHUzl2Qk4wM2x4R21iSEFzeEc5MEFlRW8?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-25T22:32:30Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ca85da13f0b530",
    "title": "S&P Discovers Nvidia’s Governance Lapses",
    "summary": "",
@@ -889,16 +899,6 @@
    "source": "The Information",
    "date": "2026-11-25T22:31:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T22:30:21Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -992,16 +992,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "cf15cbf71a308f",
-   "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByeEpQR1VNeWV4bzNkcHJ2SkdaY2luc09hZk5mUVhaOUFNN0dnUXVyQ3p4cGtpUGVwZm1OcGxXYWlNMlFWY1Naa3M1Q2pBTF9EMjNRZ3M5aE1lWFpkWVRscg?oc=5",
-   "source": "bsinews.id",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "22f29156c51572",
    "title": "Pullback in AI Stocks Eases",
    "summary": "",
@@ -1009,6 +999,16 @@
    "source": "Newser",
    "date": "2026-11-25T22:11:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "cf15cbf71a308f",
+   "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByeEpQR1VNeWV4bzNkcHJ2SkdaY2luc09hZk5mUVhaOUFNN0dnUXVyQ3p4cGtpUGVwZm1OcGxXYWlNMlFWY1Naa3M1Q2pBTF9EMjNRZ3M5aE1lWFpkWVRscg?oc=5",
+   "source": "bsinews.id",
+   "date": "2026-11-25T22:11:00Z",
+   "score": 10,
    "category": "Tecnológicas"
   },
   {
