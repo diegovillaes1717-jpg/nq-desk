@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:26:18Z",
+ "updated_at": "2026-11-26T23:31:04Z",
  "items": [
   {
    "id": "a9f45b768bfca4",
@@ -122,6 +122,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9728826c45f58f",
+   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Euronext Markets: Real-time Stock Market Data | live",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFU0MGVaQ3FORTJicWJ1QTlNQWRob3haZGpGQUR2bDg2QXpYNHZtSTZyUGFCN256S3ZpWlI5cC1mT2MxR0NfZ2FJYXpnRVc2VG9ycTNvN1A4QzdiQmF5SWdhNEdscW9VTFFhdlhfaXJGZm4wcElWU2tyaTRrWmRMY0tSZ0JpbS1yTERnME54SmxSMWFNclRRMzgtOXJScVNVSDNkVmZwNXNaczg?oc=5",
+   "source": "Google News",
+   "date": "2026-11-26T22:13:14Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d1ce66d3d36eac",
    "title": "Five questions over Nvidia's China chip trail that Huang's return has not settled",
    "summary": "",
@@ -219,6 +229,26 @@
    "source": "Crypto Briefing",
    "date": "2026-11-26T21:04:41Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "76e19dd493f2fe",
+   "title": "A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ZVh0VldaeDExbVJPYWo1UVRfVTU1Vmx2UzRaemZEWm1lYW5EdXlmT2xmQnRQYkVjWmt0cTdhQnBXTlJTRFJpZXBRYkRCUmI1WWVSd3htc0NuYl9tMkRTLVZ1NDJGWjFCVUE?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T21:02:19Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "78189e30c7b04a",
+   "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVVmcklhLWpUZXlzeXZFVWNGVGtqRUJJUmR5TTRwWnpObTdjcDhaWE5iVWFyYVFsZmdhUEsyY3lWQmc0X1NOUHZEOTh2ZGIzdkJlZVR3b18xQmRwN2JkR2tGMVY1dERxbkdrQUkwaGhzbVQxb3o0YUVvZ0N1TkJQM0xJWGZPUjZXaDlqQi1fSmVzdmNPcEdRV0RJSldqbnFF?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T21:00:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -512,6 +542,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fd63a55abf4972",
    "title": "Fed December Rate Hike Odds Climb After Hot Inflation and GDP Data",
    "summary": "",
@@ -652,16 +692,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T17:35:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -702,6 +732,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e98d75d3a0493b",
+   "title": "Stellar moves higher while high rate hike odds and persistent inflation fuel caution for crypto demand",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2wzUWxHSFBkUkl4NnR1aWJtQXhNZnV4YkFRUldDNjZZSVJtRjR6enlfZ05sc05Ic1poTlJ1YjlWcGNyeFNwUmo4WUZmTW9PVjNJeTY0OTJhWDNIYVlGMFpwYU5CZ2p2ZklqZTdiYXpBOWVwS3E1X09hYk5aaFhVeU15NmZON29TNG1CNVczM3ZjdHA0Wmc?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-26T17:23:42Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "534f17d0adda34",
    "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
    "summary": "",
@@ -719,6 +759,16 @@
    "source": "CryptoRank",
    "date": "2026-11-26T17:21:26Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T17:15:02Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1150,56 +1200,6 @@
    "date": "2026-11-26T15:06:45Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "96567cd92f3c17",
-   "title": "Nasdaq 100 Touches Bear-Market Threshold as Futures Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3U3dySDB5cDdhVS1mOXQ4WVkxM0E4YUdCckY2TFN0dVJzZ0NUQWRRek9oUFpsaGlWSUNvT2JUWjNLbjVQZjQtYzFPeXRxOHhVclNQWXlZNjJOQQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-26T15:05:45Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "356eef8c13effe",
-   "title": "US economy at the end of 2026: Persistent inflation puts pressure on the Fed.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTURaVVZsX1NqSlFMM1NNNzVMWVdNbUg3S09jWGZyYXg2Qkc2WjhmMVl5d2U4ZWZDSmhORnBlNTFzTlgwQ05zWjdUVVJYdVR5SFUyVUphNWxmWHNkVXBQTmFuRnJaQ21Pb0UwX005aXpNdHVfMkNPM3gydGdheVZNbXYzNjczRzhhZDNyMjNnb28?oc=5",
-   "source": "Vietnam.vn",
-   "date": "2026-11-26T15:02:52Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5ab934b951e2ba",
-   "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-26T15:01:40Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "33dfa475b90d33",
-   "title": "Sen. Rand Paul Has Bought Up to $45K Worth Of NVIDIA Stock: Here’s What You Should Know",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkh5bi11ZFdtUXdVdmVYNzQ4dUFNMnJMRzlUVG5fZGVFcVZYNHdRaDVrdlc2cmtjQ2JfYlZTOE00ZDlWSmhnRDBLODJFb1o2LXF3MENUbnREaldrMEhnNjJxb1MzLTJXNkdGUWtyanBwdUU5NWk4RmpzdklnUWxzWVBqNk00Z052VW9ySUNXS2xZWk1JMHQzNURKSmh6YzZMT3lWU2tNZUlzV1JQaVhoWmRmMm9zMjlXZGN0MWxkUmRfUXhR?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-26T15:00:06Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "6597990d3a3c77",
-   "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-26T14:58:45Z",
-   "score": 6,
-   "category": "Fed y tipos"
   }
  ]
 }
