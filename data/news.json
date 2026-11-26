@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T05:55:51Z",
+ "updated_at": "2026-11-26T06:00:35Z",
  "items": [
   {
    "id": "88ab43384553a8",
@@ -362,6 +362,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "daa6635f48a23c",
+   "title": "NASDAQ Index, SP500, Dow Jones Forecasts – Stocks Rebound From Session Lows After Strong Sell-Off",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnJOX1lFaGVaNm5yNko0SXdYdEJUZVI2VUZyTHhYNWwxWXZ0SUxpbC1qek1ES0ctQ0pPdl9lSnFmRjl4UWdRenJmWGVGLUwzYXVyVUc4aFdCem9LMDRHbURYSktVdHJTY2piTUYyNThXSzMyQzYwc2xoa0FRM05iNGt6LUNUYm9HQ1ZrZEJKTi1lRHdNSUxZU0dGdGZvWmJzV1dFUUxEWWVsLUE0YTdsNXZwWHkxWjlYLWM3NzQ3S01tWkx6UzZIVldlbTFtR1dreUw3WnM2b21CVGNj?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-26T03:11:00Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "edeb219cc790d4",
    "title": "US core PCE inflation hits 3-year high in October",
    "summary": "",
@@ -500,6 +510,16 @@
    "date": "2026-11-26T02:53:25Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZpRHJyekZ3QjdOa0pGd0VJb1U5RlZ1U3lMZEVQaWdFSm96TzhnRXVwN3Jpb3dPajY5YUdESW5Vdmh5cEJWNHhWWUlQOGRmX2pCNXl2ZWpxekxVR2VoQkNpUjVyX0VNS1hKc04ya1FGR2lmTmpXdkNYNHpreEx2T093WnZ5dXZzT2JfaUkzSzdVNElzSmFlUFdEenJwcGZSRDdtam12WmQ3YkVjam9jaG5McWNvZw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-26T02:50:43Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "7a36f92209ae0e",
@@ -650,16 +670,6 @@
    "date": "2026-11-26T02:11:16Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "daa6635f48a23c",
-   "title": "NASDAQ Index, SP500, Dow Jones Forecasts – Stocks Rebound From Session Lows After Strong Sell-Off",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnJOX1lFaGVaNm5yNko0SXdYdEJUZVI2VUZyTHhYNWwxWXZ0SUxpbC1qek1ES0ctQ0pPdl9lSnFmRjl4UWdRenJmWGVGLUwzYXVyVUc4aFdCem9LMDRHbURYSktVdHJTY2piTUYyNThXSzMyQzYwc2xoa0FRM05iNGt6LUNUYm9HQ1ZrZEJKTi1lRHdNSUxZU0dGdGZvWmJzV1dFUUxEWWVsLUE0YTdsNXZwWHkxWjlYLWM3NzQ3S01tWkx6UzZIVldlbTFtR1dreUw3WnM2b21CVGNj?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-26T02:09:59Z",
-   "score": 8,
-   "category": "Tecnológicas"
   },
   {
    "id": "50fa3e34d1f674",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T00:09:00Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "5e1986a86bbbcc",
-   "title": "E-mini Nasdaq-100 futures slide as Core PCE tops estimates.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORE13blU5Mng4X3NoY3BDVmtxY2FfbGdva1d5MlBBLWZNMmIwNkZtOGhUOHNrb3YydWx3b0lKUlgtWDJwZ2pyaF9zS1dGSFZCRmZxY3JhdE1yM3RhT3kxWXVMSENBUWNod2ZuQWpLdHo5MWI0alh0OFRObWlsZmpJRmhSOF9qdW9FNkpJVldqeXJwdHBLd29NTDlicEVDVnVQdmk0LXpLQmpiMndSQlIxUw?oc=5",
-   "source": "CME Group",
-   "date": "2026-11-26T00:08:00Z",
-   "score": 10,
-   "category": "Macro"
   }
  ]
 }
