@@ -285,21 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de Nvidia superaron las expectativas y elevaron su previsión, impulsando al sector de chips aunque con cierta incertidumbre de los inversores. El mercado reaccionó con un rally en semiconductores que apoyó al Nasdaq.",
+  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó las expectativas a pesar de la incertidumbre sobre su dirección. El mercado reaccionó con un repunte en los valores de chips, aunque persisten dudas sobre la sostenibilidad del rally en el Nasdaq.",
   "puntos": [
    {
     "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Supera expectativas y guía al alza",
-    "resumen": "Presentó un beneficio por acción real de 2.68 frente al 2.47 estimado y elevó su outlook, provocando un ligero pop en la acción y un rally en valores de chips.",
+    "titulo": "Resultados sólidos tras salida de Huang",
+    "resumen": "Nvidia presentó un BPA real de 2.68 superando el estimado de 2.47, mostrando un sólido crecimiento a pesar de la incertidumbre por la salida de Jensen Huang y provocando un repunte en el valor.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados clave llegarán con Adobe y Broadcom el 9 de diciembre, seguidos por Costco el 10 de diciembre y Micron el 17 de diciembre.",
-  "que_vigilar": "Vigilar la evolución de la demanda de IA en los informes de semiconductores de diciembre y la sostenibilidad del impulso en los futuros del NQ.",
-  "sig": "397fb25f129ba3",
-  "generated_at": "2026-11-26T15:26:44Z"
+  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre y Costco el 10 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la guía de ingresos y la evolución de la demanda en inteligencia artificial en los informes de semiconductores de diciembre.",
+  "sig": "3b1f07253c7b78",
+  "generated_at": "2026-11-26T18:27:32Z"
  },
  "updated_at": "2026-11-26T15:41:13Z"
 }
