@@ -1,16 +1,6 @@
 {
- "updated_at": "2026-11-26T17:26:08Z",
+ "updated_at": "2026-11-26T17:30:52Z",
  "items": [
-  {
-   "id": "534f17d0adda34",
-   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0dDRUxNRHZ5UDVGekZRbjVMdHJqSThwbFBLY09UQW9fVFNTdjRXVjl1bUV5bFN5WFdSaWlZNm5idGM4ZWNfY2E3eTZjUEE4aWkyT1RPaUFZNXh0NS1DOUNoaHZkbFBEQ05ic2txYm1TalBwOUpwc3Y5LU9aWXV1cHF2OFdZMUgxRVNrVUpfT082dmF4Rk9wb1dvU0V3SDdXZTZweHQxdmFOdW8?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-26T17:21:26Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
   {
    "id": "bfd4619c36fbd5",
    "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
@@ -19,6 +9,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-26T17:15:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "534f17d0adda34",
+   "title": "Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHRlS0VSb01ULTlZQy1jTXFUOUtIaG1pQldaNDEwWHhtbi13ZkpOWE5TVTF6NDRra1I0TG8yS2Fyc2hNZ0tLQVRKVDBjMExKNlB6RmE2ek82dHhSQ2RyMU9VaGtkWWNZZzVwMHVmeS1GTlZVb2lVNFVIYnRDd0EwM0V2cHVfNERSMGwwM2lXbVlHazRvd3ZMY3RGMGZaZw?oc=5",
+   "source": "Coinpaper",
+   "date": "2026-11-26T17:05:54Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -135,9 +135,9 @@
    "id": "926ec0f5856b62",
    "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1Bja1BxWDc0aEdqbmV4Q01STV9qcTFZd1JpN2N1Rlp3N0dCclpxOEtKUEN2ODlrRVgtaHljYXlweHgtbjdfUDZ0dlZjdkw0anFSSF9ZajhUV1RjZGNnZzFnVVl3TUtOVXVXdi02a3psbW9Gb3Y3ZTdPdmN6MUlaV1E3ZDV3OUlPVWlGNGZRMm12NWI2WUhzU21MTDhsZUVzcW1mNzhVMUo1RGllMlJ6bUlyc0M?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T16:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFSdnRPQk1JV3F3SzQ5VHVza3dwb1RNVlk5WGt2QnA1OHlZaWRhdTRlRUdqSUlfS196STEwWXVNWWxOUE1BeW1PeWh3WmI1M1MzSUZvenZOVlplWnROYnl3NGswVTBmd3R3bU5peGpOWkF6MEIyQUZOOWlTMW1CMGZDOVd4XzJ6cS1yNEJuRFZlTzZjTDdTVg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T16:06:22Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -165,9 +165,9 @@
    "id": "c065c492615b83",
    "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZG9xOVducWltTDFGVmtrVzR5eV85NFRwd1BfbDljc1J1TEFXS0EyT0h0YnFmZWh1WXFWRnRJVFZoenpBb2JZWFM3VllwLTdQdmdFWTJROA?oc=5",
    "source": "money.com",
-   "date": "2026-11-26T15:49:07Z",
+   "date": "2026-11-26T15:49:06Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -190,6 +190,16 @@
    "date": "2026-11-26T15:43:52Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtlTE9WVW1YZkRFNlFzd1k2V0dVa21jcHhwOXJEczh1eU1DQTEyMzVaYXBNeVFLOGVIc1BBMGhld29YenlrY0p3WkRNek54bWJnbEh5SXZMMXVfT21jbFNDTXNGc3Q2UXN3NWRKbXRiTzlyUzZ6eDBZcHBmTm4yTTZZeExCZW03QXVaTEsxNWZBUk5Icm5FMm51S2ZjMUZNdFJic1UtS25sbkRxam05VF81WnI?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T15:40:03Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "2fd8e58eedcfde",
@@ -562,16 +572,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "aaa5d5c846a5f2",
-   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "830e28fa019b6b",
    "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
    "summary": "",
@@ -579,6 +579,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "aaa5d5c846a5f2",
+   "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWxYWWp1aHJzTVNWWFVaNHdYUFIzWXpJSS1wR1JzYl9mTFprR2d3VGlrejZQNWdxb05HLU1ETzNVaUMwNUxLc3UtTExfclk4Umd2Vm9EREJ4dUZjbGRvbUxmbkZGWFJNN1hrakQ1RjJPdm4zTkF0cU1QTEhOUURaZldNWGcyLXdwdW9MYlA2bkVLTy1lT19QTVAyajJrWUVWdDFmZnlwd05RcE52ZjFiZy00S0RjUzlx?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -692,6 +702,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1f3fabf4604af4",
+   "title": "Gold drifts lower as Fed rate-hike fears loom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaS01cTRpU3QtN3AzeHN4UHdHdFQ3UTVFUzNqenpXcWdiMUdOU2lpQVh1bk1uWklCRTZSUHpJMExkY2ZPaUh1VVFXMnJFWnB6TVhmNjV4Mm1jbU02X0hBcERnMm8xb204NE5QNTYtbkwwZVM2YUNpNl82NzlUTzRfUVZYelBVRXlRX0FtOUh6U3JYaEpIR2ZMNA?oc=5",
+   "source": "Kitco",
+   "date": "2026-11-26T13:03:19Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "be043af9bf949c",
    "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
    "summary": "",
@@ -719,16 +739,6 @@
    "source": "Financial Times",
    "date": "2026-11-26T12:56:10Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T12:54:02Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -810,6 +820,16 @@
    "date": "2026-11-26T12:35:00Z",
    "score": 7,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T12:34:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "23ce8c153f10ec",
@@ -1162,16 +1182,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "46cb9b40177050",
-   "title": "If an AI Bubble Bursts, This Is the Only Tech Stock I Want to Own",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHhiVXpIVGljZVdpQ3B3eW9nY0YwWnk1ZE51ZkhkWUJ6RWRBMkdIRlpkYnhpa01sMXlYZmVrbEFVOE5qZnRuX3lub3pObldmRW92OFpaZWUxY2NDZEVTNmkta0lyMXNpR3dOMlpzcmU0MTVyOWM2aTBxdWEzYVJkaklZLWM2NWZJTG96RHZOZmdUalhoa0pjU2RhVkJ1M0VFaWVwLUtFMXhtTzA5cDNtZUpBUnM5YU0xQk01UmZYRUpfS3ZoNzZZb1dYNFN2S3VQYUtXcUNHZm1PNE5pSTVXMVlVYWRZdw?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-26T11:14:52Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fd08d6324037df",
    "title": "Nasdaq Fades After Huang Rally: What Traders Should Know",
    "summary": "",
@@ -1187,16 +1197,6 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUdSVlU1TWpMYm9ENWNfQUlxakxVS0NQbHoyOTFwQ3BqRm45SGVWNkVpSXM3MEZ0NUhDYkJuMFFzZnpuQk1TMnY3MnVmU2NUb2VBcnVDQnFaeTFqU1k2TmRObmVOUGRGckR2M24tSjl5c2hPM0ZZX0Z2cGdlLUY4MjYtd2VCZ1RTUFFibzNnQ1ROOXZERWN1VnNVUm1lZ3lKcUdRVDBVQ3Zuem4ySUhQOGRJYjM4cnhQ?oc=5",
    "source": "CP24",
-   "date": "2026-11-26T11:08:49Z",
-   "score": 3,
-   "category": "Macro"
-  },
-  {
-   "id": "01058bf32403ec",
-   "title": "What you need to know about counter-tariffs and shopping this Black Friday",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbS05OXZoRlAxQzUwQ09rNE5iTzBCem11WElIcDRVWkFaS09GZTdSdXplS2N2cG1CTnJEYklJbFNNT055b25PV1FzVUVjRlBweEx3SVo3eF9lUUg2cEhBNmJ5RWptN0I0ZENwRVdrdVRvSnFxbVl1UjUtRU9DaFJVVHUzcjlvNnFLcXgwUHl6LUpIUzdjdFdxUVBlV1pBNXRzalJPeDlRcG1GWEw5bkJCS25xMnA?oc=5",
-   "source": "CTV News",
    "date": "2026-11-26T11:08:49Z",
    "score": 3,
    "category": "Macro"
