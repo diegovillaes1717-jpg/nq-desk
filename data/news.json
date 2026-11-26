@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T06:07:54Z",
+ "updated_at": "2026-11-26T06:12:37Z",
  "items": [
   {
    "id": "3f88de8e7ddb25",
@@ -30,6 +30,16 @@
    "date": "2026-11-26T05:35:27Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "a73f666a87c562",
+   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T05:34:39Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "1f61439424a712",
@@ -422,16 +432,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "a73f666a87c562",
-   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T03:09:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "6b370b594db3c9",
    "title": "Nvidia Slips Below Microsoft as Valuation Retreats From $5.77 Trillion Peak",
    "summary": "",
@@ -512,6 +512,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -565,7 +575,7 @@
    "id": "46f80705fe38af",
    "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzZma3VZX1hmMUYtaEdhaHdNeVdHaGhTS0JzSzdnYS13NExoYmtIUmZoQm03cGh3NWlVRmhGZ3IxUE14eWdSM1p3dHlUVGdkNG52LTktVDJuMkp1T0IwMHdMU19aUEk3YU81Y3Nxck9wNVE1a2kwd3ViOFFOcElaQndfaTB0S19KRlpsYm40SExISjBReDdSMEZabzZTMDJwTHdWVGVoMHVKd3RVeXVpUkZfZ0d5MWZxLUFTSnBxclM1LVFSTXYzbHNTUkt0MzBxcVREZkVpb1nSAdgBQVVfeXFMT2c2Zmt1WV9YZjFGLWhHYWh3TXlXR2hoU0tCc0s3Z2EtdzRMaGJrSFJmaEJtN3BodzVpVUZoRmdyMVBNeHlnUjNad3R5VFRnZDRudi05LVQybjJKdU9CMDB3TFNfWlBJN2FPNWNzcXJPcDVRNWtpMHd1YjhRTnBJWkJ3X2kwdEtfSkZabGJuNEhMSEowUXg3UjBGWm82UzAycEx3VlRlaDB1Snd0VXl1aVJGX2dHeTFmcS1BU0pwcXJTNS1RUk12M2xzU1JLdDMwcXFURGZFaW9Z?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNxZWZyWmxxempfMGxaLW0ydXBHbGJGd1RNZWdJR2xtemV2bU1yUmtQRm43cGFvWmc0UVlYMjMyS3htRHZKclBmMlN1bHFrQ1JPVHBqOTBMa0ZmMW9abVRRQ1RDaTgtdkpKQTNxUUhRdU9GOEtYZzlZZTRZa1pDNURfVDVORTFScnBIMDFzVjd1Z0RLRjFkUENoeXFQT0tWVlQzZWRwQnVuMFR1LXU2UXdWVlNnWVpGUlBRVDc2YjFGbnNFdjVCUXAyVE1RT0hhN25n0gHYAUFVX3lxTE9nNmZrdVlfWGYxRi1oR2Fod015V0doaFNLQnNLN2dhLXc0TGhia0hSZmhCbTdwaHc1aVVGaEZncjFQTXh5Z1IzWnd0eVRUZ2Q0bnYtOS1UMm4ySnVPQjAwd0xTX1pQSTdhTzVjc3FyT3A1UTVraTB3dWI4UU5wSVpCd19pMHRLX0pGWmxibjRITEhKMFF4N1IwRlpvNlMwMnBMd1ZUZWgwdUp3dFV5dWlSRl9nR3kxZnEtQVNKcHFyUzUtUVJNdjNsc1NSS3QzMHFxVERmRWlvWQ?oc=5",
    "source": "Business Standard",
    "date": "2026-11-26T02:42:48Z",
    "score": 8,
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T00:28:00Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "93888dff47e013",
-   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-26T00:18:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
