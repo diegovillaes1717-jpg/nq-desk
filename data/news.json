@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:24:16Z",
+ "updated_at": "2026-11-26T16:24:40Z",
  "items": [
   {
    "id": "bebf1d4a8a5feb",
@@ -225,7 +225,7 @@
    "id": "33dfa475b90d33",
    "title": "Sen. Rand Paul Has Bought Up to $45K Worth Of NVIDIA Stock: Here’s What You Should Know",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjZtR0VmSm5SNU1lakphcnhtSlR5NmplQnAwX0dQMHphd054MGhqR0F4WUZKVWltM0hQcEpnLVpNZC10Qmh1cVlDRXQtTkVkcWFlSnp6eW1hdU5yWkluTmN5X2pZY0RnNnAxWWdRemRkSHNzWmQ3MkJ0RTZ1V3FCZ0h0dW5naWFndV9hZ1pOWi1uZ3hJQ3BRZEJIdG9EYjRtZlJ3T0hrX2JRN2ZzNzk4RXJkMVUtUV9VaHhfY2J2QlExZTVyWmF2MGZFMEdKbjZWQlZWZ0xLZUp0cTcwdzJ4ODZDSGxzZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkh5bi11ZFdtUXdVdmVYNzQ4dUFNMnJMRzlUVG5fZGVFcVZYNHdRaDVrdlc2cmtjQ2JfYlZTOE00ZDlWSmhnRDBLODJFb1o2LXF3MENUbnREaldrMEhnNjJxb1MzLTJXNkdGUWtyanBwdUU5NWk4RmpzdklnUWxzWVBqNk00Z052VW9ySUNXS2xZWk1JMHQzNURKSmh6YzZMT3lWU2tNZUlzV1JQaVhoWmRmMm9zMjlXZGN0MWxkUmRfUXhR?oc=5",
    "source": "Benzinga",
    "date": "2026-11-26T15:00:06Z",
    "score": 3,
@@ -442,16 +442,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "830e28fa019b6b",
-   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
-   "source": "kalkine.co.uk",
-   "date": "2026-11-26T13:35:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "aaa5d5c846a5f2",
    "title": "US Economy Surges as Hot Inflation Complicates the Next Federal Reserve Move",
    "summary": "",
@@ -459,6 +449,16 @@
    "source": "kalkine.co.uk",
    "date": "2026-11-26T13:35:00Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "830e28fa019b6b",
+   "title": "Dollar and Treasury Yields Become Key Global Macro Signals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWw4UjVPOWZLNnRuTkIxdEctZXpiekZ2bjZEXzdvZG5PVTMxdFR0REZMdjdIcVlDNENueFhhdEoxVTRta1dzTzJZdTN6bW5ocGZfTmRkNU1FUGRxTl9zaW5DNVJiM2JLem9IOHpldG9wSFV6bXp2YkJBLVRKbVhrYVJFd2ZlYWs1cU9yWW03Ul9PMDRZUUdINVNzdk44NUR0?oc=5",
+   "source": "kalkine.co.uk",
+   "date": "2026-11-26T13:35:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -602,6 +602,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "38aaf80ef60ecc",
+   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T12:54:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b535cb4d3a0e71",
    "title": "Gold Faces Fed-Driven Selloff Even as Central Banks Keep Buying",
    "summary": "",
@@ -680,16 +690,6 @@
    "date": "2026-11-26T12:35:00Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "38aaf80ef60ecc",
-   "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxoZmhmbTBfTjRNOEpJY25zakJlU1pSVEVvbVdVazBKQXAzT1JNTFJsS0tlRmNELTZERXVxd25tei1FYnYtUmsxRTdUbUZmN3RhQlp5WDMwbFYtNmlhRjZ5WEdMRzJjekRIX2g4TFFSanU0YUFYTGZvNXlxUEJ5a1BpN1h0X3VKWWM0LWN3WVRMeTU5SjlXS1NBOVFGNkFTZmd2TVIzbGNoSE8yMEh5YkFuSDd0Rk9sdnF6MGY0akFQRGM?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T12:34:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "6256c2209c3c5f",
@@ -1122,6 +1122,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "34f7d5e876e273",
+   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T10:49:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "887add88324fca",
    "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
    "summary": "",
@@ -1158,16 +1168,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemRRcm1kRDFLcUNpbmtjcnpmOWduZWVwSm9ONFYwMEt6dnhDSjRhRGxjYl8tYm00TS1ueGJBVjdoWEFQYUVKWktfTGVqN0sxazRUcUNQWHNnQVEwbzQxNGlRS09JTWZ5Q3ppcXRqemo?oc=5",
    "source": "FinanceBuzz",
    "date": "2026-11-26T10:30:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "34f7d5e876e273",
-   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T10:29:02Z",
    "score": 3,
    "category": "Tecnológicas"
   },
