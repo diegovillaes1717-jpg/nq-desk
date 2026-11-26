@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T12:05:46Z",
+ "updated_at": "2026-11-26T12:10:33Z",
  "items": [
+  {
+   "id": "a52b124a792dc6",
+   "title": "Jensen Huang's Nvidia return just gave Denny's a viral marketing moment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEhfSC1YWmdWM2pnYW9lT3p0UUh2Qi0zRjB2YXJfVjQzby16Wkh0S3JaWkVGTnJPRzhRU29zWmYzdktlMi1wdEpxQ3ZwOVNNSzlLNDhyM1dNa0hUX0lXSWtxVXlORmZydGJjM2hiV2F1SFpSZ3BtQW9XRW0xX3lOcTNmZnd1YlBBd3gyWW4zOU9DMGNSMXBfazdnaw?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-26T12:08:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "def286aa0c2efb",
+   "title": "10-Year Treasury Yields Just Fell to 4.85%. These 3 Dividend Stocks Pay More",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXpqTVpWZVBldExIb19IQ1hJbDJ4U1lsT3dJbXl6ZS1HWmZTWWU4eEMyeDEtUVJpWkFxVHNpMFNfMl9iRmhma2x3WGgwZF9mV05OSGZncGY1WGpzeDdyLU40R2hpcjlVXzFNLS1iQ0VOZUFPTHJTRFp3cUVUWG1tY016M0d3LWpBajFOcUx1NG9OTWpSYk5fUGg3eTdxWWJJZEU2SHpybE9QT05FVmpiVFJ0cjR5d2pCbFE?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-26T12:07:00Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
   {
    "id": "817cc84ab0af38",
    "title": "Fed's Hawkish Pivot Puzzles Investors as Nomura Breaks Down Five Possible Motives: Fear of Repeating 2022's Behind-the-Curve Mistake",
@@ -182,16 +202,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "ffefad3b942d3c",
-   "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFFZThqbzEzaUZjWGFXNWdYRHdvcGJWMzlXWlZ3bWNpeHlaSlFSUUZ3SlZpM1BXVEdTZDVnN05VZFc4MG13RWFreURIbk00aV80MUNrU0ZseUZmWlU3Wk5IQU0tZkltV2tUYU4xa0MyMUpXSWdsSFVBRzRoLXMyT3JMRklhTjNseGhMUWptWTNVc1I4clhYZ3FMWGlQVXBFQUln?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T10:53:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "d14d9add1f6aef",
    "title": "J.P. Morgan Assesses Treasury Yield Stickiness Driven by AI Capex Borrowing and QT",
    "summary": "",
@@ -199,6 +209,16 @@
    "source": "KuCoin",
    "date": "2026-11-26T10:53:00Z",
    "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "ffefad3b942d3c",
+   "title": "Has Gold Lost Its Safe-Haven Edge Over Bitcoin Due to the Federal Reserve?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFFZThqbzEzaUZjWGFXNWdYRHdvcGJWMzlXWlZ3bWNpeHlaSlFSUUZ3SlZpM1BXVEdTZDVnN05VZFc4MG13RWFreURIbk00aV80MUNrU0ZseUZmWlU3Wk5IQU0tZkltV2tUYU4xa0MyMUpXSWdsSFVBRzRoLXMyT3JMRklhTjNseGhMUWptWTNVc1I4clhYZ3FMWGlQVXBFQUln?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-26T10:53:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -382,6 +402,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "651543e5615f1c",
+   "title": "Bank of Japan’s Ueda Vows to Keep Careful Eye on Fed Moves",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnNza2NNRXZGYWpkOFZlTS1qYV9TRUQyMTFnSWxTQVlIQW01R0tzTm41dVhsa2VUZHRkcHJkbko1NjNVZ0I4emgwdXcxcElXa3ViRnA5NWZDWndSeExsQk5CQTJ0NS1JX1duQ0dORTZ6MVludnFYOFBKM2h1aWNyXzk2SG9JVDlwU0YxUkVpdzhtVENLSmgzZnlvbFRVdXhCeW5naU5TSHhOcjdmLWptUVRXT1A?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-26T09:55:39Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "355a4b1c8a6ee3",
    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
    "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
@@ -445,9 +475,9 @@
    "id": "bd648dc7446757",
    "title": "Global markets trade mixed amid US tariff threats, hot inflation, tech volatility",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaElLQ2YzSmZHRlZnUWprOXg3Q19oT21ia3lISlMzYmtjV29xb01EY3lGaDFkcmdmSC1rcS10ZWxYZGFfZ28ycDBPUVBma29YdFo3NlVQLUxPX3R2dnNVeXpGTVE4bVM3VWR5UGxHcTRjd09DWFdmY3d6ODVGZHA3WDNnOEpkaUhEQ3dIOWFEZlVVQVRGVzdfOGxMQ3cxb25GYkVQRXlENEt2MjZWSHRPbXVLQnpjdGM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUUFqeVRRbHI5OXhseUpmSnloOGtERDhJSzNLNzJPSm5LckVHd25XRTVWaENpLW02MGtyYzI4aEJMa0JqNHl6ZnNUOFlqbHRqQ3NuMUVWRTVIOGJhbEd5SDRFU0FoRWNWWDFNV080TktOdFBhR2FpQi1vdWxrNFBRLVJYeWZTSzR3NHQzbkhPa25ZN3Vld2xCNmtKSk5WMF9jT2ZrLXpOaDZrVE5zVGhIRGJKS0xSc2trdHpRZw?oc=5",
    "source": "Anadolu Ajansı",
-   "date": "2026-11-26T09:31:09Z",
+   "date": "2026-11-26T09:31:55Z",
    "score": 9,
    "category": "Macro"
   },
@@ -1015,7 +1045,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -1169,36 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T06:28:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "171cafa57f40d5",
-   "title": "Michael Burry is more long than short after unwinding Nasdaq 100 put options",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM2ZOcTZ3Q1FBQUdNTUQ3UEl3WXozNmdwMjl5RXlrR3AzdHhiTXdGcnJPQnE4Q1k3QUk5MmRpdkFfdTY5cWpjZ2hTQzF3OHhSVlQ0WEN6N3ZVS0VxMGhqYUpscHJNb01rQ1plby1IVlRoZUxkZG4tVHhpUF80Sy0zbi1JeDVqR05BTXYxUE5xYWd0c0RXcnVYdXNUM20xTzJuVjRNYnFBYzhUdzNYRTVTcU9LdU1tTU1paWVyVTFFUjBlNlo5N1BBY0s1aUtzbUU5NjcxOWV3?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T06:21:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ed46d50eff2d6e",
-   "title": "Asian shares rally on dip-buying as markets shrug off new U.S. tariff proposals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjI4akpLTWQxYmpybXo5OW5uNG56c1BWdzYwcEtfOVBxalFRdlMxVHZwQWVuSXpnTEhXOHpFOEllV2FJZjBVQ3pHUm5MTVFMbjFYdEVENVZpR3VxY3dFdm5zNnZlNzB0Y2l3LXNHeVdVd0NjNkdaVFFIWFl4Nm5ZaEZ1M0tDUGdMQ0xENlBsZ1FaLUZlcW9nREZTd1pEall0TTBTMlNmWEYzcjRXdGMyZU9qM0s4UQ?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T06:11:58Z",
-   "score": 7,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "414294cbc717d9",
-   "title": "Michael Burry — ‘Big Short’ Investor Drops Nasdaq Bear Bet in 2 Weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuYnlqOWN0bkwybDNiZ2lTRERyZU5nUkNmYk12ZEhVdDRxX29udjRVTUlTRzh4bjNDNVZHUHMwOE9SQjAxZWZpeFZEWHJPUzRWUjB4cWF3ZVRwVGU3SWsyZzBVVWJGM3M?oc=5",
-   "source": "The Korea Daily",
-   "date": "2026-11-26T06:10:13Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
