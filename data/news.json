@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T12:24:51Z",
+ "updated_at": "2026-11-26T12:29:42Z",
  "items": [
   {
    "id": "355a4b1c8a6ee3",
@@ -78,6 +78,16 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtM25sSm8tUWJFTkUyWm0tYXdHLTdROF9LZ1FnVUZvUDg1Um5vR2ZyVHlzZ3ZwbjdLa3k5QUJPQThoZlNMR0huaXBSZFl5ZnlKRklya3JmbFJMOXlYWDJjWEVLOHFuXzBhUURyR3hRTHdaMTZ3QkE?oc=5",
    "source": "BigGo Finance",
    "date": "2026-11-26T11:55:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "d55d9a072be34c",
+   "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-26T11:51:44Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -210,6 +220,16 @@
    "date": "2026-11-26T11:08:49Z",
    "score": 3,
    "category": "Macro"
+  },
+  {
+   "id": "93888dff47e013",
+   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-26T11:05:04Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "dd664682bedcbb",
@@ -485,9 +505,9 @@
    "id": "be043af9bf949c",
    "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T09:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWm5nZHFoX180Z1VRZEtFV3paTGFBeU9rNUFuemlZSGYzeU9jWGdrdWJzS2ctRklKa09ibGd1M2JlNUhoTWhPREY2anYxdGRMaWdRNnBlVjA4bEl0dXdUSFN1XzhvY0VKWi0zdkp0NVlINVd3YjVkRXBrN20waElxSnZjcjRHRG5YNFQySmFYOHNkd3hlQnRYczIzVUhGSmlsQUZiVThaRlJPSTJVYzUxVTd2OWZkNmlMQjRJN2dn?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-26T09:49:17Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -700,16 +720,6 @@
    "date": "2026-11-26T08:56:05Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "d55d9a072be34c",
-   "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-26T08:49:18Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "a788aceb4490b8",
@@ -1170,16 +1180,6 @@
    "date": "2026-11-26T07:05:07Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "93888dff47e013",
-   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-26T06:56:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "3f50104cc0613f",
