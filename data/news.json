@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-26T11:41:54Z",
+ "updated_at": "2026-11-26T11:46:41Z",
  "items": [
+  {
+   "id": "d9d945b640818b",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "source": "CNBC",
+   "date": "2026-11-26T11:44:19Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
   {
    "id": "7527fe56747b1a",
    "title": "Dollar Stabilizes as Bond Yields Retreat",
@@ -20,16 +30,6 @@
    "date": "2026-11-26T11:30:23Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "d9d945b640818b",
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-   "source": "CNBC",
-   "date": "2026-11-26T11:26:52Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "951c8a31f7364d",
@@ -165,9 +165,9 @@
    "id": "f70c65efa2ac48",
    "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdUFCazN0X1IwQXh1NGJ4WVY4bXAtdnd4T1Z4MEhWSlpXbG9GeXowQU1qSTMydzdGbDE0ZHVQMF90OVgtUlZlZlNMMFdXeU1NRm9EMUlqWTY3MDFGUHdPbV9LdTdtMjBHeUVaNWtENkc1REh2MnhGQm1DWkFSVjQ5WWMzaGJVYmdaNlNxanBjWkdaMVphWF9nalRaaFRwSUkwMXJwb1B6eXRfMmVLenBPTjBtbzc4T2Rjbll6akE2QUhLbkpxUnlPeU9aZTZNQUc2ZFFZQ19USXBEdUdNSF9hQlJ0SFd1MlE3WkFfNERVbHh1ODZtOXZiLThRSQ?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-26T10:22:22Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-26T10:22:47Z",
    "score": 7,
    "category": "Tecnológicas"
   },
