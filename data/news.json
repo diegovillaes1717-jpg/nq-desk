@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T00:33:00Z",
+ "updated_at": "2026-11-26T00:37:45Z",
  "items": [
   {
    "id": "c9fc4ff3aef859",
@@ -60,6 +60,16 @@
    "date": "2026-11-25T23:46:03Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-25T23:43:45Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "0e7e93b6f1eeca",
@@ -402,16 +412,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "22f29156c51572",
-   "title": "Pullback in AI Stocks Eases",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Zb2xYdHpGSDBEMzVXLXBHY3U0VE9QY0plb21INHNJTm5wZGJpQU51MG9UV011RWV5X0JTMF92MUQ0OG41d3BmZXB4a3VkZVJlN1RXWHY0RFlfVXhHMnpXSGRMUXJHZEF3Q3h1cWd1R0lKay1fRUV3?oc=5",
-   "source": "Newser",
-   "date": "2026-11-25T22:11:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cf15cbf71a308f",
    "title": "Nasdaq 100 Recovers as Technology Stocks Rebound",
    "summary": "",
@@ -419,6 +419,16 @@
    "source": "bsinews.id",
    "date": "2026-11-25T22:11:00Z",
    "score": 10,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "22f29156c51572",
+   "title": "Pullback in AI Stocks Eases",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Zb2xYdHpGSDBEMzVXLXBHY3U0VE9QY0plb21INHNJTm5wZGJpQU51MG9UV011RWV5X0JTMF92MUQ0OG41d3BmZXB4a3VkZVJlN1RXWHY0RFlfVXhHMnpXSGRMUXJHZEF3Q3h1cWd1R0lKay1fRUV3?oc=5",
+   "source": "Newser",
+   "date": "2026-11-25T22:11:00Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -559,16 +569,6 @@
    "source": "MarketWatch",
    "date": "2026-11-25T21:50:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-25T21:49:55Z",
-   "score": 7,
    "category": "Tecnológicas"
   },
   {
