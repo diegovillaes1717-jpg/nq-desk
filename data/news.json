@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:53:55Z",
+ "updated_at": "2026-11-26T20:58:38Z",
  "items": [
   {
    "id": "28cf2aa1941483",
@@ -15,9 +15,9 @@
    "id": "8094311abc3ace",
    "title": "New trade war could be brewing following tariff proposal",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXJmNnBwOWlWbURoVGNVZGd3MUpTN0pLNVBMczByUjN2NVRmYmZjaUpDX0J5VDlHLXJXSndGSkNQdEtQd2JhMEtkTG9LLUtyN05ZRjZMZ0RpTzNWYjRnLVkwVVdDaHNqLVNFR0ZQbTRwck5ibUdXQXFNaFFOZ05GQVZtS3dLY012clV0N2FDeGZ1MEFFYnd2ZXdVSUxLWHVnY2d0dFRsb3JSNS1JN2M5Mw?oc=5",
-   "source": "WGXA",
-   "date": "2026-11-26T20:51:08Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnEzcmhuTXBLQWQ1R0MwMEJndVV5czlBVjRJTWc4LVE2d19fN2pLRVhIQUpHcENZUXB2Ynd5MkljbE9pdlpya0ZkVzFvMS1EOXN5Z1U2T0dGSjNVVHJHenZHT3h4cEc3RmI5SnI3RDFob0tPYUNRSmJkTW1EUVFCbDgwdTRjZWpPR215U1AwbjBPekhHSUhhNUIxdVJSRDlURGU3QmVQVnBNYmhCX0lqWU9NQVJJMXNBRzhReQ?oc=5",
+   "source": "WKEF",
+   "date": "2026-11-26T20:52:20Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
   },
@@ -162,16 +162,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "b9b75a0118eea7",
-   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1hobVFwRllEeUdYbTlReGxVekdEdW1BLWhzcWN3X0lkOURIWWs2SGVJdmdnaDdsTm5jYVY4dnNSbFlEU2lOYnh6SWlsUFFCWVNCb3hIMDREdFNvT1NQVG5ZRkdYX0xvZzY0YUpPdm1CUlRNdWtSZXJ2Vkp4N0psOXczcXFDY25ZU2drM2VFWFZndGxqTzlETUZpREFwTkVJZ21ra3lQeEhRazZpamVJSnI2VXpHTWREYTRDazRHUUkxUQ?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T18:56:15Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "b5d92326d57d58",
    "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
    "summary": "",
@@ -252,6 +242,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -279,6 +279,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -732,14 +742,14 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "9dd8faefde0e81",
-   "title": "Stocks rally, Europe sizes up next ECB chief",
+   "id": "b9b75a0118eea7",
+   "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-26T15:51:24Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThVVEd0RE01LUtWcjZPaWQ0cVNnUFQ0cFIzSlpCUlQxWGxJdTlneElCbE80SHdDVTEyelZFNjVHcXRWbHRhdVNWOUNZbVU0Wmk4MmtnUHQ4dWRVNFl4TzFnWjJGc21rbzBMaXVxWmp4bEdnNEo0X0VsZXpTdzlJMDZKSVpQN1lOQUhFbTlhc3RGa3A1bjBwSnZYZVd1b3c0OE9jZ2ZFLWt3cHpCbGlOSjVJdGljTHZ1a01BWE5MekVxTDRBVHRYcENfQXQ3bnlzSTRn?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T15:53:27Z",
    "score": 4,
-   "category": "Mercado"
+   "category": "Tecnológicas"
   },
   {
    "id": "c065c492615b83",
@@ -1189,16 +1199,6 @@
    "source": "شبكة تواصل الإخبارية",
    "date": "2026-11-26T13:40:54Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "cf85369658c6cc",
-   "title": "Strong U.S. GDP Challenges Bitcoin Recovery as Fed Hike Bets Rise",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SXRVdkpaSE5zWVJDTE5WbkcwRnltcVk1Y0J0N2p1Rndhcl91bEUtLVJOd2tJdHlMMUFFTks4WjB0dXM1WXYyejJsajlNTV9ST2NLUEVqR2RwQQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-26T13:40:17Z",
-   "score": 6,
    "category": "Fed y tipos"
   }
  ]
