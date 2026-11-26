@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T09:08:38Z",
+ "updated_at": "2026-11-26T09:13:22Z",
  "items": [
   {
    "id": "f7079d78a66abb",
@@ -9,6 +9,16 @@
    "source": "www.equiti.com",
    "date": "2026-11-26T09:05:47Z",
    "score": 14,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "dc819ed599e6e8",
+   "title": "Roundup: U.S. inflation rises in October, increasing chances of rate hike",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCb1l3NVgwWi1hNGttbHRENWdrX3Y5SjdfSm1JWVJFZXpOTGxaRHAwZGMtc1JEeHZKdjN5T1RaRGV2OVJlYmpHS0R5Y1ZEWWFzdGJkaWpzdXBDSzNwektxVkJTX2Y5TW9pcTRZR0JlS280VkNOMGVBejNNems?oc=5",
+   "source": "Xinhua",
+   "date": "2026-11-26T09:05:15Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -30,6 +40,16 @@
    "date": "2026-11-26T09:00:00Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "119ab2e4f9d078",
+   "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+   "summary": "Latin America’s copper, oil, gas and rare earths could benefit from rising AI energy demand, if infrastructure and fiscal policy attract investment.",
+   "link": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+   "source": "CNBC",
+   "date": "2026-11-26T08:59:11Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "d55d9a072be34c",
@@ -425,7 +445,7 @@
    "id": "93385298b2371f",
    "title": "Gold steadies after dipping below $3,500 on US inflation data",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVk5UlZ3eFlwQVBNblM3Z25Ba2NtUTkzQlE2YzVUUy1Jc181b2txeXRGRFdUd1dvNnNVLXFlMnNqbnVTSVRWVU1FemNBSFZUdk82ZUI2SHoySUNIdDRwdUw3TU1sT3g0dEpSY09TY2ozUUxmSFBzRVFGdG4tU0VsTXh6dmx6N1FYcTVMaDQ2TWlHd1hoZHBGZjI1emlkQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjF2QnE3eDdUX3ZFbXgtUWZ2YXZfTjRpbGllQm9DaFlfamhrMzdQdFNQaGxRbkowRlNMNjBiWGlTRUpKNkJDRGJLRWVZeHYtRVFTOHFGaUJxS1RwT0syemlqU2lfNUlrUEJDUzJuYzVSTVp6TGV1OENmM1c2amxubzB3MVo3MmdsanhWcGI5VEJ4NDNvM3RtN3ROd2l1UFEtVkZB?oc=5",
    "source": "Anadolu Ajansı",
    "date": "2026-11-26T07:19:46Z",
    "score": 4,
@@ -620,6 +640,16 @@
    "date": "2026-11-26T06:01:28Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNm5RTjUtSndILXpNRlpiSmtzaUJDZUZweU9GVDJ2Ym83YU1Qd0syV2JMZEJvX2pra0d4d3hJVUR6QncwMFVfa19HbmFEU1NaR19QZ1YxdlBZaUdOVHFFRk83Qms5WTRYRmk2a3JCdDNacFZqNDlNaTFiMVVmXzJRZGlnMHZmOEExY2tWWVZEbGppY1JUNmg0Znl3NHQ0Q09BVFU1N3BDRDFzV2pQNFV2d0RDU1FPSTBjeWxPQnY5OElfRExfRDhkeWtCYWtxSWdXZHFmbUw5Z0FRSnFnRXlIbUV1Y1hkdnRCSGlvOWtwY1ZNR2tDcF9hZ1pGUmdfd0pPR0xrc0FFb0c2bkhlRzI3NURR?oc=5",
+   "source": "Decatur Daily",
+   "date": "2026-11-26T06:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "871981e68663d1",
@@ -1142,16 +1172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "cbf5217d1c5b38",
-   "title": "Big Short's Burry Clears Out Nasdaq Put Positions, Turns Mostly Bullish; Holding 25% Cash, Aims to Short Nvidia Again Near $200",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hdXd2X3FrM3V1empuby1wY0hmMEpKcWZWQ0pXWkVXR2FISlVvQi1BV0todDZqTGdYU25RWXJEcW9qdlBlN24zazdxRFR1Z1dJTFVINFQ1bnNFTVNBU1lrRUhyVnQtNFVESzhtVkgwcmt2aWQtWlE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-26T03:09:29Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "6b370b594db3c9",
    "title": "Nvidia Slips Below Microsoft as Valuation Retreats From $5.77 Trillion Peak",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T03:07:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "ac0a274d89b546",
-   "title": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuati",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmt5LTVNWGpHOHM4WG9NdDdQUkZGamNqNDZrb0QzVkdRZWk4R0hIOHVlZVdUM25IMllJOWxCYk1MOWdURWJvVS0wTXc5ZXhSdVJjNDExNG5HMndZVlN5aEJqQUM0R0RiN29UQXF2aENIVUZaV0dYOXdLQzRkODJmeGkyOThySFZlRWpxMlJfNGozUjJQR0FSQkVqWjdoTF9sb2xkYmcxVlBDWTh0S21WVzRKT1JOc0dNTUtpTVJtYVM2MUl5c1lVT201b2NjS1VzalRoZHBNRXVqTGhLVEFuYXM0SjUwVnJGZlV3SkZ2RnBCeTN4dUROV3RDSU95UQ?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-26T03:06:25Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d14158e2fff5ac",
-   "title": "Bond markets signal on inflation and Fed policy, Lance Roberts notes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0JLRW8xVnYyOWotdjFRRmVvY2NxcXhETm02VHIwdDZNRUVpenN2Um81Ni1ia1BRdVhhWFdKbkN5MThJZTl2X3VBWDZRSVVYWUFMcHRWTDk4WTltNWFJdVZadWhUZnBjeDhpU3ZmNG42VGwzUWhNNHAyNFo5Z0M0ZmlsR25yZmc1?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-26T03:05:13Z",
-   "score": 11,
-   "category": "Fed y tipos"
   }
  ]
 }
