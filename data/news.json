@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T07:10:13Z",
+ "updated_at": "2026-11-26T07:14:57Z",
  "items": [
   {
    "id": "7c729528356e34",
@@ -672,6 +672,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmVrVEp1eHZOcVI3S1M1c1QyalNzXy1vWmtwUEJ5RUdLdWpYQWFTeEg1SEdkWUYwakZxd1k1RVJzM3QwQm9vMy1LWEVNbDByUUlRX2hOVmJ1Ujc5NHNNT2FlcFNaOENNbGJCaFJFSnMzeGZUZ0JYYVR2YkRrNXRSMUNrZkdyemtfVGRYdnRlLUQ5RThpYWVKS0JBX0lWTllkY3V5LVlVeElUR1FtLXc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T02:56:08Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "de29f314b06338",
    "title": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8%",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T01:04:41Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "47efb61e95ce91",
-   "title": "$3,550 topped: Gold rebounds as lower yields and a softer US Dollar offset hot US inflation data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUUk5VVRjbl9INGZKSXJNeUEtaV9yQ3RUQ0JLanN6VVRZTlJOQ2M5SFJlY2wtQ2d3bTU4M1I1VExOY3B5eHpTVDZCZHlFbng4MmNCZmdFM19qRkF4cS1DdnlGaUJEV2pkTmR0SUc0eG54OG9sbldSenV4cHB4UGlrbWE5QXA0OW4yZDFaSTB4RHZUZmNpUW1aTEcxc0w1WlQ5SFMzbGVBVHE4eFZieE5uVTM3OU5rZXBtdGRQM1dNeXdjT1A5UmdyUk5xOXJiOFpyUUU0QUQyMHc0eUdIclFqNDlaWTllcFgtMTFoUEQ0eTJJdw?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T01:04:34Z",
-   "score": 5,
-   "category": "Fed y tipos"
   }
  ]
 }
