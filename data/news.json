@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T13:42:12Z",
+ "updated_at": "2026-11-27T13:46:59Z",
  "items": [
   {
    "id": "142e7336fd404b",
@@ -8,6 +8,16 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJLUVM0RVBvQ3hvbjhVYlY4Tnh3am9ScVg0dmY1VmhpQU1nVkFMUkNTQmszY0x6NXpGR1dkcXpLTmVoZmQ4QkJtT3lCWkd2MGVDdE9sSVVKN1Y0VFo2UGJNV0xTc3RLbDMtSkpkTVNFUXoyVDVkdll0MlZUYlFMNU91T2ZkS0t1X2l0cEVidG9qS3lZbThpNFhPQlJraWdEbUE?oc=5",
    "source": "Crypto Briefing",
    "date": "2026-11-27T13:40:29Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8628f5876848cf",
+   "title": "Nvidia, Kioxia Unveil AI Storage Breakthrough As SanDisk Hits Death Cross",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejByd1Q5VTZmWHlxY2xSUUdJN2NsaXhleW0wY3BDNXIzUm4zWU0yWDVQUG1fUzZkNkxBSWhpTnJxQmxaOHlNSjBXaEZtQjBkbk9hZm1BdGRrbkc0SXdYOHdBTnNjaWFuYkZNaVRTU0ZfU2NFSHJ2QVhWNTdaclJpa2lrbHU2Z1JwMnFPTXF3aGNfcHBU?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T13:36:20Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -452,16 +462,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8db4d72f078e29",
-   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-27T12:03:54Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "35ecd7e823c62e",
    "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
    "summary": "",
@@ -512,16 +512,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "149e34a9e16558",
-   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:43Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "b291e5738f2eea",
    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
    "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
@@ -530,6 +520,16 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:00Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "2aaf0db81834ac",
@@ -1002,6 +1002,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "6c02fbf1898563",
+   "title": "Treasury yields are higher as oil prices rise, investors look ahead to payroll data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VZE5oYjlVeWluQTU4R3YyeTNXclpnbDlnZklWOHQtaXFMZ2pKTGhlMUlfWlRGZWhuZERVaE5LampIR21EU1ZtT2FuOFMtdFU1MDlFWFBDbTM1S3ktYXVPLVBJYXlKaG9CR3dNaVZjNNIBdEFVX3lxTE05U3dmc0U2WGM1M3JZNkRBaWlWVXpxazVqZG5WTFFQVWZJUm5QcWtva0duRFNSVVRpWjRUb2EyYU5IOE82aHBxTkptb1pyWHV3Z2FySkRoQl8xcnJqWUxuZFdQaktvUU5DUGlKR0xkQVo4dm5L?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-27T10:22:41Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "389d5acf9a5133",
    "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
    "summary": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
@@ -1082,6 +1092,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "984ebaa171d6c8",
+   "title": "Nasdaq BRIC Consumer Discretion (^NQBRIC40LMN) Seasonal returns chart",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpaWFkcTZvN0NrZ1dzM0pmNEoxM3NWRFNERDVTbjNKODh1aFFkWVlwbVhydmtiRnVZX3VFSGNrRGhCdy1rbG91NjNIMklLXzNPN3AzS2FrTUVHbWh1c3FmQ0h1WnZwdHVVaFMxSWpZSQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-11-27T10:06:49Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
@@ -1092,16 +1112,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "2309559d616d8c",
    "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
    "summary": "",
@@ -1109,6 +1119,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -1179,26 +1199,6 @@
    "source": "SFGATE",
    "date": "2026-11-27T09:58:51Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9b875169e9df69",
-   "title": "Bitcoin tops $61,000 amid rising Nasdaq futures — CoinDesk",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXhGS3lpYWlqNk9lbXZMNGpXZHRZT09wbFZnVVo1Ry16TmJZWWZUYmNWTllTU1dDOWw0UGdwYXIwTHpaSmRJUjg4RTNPeVdaX1BvMFlYajRlREZlSkRRSldFQjgwSDJTQ1FBbC05bHk3djRha29yV2VYZHpBbTMxYWc2NjlQWHZrOVNXVGZHWHdPUnpyLXFsMmpycnVfbWFub2VWZ083bGNyR2tOUFhQYTF1NENjTFE?oc=5",
-   "source": "UA.NEWS",
-   "date": "2026-11-27T09:58:32Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5da9afd9606544",
-   "title": "South Korean Retail Investors Pile Into Nvidia Dip-Buying: Purchases Up 4.5x, Holdings Still Down 9.6%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2cjdIMXlFZDZTV2hLZmYtOGNyQmJqSkxaREZGbWNHWWV3aGRKV1ZyRkhVRWxSU0ZjRF80emRaQnhCMVN3VUVfUTBCTDdXZmlGQ1dYck9qZDlkUGlYT0RwakEyVnBnck43TVoyemZPV0l4TmszWmc?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T09:55:00Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
