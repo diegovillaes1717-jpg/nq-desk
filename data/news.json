@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T09:05:57Z",
+ "updated_at": "2026-11-27T09:10:42Z",
  "items": [
   {
    "id": "90c6ac6ec028d9",
@@ -102,6 +102,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "f7deee234b3d23",
+   "title": "IF Insights: Nasdaq runs away with America’s record IPO year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLVRzbThFQktwVDlKcHZ3N284RzBvdU5Ed1dvYUZYZlFHa21hS2ZNUHloU1hoM0JrdnNDWWZHd1pHa193ajFielh5WGhoakZvWF9yUnAxODFsZWhoaGw5Ty1lV1FpXzhGOHl5Sm1hWFVXNWdyU0hwM28wYWtNSVBJNm5jbTl4NDd5VlBZYVpFYVFRYXFPOXg0TTRic0NlcXFaSmc?oc=5",
+   "source": "internationalfinance.com",
+   "date": "2026-11-27T07:56:32Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "6b5901a071b423",
    "title": "Morning Wrap: Nasdaq rebounds from bear market threshold (27.11.2026)",
    "summary": "",
@@ -117,7 +127,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
    "source": "WSJ",
-   "date": "2026-11-27T07:36:00Z",
+   "date": "2026-11-27T07:36:21Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -159,6 +169,16 @@
    "source": "The Globe and Mail",
    "date": "2026-11-27T07:24:18Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "a9ca664b7a5010",
+   "title": "How Apple Avoided the Stock Market Crash With 31% Gains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MDRwbDVnRVZwbGEybFlQZjZLOEdCNGdRMTBhMlhkY0pNLWJaUnFIWEZlQl8yTmw1aU1GS1BZamY2WTM3YUZyX0RDSVNXVXZpcGtDOFVHNS1BVjlIOGIxb2ZMVUxSQk1ETDFzQU01cw?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-27T07:15:45Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1002,16 +1022,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T01:31:35Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "298ff24bc801d4",
-   "title": "Stock Market Today: Gift Nifty, Oil Prices To Iran War; Five Key Factors That May Drive Sensex, Nifty 50 On Nov 27",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS0JYc0tkclVBeDdsNC1ackZLNGh1LW0tV296ZUFwSWJQbGJ6NlhDUnNuS2FuZjVJakRrLXlpbHM2NmRGemZ1S1VpRWRGVU5mYnc4SDNCM3V3OWJHaXRCTU9ma0xXZXozWDRGU3lBenhTTms1TW9xVXRHci00ekpCZWxRVXR0VGZmY1lqV0JZWjJYWDRhQm82eWppTjB2Q01ZMXFzWmJXeDVyN1VpRUtVZ1hvOG1UdGVfZU5VdU9IeGlIWjQ0clhLeTNiZ0RVLTVwVUx0NWszOFVBSWpBbjQ4Z1VtRk1RMUZlbVJKV3NoTjjSAfgBQVVfeXFMUFkwT3pDRHQ1eXR2MlB2UHAzQVBQOENSZVF1ODNxcXROeFd6MVdYZFN3N04zdHY2NlFBVFJ3SnVfZEg0b1hGWUt4ZDNKS0h3N0ZJZzQ4YThRQmRVbG1KNTRzR3p6dWtRNjZWd2FlRTBSNjFaUW1ZbHRBTXRfd3UzTDM4aFpHenVhVUF4X1hDQ0h4NWtlQ3J4cHhqTUpQX2ZsVmszMjROTm9JWlRJUWJPaVpKczlXOWhZTUZxVEczTlBES2lVUmJ2ZEx3TldLVzVIT3Z1QVU3WjFabWZEM09GdDZpVGIwS2M2U2JQaGpGUXhaWFFpWDJ0X3g?oc=5",
-   "source": "NDTV Profit",
-   "date": "2026-11-27T01:28:15Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
