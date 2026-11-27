@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T16:39:23Z",
+ "updated_at": "2026-11-27T16:44:06Z",
  "items": [
+  {
+   "id": "881249cf0f1b8d",
+   "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+   "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+   "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+   "source": "CNBC",
+   "date": "2026-11-27T16:43:14Z",
+   "score": 5,
+   "category": "Macro"
+  },
+  {
+   "id": "21f984b8f34f1e",
+   "title": "Nasdaq 100 extends gain to 2%, hitting fresh session high",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlUVBGbnFvQjYyZmJ0bmE2S2hIMjlEY0puRzZqWm84TXFZTzNTR2FHRzhwWXJycDVSR2VPNzhXTHV3LVNmM1JXVzRtR09YRXJzM2VHZlBXRno5VzFIZnVwMExUZG5hUlRoalk4MUNKR2x5WEVaTGc?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-27T16:40:50Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "fdd9b0336d5642",
    "title": "Trump Nvidia Stock Gain: What the Estimate Means",
@@ -50,6 +70,16 @@
    "date": "2026-11-27T16:11:24Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "979bc6869f12b7",
+   "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTVyeExOUDRkNjhWTlRidm9sQUJQTE5yd1p1Ti1ZV2k4NnFMU2xHLV9JWVJFbW82U0VUYUZKUzZiYVlVNGJRTDUwRExiR2pCZ2R1a1cxR0cyaXNJRWp6UzNKekJBcTVScmY1TjVJX3FyZEhzQWhDX0dKTW5jZ1FTSTBtYmMtbGo1LVpQQjJLMksxUkE?oc=5",
+   "source": "DD India",
+   "date": "2026-11-27T16:08:42Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "987781fc7c3137",
@@ -210,26 +240,6 @@
    "date": "2026-11-27T15:30:03Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "881249cf0f1b8d",
-   "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-   "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
-   "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
-   "source": "CNBC",
-   "date": "2026-11-27T15:27:11Z",
-   "score": 5,
-   "category": "Macro"
   },
   {
    "id": "cdc93658f91336",
@@ -632,16 +642,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "9c80145c9fdbf0",
-   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTN0Vl9XaDlPT0xFYlhPcHAwVEd2eGpyRDU3LW0tMlpWdkdyWFh3Z29fY2t4b1BhcmdoQTNWMkhsSDdiVXRTUkZveHVCZVFaWGFjS2RzXzUwZjBIQ1UzNEIzc2RMdlQxSDMyLTlrOHlRaHNWOEJLUmZVMENfZUd1M241YWZLbkkzaEFaek9QMXYzUTk5cWFfdVFVNk9kTVNUU0h6QVptcDl6R2dtcEhIWXNLZERmSHFsV2ZNbVJQTTJGdmJnVXJkSEU4LTFhajE4cXBZeHRUbVRsdXBTN3ppRVBzZXlqZDhXdHc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T14:33:05Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e53dc69714e6cc",
    "title": "US stocks set for higher open as battered AI shares claw back losses By Reuters",
    "summary": "",
@@ -872,6 +872,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T13:36:06Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5753b7cd6f6b30",
    "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
    "summary": "",
@@ -1045,8 +1055,8 @@
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXVVTmRRcnBKckV2Ym1LZS1ENk5hWDVLYzVVWGNVR1h4b0hLRk5EVGdZb0RULThYdmFnSmVXZmg3Vk9jX3A4MWtrbEJvTFNMRlpqZ3poa0Y3RDB2MUxKTVg5emxPWlctSWY1cjFMU2NWVnZtTTNmbFUtMkszMWVxdkhjNEdocDhLRXNLeDVFbHp2aG9EVFFUZnJDRmljMXZNZmowQXduanFkdw?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm1jbHptd1FfbHNzeE5QRWQ5a3pfWVBjbE5YU2dmUkVQUDBwYUx2UkJxRzVyeUU2X0laZHk2QUh4UVFma3FNc0swbWFTd1NmRjJBZFN3NHczWG9BSC1CdjVBd3I4Y0NwME1qeUlaZkZKTGhLdU4xampXLTFqNmlGSHBMcXFhV1dLY2hIVTZuX3NYbjZSWWJHREdNUlpyUjlN?oc=5",
+   "source": "Benzinga",
    "date": "2026-11-27T12:55:46Z",
    "score": 5,
    "category": "Tecnológicas"
@@ -1122,6 +1132,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T12:46:20Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "2ba10c0ef3f1c4",
    "title": "US futures rally on AI rebound after bruising month, Treasuries dip",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T12:40:08Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "c5b406423d6d31",
-   "title": "S&P 500 rebounds as growth concerns ease and Nvidia lifts sentiment, but underlying macro headwinds remain unchanged",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSnN4dW9ycmJPZlpPUkE0WVpkdTB0aE40Q0k0b2MtdHhHTmNTY2FtZzlMQUQ2dEtiVTVFa2U1ZmczNWViMFN1dGdLamlqQXVFeHpUc2FzVG82QUlFNU5TcFJLNTB1QzFKY2gyc0RESjlVQ0g2NFl0R0NRNlVxX0k0QXdIQ0MtMkZ2M3luUER1d3ZheGh0M2t2ZHRkOFJqYzJfNEt1dUhYNVR1cGprbFg3VHBvbTlra1owZzFmVlFfaC0zWXdXcWtKSVBPMUtrNDJaeTlBLXBGRFp5UTNRajFjTkpHNA?oc=5",
-   "source": "investingLive",
-   "date": "2026-11-27T12:38:16Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "73206275cdf0e9",
-   "title": "US Dollar: Fed seen hiking twice as labor market holds – Commerzbank",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEV4OTgtZFBNTk1yYTZzQllzUGhuZHpjNTJmc09zelVGZGI5Z1Z6dFBBVE5uQjNSdzFCMGJxcWlXQWxqZmptdy1NUEQ3RUpuQnQ3SnVHUGVhUkV6elppSktzM0tmU0o3czNwM0pWSy1XY1lLTmJLc1lwX2thVTh2NW1GVzM5aVFPNzdFaHcwdFJLcmNEckpQSXdYUEZYN3BFeU1GYVNLdTVYY0FP?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T12:35:41Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
