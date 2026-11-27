@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T06:15:52Z",
+ "updated_at": "2026-11-27T06:20:35Z",
  "items": [
   {
    "id": "5a1c80cdb20c5b",
@@ -312,6 +312,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3cb0a02ec3c35e",
+   "title": "'Good chance' of 10-year UST yield at 5.5 % in 2027: CreditSights",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-27T03:17:15Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "fa8cbf78294b2e",
    "title": "Gold Steadies Near $3,575 on Thanksgiving as Fed Hike Bets Cap Recovery",
    "summary": "",
@@ -392,16 +402,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3cb0a02ec3c35e",
-   "title": "'Good chance' of 10-year UST yield at 5.5 % in 2027: CreditSights",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-27T02:47:14Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "b3b3be6fab3d02",
    "title": "Asian Stocks Advance as AI Selloff Eases and Tariff Concerns Recede",
    "summary": "",
@@ -470,16 +470,6 @@
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
-   "source": "KTUL",
-   "date": "2026-11-27T02:06:25Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a3025a884956e",
@@ -782,16 +772,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -930,6 +910,16 @@
    "date": "2026-11-26T23:25:00Z",
    "score": 9,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlpcjdqQlFLZ203U05XeWdWbmNrUGxuaVhCQ05KNlJuTzBhN1FUeGNJTVJlUE5ocFpHWkdXU1J1Y3lidTF1TFF2WDBaaHdwckdfYVF5YzBsdlJKSmxsRTFwMEdtMWh5Zkc2UlB1d1ZZRHdLMlVXY0FrWmQ3dXlkVG5YUmtDNS1FSk9zampQYkJfWnFRc2o3Y3otQjNJY0xiVjV6Vm91UlVKUzdfRlV2eFBONGc4Y0hnRmFSZ2wwd1dzcGxSSHUzX0lPRmsxZnVPV0ozUQ?oc=5",
+   "source": "WCIV",
+   "date": "2026-11-26T23:15:24Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "a9f45b768bfca4",
@@ -1200,6 +1190,16 @@
    "date": "2026-11-26T21:35:20Z",
    "score": 10,
    "category": "Macro"
+  },
+  {
+   "id": "8c7394d75ae848",
+   "title": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZxM0NXdzJCNTJPamZxS0M1UHpVY2QtX0hvckJ5YVZfSmZwWm5uUHZ6RUo3Z2VvOS1ZOHAtSTljTWFrdTRzOEJPdlpSZU5uZm5jRGQ2QTBtZjUzZ3hVVmRsZk5oWWlJVUFNMzVPd1RGUlZFTzFxTndHVUpnY0RnM3Y4WmVMSDZkcU1MOEk0azRwQ05VUnJzY01GUi1sN040Z1UyZ3JR?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T21:33:02Z",
+   "score": 6,
+   "category": "Tecnológicas"
   }
  ]
 }
