@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T10:27:10Z",
+ "updated_at": "2026-11-27T10:31:59Z",
  "items": [
+  {
+   "id": "36b5b9c79d04a5",
+   "title": "U.S. Stock Futures Surge As Nvidia, Anthropic And Other AI Shares Rally In Premarket Trading",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNXhhekVTYTY0MENIaVV0S2xLOWZpWE1MZFFDanR2VmZMSXN3Q0hnTzB4U1lsOC1KSFlWZDhVS2lIUlFfRG9yYnk1UTRMOXU2dTQzQzVuejJ3aVp5RDhTVm9hbDc4RV9UMlpWaWVBeWU2bXJkeTFwTFhfNmFVTXF3ai03Y25WbU5weTh3RDA3dmJkdmlvWk9iVk9ER0RxSHZjMXNyZC1JeXlTYlRXMVk0NGgyVmhaeDlRQWRZN0ZPdUZjdGFNYzhUOUpNd3lfQzhDb3FrcA?oc=5",
+   "source": "Forbes",
+   "date": "2026-11-27T10:29:27Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "389d5acf9a5133",
    "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -8,6 +18,16 @@
    "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
    "source": "CNBC",
    "date": "2026-11-27T10:20:39Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1a20f608cd7746",
+   "title": "US Futures Climb as AI Stocks Stabilize After Volatile Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZkNRN01VSkZDRVVyX1FhZ0luektkTmRaOHE2ek9oeG9kdnc4eDRBczFmclZvcjdSTmJlMEw0Nnp5XzNfMnI3dDYyeTEzR1hMTEVTbjFjMlhDUkdUUnkydw?oc=5",
+   "source": "kaohoon international",
+   "date": "2026-11-27T10:19:14Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -1179,26 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T04:14:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "765b2fe3633fd1",
-   "title": "D-St Shrugs Off Tariff Fears for Now, Select Stocks to Lead Play",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzVkcFJ0MThtSVo4RGt2b3hGMl9iT0ltU3RTX0NQWmdBVzZKclVyMjJjYThlRWkxNmxMYVdpWTZZNHZPMHROWUdXSE9RZzVQYW9USjRoYlZrN3R6cGRxVEh1UFcwd2pqdHNxelloT3hoRUVMM3p0RmMyOU45UUljb3V1ZjhFeUVJQ2VBU1RvQlVYTjhYckowSmVic1FtZk1WUzBjaFhYbjMtY21qemwwRTB6dnBMNVFWYXE3aQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T04:12:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "4de06a89656f5f",
-   "title": "Nvidia GPU Sellers Restrict Neocloud Sales Over Chinese Access to AI Chips - NVIDIA (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXJLYnM0R2lJUkVNSmZSN3pZcmhXOGtHLWpjUXQ1bDU5bG9RNGF0UWIwUmtxOGNpLXdvcVUtcXpDTjhma1RPTEg3UWtXUlZ3OTNhNWZPdTBFbVFraE1XaFMwX3U3dnNRRTB3QldNNnAzZ3VlZXVKdDVxbnBCSFZzYXJ1U3ZhRXdQQVR2cElIX2xUeHFhMjJLVWpYY1hLOFRVVDFCX2FXYkZJNFkt?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T04:11:20Z",
-   "score": 7,
    "category": "Tecnológicas"
   }
  ]
