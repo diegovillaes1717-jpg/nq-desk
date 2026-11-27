@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T05:19:03Z",
+ "updated_at": "2026-11-27T05:23:46Z",
  "items": [
   {
    "id": "5a1c80cdb20c5b",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T05:15:55Z",
    "score": 6.0,
    "category": "Macro"
+  },
+  {
+   "id": "7e32b4fa4fb5ea",
+   "title": "Loonie Steadies as Traders Price December Fed Hike",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGtwRUdSelBVVjE3Q3RweG5LWERKNTFISExjS0JMSnhvblNkT0lGdzJnRlpzVktSY193SFVmRjFVbXZGX3JfaVNDNHFpTUVKZEZYQXppSVdrTnBGZFZrZ1ZDbnlaemZ2bVVBcVpXd01qZ3VaQTNzdFFfN0RrUmk4VnRablQwYkk?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-27T05:08:36Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "05c70e6b7abf1d",
@@ -95,8 +105,8 @@
    "id": "6ef06acce17fa6",
    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9pLVhQZmpyYU9BaFMzX1hIRk1jdDNIblcxQXFHVjh3SXZhZUFlRVhNRmhNaDlZYkJFVUotS3Bvbm53VGYzbjIwcUYwdVhHbzJEWWhWdG5jdjlmN1IwWTg3UlZ2TmNFR3YxWTZ2dFdQU21kMkFydFBTTERwXzNuLVZOV2VpTkU1d3oxaUdOYTk0eS0yejVDMw?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnlDZ04tc0tOOWJnemN3STVxQmlrWnhidHNpekVJZzgxOGN0V1YyNjQxTl80dHp6Tl9ubGZrRGhKVEdIRkI5LWxGb0Y3d1lDQjJLSHpkYm1HVEVENTJlZ0ZRc0NGVWctZXh0MDNzUTRET1FzWnRHWnJzNVc5UUVvQk91UQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-27T04:23:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -149,16 +159,6 @@
    "source": "The Financial Express",
    "date": "2026-11-27T03:47:23Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-27T03:34:44Z",
-   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -632,6 +632,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -862,6 +872,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWhySGVoQVJka0ZhQzBaN19mOXYwRzktdGE0UG9fajg0aGhLbUI3SlBHVWRLT21SbURLMVZNYzd6eXpaVWVpNS12ay1SOUMxWTVoUFFaMnhCbW5oRzRudmFHV0hYUElvaTVXQWl2b3Mzd0ZOVzg0Z3dTSWh2a1E4djJtUndIZTVlano2S0JYZDlHcUxKaE1YVlc0WUE5bllkRWhSQU4zdXRGTWstdzJLZ2NuU1N5WG9ISXVyUXRJeGhUazlrYngyMA?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:32:52Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ef4a7d3dd5acc6",
    "title": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
    "summary": "",
@@ -909,16 +929,6 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1189,16 +1199,6 @@
    "source": "BeInCrypto",
    "date": "2026-11-26T19:58:24Z",
    "score": 7,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "43ef1c7c86b900",
-   "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGvSAbABQVVfeXFMUDRCRU5IcDVoTU9UMm1sTmNwZnd1cTdYQ2I3V1hiLW1pUDZTUDY1djFpU1ExeHF3TjlGMUVlMlhTRjdQXzhQU25HcUpDN0VEdHRYblQxZ042OTVpaWV6UkVXT2tWaDh3QWRPZDRLZTN1Wk9oOGdyRURRN1ZVOHg2cld4X003TC1ZZnlROVNEeU1NbkZUZjNyZzNBNUppZUd6bi1MUUI0STlfVVltUVpUMWk?oc=5",
-   "source": "Breaking News, Latest News and Videos",
-   "date": "2026-11-26T19:51:49Z",
-   "score": 4,
    "category": "Geopolítica y aranceles"
   }
  ]
