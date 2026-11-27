@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T18:48:33Z",
+ "updated_at": "2026-11-27T18:53:16Z",
  "items": [
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BKelo1VkZaS1c3OUxTMVR4MjZONnVPdzlZeTlyRmlhMENQUTdYMkdMLThUaVJwRUNweEN1clc2SUp2Y2s5bHA4bEs0MUMxb2FzenJwX1lCeHBIOXlPMU5wZTJRN3JIelJrUmgtMFZxejZRVFl3dmp3QkhEcElsWm54RTB1a21TZmpVTkNXbkxvTUNEWHlTMUh5RFlPT01hXzhjMVRlYmV6N1VvejI0dWdPSW8?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T18:50:34Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "f99598cb565125",
    "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
@@ -20,16 +30,6 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlFJLUVvbGxET0R4TERvZTBJY0hFR2sxUUlOVTFieFJ4My1FOXYwTVlaWXVQNlJVb0JuVmQtd3dwOTFSMTVTaEFjdkJYYVQycTU4SzBpZTZ2R2czSHFHTlBBZEU3bk5zUU1VeS1aMHdFUUJIQWVnNGZCQzE0VUQxNFpiem90MXAxSm9lMjg1ZWl5YWpOX1BqbVRLa0hoWS05RFVUUG1BYWxaNndEY2JjUU5uU3Q?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T18:40:34Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "6fb7f5aa636bc7",
@@ -160,6 +160,16 @@
    "date": "2026-11-27T18:00:45Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "72bbae1990a2c8",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes | Press Releases | mycarrollcountynews.com - Carroll County Mirror-Democrat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnU2MThFOWREQ3o0ZWR1WERtZnpLcEFobzdVMzdZTE92Q3JoejdGdjF4NFVvRERUZy00Zi1COFNGXzgzMm52N3dRLXBNSXpMX2RiUXRrWEZDSkVzSVUwb3ROcVdaTEVuSEtGRjlRS1NjT1pzNnMwSm9uOGlJNEt3azR0cWVSX2NiWksxbXRGb2t2djR0d1VXSWIySVhqZWdpQ3I1dmo3U18xc2hOYUVYWExQVjVXdVE?oc=5",
+   "source": "Google News",
+   "date": "2026-11-27T18:00:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "5566e827461000",
@@ -682,16 +692,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -702,8 +702,8 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "62b320b863b12f",
-   "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
+   "id": "cae3e30ef03b53",
+   "title": "Nvidia Stock Slips. It’s Still Finding Its Floor With Huang 2.0.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
    "source": "Barron's",
@@ -712,8 +712,8 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "cae3e30ef03b53",
-   "title": "Nvidia Stock Slips. It’s Still Finding Its Floor With Huang 2.0.",
+   "id": "62b320b863b12f",
+   "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
    "source": "Barron's",
@@ -1112,6 +1112,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9c80145c9fdbf0",
+   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTN0Vl9XaDlPT0xFYlhPcHAwVEd2eGpyRDU3LW0tMlpWdkdyWFh3Z29fY2t4b1BhcmdoQTNWMkhsSDdiVXRTUkZveHVCZVFaWGFjS2RzXzUwZjBIQ1UzNEIzc2RMdlQxSDMyLTlrOHlRaHNWOEJLUmZVMENfZUd1M241YWZLbkkzaEFaek9QMXYzUTk5cWFfdVFVNk9kTVNUU0h6QVptcDl6R2dtcEhIWXNLZERmSHFsV2ZNbVJQTTJGdmJnVXJkSEU4LTFhajE4cXBZeHRUbVRsdXBTN3ppRVBzZXlqZDhXdHc?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T14:33:05Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e53dc69714e6cc",
    "title": "US stocks set for higher open as battered AI shares claw back losses By Reuters",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Schaeffer's Investment Research",
    "date": "2026-11-27T14:14:48Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0e9c32a119f389",
-   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSG5oU21JUTNUSDNjdmhvREs5Y3lqOHUwMlJNdVNkMGZXQUxFWlpoSVVvRXJGSTFVTUhHWllyTFdGMHhvX08wRXlId05ROUR4NlpJREZUSDZMS3ZjMTBJd0VZQlFkS2VXUnlrdlpyaXRYcllibEF5OTRBU0dydFI0aEczRFZfTE1FNlpiRlMzc3hBQXk2UXBUdkFJdFFkV09paEwzWUIybi1ST3JmdW5LNVFpQ1YyQ3RDYVEwVHIyV0M1NVE?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T14:12:00Z",
-   "score": 8,
    "category": "Tecnológicas"
   }
  ]
