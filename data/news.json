@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T10:12:56Z",
+ "updated_at": "2026-11-27T10:17:40Z",
  "items": [
+  {
+   "id": "98fc7987c01602",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "link": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+   "source": "CNBC",
+   "date": "2026-11-27T10:13:44Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "1ecff1758d0587",
    "title": "Nvidia forecasts $130B revenue, announces $150B stock buyback amid export hurdles",
@@ -12,23 +22,13 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1c33e1dec4c586",
-   "title": "US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap",
+   "id": "c50d779c915e24",
+   "title": "Former SEC Chair Gensler: Nvidia Has “a Disclosure Vulnerability.” The White House’s Huang Assurances May Have to Be Filed",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-27T10:10:51Z",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ2ZiQjUwcTA3SnpOWC1SUFNJYUdjU1RPZ1BCZTJubV9fNko4eFRiSVM2OF9mLXZvSU95U21xdW1MY2RnLU5XTl9UMVBoMklmbEZ4YnJwYXlDNTFORXp3LVhGNEF6OHRtM2M2a0ExSTY3N2pwakl0eVJnUUJhR0FJS3Y5Y0lzVlFHNXZwSDVtZGtLUTdnaFY5SGI2SWFRdU56WWdrZkxsNVpOOEFTZUNOU2lMZTJuLWt0a0FJaVkxTmFHVUtGNkVLSjY3ZEJOa2ZnazZ2TVcyT3BBN2tZZTg1djdtSWp6LTFnRU5hMTN2UXN4MFZtQnRZLTQ2S01NV1Z1UUtQNV9qbktqRExDRUllVHh3?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-27T10:10:59Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "98fc7987c01602",
-   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
-   "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
-   "link": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
-   "source": "CNBC",
-   "date": "2026-11-27T10:07:47Z",
-   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -1172,6 +1172,16 @@
    "category": "Mercado"
   },
   {
+   "id": "8df829d4ed3c93",
+   "title": "Trump's 14-Economy Tariff Plan Briefly Pushed the Nasdaq 100 to the Edge of a Bear Market",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFFQXzFwQWdvemRPam8zZEszNzJMbUZDMkpnSVN3aGNMb1IzcVk0aWN4SXR1YkRBczdUT18ySEgybFhiMFZUM2dFdU0yakZBSS1oUVM4SGRGczhXSFVIcVlwSlpuY0dWdGxXVFFOWGl3Znk0UDNjT1pibXBLNHp3UGVldGxfT2RncTVwcTVUaEZwQQ?oc=5",
+   "source": "Memeburn",
+   "date": "2026-11-27T04:00:47Z",
+   "score": 10,
+   "category": "Macro"
+  },
+  {
    "id": "4a84794b943af3",
    "title": "Bill Ackman Warns Fed Rate Hike Could Trigger Global Recession as Inflation Reaches 3.8%",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "The Financial Express",
    "date": "2026-11-27T03:47:23Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c02c63f40434ee",
-   "title": "Nvidia credit warning and AI spending fears keep investors on edge despite rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBoaDNOOFJEVlhwdXZMXzY5LXNoZWMxU3l5dE9sNG13U1JiRjNxc1JVQ3k3OEU5WlM0aFJpc2lzVFdjX3ZqZmtRNW85T1Jad21ZYVhzQ0NvRFBPbGpMbi1yV210Ry1yd0lDb0Y0UVZkSnhrbmdUcEctR2ZUbnpBMnZRTTlHVHZsRE5aNnd1RjJrUXVRWEZKQnd3OERWUWFHSjNHVlV2MHhvaDlKUHlzcGpsb29lVEdqNENBVHBsQlFjU3VDbUpaNjlhcHVqZzRBaVN2MGt6R2dXVTJVclBF0gHmAUFVX3lxTE5BcUFHd1V4Z1BtMEM1REpleENBYUMzQkRqaHpFN1RZZ0JuajRaUzhYc0NrNzZsS3pEY0tDSWRGaDNiVEIzc0NvVUdrS1dETklmN0JoNzQwY2dLSUhMMWxHV2psWmFWcUZ2WUNEbUNmd1JBNS0tNUFKU3pqYWJ1cmFWLWpEbFpoSlJVczRLd2lLckUtZU5TRy1VdWk3Rm9GREFLNE9pSUlVaVotektKZS01cHBoa1BMUXJOSHRVOE0xLTBZeUIxeDdaUzZza0R4cnNZSDFqeFFvelVvRzdvSUFnYVpHcVVn?oc=5",
-   "source": "The Financial Express",
-   "date": "2026-11-27T03:47:23Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
