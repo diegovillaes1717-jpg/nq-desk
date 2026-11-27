@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-27T11:00:28Z",
+ "updated_at": "2026-11-27T11:05:14Z",
  "items": [
+  {
+   "id": "b153571465fe03",
+   "title": "High Inflation Puts Fed’s Credibility On the Line",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-27T11:00:10Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "04a6c3dff82698",
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+   "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "source": "CNBC",
+   "date": "2026-11-27T11:00:01Z",
+   "score": 5.0,
+   "category": "Macro"
+  },
+  {
+   "id": "7e724decc2b9a0",
+   "title": "U.S. stock market today: Nasdaq futures lead gains ahead of shortened Black Friday session",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDItMXZXLTlCVS02ODJxQVdDal9IQzNNM0lTZzhJaFBQR0ZLbzZlbjZIS3FnbHRHczBGNlBQM3ZOVTNSVXhRVXltb3dVeFZTOHJhUTl3VEZYWElITHBfXzkxUGJZOXVocTR5ekRyUWFSTXdaaE1NMEJseXN6Y0JOSHNqV1ZueThnb1poakZmZmJFQ25rNDZtWlhGWQ?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-27T10:50:54Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "fe9d59d7ccc955",
    "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Short",
@@ -155,20 +185,10 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T10:06:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -179,6 +199,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -249,6 +279,16 @@
    "source": "UA.NEWS",
    "date": "2026-11-27T09:58:32Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "5da9afd9606544",
+   "title": "South Korean Retail Investors Pile Into Nvidia Dip-Buying: Purchases Up 4.5x, Holdings Still Down 9.6%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2cjdIMXlFZDZTV2hLZmYtOGNyQmJqSkxaREZGbWNHWWV3aGRKV1ZyRkhVRWxSU0ZjRF80emRaQnhCMVN3VUVfUTBCTDdXZmlGQ1dYck9qZDlkUGlYT0RwakEyVnBnck43TVoyemZPV0l4TmszWmc?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T09:55:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -382,16 +422,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "bd536e28bebea7",
-   "title": "Nvidia Stock: Sell The Rallies, The Parabolic Gains Are Gone (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnZPNWhLWjU4clRsWTduYVFqUmRWenNNMWF4Ry14Qi13dzJ0UHVBZk1qX0g2MmVBVjFTNHhLQ3JidE9lMlRGWTlOQnBLTl9MQVRTNHIyR1R4YzgtSFRNcUkzRmZjQVdndDFjSl90MkdDc0VXVS1ENVFMclFjV0VFb29RQkNibVBzMXZEX0FXZnp2bk5IODd2N2ZkNExyVlNYNXBPTFdhN242elVuM2lyWjJB?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T09:25:19Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "91886cbd3ef487",
    "title": "Nvidia: Sell The Rallies, The Parabolic Gains Are Gone",
    "summary": "",
@@ -399,6 +429,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T09:25:19Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bd536e28bebea7",
+   "title": "Nvidia Stock: Sell The Rallies, The Parabolic Gains Are Gone (NASDAQ:NVDA)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnZPNWhLWjU4clRsWTduYVFqUmRWenNNMWF4Ry14Qi13dzJ0UHVBZk1qX0g2MmVBVjFTNHhLQ3JidE9lMlRGWTlOQnBLTl9MQVRTNHIyR1R4YzgtSFRNcUkzRmZjQVdndDFjSl90MkdDc0VXVS1ENVFMclFjV0VFb29RQkNibVBzMXZEX0FXZnp2bk5IODd2N2ZkNExyVlNYNXBPTFdhN242elVuM2lyWjJB?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T09:25:19Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -490,6 +530,16 @@
    "date": "2026-11-27T08:37:53Z",
    "score": 14,
    "category": "Macro"
+  },
+  {
+   "id": "a8bfc3819781da",
+   "title": "Nasdaq 100 futures jump 2.2%, but tech’s November is still a mess",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ya0d3bXEyTGxsdFdWeFFaZlpiNDZITXQ5QVJXVE9jR1Z4OVlXQVVyYmFtX1VudlhUXzJkRHJaUFloUXVyQVVxMDVHM2VsS3FyOEE?oc=5",
+   "source": "Digg",
+   "date": "2026-11-27T08:37:06Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "226bbd394527a2",
@@ -792,6 +842,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "db21534d43ac5e",
+   "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnFhcTBLakYyT0YzbHN3NS1ZU2JqbDZNR2lKeERxLWhmYWk3dmxFd3A5bUdNQzktNlJKeEZ3RWJiU0w2SnpENkxuUU03N2FWYXZGU0w5aUJvZEpPNTRhLWQtc3JLSmtjOE8yQk5BakcxaENQdDhxVUpPa0hoU2lJQ1VaM0FITjIybHFYQUhoNF80LW92YU5Dem5ZUXdjR2QyQnlZMU5SMENJTV9sUXh5Zk930gG3AUFVX3lxTFB5NHIzWkZDbnRTemUxV05mel9FVllkS2hYRkU3amdXLUk5LTQ5VVVhSVpuR2QyV2pQZmpWaWJPQ3NmN1JQdHRhbVd1M1hJV0w0OU5sMmVKRWwwSzRBYk5xa3JHQjEtdFFDNlVkc3NyOUJVdTB0SS1YUUJHb2dpQUJrY3Q3Zy1FREdXYnJoUkRQR19WWkNMQjdNMGNrOUNnbmtwLUV2ek1fNHh4d3RvcWpSdHdPOFplOA?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T07:00:44Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "01bfb2e4a96a33",
    "title": "Nvidia’s 31% surge, US tariffs on China: 5 figures on investors’ radar this week",
    "summary": "",
@@ -799,16 +859,6 @@
    "source": "South China Morning Post",
    "date": "2026-11-27T07:00:13Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "db21534d43ac5e",
-   "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObTlBTTUwV3ViRExoczFLRFFwM0xvc1FlU2g2ME5mVWFQUjBIR1hSZ01QMkRsV1pnMF9CV0Q4ak1aR201SzZfWXEyQ1pLeWxUMGlnc0RldlNlX1JESUdmc095WnFtVWhKSHJ6eE0ybVZpc2tYZko4bmxnR2pfZVE4VTlSdFFBemVSUXZTNm9VcDVmM3p6SXBVY0lHSUhNekV6OHJTSnlQdFFMX3pPb1FCY05YcnJLLU5OVFMzSFlINGpDakFEdXpoNXN6cFRqckZqenBGTUgxc25IM0cxNTJj?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T06:59:00Z",
-   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T05:08:36Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "05c70e6b7abf1d",
-   "title": "Is the Fed ready for its next fight?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:01:25Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "15a9631f1b8c4e",
-   "title": "Tech stocks set for worst month in four years as volatility surges",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:01:25Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "04e15e33837bff",
-   "title": "Trump insists Nvidia CEO not a security threat - The Witness | Your compass in the community",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnFUd24tQVJzNERtam83TEdETUl0TkcwSDlPUDREc1JNNk1wdDFDZ3M2SEEtbXIzdnBEbWNlb3NGSEFwaS05emFPUlNYQ2tGUExaZG5KVFRwUWdoVkJtR2F4VDNMcGNOMTVlX0dWS1g0TXV0NlhIWEN2bXh2ZVJ2cDRqQWl6R1hmS3E2RUdR?oc=5",
-   "source": "Google News",
-   "date": "2026-11-27T05:01:07Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9182297b49ef6e",
-   "title": "US Stock Futures Extend Thanksgiving Rally as Nasdaq 100 Gains 2.5% and S&P 500 Tops 7,300",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xb2Q3LTNjRUozQkQ4UmFZREdaSTQ5aTBMWnNrdS1yNFFnMklGeENLZW10cWlVZ0ZuVjRKUVFocjFCT0EyOXZvUXF0LV9CeTBQUEp5N3NKQVkxRmdkMWlzVUlJN05lRUUxN0VQRkU5V3BobWg0SUhmamNoS19WTmc?oc=5",
-   "source": "Hokanews",
-   "date": "2026-11-27T05:01:00Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e85008ad55f9fc",
-   "title": "Jonah Goldberg: The many, many problems with Jensen Huang’s return to Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGkzd0xFV1NFYlp3RV9XVmUtWnJkOVZERHZxMkZaZnUteW5WYUtJaDZxajJYY2p3Q2t6dERaZnNDeWc2RzRyVWxvcVF3UGgwa0ZmYmZ6QXJtUDFZT2dBU3BJYVo5YlRGXzc1WVNiZEtMb0hxRDRmYTRDVFl2MzJOUlJ2QzRFUmJDOTVIc0xkR1N2T1U3M21ZTUpmcTBCLU01OVo4WE1FZkJtR1dQaDVQYzVYM1o?oc=5",
-   "source": "Daily Freeman",
-   "date": "2026-11-27T05:00:41Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
