@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T05:09:35Z",
+ "updated_at": "2026-11-27T05:14:19Z",
  "items": [
+  {
+   "id": "04e15e33837bff",
+   "title": "Trump insists Nvidia CEO not a security threat - The Witness | Your compass in the community",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnFUd24tQVJzNERtam83TEdETUl0TkcwSDlPUDREc1JNNk1wdDFDZ3M2SEEtbXIzdnBEbWNlb3NGSEFwaS05emFPUlNYQ2tGUExaZG5KVFRwUWdoVkJtR2F4VDNMcGNOMTVlX0dWS1g0TXV0NlhIWEN2bXh2ZVJ2cDRqQWl6R1hmS3E2RUdR?oc=5",
+   "source": "Google News",
+   "date": "2026-11-27T05:01:07Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "9182297b49ef6e",
    "title": "US Stock Futures Extend Thanksgiving Rally as Nasdaq 100 Gains 2.5% and S&P 500 Tops 7,300",
@@ -20,6 +30,16 @@
    "date": "2026-11-27T05:00:41Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "05c70e6b7abf1d",
+   "title": "Is the Fed ready for its next fight?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:00:13Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "3f14a1fcac1e3b",
@@ -292,16 +312,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
-   "source": "KTUL",
-   "date": "2026-11-27T02:06:25Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "5a3025a884956e",
    "title": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat",
    "summary": "",
@@ -532,6 +542,16 @@
    "category": "Macro"
   },
   {
+   "id": "3f157c664c95dd",
+   "title": "Gold falls to around $3,550 as hawkish Fed expectations weigh",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzZpZW1BUnRtZmo2eEFWT29CekhOcEQ2aDkyM0tYWnpyVjk2NVUwSlBHNlkzWWRaRjI4bEFCZHR2MVdvR0R2b0JmZEM5eHRNeVlqVG5sazZKVlJ3UVF5UjRYSHhqa0JpbWlMVTFFdFc3SzZIWWdCUFBxUGVxSDZuWXVxNHVOcFhKUktNZ280bllWak1CZms5cTBaOUlKVFlwRjhUVHdyaXRHWmVoa3BBQWxIMGt5NDAtQXRqRVZKdjdPS2FJ?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-27T00:53:26Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "d10b35eb89f238",
    "title": "Michael Burry Sells Nasdaq-100 Puts, Shifts Portfolio Toward Long Bets",
    "summary": "",
@@ -710,6 +730,16 @@
    "date": "2026-11-26T23:25:00Z",
    "score": 9,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlpcjdqQlFLZ203U05XeWdWbmNrUGxuaVhCQ05KNlJuTzBhN1FUeGNJTVJlUE5ocFpHWkdXU1J1Y3lidTF1TFF2WDBaaHdwckdfYVF5YzBsdlJKSmxsRTFwMEdtMWh5Zkc2UlB1d1ZZRHdLMlVXY0FrWmQ3dXlkVG5YUmtDNS1FSk9zampQYkJfWnFRc2o3Y3otQjNJY0xiVjV6Vm91UlVKUzdfRlV2eFBONGc4Y0hnRmFSZ2wwd1dzcGxSSHUzX0lPRmsxZnVPV0ozUQ?oc=5",
+   "source": "WCIV",
+   "date": "2026-11-26T23:15:24Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "a9f45b768bfca4",
@@ -1169,36 +1199,6 @@
    "source": "SSBCrack",
    "date": "2026-11-26T19:36:10Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "6a49b7e9a09a8d",
-   "title": "Five takeaways from Trump’s new tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjVkYWQ3NDV5T2ZTTFI3c1d3eFA2QnNBN3lrbHVWZ2FoMzNFYzNVLV9ETk5LZTV4VEJBQWhYWlBVZUZMbkZsdWFLM0pENW9hSnVmdWYwYUFKZ1ctMWd1VC1VOU5feEVKTVF3NFdBbml3QXMySk03ME85MWZ5N3BVQXA3eDVHSjYwUDNjS2VFcw?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-11-26T19:36:07Z",
-   "score": 4,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "9cc96bd6c6db96",
-   "title": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczJXQXdpU1J5eDIxR1BmcjBHY0x4Z1hGeEowT1B3NnprRm0zSndubl9CanBVTHpKMzdDcmFac2FEc2tWNExZMTQtcXdUU2JGT2czRVdOeGhfUjVKbkhrQ0NocXEwQVNfVHNFMU5LaGdJbVIybldJc0MzbFg4SElvVTZaeVVEQUZLWlpaMldPWkFTXzNTUkxISUs2TVdJa05ua3M1VWlnVjl1dk03U3RiMTFuZEpiRlR5R29OY2RoYw?oc=5",
-   "source": "PBS",
-   "date": "2026-11-26T19:33:22Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d8793df160894c",
-   "title": "Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeURyQjB4VEdiXzVtVDFONG9nVmF3YTM0ellFUjdNb1gwQ0tHQ2syXzRhT25oSVRMbnlNcXhfMFJpQXoxbUN3RktVb3NmWnNwdVdEWGhQWlNCV2IyXzhvdzI5emNhbEtOcm1vcVJjSXJWWkNnVlJucFUzdzhMcTJ2OUcyVEwycHFYS0hvZGg1eGpKX2pHdE1rSHR1TnNCZlhEd1FrWG5qQy11bHRoZUxyRTVkTkFxUVpKVHZndTN2V1RsQlYyd1NkeFJnamp2QzZsOUpLb1Z0cEI2Rkx2VlYyRnM4UnJrbzR5TTVpTjUtT2dWTVIwczlSUw?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-26T19:30:03Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
