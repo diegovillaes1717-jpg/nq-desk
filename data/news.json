@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-27T01:39:53Z",
+ "updated_at": "2026-11-27T01:44:38Z",
  "items": [
+  {
+   "id": "0c1d91503514de",
+   "title": "Has the US Stock Market Nvidia Crisis Truly Been Resolved? Wall Street Risks a Fatal Misjudgment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FZ3FrakUxbXhrUlEtczhzOE05NnBDR0tPYnNmMzNqQVBMMlljQzRIWHZqVVhqdzdPalROc0lPbUpXQ3ZrSHhGWTVFRVk5NU5aRGI0?oc=5",
+   "source": "36氪",
+   "date": "2026-11-27T01:40:58Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "acfaa0e4e955f6",
+   "title": "Treasury Yields Slip Before Inflation and Spending Data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5PN0ppNC1RdVhNYTdXNkhZMGRQX0gxbnB4ZU1qb1hxY2tHVVA5RWNIc3I2RVdxVTZ4aS15LXdHNTZVVjhRX3NSMUZSSWdjZmtsLWZ5YjdtbHVUcThwQXVsbjFoZXdTS19ieFRoWUJ4QVhtWGZjMHZUTm9tMEFjc0dZbw?oc=5",
+   "source": "Oz Arab Media",
+   "date": "2026-11-27T01:40:13Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "24e8f0d40cf017",
+   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+   "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "source": "CNBC",
+   "date": "2026-11-27T01:38:00Z",
+   "score": 4.5,
+   "category": "Macro"
+  },
+  {
+   "id": "8c1d2ebb778e08",
+   "title": "Tokyo FX: Dollar-Yen Firms in Lower 159 Range as Fed Rate Hike Expectations Support",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93TmpOWUc1bTZQbXFXRHhBQTNxQkZQYTNPUy1FS3ZMdUI3VUNfY0hoZ2NWWDY0RjdFUkpYWHNiVjZQX3ZRb0tfNjVHa2FwRFRMR0Y3a2VWenZndF9NZU1sSkk3MEl6bDVaNi04VmZ5Ty1vOEtSOEE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T01:25:00Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
   {
    "id": "095fd792e9496d",
    "title": "Euro weakens to near 1.0950 on Fed hike outlook, de Cos poised to lead ECB",
@@ -40,6 +80,16 @@
    "date": "2026-11-27T00:39:00Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "769164e05e97e5",
@@ -682,6 +732,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "477a713dd48f69",
+   "title": "Denny's Puts Nvidia's Origin-story Plaque Back up as Jensen Huang Returns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDBUbGxJeHc5b0FjNFJ1dnhnRzdHdlA0a2ZDX1BHWHJ5Q01fVFd3LWFOa01JZVJUUmNnVENBM1A2VWVjQXZLQlhaRi1VUXlWNW44eWtFeEgwMVNUSWxuRVZQZXdXbGwydElVMklyTG1FS3BnNHdWRWdoUXkxR1d3cUx4d1AyWlg1ZVMxRzlyRnU?oc=5",
+   "source": "Briefs Finance",
+   "date": "2026-11-26T19:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b9b75a0118eea7",
    "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
    "summary": "",
@@ -782,6 +842,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -809,6 +879,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1119,86 +1199,6 @@
    "source": "Trustnet",
    "date": "2026-11-26T17:02:39Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "15df1fcd39e80f",
-   "title": "\"Nasdaq-100 (Derivatives)\" price data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GOENqb19HbHpIZ0hHbFFCbEVRa1VEUnQxZWhqQUNIS3hwNTl2X1VucGltdkFONWUzTW1QbzhMUGJPZWtLbVRNaXFmdlVMNGJIaHd1RVIyNmhPQVVwRVR2eXl2Y24?oc=5",
-   "source": "CryptoDaily",
-   "date": "2026-11-26T17:00:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7adeb4f809611a",
-   "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
-   "source": "theopenpress.in",
-   "date": "2026-11-26T16:59:44Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8b69ddd9a1942c",
-   "title": "Markets Price 99.5% Chance of 25-Basis-Point Fed Hike in December",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NDU3c0liZjJJcm14MVJxMnlzYUlzeHFzMm9keU5lWDM5b3drRVpXRVMwQVdKOFdKZkNGRU5rVENsOFFNT192NWNuUlNqVUlZUlo0NTMzcUNFZw?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-26T16:54:26Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "8585d1b683a734",
-   "title": "Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVBNeE5hM0FPRnhSTWtrQ0dUSlBkS2taSjJxbzUzOHFnOENiU3RsUmtCT2xScDVjTXg5SUFDd2tRdTdLdVlnSGk4eDJ4cUUzUkYtMTdIcmxSaGM2LUQtcGM3WFJ6aWpSM2hLYWJXdFBYVEtGVW05eTdRbkE3SmpYSlN1Q2owMDBCLThseGZVRQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T16:49:41Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c919c6f0e7ad55",
-   "title": "Video | China Slams Trump's New Tariffs, Warns Against Trade War Escalation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTBveXA4NzdsYkVYVk41SkFEeHBwdXNGS2NSTWJjNV9ZY3JlQjlrQjBWM2x0X0dzajlWa2xJM2x5OHl1Rk9vY25PcTlpbjlRSnRnX3A2ekhOWW1NcHBIREU5dkRLbTNSLUFiMG9GLTZycFRnbGN0LUxMbEg3YnJkcjJ5Skw3U1Fhb2ozTko0ZzFWUEV2ek5yX0E5b3BZVGtvX3hR?oc=5",
-   "source": "NDTV",
-   "date": "2026-11-26T16:44:31Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "ca5b92f034faef",
-   "title": "Gold Price Forecast: Can Gold Recover to $4,000 as US Inflation Reaches 3.8%?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa04xRXB2aUxyR0xYUVY2T3ZNVXVKelN3Q1pycnhQODZRb1lMRks2NHVmSmRFM3NsWnRDWm9pOU9vc3lxUS0tSkdpLUZ0Yl9IR3lUQXdXcTU1NldJODhKR1JJa3lhejZWLXQ4YmxQdVhYZ2FYOFB2TUd5R1BDakJHWV9YanpuYXQ2U1Qtd1NmRFRTUmhTcnRpVjlTaFROamNIU2Mw?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-26T16:40:20Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "d8b53d571544db",
-   "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Jensen Huang Get a 'Second Chance.' Here's What Theirs Looks Like After a $117,000 Gain Nearly Vanished",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdHJtLXJ6UGtVUXlGN2ZaanMySTE5ZEwwVVlQMTNUUWU1Yzc1UEJYVzVmTl9IZGhWX0w0ZWtJUU1BbmJHT2ZoOVljZ1RmaWpCcmNVQ2lWOXJ6ZXJfSWxBOVBrZW5jT1hXT3oyelN5Q3hudHVvX2R5TDhESHpkWXV6MVVCRTBTbkE4SGptRy0yb05LQUNQWTlrQnA3MXZlWUpuQ08xWjhOXzY3d0xGRlBCMG5mQmp0U3B5cUZZV2ZQTVJ6QVpsblRRN0pZS1U2eHhvR3FFeC1fN01qa1JQVG9wUERnYkRWelk0VlRyVDZ4OXQtNWJjSG1JMmJiRnJteVYxeG1ja0R1dFJUeFdkbWJIVWU5ZGxxb0szMVBoODNxQXpkZFE4NzRldA?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T16:38:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1e60e83ac9f657",
-   "title": "Mark Sobel: Fed has missed 2% inflation target for six years",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUi1vZE93UTF5ZnN4OWpoaldDSnNDMGxOX1J3aGFVMlFldUZHSjY5T2tOdmpzOWpYVTJ4dFgwdGFZbDduS2ZkMVduWmtlU2c2WkhGbV8yV21jZFpRVUdrUC02N0N3aENya3NKODhxZHU3X0R2VlUxaDg0Z1plcnVvb3ZUcnh2TE9teXFadjJn?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-26T16:35:46Z",
-   "score": 8,
    "category": "Fed y tipos"
   }
  ]
