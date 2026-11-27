@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T00:52:06Z",
+ "updated_at": "2026-11-27T00:56:51Z",
  "items": [
   {
    "id": "894338109dc143",
@@ -25,11 +25,21 @@
    "id": "eaa32e2a5acf0c",
    "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
-   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczZ0cmVSU1VqUjVOX0RFWnV4NjBlaktKeThGckdZVVduZXRyNm9TazlMc19SNzNUS1ZoVk9Sbk00RWR1eHhLbWNtLTVJd3RWOUhwR2haRVRmMGdoQXM3cDc5QW9yVk56empwNmx2Y2IwUFI3cTN2NEt0TU40c085Sl9qcWlZQXpQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-27T00:25:00Z",
    "score": 3,
    "category": "Mercado"
+  },
+  {
+   "id": "8db4d72f078e29",
+   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-27T00:03:54Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "2eaab597c248d4",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T16:30:03Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "d9f61d8bab0255",
-   "title": "Gold’s rebound shows markets fear recession and doubt Fed rate follow-through – StoneX’s Stanley",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMm9rMGNtNFVvUm5FVFpkWXFoVHlYaHlhSEkyb3dwa19IUXZiVk9rYkRXUVpBeWtXQTVfcUhYSTY5RUI0NVdNeWNZU1V2T0xzN211cWtwNWJBMzV1OWZCUVpoclloM2VxNWg2bkZUaUdFY0pZZ3NOQ3R6aWVYUmRMckFtNGJMbzdmRzBhbjdMeEowR1l4cFg3M1ppRGlDeDZ2Q3lTbFd6Tk91V1ZmMVE5LV9yT3U?oc=5",
-   "source": "Kitco",
-   "date": "2026-11-26T16:21:03Z",
-   "score": 6,
-   "category": "Fed y tipos"
   }
  ]
 }
