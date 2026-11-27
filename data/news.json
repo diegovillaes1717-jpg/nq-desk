@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T09:39:32Z",
+ "updated_at": "2026-11-27T09:44:17Z",
  "items": [
+  {
+   "id": "c6b9fa96d55e55",
+   "title": "NYSE and Nasdaq Close Early on Black Friday 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tblBoanF1eGZOZ2xKZ0M2OXY0RFZKWHJCdHJjTU0xSHg2bTVkT3NEVkRPbWxCd28yS2JLNG1UdVprNVpGSzJWbVFHQ2ludm8xQVNVNnZrMFhwbVNhU3h3NW9JQQ?oc=5",
+   "source": "bsinews.id",
+   "date": "2026-11-27T09:39:55Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "0cafa478b4678d",
    "title": "Nvidia Turmoil Tests AI’s Circular Funding Loop",
@@ -1002,6 +1012,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7ec280d697aae3",
+   "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbVFpb2oxYzkzN0xRaDhhYlVjbU0wTHhISkowOGhuMVYwQTF1WU9GTDZsanpnZmM2TXdvdkxMMTZyTHY1QmM1aG1uSThHUGZoOUhkWGRnTzZDRi1RMG5qNHBlbkUtMXM?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-27T03:28:14Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "dbfef74e1543ba",
    "title": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T02:16:00Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "bdb712b7244092",
-   "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T02:16:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "420f99ac24b796",
-   "title": "Nasdaq 100’s Five-Day Average Intraday Volatility Hits 3.8%, Highest Since April 2025",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckdGTDFaclVmZHY1Z3o3WWUzWEVpbmo5bG9CWFJULWU3d19GVDVKMGI4WWVKTVVIamxNbjVFeDhSZkNORmhzQTRGRUpBakV0WDZzbThjMWR3VHpIV3hiQm1lV1RvSzF1M3Nvczl5RzA5Tk9ZRVlNLUNsemtQYmt6LU1la3Y5Um1vc3c4Um9IeHZ2NnYwWHJ6eDFvS0JZT3NQZktxUlNCclY5OHRyam5CWTlieFcwakZTX1ppOWxDdW9HUFUteVA4YVJsdnpRMlNiQUtwN3JoTEkzOGRPTHlZ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T02:15:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
