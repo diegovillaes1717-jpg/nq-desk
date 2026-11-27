@@ -285,53 +285,53 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han estado liderados por el sólido informe de Nvidia, que superó las expectativas con un beneficio por acción de 2.68. A pesar de estos buenos datos, el mercado general ha mostrado cautela y descensos debido a dudas regulatorias y macroeconómicas.",
+  "resumen": "Los resultados recientes han sido mixtos, destacando el fuerte impulso de Nvidia a pesar de ciertas dudas del mercado y riesgos en China. El Nasdaq ha reaccionado con volatilidad y caídas generales a pesar de los beneficios tecnológicos.",
   "puntos": [
    {
-    "fecha": "17 nov",
+    "fecha": "25 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados sólidos y optimismo",
-    "resumen": "Presentó un beneficio por acción de 2.68 superando el 2.47 estimado, impulsando las acciones a pesar de las dudas sobre China y la dirección.",
+    "titulo": "Acción barata tras caída",
+    "resumen": "Analizan si Nvidia es compra por debajo de 160 dólares tras cotizar a múltiplos más bajos que en la última década.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
-    "fecha": "30 sep",
-    "empresa": "Microsoft",
-    "titulo": "Beneficio por encima de lo previsto",
-    "resumen": "Reportó un BPA real de 4.89 frente a los 4.72 estimados, mostrando un crecimiento positivo en el trimestre.",
+    "fecha": "22 nov",
+    "empresa": "Nvidia",
+    "titulo": "Desplome de valoración",
+    "resumen": "Se destaca que la acción ha caído un 48% situándose en niveles muy baratos frente a Microsoft y Broadcom.",
     "resultado": "Supera",
     "impacto": "Alto"
    },
    {
-    "fecha": "30 sep",
-    "empresa": "Apple",
-    "titulo": "Cifra trimestral sólida",
-    "resumen": "Registró un BPA real de 2.1 frente a los 1.98 esperados, superando las previsiones del mercado.",
+    "fecha": "20 nov",
+    "empresa": "Tesla",
+    "titulo": "Búsqueda de rebote",
+    "resumen": "La acción se mantiene con ligeras caídas desde su último informe de resultados a la espera de catalystas de rebote.",
     "resultado": "Supera",
-    "impacto": "Alto"
+    "impacto": "Medio"
    },
    {
-    "fecha": "30 sep",
-    "empresa": "Alphabet",
-    "titulo": "Decepción en beneficios",
-    "resumen": "El BPA real se situó en 2.12 quedando por debajo de los 3.01 estimados por el consenso.",
-    "resultado": "Decepciona",
-    "impacto": "Alto"
+    "fecha": "19 nov",
+    "empresa": "Netflix",
+    "titulo": "Presión bajista",
+    "resumen": "El valor acumula un descenso del 8% desde su último reporte de beneficios mientras busca recuperar terreno.",
+    "resultado": "Supera",
+    "impacto": "Medio"
    },
    {
-    "fecha": "30 sep",
-    "empresa": "Meta",
-    "titulo": "Caída importante en el BPA",
-    "resumen": "Presentó un beneficio por acción de 3.83, defraudando de forma notable frente a los 5.42 previstos.",
-    "resultado": "Decepciona",
+    "fecha": "18 nov",
+    "empresa": "Nvidia",
+    "titulo": "Resultados sólidos con dudas",
+    "resumen": "Presentó beneficios récord e ingresos de 115.800 millones impulsados por la IA, aunque el mercado cotizó cauto por riesgos de China y transición.",
+    "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados relevantes serán los de Adobe y Broadcom el 9 de diciembre, seguidos por Costco el 10 de diciembre.",
-  "que_vigilar": "Vigilar la evolución de la demanda de IA y los riesgos regulatorios que puedan afectar al sector tecnológico en el Nasdaq.",
-  "sig": "d97a33f7cd5f17",
-  "generated_at": "2026-11-26T21:31:46Z"
+  "proximos": "Los próximos resultados importantes corresponden a Adobe y Broadcom el 9 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la demanda continuada de centros de datos de IA y los riesgos regulatorios o geopolíticos en China.",
+  "sig": "943b3b8ac06fcc",
+  "generated_at": "2026-11-27T00:33:02Z"
  },
  "updated_at": "2026-11-26T21:46:02Z"
 }

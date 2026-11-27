@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T00:28:10Z",
+ "updated_at": "2026-11-27T00:32:56Z",
  "items": [
+  {
+   "id": "769164e05e97e5",
+   "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+   "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T00:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "2eaab597c248d4",
    "title": "Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease",
@@ -60,6 +70,16 @@
    "date": "2026-11-26T23:49:37Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "dbc5d5914bf8f3",
+   "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9ubWdGUjBmak13V3l2TElCRzVpZzZDRUJTeGF3dm9tZmdfLUpld3R1d3VYV3Jxb1VyVG1UVXNfNHhRWHd4NVF2Q3ZuVGpzS0FmZ3dhUjlUNWhQVzlLOF9nU25TMzYtZ0xoTFJzR3RHbDlJN2JRWnRiYmZzLS11a0EyX3h5dnVMWlZXYm9BV28yVUVEcjdNMFM2YVQ0YTNsZkE?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T23:36:38Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "e16433f737c914",
@@ -275,9 +295,9 @@
    "id": "f5896dc1a357be",
    "title": "Nate Silver predicts Trump ‘absolutely’ could be impeached over Nvidia’s China chip sales",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdDb25hLTZMd1VieS1Fa25JYVgwQU95eHh3c19TclQtUmxIRE9YRWczbzVfY2pxTE1MVXNYTmsyeUV6LXZEZmRkdmZWNGFTd0hXY2RCSU91TVU0dDA5Slc5X1lwbEhQLUtyRUJBXzExNWU5aW01endXS0tqc3RVQjg5SnZjNFBNempRRzN1dzVvd1UwVkFPdUU0YURGQQ?oc=5",
-   "source": "Yahoo",
-   "date": "2026-11-26T21:51:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUEyOVFtYkFUMXBYQmtNbnVaOVJERGxZWmVFM202b2luUmNiRlRHck5vQm9nTXNCM1YtRG9NelJtVXZwd2dHaVJIdno0QlB0N2xaZFE0TDZESllxd0MxTjhKc0hrZ1hsLUd2cFFib2RVeFBibXV6eHVuamtReXdZNWF2TjlqTE5sTzctTEktVHNnLXRoamVwQUhFYUxvVmcwUmh2VklPd3pMTTYxX2VUOEd5bTFiZEdzRkE?oc=5",
+   "source": "The Independent",
+   "date": "2026-11-26T21:51:00Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -862,16 +882,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T17:35:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -949,6 +959,16 @@
    "source": "Proactive financial news",
    "date": "2026-11-26T17:16:41Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T17:15:02Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T16:08:25Z",
    "score": 3,
    "category": "Mercado"
-  },
-  {
-   "id": "926ec0f5856b62",
-   "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1Bja1BxWDc0aEdqbmV4Q01STV9qcTFZd1JpN2N1Rlp3N0dCclpxOEtKUEN2ODlrRVgtaHljYXlweHgtbjdfUDZ0dlZjdkw0anFSSF9ZajhUV1RjZGNnZzFnVVl3TUtOVXVXdi02a3psbW9Gb3Y3ZTdPdmN6MUlaV1E3ZDV3OUlPVWlGNGZRMm12NWI2WUhzU21MTDhsZUVzcW1mNzhVMUo1RGllMlJ6bUlyc0M?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T16:06:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "18099a504342ce",
-   "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-   "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
-   "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
-   "source": "CNBC",
-   "date": "2026-11-26T16:00:01Z",
-   "score": 4.0,
-   "category": "Tecnológicas"
   }
  ]
 }
