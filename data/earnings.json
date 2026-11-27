@@ -285,53 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó expectativas a pesar de los cambios directivos. El mercado ha reaccionado de forma contenida ante estas cifras, manteniendo la atención en el sector de semiconductores.",
+  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó expectativas pero generó dudas en el mercado. A pesar de los buenos beneficios generales, el Nasdaq ha mostrado cautela ante riesgos regulatorios y de negocio.",
   "puntos": [
-   {
-    "fecha": "25 nov",
-    "empresa": "Nvidia",
-    "titulo": "Nvidia publica resultados recientes",
-    "resumen": "La compañía entregó su informe financiero y la acción se mantiene en el foco de los inversores.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "24 nov",
-    "empresa": "AMD",
-    "titulo": "Previsiones de servidores",
-    "resumen": "Se proyecta que los ingresos de servidores de AMD se dupliquen en 2027, manteniendo el impulso en el sector.",
-    "resultado": "Supera",
-    "impacto": "Medio"
-   },
-   {
-    "fecha": "20 nov",
-    "empresa": "AVGO",
-    "titulo": "Broadcom antes de resultados",
-    "resumen": "El valor muestra movimientos previos mientras los analistas ajustan precios objetivo antes de su próxima presentación.",
-    "resultado": "En línea",
-    "impacto": "Alto"
-   },
    {
     "fecha": "18 nov",
     "empresa": "Nvidia",
-    "titulo": "Reacción a los resultados de Nvidia",
-    "resumen": "Nvidia elevó su perspectiva y batió expectativas, provocando movimientos mixtos en valores relacionados como AMD y Broadcom.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "17 nov",
-    "empresa": "Nvidia",
-    "titulo": "Resultados y salida de Jensen Huang",
-    "resumen": "Nvidia presentó un sólido informe y superó previsiones en su primer reporte tras la salida de Jensen Huang, generando gran atención en el mercado.",
+    "titulo": "Resultados sólidos con dudas",
+    "resumen": "Presentó un beneficio por acción de 2.68 superando lo estimado, aunque el mercado reaccionó con cautela ante riesgos de China y cuestiones de sucesión.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes corresponden a ADBE y AVGO el 9 de diciembre de 2026, seguidos por COST el 10 de diciembre.",
-  "que_vigilar": "Vigilar la evolución de la demanda de inteligencia artificial y la estabilidad en los gigantes de semiconductores ante las próximas citas de diciembre.",
-  "sig": "e4081631bf7793",
-  "generated_at": "2026-11-27T06:34:49Z"
+  "proximos": "Los próximos resultados importantes corresponden a Adobe y Broadcom el 9 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la evolución de los márgenes tecnológicos, los riesgos en China y las próximas publicaciones de diciembre para la volatilidad del NQ.",
+  "sig": "ea3cff0741d3e4",
+  "generated_at": "2026-11-27T09:39:34Z"
  },
  "updated_at": "2026-11-27T03:48:44Z"
 }

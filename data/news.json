@@ -1,15 +1,55 @@
 {
- "updated_at": "2026-11-27T09:34:46Z",
+ "updated_at": "2026-11-27T09:39:32Z",
  "items": [
+  {
+   "id": "0cafa478b4678d",
+   "title": "Nvidia Turmoil Tests AI’s Circular Funding Loop",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGIyUWM0eTY5cjc4Y3pBcnowdDNsTV9mVTBpQ1FkMDFRMjFkTXRidXRpX1NlcVFzbUF1aklPaENxR3lycXRPekc0cW56MnF1b3JqYl9Vb1EzeS1oMElxb0MyYXRsLTM3cGYybGJCRk5tNVdxY1d2aXZMV1VZLVNjbUJXSHQ4dDVlWUZBRVpncWMxci1L?oc=5",
+   "source": "Morningstar",
+   "date": "2026-11-27T09:38:03Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "338e67dbfaa1bb",
+   "title": "Stock Futures Jump as AI Trade Set for Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0hzcmlIem9tcHVGU25zUE1LcVowbGZnWjA4NXgzVkt3Z1hUSDdYR0tUazluNXpjQlA0V3dPX1ZabGdBZ0xRTTBRbE5SUHd2TS1rQW8yTk55U3RCeloxdk1HeXdNMnBVeG5pV2xBTFZOTm9zcEFEdUNuVjNCOENYU29sYkRjc1psS3FFeGlIbEZIbmtQ?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T09:34:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c28cee13634543",
    "title": "US Treasury Yields Jump Early Friday as Demand Likely Under Pressure Amid Premarket Gains in Mega-Cap Technology",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONkJsOW5lWVpzd1Z0UUxpSllSbEpqZkhHS1ZxX2FSMy04eEVXdlVQOHJiUmF4Ti12MldxRUFsZ1g4X3JrYmhIR2JRb2d0YkNkVjU0cDN4bWp3YkFsSUtySWttWmFhMmpkU2F1YVFmSGVocFJZSlFacFI2YlpNenZkWlJBYWpaeV8tekxNZnh3by1GWk1YRlVMd1p5UE1aTlhvM25ycUZXRENCcWdKYlh3TG1YalJ2VXlJNlFEUHRVQzF1U3Y1djFEb0NubXlUeUNGMFVXX090cF9Yc0hWdDdSd2pxdVBsWlJC?oc=5",
-   "source": "www.marketscreener.com",
+   "source": "marketscreener.com",
    "date": "2026-11-27T09:33:19Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "a5724f10efabde",
+   "title": "Why Sam Altman Needs Jony Ive to Build a Physical AI Device: 'Father of the iPod' Explains the 'Contextua",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3kyZGI4c0d2UkZiMzVGQXhpcG5TWnFXNkhxWVVRNVRHOVN4NF9zZFhpLTdULXh1NktLanJhRFpzT3FLcGhOY3VwQ2xuampNYXJMUXhUaWVGRzFPMGMtUW9MYjFOUlFMY0pkMm1SaTI0dWx4WmpUWDN2c2VOcVY4WmtUanY4TnhQb3JVZDYzb0V0alBqQlU3V0xFUUhZSU1tOTE1ZWlsSnU1UW9WdU12d3hRUGVCVm9nbWZVeWt2c00ybXhmNklNbkduMDhWQ2JrZGVfU1MyY1ZBNVM0eEY1d1pyX3VLR3ZDR3dtbDlaZnFwSFpibUFPY00xb3U4dms?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T09:32:30Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ce056ec36671ab",
+   "title": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after...",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYkxFUm1KV2tpNjRrTzVQQ0x6ZGdRZ3AwTGJDX0lIOUZJdjlyV0NfeUpGTWYyamNkLXQteG5rblh0SDluQmNVYUwtUC1Sc0RaTUFNM2lscnVmUjNWQ096VFZER1JoMlZpTGFCMVdlZ2VKRG03UmZSaGNCUEFCNXZ3Z3l0RnlkYXJPT2lueWVpeWZveGdsVEs4Ukc2QTNLcklCaWNGVExQMGw5SmZJX3Z3aW5pcDRPbk9XazNsQXBTdEhwdnAwYzN5S2ZtUjU1M2tMMzFiSldWU04xcnVvSWYta21PbzMza29NeHVERTYxdFg3Yjh5QWVwRHQzS3hpNmlHd0I40gGIAkFVX3lxTE5XUXlxejB1X1lDaXVkVER5VEVlVXhVc2pRelRtV25raE5qZkFmTzJQeFExRm80ajg4d0UyakZZUHRzVmJBMHF6b1A0UFBEZFZRM05iZkFVN0tQLVlrVHNydFVqQ2RqbXU5eDB0d2tWeUkzWVlLYVpGYld1QlRpUHNkWjM5UndVbW5BVldoYjB3YU9XN3QzR2pFVGswUUZzanFsZi1tejlvaGpxSGdhNnFfakh4OXZ3Rk52aXVkdTlSdFdtY20zejJyWXFDWHlKUVNvQ0kyeS01TXAtZ2VKQ0E3cDlNSElBMk1fRTlzLWFDTWlYRVlYV0VWTmxHTmJpZzM2bnJydVU0Mg?oc=5",
+   "source": "Moneycontrol.com",
+   "date": "2026-11-27T09:30:05Z",
+   "score": 9,
+   "category": "Tecnológicas"
   },
   {
    "id": "91886cbd3ef487",
@@ -822,6 +862,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "bc0b462690bd28",
+   "title": "Trump says Huang is excited about his 'second term' at Nvidia (NVDA:NASDAQ)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkZtTnozZk54bWk3aGktOHJicl9GVm1JcF85X21kNVVNOHVIcUJHc0I4X1hqTGR6MlBYR0NUVUkzZTBfdEtkc2dRY3BpTHIxY2plZ1pzQTg5NEZJcUtOazEtUzFlaG5rUV9FdjhUZXJtSjNPbDlWOEJwS1hKUjIyR1QwcllKM1hiRFE2M3N1Ry1rRjhuazg2UFc1alNHdw?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T04:32:25Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d21c66045af4e4",
    "title": "The Part of Inflation Cheaper Oil Cannot Reach",
    "summary": "",
@@ -1102,6 +1152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -1139,66 +1199,6 @@
    "source": "TradingView",
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5a3025a884956e",
-   "title": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDIwNG16N3BRMUN3cEppc2dqUTJ1c2lUbk45Y3VZaG9TOXRZUFpNUUdtaUxLaklacVFpb3htblVZdzU1S0NTRlpKS0dpd1pOam9JZEcxM3NjRDVhRklVRUJGcEhHV1lLYWNlU0dZVDRhbnFWRHN3V05KX1hkSURQZG1fVjF5QUEzdlZySWg3eGhsajlhNDNRdGxpSHJOQS1Ba3RXWE5RcnRidlRmdUZmTVRR?oc=5",
-   "source": "BusinessToday Malaysia",
-   "date": "2026-11-27T02:05:26Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "24e8f0d40cf017",
-   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-   "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-   "source": "CNBC",
-   "date": "2026-11-27T02:04:09Z",
-   "score": 4.5,
-   "category": "Macro"
-  },
-  {
-   "id": "252956fcadfcfc",
-   "title": "Shares bounce after bruising month, dollar on course for third monthly gain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-27T02:01:00Z",
-   "score": 3,
-   "category": "Energía y dólar"
-  },
-  {
-   "id": "027138009c00b7",
-   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZQWGhIUVI5bDVUSHRsWWVzTGZGSUNxcS1PYndUUUZVd0g0Y3BUUTlzMjE2T1FrTENfWjkxdkYzcGxfdHpLSmF5UlRIWDV6dWp6R1RJMEl1VThSWUpuc0VpQkZjbnhxTjdVV28tamhPdXBkSy12dHh4cFhkSWRMN3J5R0hEMVIyZWd4bGJkczZkU01YY2dF?oc=5",
-   "source": "富途牛牛",
-   "date": "2026-11-27T02:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0f7b66816075ac",
-   "title": "Denny's faces backlash over heartfelt tribute to reinstated Nvidia CEO Jensen Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGRpQVpRRU5rM3hDTnpTVU1oRGhRTTNwRzdtOXlKQzhBMmNnYkhiMHhzc1d3cHNjVzBVM1Q0R2Z6c3VsTTlFOHpPTXNsYV8zTEdzMWw3cnd1SzIyX0RPQWg5LVlDdGxCX2dxWkpONDd1TjRVc0pJZ3ZuVjlKQ0NzSnZ3d3BGZDBoamRCUndVMTRCLXlMSVpXNFluZFBfRUVSVEprbThfV0VWWkcyNTFDZnF5ZUxiTVF60gG-AUFVX3lxTE40VHY3Y2o1NmkyNUNQdk02UF9PZU5GQU1oTWl5UVNZQjkwbDE1Wkpkb1NkY1Nua1E3TXBWa0dGV2IxZG01M1pKOGJCUTZQQ0ZiUEdvR2tEbUlXSjRnTjNIT3o2UXdyUUo2M0s4d0NGRDJnWEtTTVU1Q1JEVGo2QTVzOUVKOTdJWW5fTzkwV1JhWWxkTm5tVkFnY2dlRHJVWUUtZnN3cnZ3NHlnd0xSc1BjNnF3T2xZb3hYSC1rZlE?oc=5",
-   "source": "Fox Business",
-   "date": "2026-11-27T01:57:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f1aaa0f4e5db49",
-   "title": "Not Nvidia Or Apple, This Was India's Favourite US Stock In 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGxzTGVFdEV2SFdfOGdlNTVadjA0dFAyTlp3aEJjNzVzb3BRR05GdkZEeGNFUGtVVHpmQzZWejVUcUtUcExUQXFPNENTZ1JFaUhXTThkQjEtR254VU9LVWFTLS13MU5KemhSbEJMQ2FUYm8wQjVtWUNQVGJrV0VsM1NFdjdlTlZrdnNxZGlyLW0yOE1NNHJ3RDh6ck9USVJqNlVCajlYYWxOVHZUVFdPR1BRbXVBSE95TlJqWl9yTzd1TXo2eU9RbkRDSHRINVnSAdcBQVVfeXFMUHU2eE1SN2ZLU1VUV3ZVUGp4Q0t4UzFWM1BicjRwcERuYkJZa0V3d1NYblBxWThQR1BUUDh4QUVudXozMkhjYVBpbnk5QWZjc3BMaDVxVFZGcDlzWGQ4SVM5bGRDazJvTmdtSTJjS2tZMUx2Y3FKYmRXT2JzZVRxTmNyOWs3cWJZbGdITGw2NjlCcDM0Tl9aNFowa3dPUm1FajNxM3FXclhvQi1yOHNnVUFtQy1tVklWXzBmRDdkYnk0SDV4NjMwa3FvSEJhcW9ieTVzamtDbEE?oc=5",
-   "source": "NDTV",
-   "date": "2026-11-27T01:55:07Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
