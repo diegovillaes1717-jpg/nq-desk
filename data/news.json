@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T08:18:42Z",
+ "updated_at": "2026-11-27T08:23:26Z",
  "items": [
+  {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTR5VzRQbGd4WHVXa1hPbzl5X3lUTmZtY0p1RzJPTmRTTmJ3OXhWRUxIUk1VS2xMdmJXQllLSjVLMkZuRGluUFl6c2swVGVVa2QzNXBBcnozSEJMbk0tY3hnMlM3cGtDWlJyTnk2ZDU2dzI3Ry1EVVNMcUEyaV80bkc0Q3lsYktTdi1hQXpGQTZkb1BfWWZrNTJVaU94anN0YTJ1dXNjVzZseU5ra2c?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-27T08:21:58Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
   {
    "id": "be043af9bf949c",
    "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -322,6 +332,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "1fad884324d0d3",
+   "title": "Nvidia CEO Huang not a security threat - Trump",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMF92cGljdHk0ZDg3a2x6UVZ0LUZMYXZseWh4ODRGR1lHRU5FUTdyTWhNMXBVVWlpQU1MbUdRRlZxRDV2b1VMMlFJMDJqZnEtLXpGOC1aTThvUXZidWowc3I2akJ2SzNoUjktMTZ5bG5WVXd3RzNqaDJmVFdMcVNjb0R0a1BqdzNMc2JlRkVRQ1ItV2pucUN2SQ?oc=5",
+   "source": "RTE.ie",
+   "date": "2026-11-27T06:31:31Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bee7013b01e8b3",
    "title": "Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs",
    "summary": "",
@@ -637,7 +657,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY09laG1mUWszalBJSzg5UWJLX09IcGtzZGk5cmg1NHNjaG45alBBd01ta2p1dzFSMkZhcjNfM3ZSUnZGbzBzemRkUVVWY0N5dktqbU9RQ1lRbGEtaHdNckE3am4tcmh1RHE4S1NwS2tEM05mVWpub0JFTEQtLTJoWlBHOGJCV2tfQ015d1JjSDU3ZEZVUHFpV2tzNmxXdDhhalB1akROVFJrMkNpVHlJLUZqS2RpQmZmYkVrYUIyNTNERnlt?oc=5",
    "source": "investingLive",
-   "date": "2026-11-27T04:17:07Z",
+   "date": "2026-11-27T04:18:37Z",
    "score": 11,
    "category": "Fed y tipos"
   },
@@ -860,16 +880,6 @@
    "date": "2026-11-27T02:22:25Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -1184,16 +1194,6 @@
   {
    "id": "c0c5f6b17d0768",
    "title": "Michael Burry Sells Nasdaq-100 Puts, Shifting Portfolio Toward Long Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUFVRUUZHc3dQRW9TYlZPM1hkTm1obVNQMXdJWlpyRjdQWkFraGtyQURxc3gxSHZ2Wlh6Ui0tcHJtemEtNURoZ2s0T1hDOG12ZEZ4cHZFMkJpWnJRR181WWJ5cFdVa1pfYkhqMG9QWDM4RW5D?oc=5",
-   "source": "Businesskorea",
-   "date": "2026-11-27T00:52:45Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d10b35eb89f238",
-   "title": "Michael Burry Sells Nasdaq-100 Puts, Shifts Portfolio Toward Long Bets",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUFVRUUZHc3dQRW9TYlZPM1hkTm1obVNQMXdJWlpyRjdQWkFraGtyQURxc3gxSHZ2Wlh6Ui0tcHJtemEtNURoZ2s0T1hDOG12ZEZ4cHZFMkJpWnJRR181WWJ5cFdVa1pfYkhqMG9QWDM4RW5D?oc=5",
    "source": "Businesskorea",
