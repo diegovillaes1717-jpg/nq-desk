@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T18:29:34Z",
+ "updated_at": "2026-11-27T18:34:18Z",
  "items": [
   {
    "id": "8599d932797f87",
@@ -412,6 +412,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-27T15:55:12Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "4e7dc74af3c847",
    "title": "Why Is Silver Up Today? Futures Jump 9.5% to $43.84 as Precious Metals Rebound After Selloff",
    "summary": "",
@@ -589,6 +599,16 @@
    "source": "Investor's Business Daily",
    "date": "2026-11-27T15:27:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "62b320b863b12f",
+   "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-27T15:26:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1178,26 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
    "source": "The Globe and Mail",
    "date": "2026-11-27T13:41:56Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "90d803f0b02313",
-   "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXIxZ1l4RWxMd0RNc1RnbG9yUnZUcTB3M09BdDk2ZVBBUHo3NjMtRkRIODl2SWo2OEh3NmNQZk1NUU5IY2VRMXRxZy04TUI4bXpYc1h2Z19ZaVd2TmlMOXctWnRlME00czgyRzV5THE2NHhYMXlvVWw0TmZ6d1dMX0FyeTFDX1hORlRhM2EyaDNBTzM1RjJYS0hQRF9CNEhBOTF6WU41T0NXcjVpUnhidGFDQkFNcnRXVDhXZi1nRWRDZ2tNQ2c?oc=5",
-   "source": "Forbes Middle East",
-   "date": "2026-11-27T13:41:43Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "142e7336fd404b",
-   "title": "Chinese firms install restricted Nvidia hardware at Shanghai data center",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJLUVM0RVBvQ3hvbjhVYlY4Tnh3am9ScVg0dmY1VmhpQU1nVkFMUkNTQmszY0x6NXpGR1dkcXpLTmVoZmQ4QkJtT3lCWkd2MGVDdE9sSVVKN1Y0VFo2UGJNV0xTc3RLbDMtSkpkTVNFUXoyVDVkdll0MlZUYlFMNU91T2ZkS0t1X2l0cEVidG9qS3lZbThpNFhPQlJraWdEbUE?oc=5",
-   "source": "Crypto Briefing",
-   "date": "2026-11-27T13:40:29Z",
    "score": 3,
    "category": "Tecnológicas"
   }
