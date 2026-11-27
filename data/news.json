@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T09:49:02Z",
+ "updated_at": "2026-11-27T09:53:57Z",
  "items": [
   {
    "id": "b1b327c82b4c02",
@@ -262,6 +262,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "87eba05ac0ddb7",
+   "title": "Jensen Huang Returns With Reform Pledge but Rejects Succession Plan as NVIDIA Governance Storm Reaches Boardroom and Credit Ratings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdERFdFJFNWJSaHJfbGs4Zk5sVWt2cURER2FPQ21TZWU4dzBUV2dJeU0tZGNJa0QwZ3BSWE1rczRtbFJJWl9idDM2U01rMjZ6Y25aaGtyUk05eHNERTUzbHZkWW1MdTVSbHVmOXpkVXVYZHRqSFE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T07:35:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "9ff88854a0f726",
    "title": "Dollar Nears 22-Month High as AI and Fed Risks Mount",
    "summary": "",
@@ -290,6 +300,16 @@
    "date": "2026-11-27T07:26:59Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "e4164ef8346612",
+   "title": "Bitcoin Girds for $58,000 Battle as U.S. Jobs Report, Nvidia Hearing Take Center Stage",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUV21FaElDeENTZUVVdVprdjNNVVRYaGp4SW1Xa0FFLXJWWDlfRUZHanFfWmYtSUdZcFVlamtUTElKa2prRGE3a1hBRUV6d3VoRVhzOVBIQkktTG1EQmJDd2RJQ2RlMEd4aFpURDVZTDJXYVl0eEE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T07:25:00Z",
+   "score": 6,
+   "category": "Macro"
   },
   {
    "id": "aeb570dd891933",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T02:35:28Z",
    "score": 3,
    "category": "Energía y dólar"
-  },
-  {
-   "id": "80e3ac50aa5251",
-   "title": "Gregory Daco: Federal Reserve expected to raise interest rates next month",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnh5NC1ld3E1ZHZoc0RzanB4LU10QmFvd0l0aHBZYXhzRE1wYUFIVVFRVnhTcHZYVjg4enBxc1JFekctSnVGN2hRWUhNRWlTS2x3QWpYWDdVNy0tVEF1eDI0TllONllvckMweWV5bDZUNUZ0bWpFTDQ5Qm4tNUpGdzczeWREb0JSM3BN?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-27T02:35:12Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "0ad4efe847f587",
-   "title": "Dow's 1,100 Point Drop And Comeback; S&P Puts Nvidia's Credit Ratings On Negative Watch; 2026 Gift Tax Ex",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeG5PMkdYY2RzM0JOY0FudzVHRjhvR2M3SXVQX1hHQWxFZy1sczVNQ0l5N2VsZFdzbDFzZFBZczlydUhnaUdPaEp0ZnVRcXRYRDB3OUxWTkRpT19fSE1fSUdvcEFFNWdnaXJ5MUR1ZDU4Yk5sUXpxd1NSeko2YUxzMnpPMGkyRXl0NWJDeG40c19uamI0Y1hIbVFHY1Q2bDhxaXhVQ2ZZVzg5Ym4xMkhFM1NYQUtzc1h0bTRIMUc0aTRXUUJxVU4tdkViN3pta095M1RabDFZbFNiR1BUb0hNOWVYY2pFVHpkMHpkZUt5TWlfRmlSdUJJeFZn?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T02:22:25Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
