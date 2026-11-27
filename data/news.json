@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T12:21:19Z",
+ "updated_at": "2026-11-27T12:26:03Z",
  "items": [
+  {
+   "id": "528ee615e0a1e6",
+   "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+   "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
+   "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T12:22:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
   {
    "id": "2c56ede7cd39af",
    "title": "Tech Sell-Off: 1 Unstoppable Stock-Split Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club",
@@ -130,6 +140,16 @@
    "date": "2026-11-27T12:00:00Z",
    "score": 9,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "ea8914cf88bf64",
+   "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+   "summary": "President Trump demands a probe into the GDP revision data.",
+   "link": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+   "source": "CNBC",
+   "date": "2026-11-27T11:55:41Z",
+   "score": 5.5,
+   "category": "Macro"
   },
   {
    "id": "b54c41e19003cc",
@@ -555,20 +575,10 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T10:06:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -579,6 +589,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -855,8 +875,8 @@
    "id": "620acbd82b1796",
    "title": "Nasdaq 100 futures up by 2.7% as volatile week ends",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBvZEhobVh5RFZxZXdITFFZSDA3M3pmV24yVmI5NWExTEI0TGFaNWo4Q0k3QzQ5RlZGZF84?oc=5",
-   "source": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzdKOV9uRnNmX0ZEUndCN29HajYtZTdlS3IxRDBWTlFSZ0lteUZLRUhuU0Y4MW05MEpMaV9pbEtqbHc2SXRCdjRZQ3JjZkdQcVBSNGZGUHRhaEdvOU9vMnI2U0dBQlYtdmZsMUdvc2JrcHNSMHhzSFV3Z3BFMThMdFAxUFNXRll0RlV6cm93NzZCQ0lLdlJnc256VQ?oc=5",
+   "source": "Breakingthenews.net",
    "date": "2026-11-27T09:10:00Z",
    "score": 6,
    "category": "Tecnológicas"
@@ -1179,26 +1199,6 @@
    "source": "Techi",
    "date": "2026-11-27T07:13:18Z",
    "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d6a00b78340dad",
-   "title": "Silver Climbs 2% as Treasury Yields Ease, With a Sixth Straight Supply Deficit Looming - ad-hoc-news.de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQm55VDh0N1JaUmtHYm1VSFl5NVZWZDA0MTJZaVhLaHoycnAtSVNVZ2ZtOUQ0Mng2cFV2ZTJoQ09naV9VQVBTcVVFMk5EdDZhNEtuVlhjY3g4cDV0dWN3dm5QdVVJY1RIeTZNbUdLek5oMGdVZ2ZHajlIZ0Z3ajlFcUdwREh4ZWJCM3VlWWIyRjMwNTN4OFFpN1RVYzlHUnFqaFVSNERlaFhQQlA4YWlHSTVEVDM2WFpMSW9ySUhzNHF0S0NNYjV4OXctdlR5ZzBUOHRFdl95R1lVNG4yd1NPQmF2QWQyc2swT3lvbQ?oc=5",
-   "source": "Google News",
-   "date": "2026-11-27T07:13:02Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "da2aa45342b348",
-   "title": "US Stock Futures Surge as Nasdaq Gains 2.5%, S&P 500 Tops 7,300",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOXc4NDh2czZ0ZVc0VWJId2xrVVIwdVRpXzFUOWdUZUx2TUpnVWNHWEsxZUN4aEhQRmc2UE1HQXNKNHMxNlBVNUF5UnEwY09SRUgzTXNJRVJEQQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T07:11:17Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
