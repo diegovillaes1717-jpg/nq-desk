@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-27T15:51:29Z",
+ "updated_at": "2026-11-27T15:56:21Z",
  "items": [
+  {
+   "id": "f6a810a55333c7",
+   "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "date": "2026-11-27T15:52:00Z",
+   "score": 3,
+   "category": "Macro"
+  },
+  {
+   "id": "998f1fee7c5af0",
+   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+   "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T15:52:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e6846fcb5cca7a",
+   "title": "Apple Takes Bigger Bite Of US Smartphone Market - Apple (NASDAQ:AAPL)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlNHMDNhLXJpX0xrbkFTMmNJd1B3bGVJS3BVTXR5UXRrRVlmNHZoWG11eXR5Q01OWEJrN3Z5ckowek5QY0JHcnZPTnNKd0lFQUhNeXgyUC1RSTMyY0R1eFNtb3RDaHNqUVc1d1ltSDl4cHMtRGRhZ3BaOVd2dlJLcVluNDRKZTZRQVlmS001dFJiN1R0LUNMaHYzT1BQNVBEVkZqa2lkaDhFWVRydEIyeU5JNjBtNUhSZ29HM3BNVTZNVXlvVnd3SHFTMTdZZVo0S1JnR2tNRnNOZw?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T15:46:05Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3ce492533b101a",
    "title": "British Pound rises as BoE hawkishness counters Fed rate hike bets | FXStreet",
@@ -1115,9 +1145,9 @@
    "id": "3e6cd52789fcb4",
    "title": "Dell, Super Micro Under Pressure as Nvidia Halts Shipments to 4 Asian Countries",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc29CN1p6VGlQZFY1RHpjTkw5ODhpZXhrNmFac0E1SVhTUmxLS2NocmZmUGhLaWctc09UbjQwLW1HWGd5am1ORThxX3JhSFRMejJFV3ZrXzdzRVhRcGYwZEdnMVNKQnQ1MW9ac3pPMHZqaHBWLXoxZUNlZlp4ekk3SkpkZ3daYV8yU1A1UzdGNTljNFhzc2RYcmRpTmlBenpiZXhxOFk0VWx0ZktNbzBNUFN0MENHakdSeEtXeFhOSQ?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-27T12:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUZzdkFULXNudy10WndCWXlCaG5tV29hbE45XzQ3UXJnZndLeG9kN0ZURWFKcURLTl8tNGhJMHBPbUtYczZsWUdNQ2JHX1VvYkVMdEtHdFI3TW9FMmNDU2VvV29ZTUVuSXhDVzNIYlRLUExraTVZSTZWUTlaVm9zTjBvTmFOdjBYMHJQMDZpYnNaZFBncF80?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T12:22:03Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -1169,36 +1199,6 @@
    "source": "Investing.com Australia",
    "date": "2026-11-27T12:14:29Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "513a219cc0d9c3",
-   "title": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0lkaDJ5QkRmdXJNRktPaTMwRlNXRFBpdXd0blpEUl83WjczTmJnXzhaWmFzeEZyLXlPQWcwam9MODZRTjdTYlp0dGhjRHk0di1xN0Z3ZElxLWt6WnNYOUxpTEZObjkxMzhWbUQtcEdCdEREU0QwRTZUMTdEVkhYTWlwM1VmY202VnRla3BUdXlCZGtwZnNaUVVKc3EtTV92TzNhdXMxS1NzTTM3Rkkw?oc=5",
-   "source": "Around Prague",
-   "date": "2026-11-27T12:10:42Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "758e9692abd35d",
-   "title": "Nvidia stock surges 31.5% as Jensen Huang returns as CEO",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fQjh4UzNpX1pnNFRpcEZBV2REalAxUG0tZkx6T2EybTVCVmNqejRseC1GenhzdHl4THdhaE1pdTFJbjZOOTVJTVB3czFKMlBWT1JCS1A3d3NfWHJLZTB5WW8wZnpwRHpLeWFtQi1XUXo2Q0l2VlJLUVotWEk?oc=5",
-   "source": "Crypto Briefing",
-   "date": "2026-11-27T12:07:26Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8692cb50a0301b",
-   "title": "Neocloud Stocks Jump as AI Trade Rebounds, Even as Nvidia Sellers Tighten China Rules",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bdkx1cTcxa2ZvTV95SDBEbXl3ckxETWdUcnhfRTV1N0FGYjJSdjhSZGE3dURpNzVnSmlxOVFsVk45UC0xOEhTanAxcncwRjRBb0dHcmVscUZWTUVoU21QN0JwYXhPUGJwc3V2X0NfeDhHTUt1X1E?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T12:05:00Z",
-   "score": 7,
    "category": "Tecnológicas"
   }
  ]
