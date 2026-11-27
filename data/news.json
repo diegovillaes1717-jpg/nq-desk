@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T00:23:25Z",
+ "updated_at": "2026-11-27T00:28:10Z",
  "items": [
   {
    "id": "2eaab597c248d4",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T00:02:44Z",
    "score": 7,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "5b101ed1bd13de",
+   "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTZ1NmdCYnhrdWQyZ1otb1BaX3p0dnF3cGRFQlhsV19JR3VYSS1IdXJRbmtzZWh4QmhTMTVLTHNCSDRacEFZVEZFV0wtUEM0OVpaT3lqWm5mMHhVcXZuM0pjb2VCX1ZQUzZRSXcwNFVhaXQxZUdab3pRY0F6V2lpS18wUG5Wd1I5Vkt3VUFWTHNhUmFqSlpIV1BTWkhEcHNXdmo3QTdydlpuaU9aNnV3YXFKcXQ1SVZHcXZQY0tTd2sxcGFlV1VCOUZKMnROa3Q5cUZhRA?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T00:00:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "bc557b37adabe2",
@@ -240,6 +250,16 @@
    "date": "2026-11-26T22:10:59Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "98fb90af6793af",
+   "title": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeG5mODVrQkQyYUR6RjI2N25WejFPYUNfbVJNVFRTeVhXWndLWVdmNUNlcmRlM0JWZUdXWU0ydmdFNXZPU2JQNVJWZ2hCbFRTcUlpNjdXN2FpU0lybGlPVC1uR2pmYXI5THlqd3BRR0o1Vzh1Um8tOWNBRGE3NndHc09iNnl1RFFLZjNNRDhlOVNmSDhBanFzLTZUWTdkNklsT1RNV0NFWVl4TGhpVTVJTlpWSzZZemxWY2dDQQ?oc=5",
+   "source": "Kitco",
+   "date": "2026-11-26T22:07:29Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "d1ce66d3d36eac",
@@ -726,7 +746,7 @@
    "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "date": "2026-11-26T18:07:43Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -996,7 +1016,7 @@
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "date": "2026-11-26T17:02:41Z",
    "score": 8,
    "category": "Fed y tipos"
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T16:00:01Z",
    "score": 4.0,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "e1d800dea8dd03",
-   "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims — data centers in Singapore, other countries, in trouble as Commerce Department requires cloud providers to obtain export license",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNll2LWJVdExtSHVldUhucjNnNTZlU1JGX200ak5RTk5Hcm1tNzBJeEJYSUlnX3VjMm1OaDdxQTRiYm1DWkp2ZUhHRk5FSFh4eWdZbTVLbHpZenVIY0hXNVhGMUYzMm1fZDVNVVY1Y0lxMExBcHNraERYMEpoU2NVb1hKNzBhRXExVEdHS3BXeW90cEl5NDhBcw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T16:00:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fb1549b073c881",
-   "title": "Crypto Market Rally as Bond Yields Fall and Oil Prices Drop",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTdhOE5lSndPUHpFRkJLMVFZdWJZUGl4bDZiMHRuZEk1R0xJT0hzLUJHNVhnOE5mck0tTUtDblBUSFc1RUtoT1R4MVVJNWVJeEtTWFlvN05CbW9GdjVaQTUyM0xYNklzTFBXNTE1UF92bzhtYUtfT3BMWE9yNmprdGJuN25YQlc2VURuckk4a2RNeFlnS2FMNQ?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-26T15:54:21Z",
-   "score": 6,
-   "category": "Fed y tipos"
   }
  ]
 }
