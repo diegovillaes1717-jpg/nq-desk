@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T18:43:46Z",
+ "updated_at": "2026-11-27T18:48:33Z",
  "items": [
+  {
+   "id": "f99598cb565125",
+   "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+   "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+   "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+   "source": "CNBC",
+   "date": "2026-11-27T18:46:20Z",
+   "score": 4.0,
+   "category": "Tecnológicas"
+  },
   {
    "id": "e012ce0a2eaf9b",
    "title": "Rising inflation is setting consumers up for a holiday squeeze",
@@ -28,6 +38,16 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjVuOUFYYTRiNGNfS2FENlFELWNBYmpnYlRDRGdDdTRQLWtpWnVqVUJSYjZRejk2WDZsdHlVemxwMG9zWU5CeWFJczNxVENMd0owWE9mZXFlbVQ0aFF2R0FvZU51ODQwNWFfcVAxWUl5UWpINDRCTEk3TWU1SE80LVZPT042QQ?oc=5",
    "source": "Protos | Informed crypto news",
    "date": "2026-11-27T18:36:09Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0d247ccf64c80f",
+   "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T18:32:22Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -132,6 +152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "2b9fadd7a84c2c",
+   "title": "Sandisk Outperforms Nvidia as Investors Return to Battered Memory Chip Stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGpvcGNoODZMRFNHLWNLRjE2ZmhRS1ZmR1hqd1NZRERfQ19ydkJLZnZ6cjVZNWRjN0RwQzFPbnFRa3loTGRjdzA0N2tKWkVTbWgxUWFCQ1FxTm96ZmtpbXBfaG9QWnJadHFXSjdLbERkQTZfbWtKQlZ6SkIxM3pWU0RPV1RDM2djVEtXd05tLXZ4X1I4ZUJVaXVEaHcxTGlQZHk3ZVVnZmY?oc=5",
+   "source": "Coinpaper",
+   "date": "2026-11-27T18:00:45Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5566e827461000",
    "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
    "summary": "",
@@ -140,16 +170,6 @@
    "date": "2026-11-27T18:00:00Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "2b9fadd7a84c2c",
-   "title": "Sandisk Outperforms Nvidia as Investors Return to Battered Memory Chip Stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGpvcGNoODZMRFNHLWNLRjE2ZmhRS1ZmR1hqd1NZRERfQ19ydkJLZnZ6cjVZNWRjN0RwQzFPbnFRa3loTGRjdzA0N2tKWkVTbWgxUWFCQ1FxTm96ZmtpbXBfaG9QWnJadHFXSjdLbERkQTZfbWtKQlZ6SkIxM3pWU0RPV1RDM2djVEtXd05tLXZ4X1I4ZUJVaXVEaHcxTGlQZHk3ZVVnZmY?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-27T18:00:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "5fc355916b762c",
@@ -662,6 +682,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T15:29:12Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T14:12:00Z",
    "score": 8,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "f178d3741a0ca5",
-   "title": "Nasdaq-100 drops 16.5% from record; QLD ETF fav...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdThYRGdERDN3dE02MzlnTlBqZ1NqT1EzYmc5NEF1aW81MVI2MFdxMmhTT284QWtmNUZPblZrWTRGNDQ5WXlELTNicUxhRXl4VHJCT2NxbnI5M2pCU29QdGs1cGMzLVRMd3N5VVliYzlSeGNDWVNVSllfNVRQcXAteEEtOV9EbVk?oc=5",
-   "source": "Pluang",
-   "date": "2026-11-27T14:07:30Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "45350f6fc2166e",
-   "title": "Nasdaq Plunges 4% Intraday Before Dip Buyers Rescue Markets From Steeper Losses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXZBUzBDZGZoMWxVMjhFVkRTWjZjRGNCQ2l2Q3NLWkVDSWRLVnJkUWZvRExNbXVLZGk0Tmx6aDVkRkhuc24wRkhsUEgyUktDaXotVWFvN1NWWkVrTy03aU1BWFAzb3hiZEJaaW5vX0lHZHZWV084QndUR1BDd0p2LTZxWmdSZTRYekhqZ0I4VU54VkdpRW1SN0lna201NzJZeUpqV0xzQWZpTllOYksyQVd6TkZyZENkTVhEMHhXODc2QTNHc3c?oc=5",
-   "source": "Foreign Policy Journal",
-   "date": "2026-11-27T14:05:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "55ca8753fd5003",
-   "title": "The Decline in Nvidia Stock Was Equal to 8% of the U.S. GDP. How Vital Is NVDA to the U.S. Economy?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM09XSXlGQVhhdWVOZnE3WFVtY3lDUlVYbnpPakR3VE1USmRjNHNnNVkzb2EzZGpXQm13cEdVVGNlSmdlMlgxcW5oaU05MGoyalFHeVpjbXVlN2k1cjFhRFN4YUkyLVVtaDVEVTZUYUNwZ2ZRc0JidWlkNUphSk9OaFBIb0tLOTQ1MDRhbjRkX201N1lpRmNRcVB1YVgwbThCQ3NkSFRXVlFGWlVwUng5Zl9jZEF3YWNuZ0haQ2VEMUxsak1JY2RPTEYxczJ6cVZQYnBoWA?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-27T14:00:02Z",
-   "score": 5,
-   "category": "Macro"
   }
  ]
 }
