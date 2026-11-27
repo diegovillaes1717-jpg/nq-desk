@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T13:37:25Z",
+ "updated_at": "2026-11-27T13:42:12Z",
  "items": [
+  {
+   "id": "142e7336fd404b",
+   "title": "Chinese firms install restricted Nvidia hardware at Shanghai data center",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJLUVM0RVBvQ3hvbjhVYlY4Tnh3am9ScVg0dmY1VmhpQU1nVkFMUkNTQmszY0x6NXpGR1dkcXpLTmVoZmQ4QkJtT3lCWkd2MGVDdE9sSVVKN1Y0VFo2UGJNV0xTc3RLbDMtSkpkTVNFUXoyVDVkdll0MlZUYlFMNU91T2ZkS0t1X2l0cEVidG9qS3lZbThpNFhPQlJraWdEbUE?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-27T13:40:29Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "1e70952c593dd2",
    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
@@ -20,6 +30,16 @@
    "date": "2026-11-27T13:25:26Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "310e13bc87dc2b",
+   "title": "US Dollar: Fed tightening bets limit downside as stocks rebound - ING",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXA1aXdUVkdZd2FJb0czcThOSzBkMzRNU2xFaS0tcF95OXJYXzA5WnVyXzBXUld2RmRDU0k4R1lyWmpyc1M2ZElGQjlxZ2l3a2FCa0Z5UnBmVU14TWhKZzBhQU9oUVpwUTNqZW5WRy03QjZFRlFoUE1VYmVkMkg0SUZ5T3R6dzFiMC0zUWZydHhyZXhVeFVscmt3NE51VE1vYWhTUWROZndXNEw3UEE?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-27T13:25:21Z",
+   "score": 7,
+   "category": "Fed y tipos"
   },
   {
    "id": "e84284097d3f2c",
@@ -202,6 +222,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "e012ce0a2eaf9b",
+   "title": "Rising inflation is setting consumers up for a holiday squeeze",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGNDdUdNbHdEOHg4d21Hc0hDNFl4OGsxZUVtd0xPV3NUQ2M2dDh4RURzSE5QY01ndEVGVzRxbm10b1lDTU1nc0hHS080S2k2WWtTOGZCQlIyY0NBZWR3LXRFUnZfRHhHWmtHS0EtRV9aeGtob01JSUtEajlndk50MU1GMXA0a01QalhqbWtYanVZSTVwVkxIeHFhekhZY2dwMGlkSHJYeEhndWc?oc=5",
+   "source": "Scripps News",
+   "date": "2026-11-27T12:41:43Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
    "id": "c3578b7dfc18e2",
    "title": "Bitcoin Reclaims $61K as Nasdaq Futures Extend Market Rebound",
    "summary": "",
@@ -362,6 +392,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-27T12:12:09Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "513a219cc0d9c3",
    "title": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff",
    "summary": "",
@@ -412,6 +452,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8db4d72f078e29",
+   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-27T12:03:54Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "35ecd7e823c62e",
    "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
    "summary": "",
@@ -452,6 +502,26 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "4271fc1d5f0f56",
+   "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1E1Z0hiOTZsY0tQLTBJOTl2WUtPUnBGdHVEaXRtS19NbTdocVExc1dNbmZEaG15UzhPdXBBQ0dvdmE5VGZTM0hYcFR3Vnh5UWFIdlJzTmhTWE1SM2lXWEZMNmc3amUya01ybWtiRC02NkdqcDJKdW5ISzU4LWhjRWQ4d01ybmNaRUhNN1RoaVVWYXJGeFoyeDdaa3V1OW1aVTdwakdR?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:43Z",
+   "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:43Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "b291e5738f2eea",
    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
    "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
@@ -460,16 +530,6 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "149e34a9e16558",
-   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:00Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "2aaf0db81834ac",
@@ -500,16 +560,6 @@
    "date": "2026-11-27T11:55:00Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T11:50:33Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -862,16 +912,6 @@
    "category": "Mercado"
   },
   {
-   "id": "663adfa9f509b2",
-   "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T10:37:25Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "1c42b326d989a8",
    "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
    "summary": "",
@@ -1052,16 +1092,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "21593f3e2c1e0e",
    "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
    "summary": "",
@@ -1069,6 +1099,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -1159,46 +1199,6 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T09:55:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ec3b3191c468e9",
-   "title": "Bitcoin Rises Above $61,000 as Nasdaq Futures Extend Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSGdVNUVPazBydGVCVmpNMXBtU2lZTGh4NndNbEJ6WG9Va2RocFo0SGJVSm1jZ1F6Y3cwQ040VUhlT0Z1STVPSTZIRG1weEJ0R1pGaXlqMVp3QQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T09:54:33Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "65bf308d6ee38f",
-   "title": "Gold prices rebound after a series of days of decline, Fed suddenly becomes the focus",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdidDZFR2hETVh6WkhjVlZMODU5b2RfY01Yd1ljZThJWnNhQnZ3MDktRGxDcnRQcjh2Z3N5NGxMUUdDRDlic2E0b0w3cll2SlFUaERpdTJ3d2Z5b3RuSDhPeHk3MUR4ZjJaMUk3Zkk2OWt6QVVtamQtWjZpVkFmWmc4ZTNRNUNUS1F5Vi1ldE5rT3I5UE8xY2dRbTdZUGMwTTA1ZE9VS1dtUF8xcmVEc0tGOU9vTnh1NF9TcXNocw?oc=5",
-   "source": "Laodong.vn",
-   "date": "2026-11-27T09:46:40Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "9221d50895a20a",
-   "title": "Why A Big Nvidia Stake Can Delay Retirement Years",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcU1RbWVwQTAzQmFHdXBfNU5yMEdjRkFEYnNmRUsybWo5SldSSjRYZHVFN3hBTFhSdGN2RkVNQk9Bb1pPbGUzTktJRkVtblJLUlhURW1qWjIyb0gxc0NMOXZaalMyTHZMSU1GRkFKdVphUTVUVHRiQ3ZJMUthSnJGaEdvT3NTTXNjaVBPQnl6V1Q1dG9hc1Z1Y2NhZ05pamZaZ21nMGlSaGhCdzRaUTFr?oc=5",
-   "source": "Trefis",
-   "date": "2026-11-27T09:46:04Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b1b327c82b4c02",
-   "title": "Phemex introduces leveraged SQQQUSDT futures offering inverse exposure to Nasdaq-100",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjNwZDdqTHZvVmJqcF9WS2JrSC16Y09yLXhqSHdUOHk1WkpTRElrLTcyWnlaNzlRWEFKeEw3U0FfVldFeDZwYnZCcjhtVEg0c19tVEpXRHZ1ZW5Bc21GRmdQRkZ3Ti00QmVlOV9xSW5IRlEzb3NZb1dLU0lOQmVrOEdFNUxPUTc3a3lKSElzOHp2MTdxTmZlSQ?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-27T09:42:35Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
