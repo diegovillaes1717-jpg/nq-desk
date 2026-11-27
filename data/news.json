@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T08:37:35Z",
+ "updated_at": "2026-11-27T08:42:18Z",
  "items": [
+  {
+   "id": "294e087cbc10ea",
+   "title": "Tech Stocks Whipsaw as Nasdaq Swings on Inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT01kc2VXbFppN1ZXWmpnb2VmZHFvOWdaUTFjR1EwbEROVnRnZlVWdDVxTkg4X0FyR0hRUkpEQ2JoUW5kNWhGdFhRMTI3VEFTQktQVFBpN0gyX29KU1V3dFJUM2FvLW5mQTNwN1kxWHF0NjE0V01nVjQ5c2NoNmNpRnlyR05FUDRrYXZuUHdHckREUQ?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-27T08:37:53Z",
+   "score": 14,
+   "category": "Macro"
+  },
   {
    "id": "ebf87736beffb2",
    "title": "Nvidia CEO Jensen Huang’s return sparks mixed market reactions amid AI concerns",
@@ -136,7 +146,7 @@
    "title": "Seoul jumps 4.3% as Korea’s finance chiefs flag chip-market risk; Nasdaq futures rise",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjdJSV9rYXhvQmFNaDVNOXA2U0FWS0l4eWpobk82UFYxa1hybUpodUFFeHc4YlYweE9RdW03NmVEOE8xWDVTdzBYNUtxWTFyQ1Rleng5SlBXLXVyaEZIcUZMX1lzTnhQZU1WdGpIOGhKRFdqaV9ycmxPSWhsc29TbU44VHNnNG1CNXd3bHcyWjVBREU?oc=5",
-   "source": "www.techi.com",
+   "source": "Techi",
    "date": "2026-11-27T07:13:18Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -207,7 +217,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnFhcTBLakYyT0YzbHN3NS1ZU2JqbDZNR2lKeERxLWhmYWk3dmxFd3A5bUdNQzktNlJKeEZ3RWJiU0w2SnpENkxuUU03N2FWYXZGU0w5aUJvZEpPNTRhLWQtc3JLSmtjOE8yQk5BakcxaENQdDhxVUpPa0hoU2lJQ1VaM0FITjIybHFYQUhoNF80LW92YU5Dem5ZUXdjR2QyQnlZMU5SMENJTV9sUXh5Zk930gG3AUFVX3lxTFB5NHIzWkZDbnRTemUxV05mel9FVllkS2hYRkU3amdXLUk5LTQ5VVVhSVpuR2QyV2pQZmpWaWJPQ3NmN1JQdHRhbVd1M1hJV0w0OU5sMmVKRWwwSzRBYk5xa3JHQjEtdFFDNlVkc3NyOUJVdTB0SS1YUUJHb2dpQUJrY3Q3Zy1FREdXYnJoUkRQR19WWkNMQjdNMGNrOUNnbmtwLUV2ek1fNHh4d3RvcWpSdHdPOFplOA?oc=5",
    "source": "Coinpedia",
-   "date": "2026-11-27T07:00:48Z",
+   "date": "2026-11-27T07:00:44Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -562,6 +572,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "69496a3ab2e2dc",
+   "title": "US tech stocks set to jump at open as volatile trading continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:00:22Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "71e5909b15b021",
    "title": "US tech stocks set for rebound",
    "summary": "",
@@ -629,6 +649,16 @@
    "source": "24/7 Wall St.",
    "date": "2026-11-27T04:41:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e9d6ec5ac4b27f",
+   "title": "Nasdaq 100 futures gain 2.2% after selloff, Bloomberg reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ya0d3bXEyTGxsdFdWeFFaZlpiNDZITXQ5QVJXVE9jR1Z4OVlXQVVyYmFtX1VudlhUXzJkRHJaUFloUXVyQVVxMDVHM2VsS3FyOEE?oc=5",
+   "source": "Digg",
+   "date": "2026-11-27T04:39:25Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T01:11:05Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "5bc8340e371517",
-   "title": "Sensex, Nifty scale multi-month closing highs as tariff fears ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVDBtYzZmWDFkZXZHT2dwWTJBdDJDR2UyYVdZY3RpWE9MRVl6MVlNaW1nRkZOeWp3QXlUTEVRTERoVFRFd2pSc2huZS1SMklxWkNwYmxqQ1hER0F3aXRzNkxhWFZHV0NLcGs1LWNlQnhjWDlmdkRnRmd5emZ2RW5NVURDdHZvQ1lZUHRRMHVpaDd1LWJhXzVkdHg2cDVFbUJzSGJ6cVRsR3FLcDhfajFpRXQ0M3NReV9KNVdVc3Z0aXhuMkJZTXU4enBYdV96NllSYnVkUHh30gHbAUFVX3lxTE56enFVVGdXZXEtdHJTYm5XQUhic2pPZnVqUVlmbDBsOWRkWG5Ia05YOFRmdktiUHRfVnNGTTZlUDl5MkhBb0dHMmU4QlZjcnA2eUtMeTlvdkF2VFREbnQ1Y01tblI1MEc2SmhFakJ6a2JnS0YycjJiUzd4NFNEWjI5SU5HSVdGMlZTSWdsbXd5MWJkQnVPN0djaElrbW5jVFZqTmVvazRKcFN1OEhPSUcxVUpWUGNIOG9Yd1RwbDRzd2NabGZndWVfRGREUG95UmVNSjRsRi1HbUg5dw?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T01:10:06Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "453aa554970181",
-   "title": "US912797XE26 Bond Yield and Price Chart",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWjJGOXMtZWc3UHdUcnRlQ0tDLS1MWXIzT0p4QlBJVTBSdGxGSTVBUkJRRklqaEFhZVJTQkdDVXEzeG5aTG90N3pJUHBNTmRucm1TRWhJakEwWkZVTEk0Wk5JWmRrRzJxZEE?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T01:08:59Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4aa42660c08c92",
-   "title": "AI boom is first time economy depends on unregulated industry, investor says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaDZSQm45WHp3eHMxWWhLLVMwVzVNQmUyM29MLU42Nkd5SDhfbHhwYWF2T0JPU2xPaTExTG95OE9STFlobDNNOFZWSEdfN0hIenFST2xzV0ZLUG1GUkpONmxZLWlBM3c2REpoVnBwcGN0cDJDWUp5RFdhbmZYZ9IBgwFBVV95cUxQckMyc2RtWUhLUXhrRDF3ZmxuR05zTlB6TDRfTU1MWTBtTjNEMWJfMTV6X0NJRmxUeVBuczJINWQtcUUxVEZvc1dPSERwSkR3emFUUEktdTQ4bGVGS3RoZXhDZF9SOXZ3XzV3VTBJMjZGNnI2VVI0clhSNVN3MDVJeU5NUQ?oc=5",
-   "source": "NewsNation",
-   "date": "2026-11-27T01:01:12Z",
-   "score": 5,
-   "category": "Macro"
   }
  ]
 }
