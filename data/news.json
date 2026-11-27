@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T19:40:38Z",
+ "updated_at": "2026-11-27T19:45:23Z",
  "items": [
   {
    "id": "2439306e4a0d17",
@@ -7,8 +7,18 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjB6alJDWFVKOFVmbGN3VTdpMlhoOElwdE1lWDlXVzZtLXZKREdTOHJVV1R0RUpBazcyUWxnbzJqa1hReGRnYTBNY05vRGsyVHdYVG1jcjhBM3BGLXNITThsTWcwd3UyR3h6QV9uWXpRY0tBWHlkWjgwZm5jalV3NHNvM0xfenozTUdnZ2U5Rld6aW1QaUt2eEE1YW5aSXRtSWpUTDhzRU1ncjExWG5HczcyRVA1MXBiUnd2cnVjSFRjUQ?oc=5",
    "source": "FXEmpire",
-   "date": "2026-11-27T19:38:25Z",
+   "date": "2026-11-27T19:41:48Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "acde82e0559910",
+   "title": "Nvidia, Micron, and Sandisk Trade at Half the S&P 500’s Forward P/E. They Are All Genius Buys.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDhySGlxeXBaWE1ncDJVOE9IUDg4aUthNFhndVJpVVdDYlZVUEthUTdmNUlsWkU4bFBqZUtZS2xqQWw0OWNEWG5yTFNSMVZrVXJ0MUl5eU4yY21ZR2h3NXo0VnhrRmZTdURoSzdHR0hjSjlla2FKT1VFaWlMUTh5SmRJbU0zRm1qTVBxWE5jUnd2N0IxZUthLTEtRVFDYWJOd3M0UXlnSVhMOG5ONEZJNi13VEgtZlFrV3ZncDE1NktubmhoQzdXYnl0R1pNUy1OM3FV?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T19:38:02Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -19,6 +29,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T19:28:09Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:12:39Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -42,13 +62,13 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "id": "c34f5fe70327c2",
+   "title": "AI And Chip Stocks Powered A Big Week For US Indexes",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:02:36Z",
-   "score": 7,
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVEN0V2RMMmlpdjZ0MFRzMEswaHZyeGFoWnYxOG5leWxsZTFmUEZxVXEtRVhoUjZjWmNRS214RVJLcF9zZU5tTkV6OTlDRGdsZUJ2aWhCY3ZEMHl1NkJqXy1PN3pWcUpNaW9vRmdXR2pOVHlJRUhXc2F4UUZ3bGdBYUM3cUw2LTFH?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-27T19:02:07Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1179,26 +1199,6 @@
    "source": "24/7 Wall St.",
    "date": "2026-11-27T14:52:00Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d9153c79e0a1af",
-   "title": "EUR/USD Forecast: Fresh data to shape bets on next Fed and ECB decisions",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3NkTlU4a2hUYzU4aUJhSzdacjZoalJTaExvdy1Sc3VtWEJsclVORHRlVXVKWVVjS1RuRVpvNlV1RU1CaTdSNXg2OU5waW16X3p2MDRQeUwyc0NCbmkwQnJRbWlXZDRFLVg2bzFzRXg3aDBhbzlwNmFEN2pRZWxRVXB3eWp4Z0hrOE1BNzBWdDBDR1FyZS11YmRqWjF2c1FLdGxCZThzZHpOMEtjMWg4ems4Wnc0Ylh6eG9pM0p5ZS1VelB5UFpoQzNoNnpocG5GQmpKUVQ3S3l5TlRrSGc?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T14:49:23Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e7c03c32cc505e",
-   "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGtWQlhFa2lvTE5IaDRnMEJMUFdLUmQ3R1JrazZTak44NDZ6dEhwR2FzTTFzdkVMOG1hLXNtaHNUMG1UUURSQnl5QjZKTEVBQ2xnMnVtS2F5WDBZODdzd2VVV2tfYlotZTJidDNYbG9LbDNSSWZNRUVuaDdZellqclVOa1pyalBqVU02S1p2aVNJc0xsQ1dhYXduYkJQX0d1SmNJdnhWVl9vTklrMlBWeVdUTWMybVo0UUhtLTFiMWhpTWt5WmhsTUtKalg4dzJETEE?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T14:44:49Z",
-   "score": 8,
    "category": "Tecnológicas"
   }
  ]
