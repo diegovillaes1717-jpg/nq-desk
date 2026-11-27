@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-27T11:14:45Z",
+ "updated_at": "2026-11-27T11:19:29Z",
  "items": [
+  {
+   "id": "1869cd89111917",
+   "title": "Fed Warns Big Tech’s AI Exposure “May Be Substantially Larger” Than Its Balance Sheets Show. That’s a Risk for Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY2xNMFItT1V5UWRpVW9ja25CRmg5X2VaVzhSajVPRGdISVM5YjlKUkxRLXlPM09jcmtPQW9WVENTS0wtWmY2X3pBTlNIbVVnUlV4Z0U0UmloQ0NidjFCOUVrZTFCUDBLV18xdGsxQnFoNGx0V1E1SFFOeXdnSFYzb3JRU21aWWZnWmxLRmVxSzg3RmtKRENYQWpfRnhHcGh1MnNlSHNBNHE4V2Vld0NHMklrSFEyNGdSNWw1czFnWDBOSkZndUgzNUtBa3JNZ1NpZ3RrZHlrZzlrakhOWUVsMFN0MWRPdXdsdU1CTmNVM2FmNFJ6ckVzVHZ1NUZhYmtDM2dIdVZheTZfMkk?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-27T11:17:03Z",
+   "score": 11,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "c8a0ee9d9df1cc",
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T11:15:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7138bf5c13f081",
+   "title": "Jensen Huang Faces Congress: What It Means for Nvidia Stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR1NiWGJZaExvVlZJeG8yeURqdGJjZVc5RWVTY3E0cmhBRlVlbE4yYnBPeG5ZUmk0ZjIwR2E0VXFud09uOW01OXE4WTlNeEVyYTRkMTdQOWJXMkZzZ3czUjNSV0QxMHB0WDkxVS1CUl9kS1pOZkdfeUN0Rjl4dU1INWZEelpDTl9DOWx6bkFIaklDR25EV2lkX1FpVWQyV2pmMjNKWW95dEdBLS1zS1RqT2VTLXJ2US1aZGJkdTZ5emZoVVZYV1RvenNBbm5xLWdyZmd6Z0VPbVhNQQ?oc=5",
+   "source": "IG",
+   "date": "2026-11-27T11:13:51Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "db79005f2ceba7",
+   "title": "Eurozone Bond Yields Rise as Oil Holds Gains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLNWVRejRIVVdUQ0x0QkNlMUVHUWZZMXJzalZYS1ZKTF9xLVgxX1drU2V0S0ZQODNvZGR6TXBvNjJsTEoyUGJySzVFVm0tNVN6LU9rU3BNcGlJRE1iUVcwSVNrcVkxX1ZCUWpubzBSdWpaeWVvN29ka1RoU3dkbVk?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-27T11:13:22Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
   {
    "id": "b153571465fe03",
    "title": "High Inflation Puts Fed’s Credibility On the Line",
@@ -222,16 +262,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "21593f3e2c1e0e",
    "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
    "summary": "",
@@ -239,6 +269,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -1047,7 +1087,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBjcFczUEdNdkpXUFJHYldpUUpSMlpNM2IwTG9oRS1WNDg5SDZsa3VqT3NLT0tLdkdhdjIyOFRMNzBMMFJQTTYwbVAtWGNWQy1BS1ZtRW5Rdm5fSDJLaUdlTWNRSEd1VE1UOUE3WkRlWk5kRGFjM0ZHMWdaOVNZNmgwcGVUbnltM2ZUbVlOX3g5SmVrSG1UZmR1UTh0WTVIRmpDdG9BVHpFcmN5enYxcU90d3BacE1oS0w0RF93YVQyYWVWNmc?oc=5",
    "source": "TradingView",
-   "date": "2026-11-27T06:25:35Z",
+   "date": "2026-11-27T06:25:00Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -1159,46 +1199,6 @@
    "source": "www.tokenpost.com",
    "date": "2026-11-27T05:37:08Z",
    "score": 11,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "81f7afb0b4f996",
-   "title": "Nvidia’s manufacturing partners halt server shipments to SEA: report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFlzNFhxWGVRcmNDeFFHVUhnMU9PeHVaZlRMUy1ua0hWVEpvN1FsSnBLNmNPTFkzRWRWcFdrZFNCaFNMT1JuUHctME5kNWhQNF80VTE3czlLNFNTVEJHVVpZX3FGUElWbnZVTVo1eXZSLTVnYTBQYUduMWppQU83RkR2STB6NzNYRlFVYkRZeVhRTTNLTVRRQjZaZXFMb2wzYk1PSk1pRWZ1cmpfRVVDODUtaVNaRWpid0VxdUduV21vemgwcTQ1enBodzBQR1U3M3NJ?oc=5",
-   "source": "Developing Telecoms",
-   "date": "2026-11-27T05:36:01Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a6523215e7c0a4",
-   "title": "Fed faces AI, inflation challenges amid rate hike considerations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXJzbE5DY2xaRU1YZ0d1UFJKRnBqVzZlcTZJNDBKdFpEeWdlbkE2TVF1R3ZMaGZXdWFQV1Z6SXBoRTZuMmU5ZklyaTBha0NRTnBsYXJzNDNHQW40ek5mOGZOVjI3dlhJOE8xZ190ak0xV19SWVo3TmNFWEJ4cUtIR1FMaTJJeDAtd1YxaFVEUm9zOEZRM0E?oc=5",
-   "source": "Crypto Briefing",
-   "date": "2026-11-27T05:33:34Z",
-   "score": 11,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5747bee536ce57",
-   "title": "Opinion - Bill Straub: Despite Trump’s downplaying of CEO’s transgressions, his Nvidia problem isn’t going away",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeTV1TjBRZmNOWHhsNDJEdzNwZ2JIUDhDZXRyRDZvVkgtbEE2eW96OXFIYmJIcVdoM3l1V0psTVVGdjFqTWJyUlJkRDZ5Z3JYNDFCdkZOZXQ1S1ZvOXd6YV9qWmRRdEFETXpXUEgwMUVNTmVLNm5BcFRRcEpzak5zZVpDVGg1S0VEUUlvYWtSS0VvRGVybTRiT2ZDaWN6amlNSDNRWV9hS0lyc2taU1hrQVctLVlUTFowb0ZjUHR2N3Q3UEFOTHVmQVZpQk1Rb3NrSWc?oc=5",
-   "source": "Northern Kentucky Tribune",
-   "date": "2026-11-27T05:30:22Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bb3ecd29383b6b",
-   "title": "Yen Hovers Near 159 as Thin Holiday Trading Meets Fresh Fed Rate-Hike Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcHdFallDRnZiTGZkSGhVendoVmJYc1FjWTQ2NEdBSmk3bTk1cnROeVZ1MVB3akdpM2hxcDFJWXBaaF9FS1YyN3RweEFacTF5ZEFyTnJ5TjhIazFUV3JCdWxZYWcxN0JVdkN6elBBYXdnZ1BGNVE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T05:25:00Z",
-   "score": 4,
    "category": "Fed y tipos"
   }
  ]
