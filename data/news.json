@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T02:13:13Z",
+ "updated_at": "2026-11-27T02:17:59Z",
  "items": [
+  {
+   "id": "35c86941b6d6dd",
+   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5",
+   "source": "CryptoSlate",
+   "date": "2026-11-27T02:10:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "5a3025a884956e",
    "title": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat",
@@ -212,16 +222,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "bc557b37adabe2",
-   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNMSFZ0MzlfT2lhZFhGVW1yZFI1bzFFd0MxS0NRTDRGLUJnVzQzT3Q1T0YzNU1GVndzbDdkbVMzNG9LZGF3dDlNV2FFcHk4TXVadmhxQTUyZ1o1eUh4M2N6Um1NMjJjd29pMHBaWnktMEZVRjFQWmVZM2ZERVVjQ1NWU01RZWswbUdoVW9INUZpVGdQWnczLUw0NXQ1S0tpTW9RTTBhTUpwYllzb2M0Z1k4bldibUd3Mzdlc010M1k?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T23:59:08Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c44aa220a1cccd",
    "title": "Gold declines to near $3,550 amid hawkish Fed expectations | FXStreet",
    "summary": "",
@@ -260,6 +260,16 @@
    "date": "2026-11-26T23:48:45Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "bc557b37adabe2",
+   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWl6WDgzM0tfbzV6bDlPc0dfd3hpbUtHa3pQSDRHeGFIa0JySjNXaEF0V2NTanlDYktkaTV0dHdEdmhqOWtYSk5vMHZSNU8zRTVLN2w3RnY3OXVmRXFHMkpqTnExblo2ekNGMzNLSU9nM3R3M1g2SHFJVGM1aWFSaUdRS2xCUVVncjlTczVmeVk2bE9jRm1faFBseG11ejBhZmc?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T23:37:16Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "dbc5d5914bf8f3",
@@ -697,7 +707,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYdldwREJqblVaWEI5RFNiVVJFcmxBTmpuMjRhWk9qRlgzczdxOXVlNVFoY29rWlR5UkFhd1h5aDlmWDZqWGdGLWNyd1NRRFJ4VWc4TU9mQVo?oc=5",
    "source": "Cryptonews.net",
-   "date": "2026-11-26T20:02:19Z",
+   "date": "2026-11-26T20:01:37Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T17:16:12Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "696be7f32759ca",
-   "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQklld1lDZmR4ZzMzWlFxMUNoSU1vWFpkZVZaWnJ3RVctZV84S1RTVlRpZmhPRzg3MXdQQ29SWlV3WGxzWVlqSnBPZEc5ejdsSE1aLTdYeGdObHpJd3ZtM3NZb2VzUm1xSEttMDBsZl9paGZ3UG01eTdveUJLQmdKVkZzVU9oVGluRkF0dmRhVWdfbFp1MDVLXzdXRnowZXg4VkN1d0RjTQ?oc=5",
-   "source": "News On AIR",
-   "date": "2026-11-26T17:14:43Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
