@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T09:15:25Z",
+ "updated_at": "2026-11-27T09:20:08Z",
  "items": [
   {
    "id": "90c6ac6ec028d9",
@@ -997,7 +997,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
    "source": "CNBC",
-   "date": "2026-11-27T02:47:16Z",
+   "date": "2026-11-27T02:53:00Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -1040,6 +1040,16 @@
    "date": "2026-11-27T02:22:25Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T01:40:58Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "acfaa0e4e955f6",
-   "title": "Treasury Yields Slip Before Inflation and Spending Data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5PN0ppNC1RdVhNYTdXNkhZMGRQX0gxbnB4ZU1qb1hxY2tHVVA5RWNIc3I2RVdxVTZ4aS15LXdHNTZVVjhRX3NSMUZSSWdjZmtsLWZ5YjdtbHVUcThwQXVsbjFoZXdTS19ieFRoWUJ4QVhtWGZjMHZUTm9tMEFjc0dZbw?oc=5",
-   "source": "Oz Arab Media",
-   "date": "2026-11-27T01:40:13Z",
-   "score": 7,
-   "category": "Fed y tipos"
   }
  ]
 }
