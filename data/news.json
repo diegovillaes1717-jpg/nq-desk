@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T23:32:55Z",
+ "updated_at": "2026-11-27T23:37:39Z",
  "items": [
   {
    "id": "c8a0ee9d9df1cc",
@@ -69,6 +69,16 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0e9c32a119f389",
+   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T22:30:34Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -480,6 +490,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -1179,26 +1199,6 @@
    "source": "Pluang",
    "date": "2026-11-27T15:35:48Z",
    "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "69cf1e74c2d9ee",
-   "title": "Why Is Gold Up Today? Futures Jump 3.4% to $3,655.70 as Tech Selloff Cools and Shorts Cover",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjVkZFhfc08wQWdyM0VSWTUtYlR3ZElSTlowWTBRVmp0NHBzTHRxOWZKYUNyTEFzb0V5eFE2S0owTXM4X0tDRUo2X0VhOG8yTXV0SFU1TlctUjlJUjNPbVFJckpKVTl2WTQtbkNGOFRBTFpVNjNjS2VOdXp1dHlZLUZWVnEyUzM0VENCQWJxQVpxajZTd2RwOGY1c3hCeTJySWJlYW53dFIza21qUklv?oc=5",
-   "source": "Around Prague",
-   "date": "2026-11-27T15:33:54Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2dd6fe04079ffb",
-   "title": "British Pound rises as BoE hawkishness counters Fed rate hike bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2NDVHVFSGZQRVFsWGo4QzBZT0hjQ0t1UkVKUGJ1RkpNaUdhQWVRbTJDWUEwZTFwZEYwX196VWZsaXpCN1Zzb3RRRTc4alRmWGlGenNCbmZpMjFLYnN0Yk0zYjJpMG1HOGpsZzJPQk9Kald6c3N5dEQ1dFp0TC1VV0pJX0NLZDlhTy00MTJUekJUWjBZa1ZZdlYzZEptOW9pbFFidzdXRVFNSTdHWmc?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T15:33:54Z",
-   "score": 4,
    "category": "Fed y tipos"
   }
  ]
