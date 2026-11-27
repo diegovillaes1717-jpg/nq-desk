@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T11:05:14Z",
+ "updated_at": "2026-11-27T11:10:00Z",
  "items": [
   {
    "id": "b153571465fe03",
@@ -20,6 +20,16 @@
    "date": "2026-11-27T11:00:01Z",
    "score": 5.0,
    "category": "Macro"
+  },
+  {
+   "id": "15c0cbee7b1e92",
+   "title": "Nasdaq Futures Jump 3% as AI Stocks Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1VNQkh0WklVVVd6RU9kdUtSRnBoLVIzS0YydmNBejdfVTZWX3VsUGJKbXVmQ1Zsa2pydEFydFIyMm13b3RMLVMxdmx2c0w4WWVtQ3F5YTJpQThWb2FFNFRJLUo5Y0MxX2FETzJJZ05ibkxxYWVNT2h6MEJGWEhTOUcwR2JRMHJOVW1lTzZvVVEwNjU5eXJIQ0FITXZJZw?oc=5",
+   "source": "Kotak Neo",
+   "date": "2026-11-27T10:59:35Z",
+   "score": 9,
+   "category": "Tecnológicas"
   },
   {
    "id": "7e724decc2b9a0",
@@ -112,6 +122,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "ac52f11d465073",
+   "title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeW94VXgwNnc4UDl0VHZCZFV4VnRsOFl1V1o0M0pobmhRMFp4dzFYLW40Y2plTGZlZmRuRUwxOGNDMXRCcmhCcjNlMkczcFhBSzhJMXoxLVd0ME93Q1NWRjBFa3NEa0Joc3dlMGgtM2pac0Q2Y2c3b3ZvSFh0TzVkN3FueFE5bjltQXVQY3B4QzVuTWFtdTlpR3lpUmlGRHRFMnc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T10:20:02Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "1a20f608cd7746",
    "title": "US Futures Climb as AI Stocks Stabilize After Volatile Week",
    "summary": "",
@@ -185,20 +205,10 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
-   "source": "Knoxville News Sentinel",
-   "date": "2026-11-27T10:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
+   "source": "AOL.com",
+   "date": "2026-11-27T10:06:22Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -209,6 +219,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -250,16 +270,6 @@
    "date": "2026-11-27T10:00:22Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "ac52f11d465073",
-   "title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc0pTZDVoR01raXhlSWRKYjI0MVFzQWFBREt0UzUxQkVBaS16bVZrZWNtcE5xVnhpZnFSSGNWbmRjMkdFTGZIdGlvRFVUTWp1NFctYTdCT00yc19DNm9VX3RxN2JuVVNEc1o2YlFRRGgxb0xESlZkSkpCQ0ZBQWI3YW43SnUyTWRNd2Rnd0MwcHhGd1F0UVpUN1NpV1lqNUNEZmpURnM2S3V6dU4wM1FjYzZrY3R1Q245Mk1UcW1HQ3ZrU0FnUzdqdm1QekVJQ1FRMVZMUjhmSHlrM2pfQkQ2a3lqZw?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T10:00:02Z",
-   "score": 4,
-   "category": "Tecnológicas"
   },
   {
    "id": "a7d5f29e922807",
@@ -392,6 +402,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "70856bf1364bc1",
+   "title": "US tech stocks set to jump at open as volatile trading takes hold",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T09:31:02Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "ce056ec36671ab",
    "title": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after...",
    "summary": "",
@@ -410,6 +430,16 @@
    "date": "2026-11-27T09:30:00Z",
    "score": 10,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "221cabffd6e84f",
+   "title": "Crypto market under threat: the Fed’s hawkish stance risks a ‘crash’ in December - logos-pres.md",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGE0UWg5bTBEVElNTzJveDh2REh3NTRVM1k2SDhwbloyRTZQN2I1Y1RQdFlvS3N2Y3RDUVJkZVM5RXM0dGtUMVpKcVpsblhzVm41VzFnTnFmZmQ5dGFtSFNvSmJHNjZRcGJKQkVNNjlIOXZHZTdmT0RRLWViOFRtWU42NGFWZV9wOGZ3S1dRdW11ZjJvaTNVelpOS2RuYXlwS0pSa1E0eklrbkU?oc=5",
+   "source": "Google News",
+   "date": "2026-11-27T09:29:54Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "67de4cf87cec24",
@@ -463,11 +493,11 @@
   },
   {
    "id": "2f6def19a170f9",
-   "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+   "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady - London School of Business and Research (LSBR)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iSU5HMHF0eHBRSkdvZng2N0xGcldHSnd4ZEFmZVlnZFpjMzd1d2JkU1lORGVlUEJWNl8wUjFlTmhGdWhmN1hMdzFqMEZpWVJlcWRoSlZySFVNMjRMb3VodWJPQ0lPTzNaRVhXc2VWeExjWXlQRnlV?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T09:11:52Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGhsVXVONXhhNHpwZzVFa3ZsRWlieEhLb1Jwc2JFZFljWURzd2dHN2Y3ZUdSNHI4RzhLWE5pUEFZT2NvOGVlSklXQTJFSGk0Mm1TU0gzRGJPaUk5UWp1TmtwWnhZSnI0aS03RkxGdmhYU2M4Z3g2d0w2Wk56aV9pTWRsRU8zN28wb2o1VldUdE5lN1h0SWhINjJjMU0?oc=5",
+   "source": "Google News",
+   "date": "2026-11-27T09:11:00Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -842,16 +872,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "db21534d43ac5e",
-   "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnFhcTBLakYyT0YzbHN3NS1ZU2JqbDZNR2lKeERxLWhmYWk3dmxFd3A5bUdNQzktNlJKeEZ3RWJiU0w2SnpENkxuUU03N2FWYXZGU0w5aUJvZEpPNTRhLWQtc3JLSmtjOE8yQk5BakcxaENQdDhxVUpPa0hoU2lJQ1VaM0FITjIybHFYQUhoNF80LW92YU5Dem5ZUXdjR2QyQnlZMU5SMENJTV9sUXh5Zk930gG3AUFVX3lxTFB5NHIzWkZDbnRTemUxV05mel9FVllkS2hYRkU3amdXLUk5LTQ5VVVhSVpuR2QyV2pQZmpWaWJPQ3NmN1JQdHRhbVd1M1hJV0w0OU5sMmVKRWwwSzRBYk5xa3JHQjEtdFFDNlVkc3NyOUJVdTB0SS1YUUJHb2dpQUJrY3Q3Zy1FREdXYnJoUkRQR19WWkNMQjdNMGNrOUNnbmtwLUV2ek1fNHh4d3RvcWpSdHdPOFplOA?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-27T07:00:44Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "01bfb2e4a96a33",
    "title": "Nvidia’s 31% surge, US tariffs on China: 5 figures on investors’ radar this week",
    "summary": "",
@@ -859,6 +879,16 @@
    "source": "South China Morning Post",
    "date": "2026-11-27T07:00:13Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "db21534d43ac5e",
+   "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObTlBTTUwV3ViRExoczFLRFFwM0xvc1FlU2g2ME5mVWFQUjBIR1hSZ01QMkRsV1pnMF9CV0Q4ak1aR201SzZfWXEyQ1pLeWxUMGlnc0RldlNlX1JESUdmc095WnFtVWhKSHJ6eE0ybVZpc2tYZko4bmxnR2pfZVE4VTlSdFFBemVSUXZTNm9VcDVmM3p6SXBVY0lHSUhNekV6OHJTSnlQdFFMX3pPb1FCY05YcnJLLU5OVFMzSFlINGpDakFEdXpoNXN6cFRqckZqenBGTUgxc25IM0cxNTJj?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T06:59:00Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T05:30:22Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "bb3ecd29383b6b",
-   "title": "Yen Hovers Near 159 as Thin Holiday Trading Meets Fresh Fed Rate-Hike Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcHdFallDRnZiTGZkSGhVendoVmJYc1FjWTQ2NEdBSmk3bTk1cnROeVZ1MVB3akdpM2hxcDFJWXBaaF9FS1YyN3RweEFacTF5ZEFyTnJ5TjhIazFUV3JCdWxZYWcxN0JVdkN6elBBYXdnZ1BGNVE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T05:25:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "73ba49cf298dbf",
-   "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEtfekZpU3YzbUh2eENiaGtONGRtOXVzcC0zWkJlOEJENW1mOGdkUC04VTd1Q0gybTFaNWpiZm5kRHMzel9RVGdXWmlia1prbXBkWnVXbnRoTkV4amJzRXBjMW1tcXNSZTlya2hka0hwQlpqZWpBaU9WdlZhU2VHX1JXcDRJeGZ0MF8ydjJZS0VEWUtwQ1E?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T05:14:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7e32b4fa4fb5ea",
-   "title": "Loonie Steadies as Traders Price December Fed Hike",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGtwRUdSelBVVjE3Q3RweG5LWERKNTFISExjS0JMSnhvblNkT0lGdzJnRlpzVktSY193SFVmRjFVbXZGX3JfaVNDNHFpTUVKZEZYQXppSVdrTnBGZFZrZ1ZDbnlaemZ2bVVBcVpXd01qZ3VaQTNzdFFfN0RrUmk4VnRablQwYkk?oc=5",
-   "source": "Wisevoter",
-   "date": "2026-11-27T05:08:36Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
