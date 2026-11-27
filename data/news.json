@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T14:39:48Z",
+ "updated_at": "2026-11-27T14:44:32Z",
  "items": [
+  {
+   "id": "5ad4c6e56ed43e",
+   "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+   "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T14:40:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "24a07dd25c15f3",
+   "title": "US tech stocks bounce back after a bruising week of selling",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40QTdJRGJNcHZtTEV4Y3k5ZmM3cUx1X2V4WXByWEh2WkdrLS1DLTdGa3RfSnZaZGo1MEkwVks1T0dvRjlaSWVqaUk4RFBxYTBETU1pc2xNVlAtWThCbGtTaWplSm5MaWFtLTFQUWhELTl0dw?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-27T14:37:32Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "84aaf782430d26",
    "title": "Nasdaq Futures Lead a Broad Technology Rebound",
@@ -12,6 +32,26 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5281d69e720252",
+   "title": "US Treasury Yields Rise as Investors Reduce Safe-Haven Demand",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdjhuWTdXcVl6WnN6bURvU2ZndXRpOVFGWjBFNlVpUWNGNlE0WlZxX3J5cWZ3ZnZzaUdnOFhqVFNMSkpHbzQzdzhGVGx0dDdSZVNneTliZnJLUzB5YUg5c2xGRlpoanBsLW9LM3NMVVQtWmprbG93bXFrcHExb0FLVXVxOVBTOFBIVEdjaUYzV2I5eFEyTTJHZUZZMFIxRTg?oc=5",
+   "source": "kalkine.ca",
+   "date": "2026-11-27T14:34:00Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "35ecd7e823c62e",
+   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOazlwLVJyUndBeDRDNGZ1dkV6U0ZKaXB2T2REdndZQm5UVUtVNFdndDlfaEVZTWMyU1NmQ3BsTVlZTWNvUlk3RHhMRzY5S0otMmRvczZqdFR4YUxFZW1KdzFxWTl2X0tUempOQkE0YXpraDVzcjE5SlpUSUQxd2tyUzB6Zk9XQlZ5aEQ4a1dwUTRNQmgydnBsbWdLZ1QzRGRoUllaZU13MzdWUUN2NzMtY3VHVzJRNXI4Nk9NUU5yUkNKWl9oZEhKVmM0N2x1TEFMVlRaM0U0ZnQ5SWZqaFhRSWRjNzRGTjY2cWc?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T14:33:40Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "02bf28f9c5ed51",
    "title": "US Stock Futures Extend Thanksgiving Rally as Nasdaq 100 Jumps 2.5% and S&P 500 Tops 7,300",
    "summary": "",
@@ -19,6 +59,16 @@
    "source": "Hokanews",
    "date": "2026-11-27T14:30:00Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e7b59615809b5c",
+   "title": "Kioxia Stock Has Soared 21% in Two Days After an Nvidia SSD Test",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEtOWU9IX1pkT3VPQ3A1UzlMLWpUa01YdGlxV1E4YmluLWdBM3BfQ0M1RU9kM0pZZnVmVkxxS1FoblZLUXFQcUFnSUpHcTRoLVJkcnZBX01hS244SkhkUlRqNmRwUjlKbWpnU2pLdEVsc00xd2k3V0EtSHFUSzNNcDgzNkdSWWRJSmh3N3Nsa1Ytb0xCNWc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T14:28:28Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -152,16 +202,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:41:56Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -222,6 +262,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "4271fc1d5f0f56",
+   "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2Fia1NmTHlybXV3alJGeVJZSmNoajdGZ2pkN2tvUHNJdVBKdEhJZEhnRVZyU3FQNjNTRklhSUxpbjVWZ3VnWjZ4bWI5eTh0ZWt0WDdKMTBvdVN3ZXB5N1JVN05LQ3B2SnItQTA1WU8zWEhfN04yOVY3NDlrdmlDak9TLXd4MjRXaXdnS3BwYlU0bU9kdnpyV2NRbXhnQmFmY0s4VndRbw?oc=5",
+   "source": "www.equiti.com",
+   "date": "2026-11-27T13:31:56Z",
+   "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "c3a9af55a5c358",
    "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
    "summary": "",
@@ -250,6 +300,16 @@
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnZlS1ZaZkwyMkVHX3lfbmZDRGE5cUtraGhsc1JpNW90VV9YenhRdzVDOFRwQk8xend4dUdnSkRGaXhxTzFFYWE0TjA2d0VJSnZGZ0txaWZlc3lmWkxLS3pJaDBmWWVSS1kxTFNzSzlFWjVhRWtPU1AzLUNZbVowUjlRZzA4aXlQY3lZRmJmWVhoRDZSZXlMYVpndDh0c3BfeUQ0VmlSZmVEZGRURXNpR0lOa1BKY3VBVy1zdFdrNEtCRmo0Skp4Rmh6akVyQnZqU1E1eXBVR095RHM?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:26:51Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "310e13bc87dc2b",
@@ -352,6 +412,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "8bbf7a73293ee6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T12:56:54Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
@@ -400,16 +470,6 @@
    "date": "2026-11-27T12:49:29Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8bbf7a73293ee6",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOW1qNXBKZTFULTY5RGhEQnFyaUVNWDdzaHBxM1hfZ1V1MjBtQjV4WW1UemNteTdQUGl2dXc2VVpEbHNJRFd6d2o2U1FUQlQ3bTRkdExVZVNzQjhhUHZoa19RcDhXTWN0R2hwLW94aE5XMi1LdXh0cnpzWXFSQ2NOdzA1dURBTmdZOXQzN19BbTVqZGdHWkdkN0FmdldOeG9sUFZwX2FRTUgyeWVJR0RHTC12bGswU2VyQmdBTVdn0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:49:05Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "f2c5815475d19a",
@@ -542,16 +602,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "5ad4c6e56ed43e",
-   "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-   "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-27T12:29:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "2abd703534dd12",
    "title": "Trump said he was 'a little concerned' as the Nasdaq fell more than 4% before recovering",
    "summary": "",
@@ -568,6 +618,16 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3ZGYnYwYjRqNllDUU1nNkp0ZWJrOGFrdjV1aTZsOHNidnZCTGEzc2RPTjVvRWY4Nnc3bEdhRjZGc0gxM0xESTl0YVpRUGRuS0VLNVlfaTBOZUQ5X0RrVDRFaG5KYVJvRUZnNUQ0bmhHcUcyeVZ1dWZjaUxYeTVjY2FzV1kzODNrTEZuM2ZTQ2pjcGMxWmo3czlnelF6VGJuVHJMbzBQeTY4cWJDdnhUNy1rbDdieVU?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-11-27T12:23:07Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3db91e4694da3c",
+   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWWVhUHdkSXZYLUFWaG1QQkhCa0xTSllmdDJKZ2tHVnNINHRZd2JGVm1BTUdwTDVhd1d5MXRLSUJlZjV3Rm51SkJDa3lfdTlBcHFRblhOVy0xVmlSOFBDM01TUDJOc2w2bTMwSlZrMWRkM2lFZTVyU1BSVk51eHBudjRZODFvQ3lZX0NMcEV6cGdPX0JuSkk2ZmZxRi1XRkVSV2d4eEpsajZ6RnFyaUczVTk0WGtvcmsxQXdYTkpPNkRudkp6ZzVLaTJCeDdjTnhjczByV1FsNmFMVTQ3Uk1US2RjSVVCcjJTZ1R5cjIyNktTUWNXQXVtbGpBUQ?oc=5",
+   "source": "The Lufkin Daily News",
+   "date": "2026-11-27T12:22:30Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -642,16 +702,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-27T12:12:09Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "513a219cc0d9c3",
    "title": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff",
    "summary": "",
@@ -712,16 +762,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "35ecd7e823c62e",
-   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjNDOFFMQXEzTklTbHhTc09kNGc3RTFuQ3NaXy1rSlgtUmRKdHJZb2VNVUh1NDNheVQ3eW9sUERNUlB6eFZpUHNNdlUxZmpJSVl6V1lJMEZOY0Z6WXBpRFUxaGFwbDlhQ2lRelp0eVFFcFc2clNJZ2Jua1o2MW55Y1haQmNncVBQQzQ0?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-27T12:03:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "64d3b084bee0a9",
    "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
    "summary": "",
@@ -759,16 +799,6 @@
    "source": "Equiti Global",
    "date": "2026-11-27T12:00:43Z",
    "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4271fc1d5f0f56",
-   "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1E1Z0hiOTZsY0tQLTBJOTl2WUtPUnBGdHVEaXRtS19NbTdocVExc1dNbmZEaG15UzhPdXBBQ0dvdmE5VGZTM0hYcFR3Vnh5UWFIdlJzTmhTWE1SM2lXWEZMNmc3amUya01ybWtiRC02NkdqcDJKdW5ISzU4LWhjRWQ4d01ybmNaRUhNN1RoaVVWYXJGeFoyeDdaa3V1OW1aVTdwakdR?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:43Z",
-   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -810,6 +840,26 @@
    "date": "2026-11-27T11:55:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "34d12b8e2800d7",
+   "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVRWkZLRmFSOU5aZllYak43WDVRTjRzRVF6ZFMtVndkQ3RqOUN4NzA4M1BiNzhZNG5ZSWhvVXNOMmg3MjVNWE1TOTFXaDhWMnRxcXNKTHYwTHNCVEVVOVFyQkJwczlaN2xjd1BXZTlwUnBteVQ0clpxSGhOU05xc2FESXNoazhPZm1HVHBzcGQwQU9xSjFDWk1uQ0VlQ3NHMnVmeWktcmZfMkJWQjU2eWh4Wm1DNnFBVjRuaA?oc=5",
+   "source": "markets.businessinsider.com",
+   "date": "2026-11-27T11:53:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:50:33Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -1072,16 +1122,6 @@
    "category": "Macro"
   },
   {
-   "id": "d5822aebf2d3a2",
-   "title": "US Stock Futures Surge as Nvidia and AI Stocks Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFhKOTBtNnRKUHlZTndOcWpEYjlfeU9QV2pEZURRbkNuTmR5VU5EcEJJbFg3NXF0RzV1azRrcmZUMFVUV3FGbFFqSVZlc0V3R2FqZ3VCeTdMMVN4VjZRVEpCVFJBT0JCbDE2Y21GOVQ0RW9FOWF3aTJneTBhNHNGVGF5ZFkxaUM3VVRGSlA0U24?oc=5",
-   "source": "grafa.com",
-   "date": "2026-11-27T11:00:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e61abe8fa90951",
    "title": "Trump shouldn’t be picking Nvidia’s CEO",
    "summary": "",
@@ -1089,6 +1129,16 @@
    "source": "Washington Examiner",
    "date": "2026-11-27T11:00:00Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d5822aebf2d3a2",
+   "title": "US Stock Futures Surge as Nvidia and AI Stocks Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFhKOTBtNnRKUHlZTndOcWpEYjlfeU9QV2pEZURRbkNuTmR5VU5EcEJJbFg3NXF0RzV1azRrcmZUMFVUV3FGbFFqSVZlc0V3R2FqZ3VCeTdMMVN4VjZRVEpCVFJBT0JCbDE2Y21GOVQ0RW9FOWF3aTJneTBhNHNGVGF5ZFkxaUM3VVRGSlA0U24?oc=5",
+   "source": "grafa.com",
+   "date": "2026-11-27T11:00:00Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1149,56 +1199,6 @@
    "source": "Benzinga",
    "date": "2026-11-27T10:43:10Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1ad7d5506f7db7",
-   "title": "Stocks could fall 20% as Jensen Huang's return fails to revive the AI boom, one research firm warns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ29ZR1BYeUdVbnBpV1Zjd093WmgxX3c0ZmRLbWY2TVhlcVRSTjVCeER0NVhKWkMyNy0tbWh0Q3draFIzYmxQT2tFVW9iaGVicFBsWURkVDVaVnZXTlc1ZkJpUGJfNURaekNSOWMxNUxnaUVuVmk0WVpXT1lBMFRjV2tfWXpVeXh3S1VnMG1OUmRQLU5GdnlPTWczeXhNdw?oc=5",
-   "source": "Business Insider",
-   "date": "2026-11-27T10:40:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "34d12b8e2800d7",
-   "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5",
-   "source": "Business Insider",
-   "date": "2026-11-27T10:39:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
-   "id": "1c42b326d989a8",
-   "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjhhR0s2UVJjdEJNclhuUU9uS1Y3d2d0QnFQa3RtaS1TMzlBaG1aVHpQYzdwV1k1VDhQU1RfNDBXSV9VQnRFSTRYMExjR0JfOFNxMUJCVWhnd2ZtTkZrOFVCQmRCOHp5U2dPcFpUUFE5YWJFdmNwYmw2c2c1YzBtZG1HeUxrVVlPWGlfTDR5Zkx5SHp6c1BlYjAzLWZfclFzMEdKVi1sYUFLeFJEcjVwV0s3YW4zV2p1TUUzTHRQRHR2dDVZcVhJbkp3UGNPMVdMVW5uaGtvV0N0V1FGc1pSWFlVb182MEl2N1E?oc=5",
-   "source": "MarketWatch",
-   "date": "2026-11-27T10:37:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c119c1e98f6cb2",
-   "title": "Mohamed El-Erian Says Nvidia Is “Too Big to Wobble.” Its Customers’ Data Center Plans Aren’t",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalpjNkJnU0xQMHU3Rm91VjM4czZkMVNpN25UNVVlQU05WFg5MWdOTlVqYkFOY3Q5V0JoWVBzTzJiOE8yd1lzYU9zTElOdWIxRWxsMkxXYXNfTHB6TFNmcDl3LXlRVlprZkNsTko0TDVtQjJDakpFazNwekZ2YVpUMkpIeGdzcWIxY2YzbzdpcERvSzJMcWNzQzZXTEpraWlpYUw0cFl0TTJkQ0MxUklTc2VEc0tzTXBKWEJfRU5LTmNxeE8zaV9kQzN1ZkV6N3JvZlZJZTRyTXRaRDd3andtUGdVYWdVck1IUFE?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-27T10:33:03Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2f008829c8b0ac",
-   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T10:32:18Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
