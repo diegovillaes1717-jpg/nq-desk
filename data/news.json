@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T10:17:40Z",
+ "updated_at": "2026-11-27T10:22:24Z",
  "items": [
+  {
+   "id": "389d5acf9a5133",
+   "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "summary": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
+   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "source": "CNBC",
+   "date": "2026-11-27T10:20:39Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "98fc7987c01602",
    "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
@@ -9,6 +19,16 @@
    "source": "CNBC",
    "date": "2026-11-27T10:13:44Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "9e2b6da1ff4d1a",
+   "title": "Nasdaq-100 Futures Jump More Than 5% as AI Stocks Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6aFYwZ0lYa2ZpSmpUOTBrdGtUTXdicVBMNkJyTXpRNnRCQXc0Z1c3dmNocmx0ZlhjTUhPNVJnYVdCQUhzS2xVSDNETWRQbXEtMEVjN29sNlBsQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T10:11:31Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -39,6 +59,16 @@
    "source": "Knoxville News Sentinel",
    "date": "2026-11-27T10:06:00Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -233,11 +263,11 @@
   },
   {
    "id": "20349aedd5ebde",
-   "title": "The Fed’s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It’s Bad News for Wall Street",
+   "title": "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnNfUEpYOV9fU0FqWVpLWXZPQjBDU19aNnR0WG9MNlR1Qkp3Yld3akNvZE9jNG1zV05zRkJybjlRTERWcmJmV29wbTJjTVE5VFMtY2RaSlRUMlBvV3ZXY1BxbWkwanhHZ1Vub2FwbWhqS2ZqblhtbGdhMVBwamo0RS1QYTNYU3k0SGVPZENCTHZzLU8xMmZRZzdIX2VhN3Ft?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T09:24:55Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0lvX2ZOZnAzRjRPeGV2QTlSMFpUaFpReF80Y0pESHMxM01hWjM3WG56dDMwQXNpb0dfeXVMeWJfVGc5QmIyVkE5X3hfV2diRjZNa1NNMVJ0ZGR3RHdYVURHMk5MZElsM0xaNHlSMFBfQWlwY2JfemMwNmFWR01vbXJ2TmU2d2h2VmNGSmNWNmtjM0txYUt6aDNjb0VXaURlX1V2SzNSSzJ5Mi1Fbk5CVVFHS0hCUkdpNjVONzJKazdhQXpsTVhFUTFVT3NaM3VaOFItcktaQzloSWk3c2NaNzVB?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-27T09:24:00Z",
    "score": 10,
    "category": "Fed y tipos"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T04:04:59Z",
    "score": 3,
    "category": "Mercado"
-  },
-  {
-   "id": "8df829d4ed3c93",
-   "title": "Trump's 14-Economy Tariff Plan Briefly Pushed the Nasdaq 100 to the Edge of a Bear Market",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFFQXzFwQWdvemRPam8zZEszNzJMbUZDMkpnSVN3aGNMb1IzcVk0aWN4SXR1YkRBczdUT18ySEgybFhiMFZUM2dFdU0yakZBSS1oUVM4SGRGczhXSFVIcVlwSlpuY0dWdGxXVFFOWGl3Znk0UDNjT1pibXBLNHp3UGVldGxfT2RncTVwcTVUaEZwQQ?oc=5",
-   "source": "Memeburn",
-   "date": "2026-11-27T04:00:47Z",
-   "score": 10,
-   "category": "Macro"
-  },
-  {
-   "id": "4a84794b943af3",
-   "title": "Bill Ackman Warns Fed Rate Hike Could Trigger Global Recession as Inflation Reaches 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlFjVnhlZzJhZ3M2bGFEakh1OVNibDZ3bU9PaGdQMlBxOVZ3ekFCS2pvcUdUbVMyMWlvM3U2QzlYVGgyV1BBQTVXSm5idmdLU2NyR3loN2oyNlRKakd1cndLUTgwTEdLNlVpN2trb3BkbEJWckw0ekJlV3FQRDEyQQ?oc=5",
-   "source": "Hokanews",
-   "date": "2026-11-27T03:51:00Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "254e47848dab51",
-   "title": "Dow, Nasdaq futures rise after Wall Street turmoil; global stocks rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBoaDNOOFJEVlhwdXZMXzY5LXNoZWMxU3l5dE9sNG13U1JiRjNxc1JVQ3k3OEU5WlM0aFJpc2lzVFdjX3ZqZmtRNW85T1Jad21ZYVhzQ0NvRFBPbGpMbi1yV210Ry1yd0lDb0Y0UVZkSnhrbmdUcEctR2ZUbnpBMnZRTTlHVHZsRE5aNnd1RjJrUXVRWEZKQnd3OERWUWFHSjNHVlV2MHhvaDlKUHlzcGpsb29lVEdqNENBVHBsQlFjU3VDbUpaNjlhcHVqZzRBaVN2MGt6R2dXVTJVclBF0gHmAUFVX3lxTE5BcUFHd1V4Z1BtMEM1REpleENBYUMzQkRqaHpFN1RZZ0JuajRaUzhYc0NrNzZsS3pEY0tDSWRGaDNiVEIzc0NvVUdrS1dETklmN0JoNzQwY2dLSUhMMWxHV2psWmFWcUZ2WUNEbUNmd1JBNS0tNUFKU3pqYWJ1cmFWLWpEbFpoSlJVczRLd2lLckUtZU5TRy1VdWk3Rm9GREFLNE9pSUlVaVotektKZS01cHBoa1BMUXJOSHRVOE0xLTBZeUIxeDdaUzZza0R4cnNZSDFqeFFvelVvRzdvSUFnYVpHcVVn?oc=5",
-   "source": "The Financial Express",
-   "date": "2026-11-27T03:47:23Z",
-   "score": 8,
-   "category": "Tecnológicas"
   }
  ]
 }
