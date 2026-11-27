@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T05:28:30Z",
+ "updated_at": "2026-11-27T05:33:13Z",
  "items": [
   {
    "id": "5a1c80cdb20c5b",
@@ -105,8 +105,8 @@
    "id": "6ef06acce17fa6",
    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9pLVhQZmpyYU9BaFMzX1hIRk1jdDNIblcxQXFHVjh3SXZhZUFlRVhNRmhNaDlZYkJFVUotS3Bvbm53VGYzbjIwcUYwdVhHbzJEWWhWdG5jdjlmN1IwWTg3UlZ2TmNFR3YxWTZ2dFdQU21kMkFydFBTTERwXzNuLVZOV2VpTkU1d3oxaUdOYTk0eS0yejVDMw?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnlDZ04tc0tOOWJnemN3STVxQmlrWnhidHNpekVJZzgxOGN0V1YyNjQxTl80dHp6Tl9ubGZrRGhKVEdIRkI5LWxGb0Y3d1lDQjJLSHpkYm1HVEVENTJlZ0ZRc0NGVWctZXh0MDNzUTRET1FzWnRHWnJzNVc5UUVvQk91UQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-27T04:23:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -140,6 +140,16 @@
    "date": "2026-11-27T04:11:20Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "441df998305788",
+   "title": "Cement stocks still face earnings downgrade risk: BNP's Nirransh Jain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2h0QS1scGF4Z2ktakFlVUF2NndVeUZtZEprajhoSWFtRmVfRXZCTERJdVcyY29jLXM4cmF2eGdrNjdkclNDS1dadHJOaERsc0xVdlNVY2pWX045SU9vc1NlTjhnWnVEV3g0YXhZb0p1dDduak9Hc09oUmxrdzhmd01Qdnp2eVA3RlNqWEFrTWdRS0tQc1dQUzlZVDdTVEhlMEl5NllsZ1B6Y05xbU1KRGloMkRpUUZ0cnJV?oc=5",
+   "source": "Livemint",
+   "date": "2026-11-27T04:04:59Z",
+   "score": 3,
+   "category": "Mercado"
   },
   {
    "id": "4a84794b943af3",
@@ -757,7 +767,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlZ6QVZ0ekVGOXduZGYwQXgzb2VIdjhPb1gydEMtZ0NxdUJPbzZYZFYxenF2QUVBZHQyUVF1WjdrRXFZOVRHRnZfRV9UMHNLWG0zT1J2Z0lIeHhIQTkySnZkaDRNdnJTWW1QMEIyX25DTUxCaE82UF82QUdydzlVNE9QT0NWMFlWMGE5TnA2UmM2RFVSR20zWW1GS1R0cVVicmYtV2NJMTQtN1UwZkYzT0xPWEZIbUE4TC10V1JKUEc1cW5KbWFKMFZaSTdTUnB6aVBZ?oc=5",
    "source": "BBN Times",
-   "date": "2026-11-26T23:29:07Z",
+   "date": "2026-11-26T23:29:34Z",
    "score": 7,
    "category": "Tecnológicas"
   },
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T19:58:24Z",
    "score": 7,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "d6632d2845faa2",
-   "title": "Is NVIDIA Stock Underperforming the Dow?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSU9JS2ctSTktQ0NhMzM1T0FvVk9WcXpJX0NDdWRZT0c0ZjFKcGpmenpZLWF1Q3NzN3FPdGQwd2NUX3Z6UHllZU9HcGtXOFhGcDl1bFdxMTlKM1A2ZVNLUGc2M1lJWHhXcGRrVFVOVHhTTlJKc09DU2h3aHNDVlZhR1llZE4zWEx5QnBJ?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-26T19:44:18Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
