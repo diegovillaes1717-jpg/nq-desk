@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T07:17:19Z",
+ "updated_at": "2026-11-27T07:22:02Z",
  "items": [
   {
    "id": "df4511134c2e1f",
@@ -30,6 +30,16 @@
    "date": "2026-11-27T07:13:18Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "d6a00b78340dad",
+   "title": "Silver Climbs 2% as Treasury Yields Ease, With a Sixth Straight Supply Deficit Looming - ad-hoc-news.de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQm55VDh0N1JaUmtHYm1VSFl5NVZWZDA0MTJZaVhLaHoycnAtSVNVZ2ZtOUQ0Mng2cFV2ZTJoQ09naV9VQVBTcVVFMk5EdDZhNEtuVlhjY3g4cDV0dWN3dm5QdVVJY1RIeTZNbUdLek5oMGdVZ2ZHajlIZ0Z3ajlFcUdwREh4ZWJCM3VlWWIyRjMwNTN4OFFpN1RVYzlHUnFqaFVSNERlaFhQQlA4YWlHSTVEVDM2WFpMSW9ySUhzNHF0S0NNYjV4OXctdlR5ZzBUOHRFdl95R1lVNG4yd1NPQmF2QWQyc2swT3lvbQ?oc=5",
+   "source": "Google News",
+   "date": "2026-11-27T07:13:02Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "177ed86b70f2d3",
@@ -692,6 +702,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T23:15:24Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "a9f45b768bfca4",
-   "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
-   "source": "BBC",
-   "date": "2026-11-26T23:08:12Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "413d4d2424e061",
-   "title": "Nasdaq 100, SOX: Tech rout may be a symptom of something far larger",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcU1wM3ZNQldSTnA5aWxzdjgzUkI1QV82N2p5SE1LRFRyYTdVQzh4bGdnclAwbm52TXN3ZGNaV0NzWUxDTGxMQnFuS2xXSzhFd0VFRkczRDZKT0R4dHZoRDBZUHE0UTUyMXJxUnhYVXhPcUNPTEhMZ0w4TE8zTUoxb1ZWSVNBTlN0bmVlcV9kRkJLeGwteUtmSlJiczEzaHgwQVdSMjEtNTNZcnRndjA0V0Jfdw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-26T23:04:26Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
