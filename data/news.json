@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T19:54:51Z",
+ "updated_at": "2026-11-27T19:59:35Z",
  "items": [
   {
    "id": "2439306e4a0d17",
@@ -7,7 +7,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjB6alJDWFVKOFVmbGN3VTdpMlhoOElwdE1lWDlXVzZtLXZKREdTOHJVV1R0RUpBazcyUWxnbzJqa1hReGRnYTBNY05vRGsyVHdYVG1jcjhBM3BGLXNITThsTWcwd3UyR3h6QV9uWXpRY0tBWHlkWjgwZm5jalV3NHNvM0xfenozTUdnZ2U5Rld6aW1QaUt2eEE1YW5aSXRtSWpUTDhzRU1ncjExWG5HczcyRVA1MXBiUnd2cnVjSFRjUQ?oc=5",
    "source": "FXEmpire",
-   "date": "2026-11-27T19:41:48Z",
+   "date": "2026-11-27T19:52:01Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -42,16 +42,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:12:39Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -70,6 +60,16 @@
    "date": "2026-11-27T19:11:11Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:02:36Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "c34f5fe70327c2",
@@ -882,6 +882,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T15:29:12Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -919,6 +929,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1122,16 +1142,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:00:00Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "57e70e88c3c970",
    "title": "US stocks rally sharply as AI shares rebound, but Fed rate hike clouds outlook",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T14:55:47Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "2b2b5a17d5027a",
-   "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
-   "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
-   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-   "source": "CNBC",
-   "date": "2026-11-27T14:52:40Z",
-   "score": 3,
-   "category": "Macro"
   }
  ]
 }
