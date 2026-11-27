@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T04:12:46Z",
+ "updated_at": "2026-11-27T04:17:29Z",
  "items": [
   {
    "id": "4a84794b943af3",
@@ -40,6 +40,16 @@
    "date": "2026-11-27T03:19:00Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "fa8cbf78294b2e",
+   "title": "Gold Steadies Near $3,575 on Thanksgiving as Fed Hike Bets Cap Recovery",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDdOMFJBU25XSDVBNmsxWDFhSEJ2N3pGTVZhX0hDeUstTFo0NGZOWFg0Y3p6TU5JMDdJUnRBYjdJTG5VbTJ2R1M4QUdmY1RtVk1CUG5BT0ZmbzFDbmlRdkYzWm16a0M5dWFGTmxuZ3JZYVZZVG9wLTVybGlEMy1GVTNyN1RPem1lQ1Y1Z0E3eGJyNE5xc0NkYjhWQS14TFNwYlN6WG5VdmM?oc=5",
+   "source": "Around Prague",
+   "date": "2026-11-27T03:11:39Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "9ef02aefd47503",
@@ -502,16 +512,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97f3c8799325a6",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEVYWUZ4T0FibmozQVZ3WWo0eTVqWUljYmlLX0pHR1lGMVE5cWJ6QlNpSnV1eFV4WmgzN3M3OE91N0dRVk5WYlRGV3hJVkE5ZVE2bHY2T0Q1Q0RNWFJBWHVfZDJqc2F4TE1QNFhRZHhabkFfMGV3OVlEWHlMTnVHRnVGMWRDSm9Cc0YxOFVBQVNfYUt5c2pjRkwtZUtyUVNmYkUtanlWMjZobTlHRUMydGRwUU5hZnNsbGg3a09fTzFjUm5ydnFQZFhFMFN4bHBy?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T23:52:45Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e3815709180dc1",
    "title": "Fed survey shows growth, sticky inflation",
    "summary": "",
@@ -565,7 +565,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -632,16 +632,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:38:53Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -699,6 +689,16 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T22:17:57Z",
+   "score": 5,
    "category": "Fed y tipos"
   },
   {
