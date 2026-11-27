@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T20:09:03Z",
+ "updated_at": "2026-11-27T20:13:47Z",
  "items": [
+  {
+   "id": "49923f86b56f02",
+   "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVJqdzh6eGNWaWgydzRLWnM1Z0gxeW1hdmxWMHROWGVkb3NyMFNYeF9XMGZNb1c0SU5Fa05ZeUFqRFVJRE9Md2pTcGNaSkxheDdlZ29Zb0p6WkI0Xy1jbEFYb21CSjc4c01JU1NGMEpXX0pMaUJKUktTaEUwMmkzZlFNbVRWelozOW5QUllDci1EdHlncnZsWmNucG9Gclc3UW1faWJQZUlwa2JSRWc?oc=5",
+   "source": "GuruFocus",
+   "date": "2026-11-27T20:08:55Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
   {
    "id": "2439306e4a0d17",
    "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Sandisk Soars 16%",
@@ -42,6 +52,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:12:39Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -60,16 +80,6 @@
    "date": "2026-11-27T19:11:11Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:02:36Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "c34f5fe70327c2",
@@ -1188,16 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14UUVNa2RYOGJ2eHdTeDh6WnpuZFJrU2ViWTVwak00dUxXU1R2RlI1YW9INk12TTBwbnNhS1pWMl9Kc0UxaWFoVU1mY3lLRjd0UWpEanExVHVOM2pWc01qMExaRWM?oc=5",
    "source": "Barron's",
    "date": "2026-11-27T14:56:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3faed534ea301b",
-   "title": "Nvidia Stock: 5 Reasons The AI Trade Has Only Begun (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2o0b2xkdHNBUUlES1pQNVBVQ281SjNoQzlqcmRrVHRZY0xnX3poUnVaZWpiVWRpc2UtOUFuR0FfNEhoOU9wdDRRVVhBUGF1bG5jX1pfbUFMSXpaTDNLZ1hKakxlM2JvRGhXV1UyOGpjemdJQlRZZnUxb01ORVQ2eFpEandobGxJV1BLQl8zUGxzVi0wTGc?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T14:55:47Z",
    "score": 7,
    "category": "Tecnológicas"
   }
