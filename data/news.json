@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T11:33:44Z",
+ "updated_at": "2026-11-27T11:38:28Z",
  "items": [
+  {
+   "id": "b3eeb9267d11a1",
+   "title": "Nvidia gains premarket as stock heads for end to volatile week (NVDA:NASDAQ)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVJpOU01RldtZlAxbERQS3dmUjk4OUl5ZmdMc1hURjdicFJQRnFvVjUxaTdNODl5SjNRemhoVUY2dHFidHNBenlwdVY1T3VaOWhoNVVheERSdGIteWFvVGhERy0wZW5vVzBtSFV3MUZMZmU4YWNOcUhBNHd3c2NiV3JNc2UyZmhOSGczQVpSeTd1UVJrUFI0cFY3OTJOUXRPOXc?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T11:32:50Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "4e9ea917e0800c",
    "title": "Bitcoin Rises Above $61,000 as Nasdaq Futures and Commodities Extend Market Rebound",
@@ -109,6 +119,16 @@
    "source": "Kotak Neo",
    "date": "2026-11-27T10:59:35Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e0e5da85d4b84a",
+   "title": "U.S. stock market futures rise after a week of volatility in the technology sector",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVZmWXZYa05ORnIxVVlaNkxVZFlhNi1ZN3JQbHp0X3FrM1BUeFVUSVdhTzRfb3E0cHF3YmpMMjZ0YllsR3VwOGp3RThDOG9uaEJKMmZicXJQaDZYRTA4dXNzcWNXSDhHbVpGcWMyTmFWNldPNDRHMW5RQmJ0c0tlb05rVW1MQkN6UjVtbVExUVl3eDdCOWN2cHQ0U0VjVlY3TTJoSlNKRF9zSTNaWGdJbUktT2xIN3pPQldmWnZIX1NXZnBicHZRMkZCMTB6OEYyM01v?oc=5",
+   "source": "المتداول العربي",
+   "date": "2026-11-27T10:54:59Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -332,16 +352,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "7feccbe29a727e",
-   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
-   "source": "StockStory",
-   "date": "2026-11-27T10:02:04Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "efc12be45ecd70",
    "title": "Trump Discusses Stock Selloff, Defends Nvidia CEO Jensen Huang",
    "summary": "",
@@ -502,16 +512,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "70856bf1364bc1",
-   "title": "US tech stocks set to jump at open as volatile trading takes hold",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T09:31:02Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ce056ec36671ab",
    "title": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after...",
    "summary": "",
@@ -540,6 +540,16 @@
    "date": "2026-11-27T09:29:54Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "67de4cf87cec24",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
+   "source": "Yahoo Finance Australia",
+   "date": "2026-11-27T09:27:21Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "91886cbd3ef487",
@@ -689,6 +699,16 @@
    "source": "Crypto Briefing",
    "date": "2026-11-27T08:30:48Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "499090bbcca876",
+   "title": "Gold rises as rebound in tech stocks offsets rate-hike concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1hOTUc0M2dreUhFYjFSanI5ZmRLWXBobGthakdDVk45OUN1RTRqU21tX2RNT09CU0MteVJ4RmU4WWlRMG0wV0xlckxqdWhWNEY0TmpwejZVMGZ3emVLckp2Z1FLdHZZR2xoOFRMaGVrT0czV2tONUdNVFBiM1gwbVR0VWp5YWlzeUJxNjE5MngzdkVjRl9rWmViUmNSZl9o?oc=5",
+   "source": "Moneyweb",
+   "date": "2026-11-27T08:30:38Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T06:03:54Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "52409eafdc1e0e",
-   "title": "Fed Weighs AI Selloff Against Inflation Fight",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDY5cHVDR0FmUVFScXlRNzZBQ2xQcnNVb21Vc3BteUJNR3F2dE5sQVNKekRIbFl2eXNjLWdiaXN4dWE4dGQtSElFRHBIWnlTd2x0cTh0bzJzX1dFVGlYbmxPVlNZMk10Vmh6dFZmdVlwQm5hajFsNUNsRjIxOWRQdlh3S1BHN2xn?oc=5",
-   "source": "Wisevoter",
-   "date": "2026-11-27T06:03:30Z",
-   "score": 13,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "20950a8a49888e",
-   "title": "Kosdaq Surges 6.7% as Chip Stocks Lead Asia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzRlbmV0ei1vS0RfeXdnME9fbTFPMlU5S0xkeTRJdzVfVzAteWxTaFRGRlUzazRBUGZqQmFXU1JONk12RG9Nakc2QnhNNy04cTRvZmpMY05kVGxRMXBTQm1fY3U2V3pDNlJrX1NFT08tWUR0RFBVSk05VWxhWXYxUkp2ZDJ1VkU?oc=5",
-   "source": "Wisevoter",
-   "date": "2026-11-27T06:03:20Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
