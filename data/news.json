@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T01:58:55Z",
+ "updated_at": "2026-11-27T02:03:41Z",
  "items": [
+  {
+   "id": "24e8f0d40cf017",
+   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+   "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "source": "CNBC",
+   "date": "2026-11-27T02:02:48Z",
+   "score": 4.5,
+   "category": "Macro"
+  },
   {
    "id": "5a9146edd3041d",
    "title": "Fed officials have differing views on inflation; what will the interest rate trajectory be?",
@@ -40,16 +50,6 @@
    "date": "2026-11-27T01:40:13Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "24e8f0d40cf017",
-   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-   "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-   "source": "CNBC",
-   "date": "2026-11-27T01:38:00Z",
-   "score": 4.5,
-   "category": "Macro"
   },
   {
    "id": "f5b40f23ad9c92",
@@ -222,6 +222,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97f3c8799325a6",
+   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEVYWUZ4T0FibmozQVZ3WWo0eTVqWUljYmlLX0pHR1lGMVE5cWJ6QlNpSnV1eFV4WmgzN3M3OE91N0dRVk5WYlRGV3hJVkE5ZVE2bHY2T0Q1Q0RNWFJBWHVfZDJqc2F4TE1QNFhRZHhabkFfMGV3OVlEWHlMTnVHRnVGMWRDSm9Cc0YxOFVBQVNfYUt5c2pjRkwtZUtyUVNmYkUtanlWMjZobTlHRUMydGRwUU5hZnNsbGg3a09fTzFjUm5ydnFQZFhFMFN4bHBy?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-26T23:48:45Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "dbc5d5914bf8f3",
    "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
    "summary": "",
@@ -255,7 +265,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -462,6 +472,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "be0ad5529abfb3",
+   "title": "Amundi Index Solutions - Amundi Nasdaq-100 Swap ETF EUR Acc (ANX.MI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uS01ZNHNrRVFhLWh1dE9qeFVMZjZEakFjMjBhaGhUTmcxWGtSNDRCUHNnZ2IyQk5TbFlqb05vdGhNdGpMT0x6ZTNUbGFjS3g4QUVpN29CRENXMGRxaF9iTkk1R0Y?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "date": "2026-11-26T21:36:51Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "2f008829c8b0ac",
    "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
    "summary": "",
@@ -650,6 +670,16 @@
    "date": "2026-11-26T20:02:19Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "5a08149220e674",
+   "title": "Sellers Flood Market with Nvidia GPUs After U.S. Rule",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmI4cVB6RExJNTZqUlRaZlk4ZWFRMzdyTzJCcU15VThvZ2pXdm15bUJpVVpBUkZiZGZNbW9tYkVKX1JvdG11anBGMmY1YTJvbUI2NXA4Wnp1RDRRa2R3QUo0ZXI4cXhDbGhQOXhtdVNFZk9BUHpZYUN1WFRmTFl4RTFlSFJHeVdSMVZURFVFRlJ5dw?oc=5",
+   "source": "Briefs Finance",
+   "date": "2026-11-26T20:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "f0cbbe4d61bcdf",
@@ -900,16 +930,6 @@
    "date": "2026-11-26T18:12:50Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97f3c8799325a6",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T18:12:10Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "fd63a55abf4972",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T17:04:54Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "b6d1071046ff71",
-   "title": "Burry Turns Net Long After Selling Nasdaq 100 Puts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmFBeXgxc0YwT0ZibWhXd3h5Rndvcm9kcHdwTDlNZnl1cWd5MmRMWHJZODN6RWt0QnZHRG1neXlnSDZidXIwbGxLM1E0SEZfQXR2TjE4WEZvX1N1ZHNQVUpWX3BFbGd6VUk2Z2VNSmJUYnVIbXc5dXR4em1RMHJfQ05JTFRkaGQ2STI1NWdfOA?oc=5",
-   "source": "Briefs Finance",
-   "date": "2026-11-26T17:03:53Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "64e18243a4afa4",
-   "title": "Trump Pulls The Strings, Fed Foots The Bill (NYSEARCA:SPY)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlZPbXFxdWozRU9XTlVDRnZNUXJCUTNUS2dMN09fQ0ptcFRfcFNvQVdUX3JlWHJnakxyUXQ5T09EQ2VYMThIVlc4MU9YYmE1QlRZczhfY2syaXhBV2h0c2xtbjNDODZvRGxPTkk1bTJabWJXVnBfdFltU3Nwdzh3Q1ZNN2JOMjBsaFNJ?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-26T17:03:09Z",
-   "score": 5,
-   "category": "Fed y tipos"
   }
  ]
 }
