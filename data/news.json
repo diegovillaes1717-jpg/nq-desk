@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T05:47:23Z",
+ "updated_at": "2026-11-27T05:52:06Z",
  "items": [
   {
    "id": "a6523215e7c0a4",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T05:33:34Z",
    "score": 11,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "5747bee536ce57",
+   "title": "Opinion - Bill Straub: Despite Trump’s downplaying of CEO’s transgressions, his Nvidia problem isn’t going away",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeTV1TjBRZmNOWHhsNDJEdzNwZ2JIUDhDZXRyRDZvVkgtbEE2eW96OXFIYmJIcVdoM3l1V0psTVVGdjFqTWJyUlJkRDZ5Z3JYNDFCdkZOZXQ1S1ZvOXd6YV9qWmRRdEFETXpXUEgwMUVNTmVLNm5BcFRRcEpzak5zZVpDVGg1S0VEUUlvYWtSS0VvRGVybTRiT2ZDaWN6amlNSDNRWV9hS0lyc2taU1hrQVctLVlUTFowb0ZjUHR2N3Q3UEFOTHVmQVZpQk1Rb3NrSWc?oc=5",
+   "source": "Northern Kentucky Tribune",
+   "date": "2026-11-27T05:30:22Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "5a1c80cdb20c5b",
@@ -125,8 +135,8 @@
    "id": "6ef06acce17fa6",
    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9pLVhQZmpyYU9BaFMzX1hIRk1jdDNIblcxQXFHVjh3SXZhZUFlRVhNRmhNaDlZYkJFVUotS3Bvbm53VGYzbjIwcUYwdVhHbzJEWWhWdG5jdjlmN1IwWTg3UlZ2TmNFR3YxWTZ2dFdQU21kMkFydFBTTERwXzNuLVZOV2VpTkU1d3oxaUdOYTk0eS0yejVDMw?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnlDZ04tc0tOOWJnemN3STVxQmlrWnhidHNpekVJZzgxOGN0V1YyNjQxTl80dHp6Tl9ubGZrRGhKVEdIRkI5LWxGb0Y3d1lDQjJLSHpkYm1HVEVENTJlZ0ZRc0NGVWctZXh0MDNzUTRET1FzWnRHWnJzNVc5UUVvQk91UQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-27T04:23:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -342,6 +352,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -425,7 +445,7 @@
    "id": "0f7b66816075ac",
    "title": "Denny's faces backlash over heartfelt tribute to reinstated Nvidia CEO Jensen Huang",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGRpQVpRRU5rM3hDTnpTVU1oRGhRTTNwRzdtOXlKQzhBMmNnYkhiMHhzc1d3cHNjVzBVM1Q0R2Z6c3VsTTlFOHpPTXNsYV8zTEdzMWw3cnd1SzIyX0RPQWg5LVlDdGxCX2dxWkpONDd1TjRVc0pJZ3ZuVjlKQ0NzSnZ3d3BGZDBoamRCUndVMTRCLXlMSVpXNFluZFBfRUVSVEprbThfV0VWWkcyNTFDZnF5ZUxiTVF60gG-AUFVX3lxTE40VHY3Y2o1NmkyNUNQdk02UF9PZU5GQU1oTWl5UVNZQjkwbDE1Wkpkb1NkY1Nua1E3TXBWa0dGV2IxZG01M1pKOGJCUTZQQ0ZiUEdvR2tEbUlXSjRnTjNIT3o2UXdyUUo2M0s4d0NGRDJnWEtTTVU1Q1JEVGo2QTVzOUVKOTdJWW5fTzkwV1JhWWxkTm5tVkFnY2dlRHJVWUUtZnN3cnZ3NHlnd0xSc1BjNnF3T2xZb3hYSC1rZlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFR2N2NqNTZpMjVDUHZNNlBfT2VORkFNaE1peVFTWUI5MGwxNVpKZG9TZGNTbmtRN01wVmtHRldiMWRtNTNaSjhiQlE2UENGYlBHb0drRG1JV0o0Z04zSE96NlF3clFKNjNLOHdDRkQyZ1hLU01VNUNSRFRqNkE1czlFSjk3SVluX085MFdSYVlsZE5ubVZBZ2NnZURyVVlFLWZzd3J2dzR5Z3dMUnNQYzZxd09sWW94WEgta2ZR0gG-AUFVX3lxTE40VHY3Y2o1NmkyNUNQdk02UF9PZU5GQU1oTWl5UVNZQjkwbDE1Wkpkb1NkY1Nua1E3TXBWa0dGV2IxZG01M1pKOGJCUTZQQ0ZiUEdvR2tEbUlXSjRnTjNIT3o2UXdyUUo2M0s4d0NGRDJnWEtTTVU1Q1JEVGo2QTVzOUVKOTdJWW5fTzkwV1JhWWxkTm5tVkFnY2dlRHJVWUUtZnN3cnZ3NHlnd0xSc1BjNnF3T2xZb3hYSC1rZlE?oc=5",
    "source": "Fox Business",
    "date": "2026-11-27T01:57:00Z",
    "score": 3,
@@ -1172,16 +1192,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-26T20:58:43Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "7ddbecf4b2f2d4",
    "title": "$3,570 area: Gold price stalls as Fed hike bets restrain bulls",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "www.tmgm.com",
    "date": "2026-11-26T20:49:20Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "3d60207bb95915",
-   "title": "🇺🇸 The Fed may be forced to sacrifice its inflation target to save the AI bubble Trump's intervention to rescue Nvidia may have revived the stock market, but economist Jeffrey Currie argues it did absolutely nothing to address the underlying credit crisis threateni - X",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16Z2JGWGNwaDctWEMyM2pJdDFGWVJYRXhDclFPLTQ2MGx5YjNEVkFvZVo3SmFISmdHNTYzOGZjR2JjQzBwVVNYTUp0dnk2aC0zZkRLd1JqRkRpN0t6SHhjU2lQbzVMMTJCUlp0RA?oc=5",
-   "source": "Google News",
-   "date": "2026-11-26T20:38:30Z",
-   "score": 14,
    "category": "Fed y tipos"
   }
  ]
