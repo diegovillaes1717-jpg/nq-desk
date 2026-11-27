@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T04:26:56Z",
+ "updated_at": "2026-11-27T04:31:49Z",
  "items": [
+  {
+   "id": "4de06a89656f5f",
+   "title": "Nvidia GPU Sellers Restrict Neocloud Sales Over Chinese Access to AI Chips - NVIDIA (NASDAQ:NVDA)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXJLYnM0R2lJUkVNSmZSN3pZcmhXOGtHLWpjUXQ1bDU5bG9RNGF0UWIwUmtxOGNpLXdvcVUtcXpDTjhma1RPTEg3UWtXUlZ3OTNhNWZPdTBFbVFraE1XaFMwX3U3dnNRRTB3QldNNnAzZ3VlZXVKdDVxbnBCSFZzYXJ1U3ZhRXdQQVR2cElIX2xUeHFhMjJLVWpYY1hLOFRVVDFCX2FXYkZJNFkt?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T04:11:20Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "4a84794b943af3",
    "title": "Bill Ackman Warns Fed Rate Hike Could Trigger Global Recession as Inflation Reaches 3.8%",
@@ -662,16 +672,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:38:53Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -712,6 +712,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "0edfbe5235126b",
+   "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtLTGtmaWhHQ1k4R0NFQ0s2Z0Z1Z29OTmF3Z3FwZVJLR0V3TDRYQWhKeTFpc3dLUVo0RzZxWENKZ2tDMnFaX1VyZkhZVTR4YU1uQVpwRzVCay1EZVhBcUlPRTRJUkFuTVVTWmpvX2FiS1NtbEE2NzFrazM1WHRuV0ZaMFRjbDZzWnpBWGttczY4UEVraXkzN01DekN1WWQyMndIaW8wekhRM2R0OWRhVzIxbw?oc=5",
+   "source": "Qatar Tribune",
+   "date": "2026-11-26T22:19:28Z",
+   "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "472aa7a172fbf1",
    "title": "Why Is the Nasdaq Having Its Worst November Since 2008? The Numbers Behind the Tech Sell-Off",
    "summary": "",
@@ -722,13 +732,13 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0edfbe5235126b",
-   "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtLTGtmaWhHQ1k4R0NFQ0s2Z0Z1Z29OTmF3Z3FwZVJLR0V3TDRYQWhKeTFpc3dLUVo0RzZxWENKZ2tDMnFaX1VyZkhZVTR4YU1uQVpwRzVCay1EZVhBcUlPRTRJUkFuTVVTWmpvX2FiS1NtbEE2NzFrazM1WHRuV0ZaMFRjbDZzWnpBWGttczY4UEVraXkzN01DekN1WWQyMndIaW8wekhRM2R0OWRhVzIxbw?oc=5",
-   "source": "Qatar Tribune",
-   "date": "2026-11-26T22:19:28Z",
-   "score": 10,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T22:17:57Z",
+   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T18:20:11Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "f57ee507cde8e4",
-   "title": "Inflation May Have Peaked: Economists Split on Fed Hikes - iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYW5JR2VHbjc1M3UzemxxY0Iwb3htS3cwR1ZLR0VXd0dlc21HT0RhXzFwRmI2UVRrTW5nOTRRRkdHeU1FZlZ0TE9QOTg5NjJBQmF2aGhfTVY0T1hoSmhDdWc3QllCNmNjWU05YU16S2VSSFVRVURVMGtaNjVoZDU5UmFEc0VHNGxLYmdOaDI1RFYzUFBrZzUtNmxfdnVpaTAzVGE3blZiU0lReFQ1REdLaFBGYmI?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-26T18:20:06Z",
-   "score": 14,
-   "category": "Fed y tipos"
   }
  ]
 }
