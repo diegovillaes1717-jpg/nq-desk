@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T20:37:25Z",
+ "updated_at": "2026-11-27T20:42:09Z",
  "items": [
   {
    "id": "3e448185ca4649",
@@ -37,7 +37,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSl9yc2N5WmExdTBIZjVjeTZHOU9FM0p3aGJzZlBhSk5QbUdLdE55N0dPVXJmeWlzcU5wdzNxRUEtazFOczM5XzJmQ1FXcmkyU0loVWJpYm9mVFprQnlObG5lZGNaOGc5ZlhVNU5kNzJRalZGU3cxdnFOaXFpTXZ1VnhtSHZka3pMeUJfUFltQXlMbDVnQl9CdEtnUk1tSDVZbXpGYzEtSzZMbWxYTTFucmZLaXVzaFc5N0pGOWh0REg?oc=5",
    "source": "WHEC.com",
-   "date": "2026-11-27T20:03:14Z",
+   "date": "2026-11-27T20:11:34Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -175,9 +175,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T19:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T18:57:52Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -259,6 +259,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T18:32:22Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "64c91d77faff80",
+   "title": "Nasdaq rises 7% on Thanksgiving week, bolstered by Jensen Huang's return as Nvidia CEO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVdYVHV2WEZfRTJaLWlYU1ppaGpwYXZXMDdlSXhBbkdueklGbnVHYUxZaldaS2NZbC1EM0RIRXlzenRNdGtPU1kzamdKTGtXVnhaZm44MV9wejhucV96Q0tLUjZxWGJXSktjT1JHUHI5U3dSVm9SbjI3Mmx1R3BSZm84OUtHdlo3UTFGWk1UTnBmYzF4MEhzQWRWRXpobUE1bERQZHI5U2JyeWFXRFV2S0dXWENmN09LYWd0al93?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T18:30:06Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -999,16 +1009,6 @@
    "source": "Barchart.com",
    "date": "2026-11-27T15:30:03Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
