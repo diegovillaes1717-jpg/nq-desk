@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T19:02:44Z",
+ "updated_at": "2026-11-27T19:07:28Z",
  "items": [
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:02:36Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "37cf658bfeef96",
+   "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3aebda002b6b14",
    "title": "U.S. Dollar Gains Ground Amid Rising Treasury Yields: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
@@ -29,16 +49,6 @@
    "source": "Quantisnow",
    "date": "2026-11-27T18:51:32Z",
    "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BKelo1VkZaS1c3OUxTMVR4MjZONnVPdzlZeTlyRmlhMENQUTdYMkdMLThUaVJwRUNweEN1clc2SUp2Y2s5bHA4bEs0MUMxb2FzenJwX1lCeHBIOXlPMU5wZTJRN3JIelJrUmgtMFZxejZRVFl3dmp3QkhEcElsWm54RTB1a21TZmpVTkNXbkxvTUNEWHlTMUh5RFlPT01hXzhjMVRlYmV6N1VvejI0dWdPSW8?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T18:50:34Z",
-   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -119,6 +129,16 @@
    "source": "CNBC",
    "date": "2026-11-27T18:24:06Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8c83eef6c698ce",
+   "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUFYRVZ6X21ZNW1UWmFlTUxyYjgzLWlQeUlBN19OUVo0ZldoSnNfWGstWTlCdFBlaFVFS19TcHlIa3IyTk5BQlVCbzlqUGFtM051UGV3WnE3MmVSLXdmd0RPZF8yX3dYMFo4NUxTakp6WmI2TVhueGh6MHNtSnFWS29pLVpPTG9FNE5wQzQtVHhBcjVCb3FMTzlJSWh6ei1qZzNqTTAzMHdaSlhHckpQa2daWEVFLU5wYXNfd0NUck03bl82eDhrUnlhYw?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T18:23:20Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -522,16 +542,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "9c87622b599017",
-   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVxNmMzaGk4elFDVzlIQkQzOWhGcEQwT0NhV2lDMjY4MTU5NFQtVklGTEtRYzdZdzREMEtHSkhJWmhHeUJpR0ZuS2VQQ2tuZE1DWGhPVWdiWFV6RjZzTzNsZ25OTFhNMl80WS15X1hVMHdDR0p4MHVnNTFBNXpLbUxjQXhydk5xYzNLbHNobVJZa2hBS3U4ek1BbVdpcEY0d0hjTzRfV1VWcV9zY0UzSWRjRkRnSEJaVDQ0WXY3UnlrcmpCX2RNbThhYnlkVXFXNzFv?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-27T16:09:41Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "987781fc7c3137",
    "title": "Jensen Huang's Nvidia comeback may herald an 'age of resentment,' top economist Steve Hanke says",
    "summary": "",
@@ -590,6 +600,16 @@
    "date": "2026-11-27T15:55:12Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "be5ddaac2036ab",
+   "title": "High inflation has puts US Fed’s credibility on the line",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGxDWkRWNDRvb2pMS1lLNjhTbWdvanZuN0NGR0FEQ3BTM1oweDFNY2R3YWdrcHBaZkUwR3NkLVRhQmdvTkZiV3FEVDY1cmlrM01NQ3dUYW5FajBHTDZvN0lGcFZuaUxRMDZITVNhdDhfY1ZzZjlpTHBzYTJOVllQRXEzQUpKY29OeXAySTRoTWRQWVlpaWxramZR0gGaAUFVX3lxTFBkbENaRFY0NG9vakxLWUs2OFNtZ29qdm43Q0ZHQURDcFMzWjB4MU1jZHdhZ2twcFpmRTBHc2QtVGFCZ29ORmJXcURUNjVyaWszTU1Dd1RhbkVqMEdMNm83SUZwVm5pTFEwNkhNU2F0OF9jVnNmOWlMcHNhMk5WWVBFcTNBSkpjb055cDJJNGhNZFBZWWlpbGtqZlE?oc=5",
+   "source": "ThePrint",
+   "date": "2026-11-27T15:54:35Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "4e7dc74af3c847",
@@ -660,6 +680,16 @@
    "date": "2026-11-27T15:44:33Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "9c87622b599017",
+   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDVNcmozVWlWSUMxZERYWVNJTklrNGlQRVRpNndFMzlHWlRzM3phZlNSQTV1M2RnanRsdU04SDhYVnZfTy12QkFEVW1aSTZpYzd2NkVrVkYzX3FWYUNaa3FJREFLY3hDZ2gyb0ZsMGdXamg1a214Q1VUaUNMTUFzRmdRMThmSnMzV20zb1lGOGhzaXJHSjB1dzBUemxhMFBIQVpLTk5sVG1PM29qdURDNA?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-27T15:39:48Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "c76065e30d33fa",
@@ -769,16 +799,6 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:22:46Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -969,6 +989,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T15:00:27Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:00:00Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1169,36 +1199,6 @@
    "source": "Investing.com",
    "date": "2026-11-27T14:31:57Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "02bf28f9c5ed51",
-   "title": "US Stock Futures Extend Thanksgiving Rally as Nasdaq 100 Jumps 2.5% and S&P 500 Tops 7,300",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnpyWkFoVC1ySjJOaHF3NkRmSTIycGhXNF9DVHYxc1U4ZXNJbXhlcjlxTW5kMk1OVk5WUTNyNEtOQk5VektXVWlwd3lQWThadzBsYzdJQzdBTHdaY1FkUmQ1ZVZqdFFoTmtvTjNwU0FIbmw0QjhRZFQ3VFQzZU5sV0dNb05FTnhrM19MWA?oc=5",
-   "source": "Hokanews",
-   "date": "2026-11-27T14:30:00Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e7b59615809b5c",
-   "title": "Kioxia Stock Has Soared 21% in Two Days After an Nvidia SSD Test",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEtOWU9IX1pkT3VPQ3A1UzlMLWpUa01YdGlxV1E4YmluLWdBM3BfQ0M1RU9kM0pZZnVmVkxxS1FoblZLUXFQcUFnSUpHcTRoLVJkcnZBX01hS244SkhkUlRqNmRwUjlKbWpnU2pLdEVsc00xd2k3V0EtSHFUSzNNcDgzNkdSWWRJSmh3N3Nsa1Ytb0xCNWc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T14:28:28Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "47b3d772dd372f",
-   "title": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelI5QmYxOVVWWEh4SklrdkNoMFpYZlVJOE4yZzE1WHVySWRucmJ1TUd1ZjUxV0Yzdm5aY091ZUlrenlsRUh6YkhzVVBxcWREeGl3V29ZUF9qY1BrcnRSMlp1MEpFSUtlUzFrdEFzY0dEdVNJNjdmWEdFOFhwVGZsYTVNbXNBTlRpUGgxTmpRZ2ZlM21MT01TbFhrMWVDYTJndDVWX0M2Y0NjNm5nVldPMg?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T14:18:02Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
