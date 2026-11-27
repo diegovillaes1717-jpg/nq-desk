@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T06:25:20Z",
+ "updated_at": "2026-11-27T06:30:03Z",
  "items": [
   {
    "id": "8d8f7d1b2dfad5",
@@ -205,8 +205,8 @@
    "id": "6ef06acce17fa6",
    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnlDZ04tc0tOOWJnemN3STVxQmlrWnhidHNpekVJZzgxOGN0V1YyNjQxTl80dHp6Tl9ubGZrRGhKVEdIRkI5LWxGb0Y3d1lDQjJLSHpkYm1HVEVENTJlZ0ZRc0NGVWctZXh0MDNzUTRET1FzWnRHWnJzNVc5UUVvQk91UQ?oc=5",
-   "source": "Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9pLVhQZmpyYU9BaFMzX1hIRk1jdDNIblcxQXFHVjh3SXZhZUFlRVhNRmhNaDlZYkJFVUotS3Bvbm53VGYzbjIwcUYwdVhHbzJEWWhWdG5jdjlmN1IwWTg3UlZ2TmNFR3YxWTZ2dFdQU21kMkFydFBTTERwXzNuLVZOV2VpTkU1d3oxaUdOYTk0eS0yejVDMw?oc=5",
+   "source": "Yahoo Finance",
    "date": "2026-11-27T04:23:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -342,6 +342,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "35c86941b6d6dd",
+   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5",
+   "source": "Cryptonews.net",
+   "date": "2026-11-27T03:09:14Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "9ef02aefd47503",
    "title": "U.S. 10-Year Treasury Yield Rises 5 Basis Points to 4.904%",
    "summary": "",
@@ -460,26 +470,6 @@
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "35c86941b6d6dd",
-   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5",
-   "source": "CryptoSlate",
-   "date": "2026-11-27T02:10:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
-   "source": "KTUL",
-   "date": "2026-11-27T02:06:25Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a3025a884956e",
@@ -922,6 +912,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlpcjdqQlFLZ203U05XeWdWbmNrUGxuaVhCQ05KNlJuTzBhN1FUeGNJTVJlUE5ocFpHWkdXU1J1Y3lidTF1TFF2WDBaaHdwckdfYVF5YzBsdlJKSmxsRTFwMEdtMWh5Zkc2UlB1d1ZZRHdLMlVXY0FrWmQ3dXlkVG5YUmtDNS1FSk9zampQYkJfWnFRc2o3Y3otQjNJY0xiVjV6Vm91UlVKUzdfRlV2eFBONGc4Y0hnRmFSZ2wwd1dzcGxSSHUzX0lPRmsxZnVPV0ozUQ?oc=5",
+   "source": "WCIV",
+   "date": "2026-11-26T23:15:24Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
@@ -1002,16 +1002,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:38:53Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -1069,6 +1059,16 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T22:17:57Z",
+   "score": 5,
    "category": "Fed y tipos"
   },
   {
