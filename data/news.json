@@ -1,6 +1,56 @@
 {
- "updated_at": "2026-11-27T09:58:41Z",
+ "updated_at": "2026-11-27T10:03:27Z",
  "items": [
+  {
+   "id": "efc12be45ecd70",
+   "title": "Trump Discusses Stock Selloff, Defends Nvidia CEO Jensen Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVHNwVzZQc2g4WE5hQ1ZkTTN1cU5xSWtBcTBhN3NhVl9QUGt4QXJtLWJyT0lpcERfbjNZZ1lybVZJNFpUNEhfOWp5dnV4dFBkUTlJNmJVMEhpalRUSUo0TFRqY09BWG00VFNXQlZJRDJKTUNzazVuN2JITjVZLTNyTkh0X2ZuNnM2V1NMb2tYOE5KSWM4UDZoZEZFUDI5RTRkRmtHSy0tWkdPMzYzY1RTY21aZ3R4SkxPUWFaSjZ4ZUxnd2FHQk9ZN3ZrX2ZDTWRCY015eWU1ZXRybm16bFZJ?oc=5",
+   "source": "Forbes Middle East",
+   "date": "2026-11-27T10:00:28Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "22f27db442cd6e",
+   "title": "U.S. Treasury, European Bond Yields Rise as Investors Anticipate Fed, ECB Rate Hikes in December -- Update",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1EzVTh3Y19ST1VlUV9KVmEyelB4Wmd3aHhqU0ZpaVQ3dS1NZUFld2VUTEY2R0Z1MkRLQTNNa25CYkhWcVZ3ejgwdHhNaXFSbV9qS0o0U3dTUnY2UnAxTkZ5XzNEN3VTbGpmX254dWxvTEVMa2lxMjJpemkwT01qMlJadkJfTHNMQzVPLVNvNmNmMGNBR2tJbmF6MlVMbEVsZ1Z6RXdlblVLejJLcHNCSWNhQlRuWlk3WFoycUdtVVNDSFNIelZfd1VVaUZNOE9sd05NbzA3WGFFU19qT05pbA?oc=5",
+   "source": "www.marketscreener.com",
+   "date": "2026-11-27T10:00:22Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "a7d5f29e922807",
+   "title": "Edsource: California Teacher Pension Fund Vulnerable To Stock Markets Nvidia-Fueled Ai Turmoil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjljSzZOWTM1MGp6Y0ZmN1N4Z0l5bnhveGhIR1NjT1BlNHVJaUFBd1NwQWNkQ1BnT0tmNF9wdUEtdVg0OHA2QzVKVDhPYUxlOEJIWl9NQ2NobkNSVnhycWQzcFdsa3hLa282R2F1b1ZjY3RyTmRRb1ZBOUxwM1A3Z3Z3SlBoVnJzT1lhczNIQmhhckZZeVNvQ2pBbWlidw?oc=5",
+   "source": "SFGATE",
+   "date": "2026-11-27T09:58:51Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "9b875169e9df69",
+   "title": "Bitcoin tops $61,000 amid rising Nasdaq futures — CoinDesk",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXhGS3lpYWlqNk9lbXZMNGpXZHRZT09wbFZnVVo1Ry16TmJZWWZUYmNWTllTU1dDOWw0UGdwYXIwTHpaSmRJUjg4RTNPeVdaX1BvMFlYajRlREZlSkRRSldFQjgwSDJTQ1FBbC05bHk3djRha29yV2VYZHpBbTMxYWc2NjlQWHZrOVNXVGZHWHdPUnpyLXFsMmpycnVfbWFub2VWZ083bGNyR2tOUFhQYTF1NENjTFE?oc=5",
+   "source": "UA.NEWS",
+   "date": "2026-11-27T09:58:32Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ec3b3191c468e9",
+   "title": "Bitcoin Rises Above $61,000 as Nasdaq Futures Extend Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSGdVNUVPazBydGVCVmpNMXBtU2lZTGh4NndNbEJ6WG9Va2RocFo0SGJVSm1jZ1F6Y3cwQ040VUhlT0Z1STVPSTZIRG1weEJ0R1pGaXlqMVp3QQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T09:54:33Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "b1b327c82b4c02",
    "title": "Phemex introduces leveraged SQQQUSDT futures offering inverse exposure to Nasdaq-100",
@@ -103,11 +153,11 @@
   },
   {
    "id": "20349aedd5ebde",
-   "title": "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
+   "title": "The Fed’s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It’s Bad News for Wall Street",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0lvX2ZOZnAzRjRPeGV2QTlSMFpUaFpReF80Y0pESHMxM01hWjM3WG56dDMwQXNpb0dfeXVMeWJfVGc5QmIyVkE5X3hfV2diRjZNa1NNMVJ0ZGR3RHdYVURHMk5MZElsM0xaNHlSMFBfQWlwY2JfemMwNmFWR01vbXJ2TmU2d2h2VmNGSmNWNmtjM0txYUt6aDNjb0VXaURlX1V2SzNSSzJ5Mi1Fbk5CVVFHS0hCUkdpNjVONzJKazdhQXpsTVhFUTFVT3NaM3VaOFItcktaQzloSWk3c2NaNzVB?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-27T09:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnNfUEpYOV9fU0FqWVpLWXZPQjBDU19aNnR0WG9MNlR1Qkp3Yld3akNvZE9jNG1zV05zRkJybjlRTERWcmJmV29wbTJjTVE5VFMtY2RaSlRUMlBvV3ZXY1BxbWkwanhHZ1Vub2FwbWhqS2ZqblhtbGdhMVBwamo0RS1QYTNYU3k0SGVPZENCTHZzLU8xMmZRZzdIX2VhN3Ft?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T09:24:55Z",
    "score": 10,
    "category": "Fed y tipos"
   },
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T02:55:00Z",
    "score": 9,
    "category": "Macro"
-  },
-  {
-   "id": "9e6117debde311",
-   "title": "Rumor of '9,000% Call Option Jackpot' Ahead of Nvidia CEO's Return... No Trace in Trading Records",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1leDNpYkJiUU1TcXdxQnRmTHRqdU1lSGNtOFdSN0pBZXZXZm5kc2d4djEyTkZiY0ZvMHlFejI0b3dBV3pyRWJNTXBVNnR0amxHQndwRVU5TjIzM3BWTHdKMkxUREt5Y2I5X1YyVW43czdPZnRmd0E?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T02:55:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2d8bd758e623ef",
-   "title": "Bitcoin trades near $58,400 as inflation data k...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z3bXdPeEhKajI4YjhRbHcyQXhVV1o3c1RnSGVlZTNfTE1JM0JEaG9MTWs2R0tXTHUxYkR0QlZDcTJOdG5ncld6OVgyMEduaW44cHdiQzgxQTl3QTdVYVNCWHRXeUhhdVd1bkJ3dVcxclluS2NWbW40QVJ0UkFvUW1CR2ZpRWltcG5oQTVJd3NHRHdqTXU1a1laTTVzQXUwYzdrUVpubzVlMHpvR3dQRg?oc=5",
-   "source": "Pluang",
-   "date": "2026-11-27T02:54:37Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "3cb0a02ec3c35e",
-   "title": "'Good chance' of 10-year UST yield at 5.5 % in 2027: CreditSights",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-27T02:53:00Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "b3b3be6fab3d02",
-   "title": "Asian Stocks Advance as AI Selloff Eases and Tariff Concerns Recede",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EaUFRdG9aMXpJcXRVbnI4dXd4b29TeG84VWlNRWxYZU1Ec3ExVVpGbm5lX2tIS2N1Yms5NGdqeXZ1angzNlJSRmRiNDlkNnB1XzVsMDdoZ0hsYm1zalNyUQ?oc=5",
-   "source": "kaohoon international",
-   "date": "2026-11-27T02:46:08Z",
-   "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "38d7629a543108",
-   "title": "Shares find footing after bruising month, dollar set for third monthly gain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEJYR05Ud1FDa2pRMU1XWDVwczNXTU5rNVVLTGwxSDgzemg1TEFUbUdLMV9RRkFmdWZwYUVKVk1aTHNFc0thbjJyR1NhUXBpNHVtWE9oenpPQ1FVMDI0VzFyajJJWkNmWTlWbl9JQ2huUnRZRTdGcU56NFMyUGk2VUlFbmVxRkQ1UFZSVWR2Q0w5RXhNUXd2TGZSYnNNVzRPbGlHazFn?oc=5",
-   "source": "The Mighty 790 KFGO",
-   "date": "2026-11-27T02:35:28Z",
-   "score": 3,
-   "category": "Energía y dólar"
   }
  ]
 }
