@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T18:10:35Z",
+ "updated_at": "2026-11-27T18:15:22Z",
  "items": [
   {
    "id": "77f2625762ca10",
@@ -202,6 +202,16 @@
    "category": "Macro"
   },
   {
+   "id": "1e72bc7c9d8add",
+   "title": "Arthur Hayes Issues Weekend Crypto Market Warning as Fed Blackout Begins",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWllBNXBIRW53VFk3bXJQS0NEd0c0M0wydXBhbTVxcV9NUHlRcUYzTkFMTEpZVzFmc3p2aUtXLXQ1elczeUlkUTB2VExjT2V3bVVJN2R2QU81dklPOGoyVFJ0Ml9haGd2VXNBMzNpZ2ZIdw?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-27T16:42:55Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "21f984b8f34f1e",
    "title": "Nasdaq 100 extends gain to 2%, hitting fresh session high",
    "summary": "",
@@ -329,6 +339,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T16:00:13Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "64d3b084bee0a9",
+   "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
+   "source": "Fox Business",
+   "date": "2026-11-27T16:00:02Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -479,16 +499,6 @@
    "source": "Barchart.com",
    "date": "2026-11-27T15:30:03Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1132,6 +1142,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T13:36:06Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5753b7cd6f6b30",
    "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
    "summary": "",
@@ -1179,26 +1199,6 @@
    "source": "CNBC",
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "310e13bc87dc2b",
-   "title": "US Dollar: Fed tightening bets limit downside as stocks rebound - ING",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXA1aXdUVkdZd2FJb0czcThOSzBkMzRNU2xFaS0tcF95OXJYXzA5WnVyXzBXUld2RmRDU0k4R1lyWmpyc1M2ZElGQjlxZ2l3a2FCa0Z5UnBmVU14TWhKZzBhQU9oUVpwUTNqZW5WRy03QjZFRlFoUE1VYmVkMkg0SUZ5T3R6dzFiMC0zUWZydHhyZXhVeFVscmt3NE51VE1vYWhTUWROZndXNEw3UEE?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T13:25:21Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2ba10c0ef3f1c4",
-   "title": "US futures rally on AI rebound after bruising month, Treasuries dip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9INVo3V3lHMEpEX0x5S3dycU92aWtDVFc3UGVzenZqUm1HZTkxdnZ5ZmdRWVJkZGhvelRtSkdGa2t4V2VzUW9waGlqaWw5N3lzXzJB?oc=5",
-   "source": "شبكة تواصل الإخبارية",
-   "date": "2026-11-27T13:24:55Z",
-   "score": 7,
    "category": "Fed y tipos"
   }
  ]
