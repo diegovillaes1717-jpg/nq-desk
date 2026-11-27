@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T23:37:39Z",
+ "updated_at": "2026-11-27T23:42:23Z",
  "items": [
+  {
+   "id": "f9fee2964c4366",
+   "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JKcnNFYk5jM09EUEZXNjdqZ1N6V05CbnNQR1gzd09nUlhzRVpTSlM4ZjM4SG1uVXExci1OWWdCY05oNkpTOVFjbzk5amIyeHNzdHNpejM1THVZNFdYVWw5dGx3MFF6YndNbGVnN0dTbHNuVDdSSlQwVWl4MDRadXVxbkJyV0FnVEhjNDlVN21JRDVKRkpGeQ?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T23:37:14Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c8a0ee9d9df1cc",
    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -72,16 +82,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0e9c32a119f389",
-   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T22:30:34Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "5789f4ab3677db",
    "title": "When will Anthropic (ANT) join the Nasdaq-100 and S&P 500?",
    "summary": "",
@@ -109,6 +109,16 @@
    "source": "www.tokenpost.com",
    "date": "2026-11-27T22:02:08Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1e8939ade96128",
+   "title": "Leveraged funds flip net short on Nasdaq 100 futures as tech selloff deepens",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2FVbHB2OEpLUFhSdTMwekhzZVR4dkdTOXZWXzczRnNMZ1VKZHZVUGh1ZTRQVjZyN3F5TGhtODJVMnQyYUVqNmYxR1NDUW1EM1p6RzVaVDF0eXhYOTAyd3dBTXkwT2xWYUNOSDc2d1ItbTdnUVA3OWpGOEJDckNYNVZYN19LOWNsY2N2ZzFiajEtVUttUXNMRFBINXBsY3ZUNTZPY2Jn?oc=5",
+   "source": "PrimeXBT",
+   "date": "2026-11-27T22:02:05Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -149,16 +159,6 @@
    "source": "Investorsobserver",
    "date": "2026-11-27T21:48:27Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c4ec10e0e324e8",
-   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGFaeGdfWUItclpPYnNFNWhQR1ZWTWpRTUl6LVF2dDFHX1NvRk5Vdks3cjc5LW1YQjR3VW9lNVNqa0Rwd1hIWmt4U2czUkttM1dlM3l6bWRETlNDaUswRWp5SXo1VmRHcnJpT3FNeERwWVE1QzJGZVY2U1BQeTQ0bjB1NVgtdWxvT0Jnd0s2NFc4MGpEWHFrYUw0anFaYkNEQWZPYnpkUEhJQUxQeW5ZMTlR?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-27T21:43:46Z",
-   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -442,12 +442,22 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "92e103afc877fd",
+   "title": "Nasdaq leads Wall Street higher as AI stocks rebound after Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDkwSW5VVi1EUGJZOF9xcDdjTUdKWWJvQVBBTmgwMkNPSzVoQ2hScmo1STBNMjhUUjNiaGk4aFA0RnlnVzNmSTNRMUFqczdpeUJYeW9kVTVnSG5RNXRPUENacmhDTWtOdjdZWWkzQU5HQVl5UklFM2t3VFZkd0dEaG9ndERad0VacldVS1VZZkFJSGdIb1ZkdXVJZWR4djA?oc=5",
+   "source": "PrimeXBT",
+   "date": "2026-11-27T19:02:04Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T19:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T18:57:52Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -790,6 +800,16 @@
    "date": "2026-11-27T17:31:03Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "c4ec10e0e324e8",
+   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS0xRW9YRGNZLU1FWHFtR0dtUUJsSDFhcFVJSkpNQWJ0UXJOU2hGcWh5MkJBRU9lQjFkZzR5UXlIbG9peFV0NU52QUE2S0ozdVE0eE93ekRnQkZmUFhfOWxHSVhZR19sYzM0OG1kVDFkX2cyeUYxX2JYMlBUdXBtSGFqYjZrTV91dHRUVmRCcGtYbjk2OWNOdV80UnlrQzJRSl9SRDlQLWh0ZDVwRG1reFVJVDlxUUgxVHRCTUJ30gG-AUFVX3lxTE9FLTFFb1hEY1ktTUVYcW1HR21RQmxIMWFwVUlKSk1BYnRRck5TaEZxaHkyQkFFT2VCMWRnNHlReUhsb2l4VXQ1TnZBQTZLSjN1UTR4T3d6RGdCRmZQWF85bEdJWFlHX2xjMzQ4bWRUMWRfZzJ5RjFfYlgyUFR1cG1IYWpiNmtNX3V0dFRWZEJwa1huOTY5Y051XzRSeWtDMlFKX1JEOVAtaHRkNXBEbWt4VUlUOXFRSDFUdEJNQnc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-27T17:28:36Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "9681c6077677d8",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T15:44:33Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "9c87622b599017",
-   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDVNcmozVWlWSUMxZERYWVNJTklrNGlQRVRpNndFMzlHWlRzM3phZlNSQTV1M2RnanRsdU04SDhYVnZfTy12QkFEVW1aSTZpYzd2NkVrVkYzX3FWYUNaa3FJREFLY3hDZ2gyb0ZsMGdXamg1a214Q1VUaUNMTUFzRmdRMThmSnMzV20zb1lGOGhzaXJHSjB1dzBUemxhMFBIQVpLTk5sVG1PM29qdURDNA?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T15:39:48Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c76065e30d33fa",
-   "title": "Abandoning Fed's 2% inflation target could boos...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUpGZ1d5RUN6V3R3ajk4NGdhY1lTbTl5YTJVOEF3dWVzX21xNlJTUWlWSERxOG9oQ0Z4UlJJRWVBQk9pRWRkR0JvOU5pSW9XRWlueTlYVTJxN3REbGxtYjA5TDBweGhMMGZOcXpyNEN6NU5tWXQ0NmQtUkQ0UjlCUTlxX1dRSUtLdDhFXzVISUlfMU16bHhwcDNZUEtuWVhHMDBYS0tyWmxyTkRoLVhzXzZn?oc=5",
-   "source": "Pluang",
-   "date": "2026-11-27T15:35:48Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
