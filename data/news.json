@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T11:28:58Z",
+ "updated_at": "2026-11-27T11:33:44Z",
  "items": [
   {
    "id": "4e9ea917e0800c",
@@ -330,6 +330,16 @@
    "date": "2026-11-27T10:04:27Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "7feccbe29a727e",
+   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
+   "source": "StockStory",
+   "date": "2026-11-27T10:02:04Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "efc12be45ecd70",
@@ -1189,16 +1199,6 @@
    "source": "Wisevoter",
    "date": "2026-11-27T06:03:20Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c0c417f53d6c96",
-   "title": "Jensen Huang’s return to Nvidia will not dispel AI angst",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUtZTExuekJjNFJMRU5wdk0tUmswSWpjbmJjQ3lZSHB2VVNTOUV1YVNrcDFjWDk4ZGhJUXZHRHVCSU1HV3pvTXhnU1RVZXB2azZMQW1FNjZPM01OakpLWlJzWnZGQlZkT2QySkxhQ0I4RnBVem1vbXhBVGZYbU5hUE9KMHlLbFNyUUxvTk5CdGlOOW80TG9NNVcyWU94dw?oc=5",
-   "source": "The Times",
-   "date": "2026-11-27T06:00:00Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
