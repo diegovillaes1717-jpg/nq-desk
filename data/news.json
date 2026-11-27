@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T03:15:12Z",
+ "updated_at": "2026-11-27T03:19:57Z",
  "items": [
+  {
+   "id": "9ef02aefd47503",
+   "title": "U.S. 10-Year Treasury Yield Rises 5 Basis Points to 4.904%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MSDhsSmx3UUdNMVBjeDF3T1YtWmRwQWk1b0Uya1YxdUdNR3lTM2twdi1mNHBIb0FINHhpdkJaTW1YSG1Cemk4UENmQ3hvaGVmNTRDMWlFcld2QQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T03:08:00Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
   {
    "id": "887add88324fca",
    "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
@@ -27,7 +37,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
    "source": "CNBC",
-   "date": "2026-11-27T02:53:38Z",
+   "date": "2026-11-27T02:53:14Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -302,6 +312,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "bc557b37adabe2",
+   "title": "Gold Declines To Near $3,550 Amid Hawkish Fed Expectations - TalkMarkets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBQVUk0bkIzY2UwaENEQWpPZHNENF9XMTVxZ09jajdIYlI1Rk1tZUY5WWJoN1Fpbi1MLVI4?oc=5",
+   "source": "Howl.Link",
+   "date": "2026-11-27T00:50:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ce3d6ef9c42a3d",
    "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
    "summary": "",
@@ -370,16 +390,6 @@
    "date": "2026-11-27T00:00:00Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "bc557b37adabe2",
-   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNMSFZ0MzlfT2lhZFhGVW1yZFI1bzFFd0MxS0NRTDRGLUJnVzQzT3Q1T0YzNU1GVndzbDdkbVMzNG9LZGF3dDlNV2FFcHk4TXVadmhxQTUyZ1o1eUh4M2N6Um1NMjJjd29pMHBaWnktMEZVRjFQWmVZM2ZERVVjQ1NWU01RZWswbUdoVW9INUZpVGdQWnczLUw0NXQ1S0tpTW9RTTBhTUpwYllzb2M0Z1k4bldibUd3Mzdlc010M1k?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T23:59:08Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "c44aa220a1cccd",
@@ -532,16 +542,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:38:53Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -590,6 +590,16 @@
    "date": "2026-11-26T22:19:28Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T22:17:57Z",
+   "score": 5,
+   "category": "Fed y tipos"
   },
   {
    "id": "da89798951d7ea",
@@ -1090,16 +1100,6 @@
    "date": "2026-11-26T18:12:50Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
-   "category": "Tecnológicas"
   },
   {
    "id": "fd63a55abf4972",
