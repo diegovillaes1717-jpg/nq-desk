@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T16:25:05Z",
+ "updated_at": "2026-11-27T16:29:55Z",
  "items": [
+  {
+   "id": "d4654a2bd1d09d",
+   "title": "Energy Prices Cooled But Core Inflation Stayed Hot",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjVCRXNMS05RRThmaTVKVWtrLWE0YU1nVnBQdXRVMDFDZDdmUXpIR2pNVTNfS0w2QVNUU0dDNUdUZVI2b0NjMGIwX20zbXpJSmhKSE03SXlMUlJjSF9qYUk4eGVWZDB1X2pEdkltRzZzdW9UcWhINzdmVjV5UmJHNnBUQzJXV3IwT2VVZ3FtcTQ?oc=5",
+   "source": "The Daily Economy",
+   "date": "2026-11-27T16:27:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
   {
    "id": "df21a45a2a7917",
    "title": "Nvidia Corporation: Strategic AI Technology Front-Runner (NASDAQ:NVDA)",
@@ -20,6 +30,16 @@
    "date": "2026-11-27T16:11:24Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "987781fc7c3137",
+   "title": "Jensen Huang's Nvidia comeback may herald an 'age of resentment,' top economist Steve Hanke says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGpCLVpoQ2RnUWFwZUE4dWVmM240U2pCZ1l0WUZ5Z05tcVhhUXBvcEprMGQtUTR5YmR3VTdlYmhtZ19QOW11N1V0WndfQjhsVGZhYUl6Y0puYUFZNEtBS0MzSzFyWFB6NkJIeVFBY1paUVFHOG9LOVVtckVvU3VETHgwc1c1YTdRODZ4cGxZMU1Va2RKZGZFcHM2Wm84Q1dPNlBQYTNMUHQ?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-27T16:04:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "bfeebe3ce864cb",
@@ -762,16 +782,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:41:56Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -840,6 +850,16 @@
    "date": "2026-11-27T13:33:06Z",
    "score": 4,
    "category": "Mercado"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMTZlRmh0c2FvbThoeU5xbTdhM0lYbGhIVG5UcU9tcmlndDRpbHlEdkRocERnOUFRZDhiXzJSZzVxNTEzRlRzOW5ocUh6VEFTMURlVE5aa092bjZ1V1VqTW5DcGJfQk9fUnhQQ082b2VLU25BSUU2SXphNEVRbFMtQV9kMGw0Nm1nSFNUUE9id3ZBRjh1VzNUbFI3SkJpSC1IcFhMSThQa1I0bDhISWZKM0YxTkowQ1ZNaC1PRXlkakc1d2VDTnRTTFNaS2dLelpRQ2swWjBnV2dWaVE?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "c3a9af55a5c358",
@@ -1179,26 +1199,6 @@
    "source": "Quartz",
    "date": "2026-11-27T12:29:06Z",
    "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5ad4c6e56ed43e",
-   "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeURNTkpvdzc0bWdfT2lqa1k5OHMtYm8yWnBCQUllWk45bUp2d0lVazFWV3hQTUVMWVRVdjV3c0d3MFBJUWxfb0RRY283eXE5M3U5ektvSnhfV1FFNkpST3Rvb0JYRWw3bmVlMUVWMHZlSEQxOUFkVXEwV19zNi1ZXzJNMWhNblpLUW9DV29NcHljT3VJNnRLeWZwanRSMGl1X0c2YUVwaGlWX3hUOWEzZUI2VVA3R2ZIV3BZcEZjQThzMk1yWThBUFl2bmI2Y1ZV?oc=5",
-   "source": "MarketWatch",
-   "date": "2026-11-27T12:29:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "12fa4fb7752d92",
-   "title": "President Donald Trump Just Floated the Idea of the U.S. Government Buying a Stake in Nvidia -- but It Wouldn't Fix the Company's Biggest Flaw",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjJrdzluTE9jeFp5SG85VDJrQ2xueG5IVndSck5kbWw5dXJvbkhQVldYYU16LUhlMVdoaGhWeGl0M2dwUE5MT2g4WElfT0RPSEEycUpjQV9FVm5KS2Vqek1rVjlCYmpIa05CaXh6Q3I5N2llYURZbFJucHNiNUtrSHRxR2VRUVZrei1hY2htb0hsTHY2WGY2S2taZFZzQkVYMUE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T12:26:02Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
