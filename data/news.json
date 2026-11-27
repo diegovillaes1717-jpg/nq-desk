@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T01:44:38Z",
+ "updated_at": "2026-11-27T01:49:24Z",
  "items": [
   {
    "id": "0c1d91503514de",
@@ -30,6 +30,26 @@
    "date": "2026-11-27T01:38:00Z",
    "score": 4.5,
    "category": "Macro"
+  },
+  {
+   "id": "f5b40f23ad9c92",
+   "title": "Trump insists Nvidia CEO Jensen Huang not a security threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlFzUTBhNFU4akxZSjBnX0g4eHp3SmVoaE1QSTR0WC1UNkpvTmpsaGNCZjBVX0NWclU1SERSSmkwVzNTS1hjNmg1MlB6Z3FFMmszQk9PSnE5UDlMcUdpN0pQUTBWLUdlc2JUMXYxQTRxbmkyTXlXZzJ5YzZjZkFpZXdLWHM2ZUJhMTJlaERxZkt3X085ck5naEtGVl9WeVl5THhXMVVaREhwVURw?oc=5",
+   "source": "The Straits Times",
+   "date": "2026-11-27T01:35:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7212000104b6d6",
+   "title": "Nasdaq 100 Futures off to a good start 📈 📈",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5LU29jdW1KTjkyZkNnamRGREVLZjU1eXd5THBzajBDTF9sNW9ENkJ3aXhxRzFqNU5DaVlZ?oc=5",
+   "source": "Howl.Link",
+   "date": "2026-11-27T01:27:33Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "8c1d2ebb778e08",
@@ -80,16 +100,6 @@
    "date": "2026-11-27T00:39:00Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "769164e05e97e5",
@@ -225,7 +235,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -1189,16 +1199,6 @@
    "source": "Bloomberg.com",
    "date": "2026-11-26T17:02:41Z",
    "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "7d8ef5247bb579",
-   "title": "What a ‘Fed put’ would mean for your portfolio",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYk4yYzNzaWVuXzlBcHNHN21NWHd1aEhJdFJWdmVfUjFDMUdTSUNwdnNpUDVySFltaDMyak9fbTVkWUJxejZuTDdmSFQyVkIxeFVBRzdua244YTI3OUVuWEpXWWhldTVBbWtyeDh0ZXpnNTVtWkY4Q1pXcy03RTE4OGJIcTFMSFBYVEtn?oc=5",
-   "source": "Trustnet",
-   "date": "2026-11-26T17:02:39Z",
-   "score": 4,
    "category": "Fed y tipos"
   }
  ]
