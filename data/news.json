@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T11:57:28Z",
+ "updated_at": "2026-11-27T12:02:12Z",
  "items": [
+  {
+   "id": "b291e5738f2eea",
+   "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+   "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+   "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+   "source": "CNBC",
+   "date": "2026-11-27T12:00:22Z",
+   "score": 4.0,
+   "category": "Tecnológicas"
+  },
   {
    "id": "df4511134c2e1f",
    "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
@@ -29,6 +39,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T11:32:50Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7e7c59e3f734c1",
+   "title": "Marvell Faces Critical Earnings Test Amid AI Chip Market Turmoil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3Z3eGt5MUVZZlJMek1XR0lKUldsOUVJVVNFTkd1R18xaFlIZGpzWDlJZGJMVllqdFdMMlk2eG1WR3dkM2JwV3VxeWptUm11d21WUHZmc2tEbnIxeDFWX2I3QmNEYW1UZUtHcERlX25HcFY5RFlqaFlPaVhLOUZzUE1XWE1FTzJyWUxKdHNNdTY4aUFkX0FlLUF5QWVfd2ZfTzdLUHJVYkM3SnZRUUFzeFdGVFpPc0RjcGxoQ1VJa2VFUQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T11:23:08Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -100,6 +120,16 @@
    "date": "2026-11-27T11:13:22Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "bcd9b0660ca980",
+   "title": "President Trump Says 'Huang Is Happy to Return as Nvidia CEO'",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjhKYzl4di1waHJqRE4zdkNsc1E1Y19MbHJwckdIajhCTGpPN2tqMEllYnkzQUpIVi0taGM5UFdKTGhUN2xEbEhRRjdDdDVkeDFKTGFpNkVhWlJ2eHo5MXk0cjNTVEhndlh5QmJJSFlxWTdzRkprZFltaHFaLTh1U29FaDUzVndYdndiWlEzRTQ3cnlENkJuekRvWXRaQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:10:35Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "0550c7af31ac72",
@@ -184,7 +214,7 @@
   {
    "id": "1c42b326d989a8",
    "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
-   "summary": "Strategist Darius Dale’s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for risk-",
+   "summary": "Strategist Darius Dale’s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for highe",
    "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "date": "2026-11-27T10:37:00Z",
@@ -362,16 +392,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "2309559d616d8c",
    "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
    "summary": "",
@@ -379,6 +399,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -472,6 +502,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "3db91e4694da3c",
+   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkZTX3R6dWZmWC1PbkJtYm1YSEVIMmJ4ZFN1cWpncXFRajdTYXUyQk9iN0RRRDdPdHZiR2tsRDFLeFVfa25YN0tiT0tIY0UzNnZkOENhNV94VHRXaU4wY3BpSllfdVdMaEdjX2RjdDhzWW45Zlk2UmpqRmZyRm8wUWp6SWc2M081eVRGRDJGSUh5WVhsS3llUWdFV0ZRV2x3X1pQblpBc2xaZWEyVURrbzZIckRycnhhY2tTVE5IdkVvMDhRVW55RUIxN3NTREpEMFJv?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T09:47:18Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "65bf308d6ee38f",
    "title": "Gold prices rebound after a series of days of decline, Fed suddenly becomes the focus",
    "summary": "",
@@ -562,6 +602,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "70856bf1364bc1",
+   "title": "US tech stocks set to jump at open as volatile trading takes hold",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T09:31:02Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "ce056ec36671ab",
    "title": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after...",
    "summary": "",
@@ -590,6 +640,16 @@
    "date": "2026-11-27T09:29:54Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "67de4cf87cec24",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
+   "source": "Yahoo Finance Australia",
+   "date": "2026-11-27T09:27:21Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "91886cbd3ef487",
@@ -839,16 +899,6 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T07:35:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3db91e4694da3c",
-   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-27T07:34:00Z",
-   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T06:33:43Z",
    "score": 6,
    "category": "Macro"
-  },
-  {
-   "id": "1fc687fbc20c4c",
-   "title": "SEB Strategists Say U.S. 10-Year Yield May Have Peaked",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qVjVYR1p6elBWU1JpRTk4UDQzUE05eTN4RXpvQ01IRm9wLTBLaEZtaWUwOG1KVFZGNU1IdW02eEFjVlNoX1hTaFZBNFFTaXViaHVKN2xKVjh6dw?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T06:33:39Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1fad884324d0d3",
-   "title": "Nvidia CEO Huang not a security threat - Trump",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMF92cGljdHk0ZDg3a2x6UVZ0LUZMYXZseWh4ODRGR1lHRU5FUTdyTWhNMXBVVWlpQU1MbUdRRlZxRDV2b1VMMlFJMDJqZnEtLXpGOC1aTThvUXZidWowc3I2akJ2SzNoUjktMTZ5bG5WVXd3RzNqaDJmVFdMcVNjb0R0a1BqdzNMc2JlRkVRQ1ItV2pucUN2SQ?oc=5",
-   "source": "RTE.ie",
-   "date": "2026-11-27T06:31:31Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bee7013b01e8b3",
-   "title": "Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdG82djR2dmFuUGR1Zk1qMTFBOGpOQ1h5Uld1NWxDMkdEd254WWhtMFdZaTZzZkUtQ1NaMVllNEUzdGhucW11MWlBWnZCSXc5REhLaVVNX01XVXJmTTJ6WDVHZVF0d09vdFFBUm5McGN4TWRmbDRSVVVzZWNjU2ZURVZ0SHoyRzJZYnc?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T06:31:28Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "99d08f0389b39f",
-   "title": "NQ: Nasdaq Futures Jump 1% as Wall Street Returns from Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBjcFczUEdNdkpXUFJHYldpUUpSMlpNM2IwTG9oRS1WNDg5SDZsa3VqT3NLT0tLdkdhdjIyOFRMNzBMMFJQTTYwbVAtWGNWQy1BS1ZtRW5Rdm5fSDJLaUdlTWNRSEd1VE1UOUE3WkRlWk5kRGFjM0ZHMWdaOVNZNmgwcGVUbnltM2ZUbVlOX3g5SmVrSG1UZmR1UTh0WTVIRmpDdG9BVHpFcmN5enYxcU90d3BacE1oS0w0RF93YVQyYWVWNmc?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T06:25:00Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8d8f7d1b2dfad5",
-   "title": "Is Microsoft Stock Underperforming the S&P 500?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXdiZnRtdHEyOEZoUTFUNnJEaHlHR1NzWEstRy13QkFmTUl5MFdhdDZ3NnhnYkx1SnZLa0VIM21VT3FWc2FQejdjLUpHbnVOYjJKTlR3OXktVC1uRHR3LVMyN3MwUEw2M3MxMFdMS2M2MEdrN0JoMmVQZjk4TWdOMEtCV2lJRy1XQi01N1dSdjVwWjY1?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-27T06:19:49Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
