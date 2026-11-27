@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T06:58:26Z",
+ "updated_at": "2026-11-27T07:03:10Z",
  "items": [
+  {
+   "id": "01bfb2e4a96a33",
+   "title": "Nvidia’s 31% surge, US tariffs on China: 5 figures on investors’ radar this week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTmpFVWRHZW52QzFjTTlwemZfOHNNVnFPSGVjQkhpcEhMNjRlem5MWUZyM3JlMmllRjNZdkJPdHdkTmNVQnhGeWNFNDd6X3ZtU3M0VHBFbzBDZGJmVDd4eVlCQ0ZBTXltT0NpaG9jZ2d5V2NZa0hQVVRLbXhmZ0Y1TEg3VGpSNkU5WldDS2dGQnBZY0RLV28yU1pXRTNBYk1UVG5tQm9oZGZVUjdqZlQ5WHQwdFBSalF3MHNMcUNmZk1nNUV5ejc2QmFLa2RiRW10eERBbWlMQldKQVZMVC03R0RyWjNuQQ?oc=5",
+   "source": "South China Morning Post",
+   "date": "2026-11-27T07:00:13Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
   {
    "id": "5172bb82fda43c",
    "title": "Trump Says He Was ‘A Little Concerned’ By Stock Selloff, Insists Nvidia CEO Huang Poses No Security Risk",
@@ -57,7 +67,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzlSU2VzQTl0czdTYXJHMFFPV0lucWczcmJMNHBKOFNqVVFrMy01d1RtVXZxcmh1RUlhdEtRaWJoNHdRWXF3MC1IelJJSmFoc1E5S3BUS2NPVGJuT0FTVkZQYW5CZTY5azJNcWZBRkJhU0pYRGdWWDVtRlhUd0xFWXVYM2wtX2VSTlNUdXN2cnFLU2loNlhnUk1FSW5WVERIN2RscWhJeWdLc3NxQTdwZjlB?oc=5",
    "source": "Market Index",
-   "date": "2026-11-27T06:38:53Z",
+   "date": "2026-11-27T06:39:21Z",
    "score": 4,
    "category": "Mercado"
   },
@@ -70,6 +80,16 @@
    "date": "2026-11-27T06:36:30Z",
    "score": 3,
    "category": "Macro"
+  },
+  {
+   "id": "1fc687fbc20c4c",
+   "title": "SEB Strategists Say U.S. 10-Year Yield May Have Peaked",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qVjVYR1p6elBWU1JpRTk4UDQzUE05eTN4RXpvQ01IRm9wLTBLaEZtaWUwOG1KVFZGNU1IdW02eEFjVlNoX1hTaFZBNFFTaXViaHVKN2xKVjh6dw?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T06:33:39Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "8d8f7d1b2dfad5",
@@ -202,6 +222,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "15a9631f1b8c4e",
+   "title": "Tech stocks set for worst month in four years as volatility surges",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:01:25Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "04e15e33837bff",
    "title": "Trump insists Nvidia CEO not a security threat - The Witness | Your compass in the community",
    "summary": "",
@@ -282,6 +312,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "66be429653322f",
+   "title": "Trump Admits He Was 'A Little Concerned' About the US Stock Selloff, Backs Jensen Huang's Return to Lead Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iSXkzUUF4X1A3TnZEYWVHdlZEWlV5UEU3bWl6YUJ6U1dLeDE3a2ZKV2k0bGM4cDdnX1l1YzIwNHI0Nld6WERDaE11eXdwWXdqVnNJaU1ycFFhOURpYmpmcGJhS0dFeElsMjRtbi01dDBTNHJmaHc?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T04:35:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d21c66045af4e4",
    "title": "The Part of Inflation Cheaper Oil Cannot Reach",
    "summary": "",
@@ -317,7 +357,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY09laG1mUWszalBJSzg5UWJLX09IcGtzZGk5cmg1NHNjaG45alBBd01ta2p1dzFSMkZhcjNfM3ZSUnZGbzBzemRkUVVWY0N5dktqbU9RQ1lRbGEtaHdNckE3am4tcmh1RHE4S1NwS2tEM05mVWpub0JFTEQtLTJoWlBHOGJCV2tfQ015d1JjSDU3ZEZVUHFpV2tzNmxXdDhhalB1akROVFJrMkNpVHlJLUZqS2RpQmZmYkVrYUIyNTNERnlt?oc=5",
    "source": "investingLive",
-   "date": "2026-11-27T04:18:37Z",
+   "date": "2026-11-27T04:17:07Z",
    "score": 11,
    "category": "Fed y tipos"
   },
@@ -832,6 +872,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "c0c5f6b17d0768",
+   "title": "Michael Burry Sells Nasdaq-100 Puts, Shifting Portfolio Toward Long Bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUFVRUUZHc3dQRW9TYlZPM1hkTm1obVNQMXdJWlpyRjdQWkFraGtyQURxc3gxSHZ2Wlh6Ui0tcHJtemEtNURoZ2s0T1hDOG12ZEZ4cHZFMkJpWnJRR181WWJ5cFdVa1pfYkhqMG9QWDM4RW5D?oc=5",
+   "source": "Businesskorea",
+   "date": "2026-11-27T00:52:45Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "d10b35eb89f238",
    "title": "Michael Burry Sells Nasdaq-100 Puts, Shifts Portfolio Toward Long Bets",
    "summary": "",
@@ -1149,56 +1199,6 @@
    "source": "Around Prague",
    "date": "2026-11-26T22:19:28Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0edfbe5235126b",
-   "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtLTGtmaWhHQ1k4R0NFQ0s2Z0Z1Z29OTmF3Z3FwZVJLR0V3TDRYQWhKeTFpc3dLUVo0RzZxWENKZ2tDMnFaX1VyZkhZVTR4YU1uQVpwRzVCay1EZVhBcUlPRTRJUkFuTVVTWmpvX2FiS1NtbEE2NzFrazM1WHRuV0ZaMFRjbDZzWnpBWGttczY4UEVraXkzN01DekN1WWQyMndIaW8wekhRM2R0OWRhVzIxbw?oc=5",
-   "source": "Qatar Tribune",
-   "date": "2026-11-26T22:19:28Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "da89798951d7ea",
-   "title": "Nvidia halts chip shipments to Southeast Asian countries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ3pnc000Z1pTSHEzU1FCZ3pmSkFmbHFxS1hES1FieFRKMUctMlFSak1XUC1YVU4wY3lxVXJpVjd4OFptdmJ4ejAtak9KUUd6RzRxTDZDOXhoRVl4UjlsM3h1MkZjRmZGeExmdkhkM3dDLVFXSlBaRFMtUi01SldoX29JS2dCR3J3aDB5X0dDel9td1V3WW1UTGU3UXVRVDQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T22:15:23Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9728826c45f58f",
-   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Euronext Markets: Real-time Stock Market Data | live",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFU0MGVaQ3FORTJicWJ1QTlNQWRob3haZGpGQUR2bDg2QXpYNHZtSTZyUGFCN256S3ZpWlI5cC1mT2MxR0NfZ2FJYXpnRVc2VG9ycTNvN1A4QzdiQmF5SWdhNEdscW9VTFFhdlhfaXJGZm4wcElWU2tyaTRrWmRMY0tSZ0JpbS1yTERnME54SmxSMWFNclRRMzgtOXJScVNVSDNkVmZwNXNaczg?oc=5",
-   "source": "Google News",
-   "date": "2026-11-26T22:13:14Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2098e7b2a663a7",
-   "title": "S&P Puts Nvidia on CreditWatch After CEO Turmoil",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajU3V2lBZEhmYV9WMW4wbFhFNmJUVFNPTmltTGF2M3NfM292UlFSN3NFT2w0elFTTVBMbk1ZZFVpdHhlWjNSa1dVTlRyYUdybGNsRTk5MmU2MkJkQVQ4MW16ZWkxLWREc0RvallHLVlWYlRPNE12ZGE4cEd0R0NCbG54UEQ1U2c?oc=5",
-   "source": "Briefs Finance",
-   "date": "2026-11-26T22:10:59Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
