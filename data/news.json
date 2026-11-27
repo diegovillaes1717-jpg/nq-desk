@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T10:03:27Z",
+ "updated_at": "2026-11-27T10:08:11Z",
  "items": [
+  {
+   "id": "7feccbe29a727e",
+   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
+   "source": "StockStory",
+   "date": "2026-11-27T10:02:04Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "efc12be45ecd70",
    "title": "Trump Discusses Stock Selloff, Defends Nvidia CEO Jensen Huang",
@@ -16,7 +26,7 @@
    "title": "U.S. Treasury, European Bond Yields Rise as Investors Anticipate Fed, ECB Rate Hikes in December -- Update",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1EzVTh3Y19ST1VlUV9KVmEyelB4Wmd3aHhqU0ZpaVQ3dS1NZUFld2VUTEY2R0Z1MkRLQTNNa25CYkhWcVZ3ejgwdHhNaXFSbV9qS0o0U3dTUnY2UnAxTkZ5XzNEN3VTbGpmX254dWxvTEVMa2lxMjJpemkwT01qMlJadkJfTHNMQzVPLVNvNmNmMGNBR2tJbmF6MlVMbEVsZ1Z6RXdlblVLejJLcHNCSWNhQlRuWlk3WFoycUdtVVNDSFNIelZfd1VVaUZNOE9sd05NbzA3WGFFU19qT05pbA?oc=5",
-   "source": "www.marketscreener.com",
+   "source": "marketscreener.com",
    "date": "2026-11-27T10:00:22Z",
    "score": 7,
    "category": "Fed y tipos"
@@ -49,6 +59,16 @@
    "source": "www.tokenpost.com",
    "date": "2026-11-27T09:54:33Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3db91e4694da3c",
+   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWWVhUHdkSXZYLUFWaG1QQkhCa0xTSllmdDJKZ2tHVnNINHRZd2JGVm1BTUdwTDVhd1d5MXRLSUJlZjV3Rm51SkJDa3lfdTlBcHFRblhOVy0xVmlSOFBDM01TUDJOc2w2bTMwSlZrMWRkM2lFZTVyU1BSVk51eHBudjRZODFvQ3lZX0NMcEV6cGdPX0JuSkk2ZmZxRi1XRkVSV2d4eEpsajZ6RnFyaUczVTk0WGtvcmsxQXdYTkpPNkRudkp6ZzVLaTJCeDdjTnhjczByV1FsNmFMVTQ3Uk1US2RjSVVCcjJTZ1R5cjIyNktTUWNXQXVtbGpBUQ?oc=5",
+   "source": "The Lufkin Daily News",
+   "date": "2026-11-27T09:47:18Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -162,6 +182,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "69496a3ab2e2dc",
+   "title": "US tech stocks set to jump at open as volatile trading continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T09:22:30Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "f6c3b5b273aa4f",
    "title": "Eugene Files KRW 50B Tesla-NVIDIA ELS Terms",
    "summary": "",
@@ -190,6 +220,16 @@
    "date": "2026-11-27T08:56:00Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "979bc6869f12b7",
+   "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+   "source": "DD News",
+   "date": "2026-11-27T08:44:26Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "294e087cbc10ea",
@@ -882,16 +922,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "69496a3ab2e2dc",
-   "title": "US tech stocks set to jump at open as volatile trading continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:00:22Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "71e5909b15b021",
    "title": "US tech stocks set for rebound",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T03:08:00Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "887add88324fca",
-   "title": "Nasdaq 100 Forecast 27 November 2026: Bear-Market Test",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFVzOE1mLWpqd1d0Q3otdVlORVcyOENNcnFBVGpObm5jWlVBZmVsQjRLN1R5NjMwWUlJUzVlaHo5UUlhMVJNLWdtakZMUlQ0X3ZSWkhYakJHSmJOSUVoUDlGZmN5TFd6UkExd0hkZW9uRVpEUDI2V0hXTmhYVV93c3E2RnVrUXlzd2lmQ1JkblBWcVYtc2JHV0FRWjJGUUk?oc=5",
-   "source": "Admirals",
-   "date": "2026-11-27T03:01:48Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9c9ec204e20002",
-   "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFndHNoRTl5ak1qTEtMYm5UNlZib3hqc2ZpZWFRcWE5ZjZlVGxvUWFReGpLdUpGT25BVVl0Smo4VzE5ZzYyb0sxSE80Yng4SlNLQUF5eFdFTUc4SEZ2a3RfRVZscE1ub3BibVpiclRfWTE3anc2Qk5saUtCV2Y2eDNJMExEeVc5eFBUdU9ILWVxZDN0VExKVW5mMXBiZVo5enZmVW91RzJ5TEVOeDZKRTZsLVVFNHVTcUJpek1qNUhaTE5vZ2NIdVhrOVBsenoxX1V6S1BielFIZ0pPcFE?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T03:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0c5e1d54798524",
-   "title": "Dow Whipsaws Through 1,100-Point Plunge to Close Higher as Hot Inflation and New Tariffs Rattle Wall Street",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdTF2VUJCS3dBTkpaRkxmdnFRQ3VzbjVQeTZmaHJPLUZNU0hZVzlINEVyRngycmY4UGZhNWlodHQ4a2xGOXRjMjRydnJkUEU2SVdMQ0xIcHVQRHZsYm1BTXpfYm1VNkNPb202ZkVHeGlzOG5lVVE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T02:55:00Z",
-   "score": 9,
-   "category": "Macro"
   }
  ]
 }
