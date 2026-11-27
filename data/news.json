@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T09:10:42Z",
+ "updated_at": "2026-11-27T09:15:25Z",
  "items": [
   {
    "id": "90c6ac6ec028d9",
@@ -30,6 +30,16 @@
    "date": "2026-11-27T08:37:53Z",
    "score": 14,
    "category": "Macro"
+  },
+  {
+   "id": "226bbd394527a2",
+   "title": "Neoclaud Faces Potential Restrictions on Nvidia Chip Supplies Due to Chinese Customers — CNBC",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGxqc3llM2x4Rkc0OGNUWjBISzJRVTlHSzBvT3pEb3oydGE5RkNsc0pUcGRVS2JkWm05cGg3dHZnTU1idlJ6TTVjS0t0ZGtUSjFKaE1mQkZoX0dhVG1vYWdXSEJVdVp2VjBLUmlDWGhycHJVUW1PXzIzSlVuLUZ6cTNBVFNVTVVmbFduSExwSzRadkFxV0RsbG9VVmROMDdFOEhUQTg0Ym5kZU95cEw3T3M2SE9KZGp0OEtCZlVTRlQ?oc=5",
+   "source": "Oninvest",
+   "date": "2026-11-27T08:37:03Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "3bc93e4c94bc5b",
@@ -480,6 +490,16 @@
    "date": "2026-11-27T06:09:06Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8db4d72f078e29",
+   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-27T06:03:54Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "52409eafdc1e0e",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T01:40:13Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "f5b40f23ad9c92",
-   "title": "Trump insists Nvidia CEO Jensen Huang not a security threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlFzUTBhNFU4akxZSjBnX0g4eHp3SmVoaE1QSTR0WC1UNkpvTmpsaGNCZjBVX0NWclU1SERSSmkwVzNTS1hjNmg1MlB6Z3FFMmszQk9PSnE5UDlMcUdpN0pQUTBWLUdlc2JUMXYxQTRxbmkyTXlXZzJ5YzZjZkFpZXdLWHM2ZUJhMTJlaERxZkt3X085ck5naEtGVl9WeVl5THhXMVVaREhwVURw?oc=5",
-   "source": "The Straits Times",
-   "date": "2026-11-27T01:35:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "87d351d23080da",
-   "title": "President Donald Trump insists Nvidia CEO not a security threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdFdmZU5GWllvUVJoNEVoWmRlV1ZTcHJ2VUxoaURPRHk2eDVaREY1cTM2REdqSjFmc1lLbHhfcmtLbFFzeTRVak1OVHZUUEVIbFkzeXg0dUpmckJqVGlfVjIyMjZSc2h0enBuUTAxYWdkTGJPTVl0T0FYRWdnZlQ2SzJnRXA2dER2Ukh0WEcwTVI4SHVCUGFpSzNQMXJZUzRsdmg1Sm15TVBOWXBDWW9ablVNWUtZbVpwSk9LWDdhVllDRG5uU0o4R3NPYVHSAcwBQVVfeXFMTnRXZmVORlpZb1FSaDRFaFpkZVdWU3BydlVMaGlET0R5Nng1WkRGNXEzNkRHakoxZnNZS2x4X3JrS2xRc3k0VWpNTlR2VFBFSGxZM3l4NHVKZnJCalRpX1YyMjI2UnNodHpwblEwMWFnZExiT01ZdE9BWEVnZ2ZUNksyZ0VwNnREdlJIdFhHME1SOEh1QlBhaUszUDFyWVM0bHZoNUpteU1QTllwQ1lvWm5VTVlLWW1acEpPS1g3YVZZQ0RublNKOEdzT2FR?oc=5",
-   "source": "The Hindu",
-   "date": "2026-11-27T01:31:35Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
