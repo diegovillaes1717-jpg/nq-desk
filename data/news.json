@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T05:37:56Z",
+ "updated_at": "2026-11-27T05:42:40Z",
  "items": [
   {
    "id": "a6523215e7c0a4",
@@ -80,6 +80,16 @@
    "date": "2026-11-27T04:49:59Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5fde1080f161f9",
+   "title": "Deutsche Bank: Tech Stock Sell-Off Nears Bottom – S&P 500 Projected to Surge 25% to 9000 in 2025, Fed May Hike Interest Rates 3 More Times",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91VDFVQXpURWliTUIwYlYzbUtaQmttTVd3NTZYYkFnR09TTlF6R05SVU5veXlZa2l3Tld4Znl4TTR1enpOZEtTM0pSTjZOdGVTYTRn?oc=5",
+   "source": "36Kr",
+   "date": "2026-11-27T04:41:11Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "5129954b8e94b0",
@@ -422,6 +432,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f1aaa0f4e5db49",
+   "title": "Not Nvidia Or Apple, This Was India's Favourite US Stock In 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGxzTGVFdEV2SFdfOGdlNTVadjA0dFAyTlp3aEJjNzVzb3BRR05GdkZEeGNFUGtVVHpmQzZWejVUcUtUcExUQXFPNENTZ1JFaUhXTThkQjEtR254VU9LVWFTLS13MU5KemhSbEJMQ2FUYm8wQjVtWUNQVGJrV0VsM1NFdjdlTlZrdnNxZGlyLW0yOE1NNHJ3RDh6ck9USVJqNlVCajlYYWxOVHZUVFdPR1BRbXVBSE95TlJqWl9yTzd1TXo2eU9RbkRDSHRINVnSAdcBQVVfeXFMUHU2eE1SN2ZLU1VUV3ZVUGp4Q0t4UzFWM1BicjRwcERuYkJZa0V3d1NYblBxWThQR1BUUDh4QUVudXozMkhjYVBpbnk5QWZjc3BMaDVxVFZGcDlzWGQ4SVM5bGRDazJvTmdtSTJjS2tZMUx2Y3FKYmRXT2JzZVRxTmNyOWs3cWJZbGdITGw2NjlCcDM0Tl9aNFowa3dPUm1FajNxM3FXclhvQi1yOHNnVUFtQy1tVklWXzBmRDdkYnk0SDV4NjMwa3FvSEJhcW9ieTVzamtDbEE?oc=5",
+   "source": "NDTV",
+   "date": "2026-11-27T01:55:07Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "3009e7d0830634",
    "title": "This AI-Linked US Stock Beat Nvidia, Apple Among Indian Investors In 2026",
    "summary": "",
@@ -662,16 +682,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -869,6 +879,16 @@
    "source": "Crypto Briefing",
    "date": "2026-11-26T22:53:55Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-26T22:49:10Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -1179,26 +1199,6 @@
    "source": "Google News",
    "date": "2026-11-26T20:38:30Z",
    "score": 14,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2ebc8752a04c56",
-   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnplaktWQjBPaDF6ajJQbW1QM3BGQWNBcXBCZzNtYXpNaFh6ZkxSanhMZ0JLQU9FU01Xb1BnRFFWMjNfN1R3SWtwVVV2OXJ2MlVfeUIzc2pWa3lnSk9fWE9nVjlfY2M3YlFmS21NdnNyTE9mbURLcEFfM0swVGNSLWp5WmpDdzlzWHNsSUYtbElsQlloX01Jbw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T20:03:54Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ba5385a4b3f745",
-   "title": "Fed to raise rates on strong inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUxsMTFWOFhPU0h3ZUU0UDF1LTNjV3NZZGQzOUdtNXR2aHREZW1nRnF0ejVkV3RPWThXUzVyUUhpcHFWMThjSFRUMGpLZkwxdmVXS2VlbmhjNURUOUQyZUEydV9LR3RwSXJyTnRuYzNCaS04UHlHMGxNWkc1WVI4emNn?oc=5",
-   "source": "Livewire Markets",
-   "date": "2026-11-26T20:03:28Z",
-   "score": 8,
    "category": "Fed y tipos"
   }
  ]
