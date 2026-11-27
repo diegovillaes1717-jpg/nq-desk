@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T04:17:29Z",
+ "updated_at": "2026-11-27T04:22:13Z",
  "items": [
   {
    "id": "4a84794b943af3",
@@ -130,16 +130,6 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -422,6 +412,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -565,7 +565,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -632,6 +632,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:38:53Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -689,16 +699,6 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -890,6 +890,16 @@
    "date": "2026-11-26T21:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-26T20:58:43Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "7ddbecf4b2f2d4",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T18:16:37Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "fda2e0061b95ca",
-   "title": "Fed rate hike odds rise to almost 100%: can AI selloff force a rethink?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV253Mm1xcE8tNjZVQS13SVh1Yy1JN2R0SHljN0c1dnlUZ3pVeUdVbmMxbUtnN2dpRnp3bldOcktfek0wa3pTZHZ1aUlENnl5QUtfaDdIVnFTa0xQVGZmRUhaWkg3VURlTzFfMjRqLTE0TTkwT2J0Y0t4T2EtV2FiUXd0SjRIbU9yVzY2R3dkcVN6ZG5oZzNWeXlnVHlQakJFWEJPY1VoNA?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-26T18:16:22Z",
-   "score": 9,
-   "category": "Fed y tipos"
   }
  ]
 }
