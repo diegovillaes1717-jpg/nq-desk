@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T22:50:25Z",
+ "updated_at": "2026-11-27T22:55:08Z",
  "items": [
+  {
+   "id": "8a3d075ceb6633",
+   "title": "Can Nvidia Become a $5 Trillion Company Once Again? The Answer May Surprise You",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVURyVFhmd0pqaGJENjF2TzlCcnJteENGQ0xrdURQT051OE5pLW84MHFtZDFOZ0V6NXRVT1N3Um1lZHQ3UnF6dUU5STJsUkhfcnZnaDFoWEdoNWdoUEpkUnJlWnBBZnZ4QVZSTkRkZmVkSkZpNHBQbEhSdV9PNnV6bDZ1c1F0ejdXcFJJMjdZS1pVdzdDRThDRTRTRUZxY1RrYzN6cG01WHBSZmZMMkNxQTVYTC1lZGZiWkQ5UFdRbnc?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T22:46:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "93970ea0d45230",
+   "title": "Dow surges as Nvidia and AI stocks lead the comeback",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAydmpRNnNoaDh5OWJXcEh0Zm9hOGFfT3oxODJJS01VcE8wQ2ZFZm1kQkVDNkx3OFc3MFlobkhrYTRYMlk5N3NhbHAtTmVuM0xCN2ladHl1bk5SaXFkazlaS2pRRGZhRi1icC03Y3AwQlRVek1ySHlkeA?oc=5",
+   "source": "Rolling Out",
+   "date": "2026-11-27T22:37:49Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "5789f4ab3677db",
    "title": "When will Anthropic (ANT) join the Nasdaq-100 and S&P 500?",
@@ -400,6 +420,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -1168,36 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHFVMmZSRUw3SnZ0YmZrQmlXcjFOWFQ5bi10U1pKSlR3ZlZYNWN3dkZZSnh5bHJlX2xSaFJvdWR1WW9xcjAxTXZ4U0NKcDFGaXAxZHo3aHJrQ3VkUmJwdmY5YnZpTkJLYlV4d2g3aG5kS1NHTzFKTVJSb0JtMWFBT1ZwMjBVVWtzX2lqbHZmMDlWTnV0?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-27T15:30:27Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fb102defc295ac",
-   "title": "Nvidia Stock Had Its Best Day in 23 Years. Huang’s Return Revives the AI Bull Case.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkQtR013MUFudXlacjZZdGI3UEhPd0NXcGVyQzI5eFJyVWhpX3BMTGVJdEhuc2JTdktGOVZZQzEtVHpvcHpqOS1yeUNEQUVHWFZ5Q1Y5VHRjUWRUa1JzSGUxMDRyYUtCVkhsNzFtM2hyWTN0dm5ER3dtYmx6Y0VkYnZwTXdxQWdCeWI3VDlMV3JjNW9u?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T15:30:03Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "cdc93658f91336",
-   "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1paM09sdFN0alJpel9EbFF1RDBKY0VKRGJtWWlnMTNob3g4VjVYMHJLNHN3Z0J6QkVFWmdBaktfTnFEMFprZElJRHpTamtwbmUxYzIxTzNMNkh3c1pQQXBTbE9CT0otSldXNG9DMXhLX2tIUnJiY3JmV2JjRUZJTVlFNlJqaVgwc25BWEtLZ2hsUE9TMFBTc2t0bUxGSTBpT2loT0N1Z2l1MXhJb3FBVzg2YmV3NjBWLXlsN2taZUJralFRNEFnZUpxQ0JWMVB2cXc?oc=5",
-   "source": "Investor's Business Daily",
-   "date": "2026-11-27T15:27:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "62b320b863b12f",
-   "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-27T15:26:00Z",
    "score": 3,
    "category": "Tecnológicas"
   }
