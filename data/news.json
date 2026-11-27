@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T21:29:53Z",
+ "updated_at": "2026-11-27T21:34:37Z",
  "items": [
+  {
+   "id": "834417ef98a5dd",
+   "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcE4wX0dSa2RLaHBlWm9abGh5TWdiYWlFV0x4RHVRaTdBdURMLTFVUVBPbEtITTFMejVNWHFfU3Z2cjVUSk04MzRKeVIzMXdRMG1tYndwRXhiMlQwdnQwUFlFclpkbkUxS0tFUEZuX040OHlzU1JGMmMwSXhiTy1VdnQ5bV9nWFRlLVpsRElsNjBZYWZzVExnUWVzUkloVWowSWItdVhxamZWZDhTYkxaTURKbVZZdS1RdWdmTWM5bjZVNEN6SnBUVUJSeE5vcFQ2azU0MUJONlM?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T21:31:58Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
   {
    "id": "bdcfc6e22e7484",
    "title": "Invesco NASDAQ 100 ETF (NASDAQ: QQQM) Raises Every Single Position In $249.9 Million Uniform Buying Session",
@@ -300,6 +310,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "6fb7f5aa636bc7",
@@ -1082,16 +1102,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -1123,12 +1133,22 @@
   },
   {
    "id": "f475094c49ddab",
-   "title": "Nvidia stock falls after premarket gains as volatile week nears its end",
+   "title": "Nvidia stock falls after premarket gains as volatile week nears its end (NVDA:NASDAQ)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGNnTDNmNjJ1MEFMZEpIX0xVUk9LT2VKbGFRSWlDV0tDN2FQdy1TY0JoYW9HVlM1cGt2OWxVczBSY01NZTFSMnR5cEVMQllvT0l3Q1VJemgzTkxKa2l0T0VZR2NLeDI4QzlEZUlYemVBODV1alhNcXJfTlh1OWhpeVJoTUdKMXdDa1JEZUdwSGFIclVobXBvc2VaZ2prbGFSTEdJY000LTJkWlBvNFJkQWg4MXZQWHBxbWZoaEt1bTRZbEZtOUViT205cVNYWEk?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVJpOU01RldtZlAxbERQS3dmUjk4OUl5ZmdMc1hURjdicFJQRnFvVjUxaTdNODl5SjNRemhoVUY2dHFidHNBenlwdVY1T3VaOWhoNVVheERSdGIteWFvVGhERy0wZW5vVzBtSFV3MUZMZmU4YWNOcUhBNHd3c2NiV3JNc2UyZmhOSGczQVpSeTd1UVJrUFI0cFY3OTJOUXRPOXc?oc=5",
+   "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
-   "score": 3,
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1179,26 +1199,6 @@
    "source": "TheStreet",
    "date": "2026-11-27T15:17:00Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e1a076d9d711c3",
-   "title": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEdlM3FlT09EY1cxTklwcFIxZG1WT01hcjNFbkZ5WlF0bXlWN0E2UlhrcHZ5ZmFYeGg2cEhleGswbzBFemQxbGZRVmY2cWV0clEtTDlqOWZ2QldnREFvUlJJeUdNRlo4QmxiaVZOUUJ6dldGcHo3Vzc1U2FteVE0ZzVGb2YtUkwwUXVaMkt3OGFvYm93QklnNkoxdGxreWhqM0NjSXNMeTN4S2NqV0ZwZ2hiTFTSAboBQVVfeXFMUDVQZXUtZklkM3FaOEk0Y0hJMHFwOTlBd1hCaUMyQkJjX3N4N01oWi1VZjFQOS1TcTZ5dzdwS3FaZzBKSXIwRWd3cWFNdHAyOHJFS0tzTG9udEZ0WUF1WHh1aVUxWVllLVJDWG5xUFJmeUVVY3dxNlljOGxGV3hlckZSa2tKNy1Nc2VLbDFWdzJqdkVOX044WG9QR3hpQ2RDM2dYcTN4cHFMNkpPejRlOWlSdzBZVGdmbU1R?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T15:16:41Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "91500bcf27fa0e",
-   "title": "Stock Market Today: Dow Gains 344 Points, S&P 500 Up 0.66% and Nasdaq Rises 0.82% as Tech Rebounds",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpJLXh4aUQ5bkFHb1dvNzBoZHhRb25vc3ZXdzVRRExWUzV6eENYQzhWSkw1UURjUUwzN0hiVy1ad1ByOHlaaktIcWJ4VXRqTFlDTnNCSW1KWmhiVEpOamhBMEt3TzhubThkd2N0NGc3X0JGWnV0Z211M0JIVXQ3ZlhxTTRXbktyaVVuUWJlWlRQVi11WHFPZVF6TVpmSE9mZFJ1U1c5MUx6OGp3NTUtLUJn?oc=5",
-   "source": "Around Prague",
-   "date": "2026-11-27T15:13:44Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
