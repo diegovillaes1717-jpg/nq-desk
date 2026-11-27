@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T12:02:12Z",
+ "updated_at": "2026-11-27T12:06:58Z",
  "items": [
+  {
+   "id": "a0a47e5da83d1d",
+   "title": "Chip and AI Stocks Bounce Back Before Wall Street Closes Early for Black Friday",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOTBoeE1tN0xqUHNhZUw4MnI2bjNLM0xvdzh0cjNJa1BqYkF6bW9qbktJdjR3YjdIcTFPaC1ULXh2Vk50cF9DYzVLcmdYV1h6UDkzSkU2ZE1QNWhYOGZSTWhGdmVWN2dISWJlcHE0SzNWY1M4VF96ZWt3eEVlemZtOHl3?oc=5",
+   "source": "Stock Titan",
+   "date": "2026-11-27T12:01:53Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "5ad4c6e56ed43e",
+   "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+   "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, an analyst says.",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T12:01:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "b291e5738f2eea",
    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -10,6 +30,26 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:00Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "1e72bc7c9d8add",
+   "title": "Arthur Hayes Issues Weekend Crypto Market Warning as Fed Blackout Begins",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWllBNXBIRW53VFk3bXJQS0NEd0c0M0wydXBhbTVxcV9NUHlRcUYzTkFMTEpZVzFmc3p2aUtXLXQ1elczeUlkUTB2VExjT2V3bVVJN2R2QU81dklPOGoyVFJ0Ml9haGd2VXNBMzNpZ2ZIdw?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-27T11:49:29Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "df4511134c2e1f",
@@ -162,6 +202,16 @@
    "category": "Macro"
   },
   {
+   "id": "e61abe8fa90951",
+   "title": "Trump shouldn’t be picking Nvidia’s CEO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1pUN0VtZXNzb3NFX043Z2tyMEdmQWNMNXJGbllOVmdWc1RpTnRFV0NpVS1PczBaUDBGcEVVTzdmZGVQcHd3R1ZpbkQ2Yno1OUF0WXo3eDhTTG9kdkxBa1NfSnV5V21SQldZQWExNW5VbmZ6bjdLRkgyRFBMbHFKTXNDWlZvOEYxc1JYbktB?oc=5",
+   "source": "Washington Examiner",
+   "date": "2026-11-27T11:00:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "15c0cbee7b1e92",
    "title": "Nasdaq Futures Jump 3% as AI Stocks Rebound",
    "summary": "",
@@ -169,6 +219,16 @@
    "source": "Kotak Neo",
    "date": "2026-11-27T10:59:35Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "135a05dadbe5da",
+   "title": "U.S. stock futures jump with AI leading gains, Scott Redler notes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjVvX0NoSFdpRXhlT25YREFxTFBsTjBZN0NIQVFUZk1aQlZKc0xQYmR3NmRxTUtwaWFjeXFyODg4N053S29QWkNpS3Bfa1NURC05SFlFN0xGc2wwRWhDSi14c01BTHV3TFp3TTVQQVlqUjJtM2pENUotQm15WmpnNXJzMmZFc212R29yZnpR?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-27T10:55:13Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -205,8 +265,8 @@
    "id": "34d12b8e2800d7",
    "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5",
-   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVRWkZLRmFSOU5aZllYak43WDVRTjRzRVF6ZFMtVndkQ3RqOUN4NzA4M1BiNzhZNG5ZSWhvVXNOMmg3MjVNWE1TOTFXaDhWMnRxcXNKTHYwTHNCVEVVOVFyQkJwczlaN2xjd1BXZTlwUnBteVQ0clpxSGhOU05xc2FESXNoazhPZm1HVHBzcGQwQU9xSjFDWk1uQ0VlQ3NHMnVmeWktcmZfMkJWQjU2eWh4Wm1DNnFBVjRuaA?oc=5",
+   "source": "markets.businessinsider.com",
    "date": "2026-11-27T10:39:00Z",
    "score": 4,
    "category": "Mercado"
@@ -392,16 +452,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "21593f3e2c1e0e",
    "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
    "summary": "",
@@ -409,6 +459,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -420,16 +480,6 @@
    "date": "2026-11-27T10:04:27Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "7feccbe29a727e",
-   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
-   "source": "StockStory",
-   "date": "2026-11-27T10:02:04Z",
-   "score": 4,
-   "category": "Tecnológicas"
   },
   {
    "id": "efc12be45ecd70",
@@ -500,16 +550,6 @@
    "date": "2026-11-27T09:49:00Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "3db91e4694da3c",
-   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkZTX3R6dWZmWC1PbkJtYm1YSEVIMmJ4ZFN1cWpncXFRajdTYXUyQk9iN0RRRDdPdHZiR2tsRDFLeFVfa25YN0tiT0tIY0UzNnZkOENhNV94VHRXaU4wY3BpSllfdVdMaEdjX2RjdDhzWW45Zlk2UmpqRmZyRm8wUWp6SWc2M081eVRGRDJGSUh5WVhsS3llUWdFV0ZRV2x3X1pQblpBc2xaZWEyVURrbzZIckRycnhhY2tTVE5IdkVvMDhRVW55RUIxN3NTREpEMFJv?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T09:47:18Z",
-   "score": 9,
-   "category": "Tecnológicas"
   },
   {
    "id": "65bf308d6ee38f",
@@ -902,6 +942,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3db91e4694da3c",
+   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-27T07:34:00Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "b7fe6000275a2c",
    "title": "Nasdaq futures surge as investors pile back into battered AI stocks - Columbus Ledger-Enquirer",
    "summary": "",
@@ -1132,6 +1182,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "a672d6f4bc6b64",
+   "title": "Trump reveals role in push to reinstate Nvidia chief despite Huang's denial",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SaEkwTDVDcnNnRlYtSjR0WGljc0JhSHVZWEM3VW1JWWt6V3RETmpFVUdObWVYcEJMOVhaYlJRaGJGUWw3TVh5ZXlkUFpsVVhMNWFqVV9RWWM?oc=5",
+   "source": "TRT World",
+   "date": "2026-11-27T06:50:51Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "904a1cb310d365",
    "title": "Nvidia, neoclouds in focus as chip sellers rule out Chinese renters (NVDA:NASDAQ)",
    "summary": "",
@@ -1140,66 +1200,6 @@
    "date": "2026-11-27T06:46:29Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "b5deb22d0e37d6",
-   "title": "Gold Eyes Weekly Gains Despite US Rate Hike Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemtCQm0zTWh3QmZJdGtrOG5QZ0ZiemRzZExUZG9vRm9JcWpqel9zdWJ1WElLVmxmNXBkd09sUk9IUHhRVS1wbW5jN1lZSlRDUXNlNC11TGlNUmRyTUxweDZYM1FsMFQxVmZVMFRpak9ZaFpPOFNnczVEM05vSC1laERNQXl0UWRJMmtxSVd3?oc=5",
-   "source": "Daily Beirut",
-   "date": "2026-11-27T06:43:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2263ef64108cd8",
-   "title": "U.S. Equity Futures Climb as Nasdaq Contracts Near 3% Gain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PR1Q2NUczbkJ5TXNDMjU1VUFZSDE0V0ZlSmdWVU1kbGxWRkRRZHhOLVZQcWJTNk4zOWNveEpBNjlWS09wOEEyb3Z4TVJmQUN2THF6Qy1NWUhaQQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T06:42:59Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7662973ef07667",
-   "title": "Stock Futures Rebound as Nasdaq 100 Futures Jump 1.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUJfeURpdV95Mk5tUTJjaU03SjN3WHF1eHdGZFpLLVl5Y2hkaTk5ZU5ZX19NcHUtV1hmZ2Z4ZlA5aFUwVElfZnRMUUk4WVZObWFRMkRYdUJrZENiX3k1R09reDdCazRONmhXTzJYb3p3ZnRUV09Nb3psTDdjcFhPRUloRTlmaUZV?oc=5",
-   "source": "Gotrade",
-   "date": "2026-11-27T06:41:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b6638b8c5ced45",
-   "title": "Evening Wrap: ASX 200 ends week on a high as 6% surge in copper futures sparks massive mining rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzlSU2VzQTl0czdTYXJHMFFPV0lucWczcmJMNHBKOFNqVVFrMy01d1RtVXZxcmh1RUlhdEtRaWJoNHdRWXF3MC1IelJJSmFoc1E5S3BUS2NPVGJuT0FTVkZQYW5CZTY5azJNcWZBRkJhU0pYRGdWWDVtRlhUd0xFWXVYM2wtX2VSTlNUdXN2cnFLU2loNlhnUk1FSW5WVERIN2RscWhJeWdLc3NxQTdwZjlB?oc=5",
-   "source": "Market Index",
-   "date": "2026-11-27T06:39:21Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
-   "id": "6dd3488d8505b3",
-   "title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
-   "summary": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
-   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-   "source": "CNBC",
-   "date": "2026-11-27T06:36:30Z",
-   "score": 3,
-   "category": "Macro"
-  },
-  {
-   "id": "5d11c977b78bf1",
-   "title": "Three supply shocks driving up U.S. inflation, says Oxford Economics",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVhCdGhBV2gtX3labV9URkxmZnR5WmM2U094bklBZUN0VXd5UGxzZkxzV2w0WXdFanFoZDUtUnB6cWJvWG1LZ2QycWhuc3RFc3Vrc3JVcWl4SnhDZkYzX29pNGpmZHd1cHFKcUo1N1g2WnF0NEQ3VklqV0NaZHR0emV5Z2NWWWpibm9VZUtOaWkyOGdEMmtTa0R5ZHNmN09CeFV0alBaLThZRVU0cURlZA?oc=5",
-   "source": "NewsBreak: Local News & Alerts",
-   "date": "2026-11-27T06:33:43Z",
-   "score": 6,
-   "category": "Macro"
   }
  ]
 }
