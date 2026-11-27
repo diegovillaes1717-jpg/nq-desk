@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T15:56:21Z",
+ "updated_at": "2026-11-27T16:01:09Z",
  "items": [
   {
    "id": "f6a810a55333c7",
@@ -602,16 +602,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "5172bb82fda43c",
-   "title": "Trump Says He Was ‘A Little Concerned’ By Stock Selloff, Insists Nvidia CEO Huang Poses No Security Risk",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUkhyQUdzczNLV3N4R1hNSG9vZUJaUjRuUno4V1BBV0I1dHdNZkpXUW9ZN0ktZ3NRMXp4RVNMNG1USWY4ZlAtbVQ4S0lGajE3RktkdDR0WGRjMTA3OFI0eHYyZWpjUG1zZmRpZWJNeHgwdkI4cE1ZbVhFM2lCQnVEVWRKU1FfUjloeDFwZ3JuMldNRnpzMlJYd1ZrS0Q3UmtuV0VhRVBhWDBxUmxGZ05hQThER21IUHNSN0VDV0o1Y2czSTE1Mno3ZUlidTFLRFYxLXg1UTdndFU2a1hQQXl4U25IYlhvU2pz?oc=5",
-   "source": "Forbes",
-   "date": "2026-11-27T14:00:41Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "55ca8753fd5003",
    "title": "The Decline in Nvidia Stock Was Equal to 8% of the U.S. GDP. How Vital Is NVDA to the U.S. Economy?",
    "summary": "",
@@ -682,16 +672,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:41:56Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -732,6 +712,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T13:36:06Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5753b7cd6f6b30",
    "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
    "summary": "",
@@ -750,16 +740,6 @@
    "date": "2026-11-27T13:33:06Z",
    "score": 4,
    "category": "Mercado"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZk1aTEdndGZNNnl6MlZfTVlUUGpRZnpfTWUzTk9vSlZyNVhGak5WWmJHOUJVVlpva2wzMzVISmVtaVJMRWdfUEFDd1dtaUIyVEY4cWVSTkc5eWxuR2JEX0NPazA0YUtnSEtMMlE1MEdoOTA1V0RDWkdyVTJkV2RuV1QtakFYaUhHZE54Wm16eUNvRURWbHdkREVlYWdIQ0lteGdPenl3YlZndmp0NGJRN3hKYWZ2VlVyczlMaXc1TzdyejRvUlRSRzlDMGJYWXlOOG5qQTJCWjA5TGhTcm1TcDJjMU5aMzFXV2c?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T13:32:42Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "c3a9af55a5c358",
@@ -790,6 +770,16 @@
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWpkelZfMmV1eURmX1o0YTY4aTBJTkZuTzY3Z25YVHdjcldhbTAtbzM3eGUxYjZHdnNMTDJBM2VTNUhOczZ2dnZXa3FYbUZYMTZWM3lmemwtQ3g1TmNaY01DcWtKdl84ejVrUFJPdUp4R05OSEMtZ1hGWnlDUExnT3l2VVRLdzVLek8yX3JFWnRDSDRqZzlwS1FRU3BSUG9uOFliX0E5Z0hOSnNBel83THZuOGU3Uy1SNnNyYXpkcmxISkpnd041WUxNRmdWOWh0QnNBYnZral9wZw?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:27:31Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "310e13bc87dc2b",
@@ -844,8 +834,8 @@
   {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-   "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkZ4TzUwSHNOaFYtVC1xcnRINWZVdHZnWGZCNHpqbUJ4dFF1QmJnNkFOS1Z5cUxRNlVaU0c0Y1JvSFRZMWFxRjU2VWgxWXhOX1hHZHZJc3k5Q3pWb1MwbDdfSU1WQTRjWjZFUWlsUEZlY3NoZUI2NF9mNk1teWRSS0VCdUZ4d1VvUW5mNS1KWWtqRENUX1NKNHpCdElhSnVjZXRIcE44TDRsMkN2VUI2cnZnd08xVVE4OThudzAwT2M0cWNB?oc=5",
    "source": "MarketWatch",
    "date": "2026-11-27T13:15:00Z",
    "score": 3,
@@ -979,6 +969,16 @@
    "source": "FXStreet",
    "date": "2026-11-27T12:47:57Z",
    "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T12:46:20Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
