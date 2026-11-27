@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T12:35:35Z",
+ "updated_at": "2026-11-27T12:40:23Z",
  "items": [
+  {
+   "id": "73206275cdf0e9",
+   "title": "US Dollar: Fed seen hiking twice as labor market holds – Commerzbank",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEV4OTgtZFBNTk1yYTZzQllzUGhuZHpjNTJmc09zelVGZGI5Z1Z6dFBBVE5uQjNSdzFCMGJxcWlXQWxqZmptdy1NUEQ3RUpuQnQ3SnVHUGVhUkV6elppSktzM0tmU0o3czNwM0pWSy1XY1lLTmJLc1lwX2thVTh2NW1GVzM5aVFPNzdFaHcwdFJLcmNEckpQSXdYUEZYN3BFeU1GYVNLdTVYY0FP?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-27T12:35:41Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "9c80145c9fdbf0",
    "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
@@ -462,11 +472,21 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "1ad7d5506f7db7",
+   "title": "Stocks could fall 20% as Jensen Huang's return fails to revive the AI boom, one research firm warns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ29ZR1BYeUdVbnBpV1Zjd093WmgxX3c0ZmRLbWY2TVhlcVRSTjVCeER0NVhKWkMyNy0tbWh0Q3draFIzYmxQT2tFVW9iaGVicFBsWURkVDVaVnZXTlc1ZkJpUGJfNURaekNSOWMxNUxnaUVuVmk0WVpXT1lBMFRjV2tfWXpVeXh3S1VnMG1OUmRQLU5GdnlPTWczeXhNdw?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-27T10:40:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "34d12b8e2800d7",
    "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVRWkZLRmFSOU5aZllYak43WDVRTjRzRVF6ZFMtVndkQ3RqOUN4NzA4M1BiNzhZNG5ZSWhvVXNOMmg3MjVNWE1TOTFXaDhWMnRxcXNKTHYwTHNCVEVVOVFyQkJwczlaN2xjd1BXZTlwUnBteVQ0clpxSGhOU05xc2FESXNoazhPZm1HVHBzcGQwQU9xSjFDWk1uQ0VlQ3NHMnVmeWktcmZfMkJWQjU2eWh4Wm1DNnFBVjRuaA?oc=5",
-   "source": "markets.businessinsider.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5",
+   "source": "Business Insider",
    "date": "2026-11-27T10:39:00Z",
    "score": 4,
    "category": "Mercado"
@@ -692,16 +712,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "7feccbe29a727e",
-   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
-   "source": "StockStory",
-   "date": "2026-11-27T10:02:04Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "efc12be45ecd70",
    "title": "Trump Discusses Stock Selloff, Defends Nvidia CEO Jensen Huang",
    "summary": "",
@@ -770,6 +780,16 @@
    "date": "2026-11-27T09:46:40Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "9221d50895a20a",
+   "title": "Why A Big Nvidia Stake Can Delay Retirement Years",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcU1RbWVwQTAzQmFHdXBfNU5yMEdjRkFEYnNmRUsybWo5SldSSjRYZHVFN3hBTFhSdGN2RkVNQk9Bb1pPbGUzTktJRkVtblJLUlhURW1qWjIyb0gxc0NMOXZaalMyTHZMSU1GRkFKdVphUTVUVHRiQ3ZJMUthSnJGaEdvT3NTTXNjaVBPQnl6V1Q1dG9hc1Z1Y2NhZ05pamZaZ21nMGlSaGhCdzRaUTFr?oc=5",
+   "source": "Trefis",
+   "date": "2026-11-27T09:46:04Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "b1b327c82b4c02",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T07:33:11Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "e36027bf9181a6",
-   "title": "US Treasury Yields Surpass Bitcoin Futures Yields as BTC Basis Trade Loses Appeal in November 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3pQbEpCVm15aDVfeDZoVEJ5ZFVfWG1VbFlMNDB1eGxXUmlKSGZiMzYwdnhicDBfc0dGa2lpbFFWSWU4eFhHUVpNa3F6bS1TVkt3OGdTZjNjMFhlUkVHcDdZTk5KRXlfRmFUd0tMbUdGeGFXNFNKMDBJX0I3S1lXOGZ5RDF4VHl2Z0hwTWhNZ2w1bDZhRWVvSkdPeUdyMWNsTTdDWm1uQjVzZmVRQXRVR0Q4cHZNS2FqZHo0OFRpS1cwQWlU?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-27T07:29:04Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "ecb2e9f9bd6db7",
-   "title": "How Huang Foundation Gained $2.3 Billion In A Day With Jensen's Nvidia Return",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2R2RFh4UUc5TXd0dkpkaGRtYTdVQk1adElkOEhrZXlqNHcwZFdkcnRUc21WSVJ2RGtPbEtxUXVzTEV1QjNfR2VsdDRLTnZqLXZCRTBDdF92RkxEQjR2RHBOejVITEhoeDZXS3QxdEFSVmpiTkZncjVITWNyaXJGWURqSU1TNWhZdlpDbUtMZXFaUkNBUEowdl92dk9nMC1qaVF1eU1LWEZmZURXQ3FmdjN3ak50NWvSAb8BQVVfeXFMTlBuUHJkUjJLVzl2cmF2cVlpQmNUWFVDZTdqU1Jiek1kbkF4SjBUcVhZaklBUWt4Z29fNlRVdU5BNF9jMmpEYUxSeXJRTFdzZWJiUVc2V0VNSTZWOUdtRENkMm1xMTctYU9MX1A2MFZuZW1EZlhhUW8tcHZpUmJ2cXFPWE9SOWZ6UG1KZVN1UXktNDFvWlMwTHZZcTRSTGpjV2Y5YzJuTlFXaklMd3V0em1Oc2o5emllSTFkaFozMG8?oc=5",
-   "source": "NDTV",
-   "date": "2026-11-27T07:26:59Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }

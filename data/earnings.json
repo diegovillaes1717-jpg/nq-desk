@@ -285,21 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó expectativas pero generó dudas en el mercado. A pesar de los buenos beneficios generales, el Nasdaq ha mostrado cautela ante riesgos regulatorios y de negocio.",
+  "resumen": "Los últimos resultados de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó expectativas y elevó su perspectiva a pesar de la salida de su CEO. El mercado ha reaccionado con cautela general ante las dudas sobre la IA, aunque los valores clave siguen marcando la dirección del Nasdaq.",
   "puntos": [
    {
-    "fecha": "18 nov",
+    "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Resultados sólidos con dudas",
-    "resumen": "Presentó un beneficio por acción de 2.68 superando lo estimado, aunque el mercado reaccionó con cautela ante riesgos de China y cuestiones de sucesión.",
+    "titulo": "Supera expectativas sin Jensen Huang",
+    "resumen": "Presentó un beneficio por acción real de 2.68 frente al 2.47 estimado y elevó su perspectiva, logrando que la acción subiera ligeramente a pesar de la incertidumbre por la salida del CEO.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes corresponden a Adobe y Broadcom el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la evolución de los márgenes tecnológicos, los riesgos en China y las próximas publicaciones de diciembre para la volatilidad del NQ.",
-  "sig": "ea3cff0741d3e4",
-  "generated_at": "2026-11-27T09:39:34Z"
+  "proximos": "Los próximos resultados importantes llegarán con Adobe y Broadcom el 9 dic, seguidos de Costco el 10 dic y Micron el 17 dic.",
+  "que_vigilar": "Vigilar la evolución de la demanda de IA y la guía de ingresos en las próximas presentaciones de semiconductores y software.",
+  "sig": "ae97daa1d9152f",
+  "generated_at": "2026-11-27T12:40:25Z"
  },
  "updated_at": "2026-11-27T09:49:13Z"
 }
