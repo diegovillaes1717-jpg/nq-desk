@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T07:22:02Z",
+ "updated_at": "2026-11-27T07:26:45Z",
  "items": [
   {
    "id": "df4511134c2e1f",
@@ -39,6 +39,16 @@
    "source": "Google News",
    "date": "2026-11-27T07:13:02Z",
    "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "5dbaefbf62e775",
+   "title": "Gold Rebounds 1.9% to $3,633 as Traders Price In a December Fed Hike",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2YXdzU3dic3VrTFg0RjBteW9idGRxY0tnbXlaYmVKZDJ6NWZiMUNEbGw3VEtLcjJ5NUhuRWRVeEdpU3k4NU9EOUIyek1hTTJtQTdKOFZuZ2R0YjROTnRTdl9tck12UjFtSHhiNjk0TUFxbmVhTkE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T07:05:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -382,6 +392,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZ2ZscktJdkd5ekUxc1ZuOFlqMnQ1bF9QVFhqMnFRcF92cFEtU2c4Um45NmdZWEwtUlpZVUxmdDNPdEpuVld5bC1IVFJfWlNmU2pTRURTVldORVppeXhaelIzRFJoSWNGOGdrOQ?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-27T05:00:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "3f14a1fcac1e3b",
    "title": "AI Bubble Bear Market: Tech 20% Off Highs, Nvidia 9x",
    "summary": "",
@@ -700,16 +720,6 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T23:25:00Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlpcjdqQlFLZ203U05XeWdWbmNrUGxuaVhCQ05KNlJuTzBhN1FUeGNJTVJlUE5ocFpHWkdXU1J1Y3lidTF1TFF2WDBaaHdwckdfYVF5YzBsdlJKSmxsRTFwMEdtMWh5Zkc2UlB1d1ZZRHdLMlVXY0FrWmQ3dXlkVG5YUmtDNS1FSk9zampQYkJfWnFRc2o3Y3otQjNJY0xiVjV6Vm91UlVKUzdfRlV2eFBONGc4Y0hnRmFSZ2wwd1dzcGxSSHUzX0lPRmsxZnVPV0ozUQ?oc=5",
-   "source": "WCIV",
-   "date": "2026-11-26T23:15:24Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   }
  ]
 }
