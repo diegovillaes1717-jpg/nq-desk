@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T14:49:17Z",
+ "updated_at": "2026-11-27T14:54:03Z",
  "items": [
+  {
+   "id": "2b2b5a17d5027a",
+   "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+   "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "source": "CNBC",
+   "date": "2026-11-27T14:52:40Z",
+   "score": 3,
+   "category": "Macro"
+  },
   {
    "id": "e7c03c32cc505e",
    "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
@@ -60,6 +70,16 @@
    "date": "2026-11-27T14:34:00Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "9c80145c9fdbf0",
+   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX21OOVBrV0FhM0tWeGRwZE1rbkpsZ2Jyc1pIZlBEa3ItNzRzX3NPMGtLODBEU25JM3RWLTFhYW1KYnkxdFNaTlFYR1JXOG5Ga2ZzblRzNzcwOW5sWXdBN0hKTUlCZ0VhQnJzcDFabU4zS1ZUSURfNjZSd2REOGVZTGhrb0JVaDl2Mi0xcUsyUzFRMERDejF0b2FlNlFpU18tSk1NQndoQ09ReGdXb2plUU55eWRsTTNSdno2UnVKTmxaOXU3bHVtZ09xaGRUMTNiZVZTdU1qSDh2bDFBRjR4QUJrcWxVeUlScHc?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T14:33:41Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "02bf28f9c5ed51",
@@ -702,16 +722,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "9c80145c9fdbf0",
-   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGpYSlZnQmQ3ckVHZ3BOckxIRnRGUVo4dEhLdDA0TXBzMHJsa29CeVRuWlE1ZTg0Zmd3al9BcXR1b19FWXNheXhtbVg4UkZTM191U3RrZXRreVlJX2pxRG9jNnBTMUpxTlQ0OFozaWlpdFIxYXJJTFh1WG0ycUpFZWtXRERPejFwY09NdHM4RVVuemJ0?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T12:16:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "faa1aca1eea69f",
    "title": "Why is NVIDIA stock rallying today? By Investing.com",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Traders Union",
    "date": "2026-11-27T10:55:13Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e0e5da85d4b84a",
-   "title": "U.S. stock market futures rise after a week of volatility in the technology sector",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVZmWXZYa05ORnIxVVlaNkxVZFlhNi1ZN3JQbHp0X3FrM1BUeFVUSVdhTzRfb3E0cHF3YmpMMjZ0YllsR3VwOGp3RThDOG9uaEJKMmZicXJQaDZYRTA4dXNzcWNXSDhHbVpGcWMyTmFWNldPNDRHMW5RQmJ0c0tlb05rVW1MQkN6UjVtbVExUVl3eDdCOWN2cHQ0U0VjVlY3TTJoSlNKRF9zSTNaWGdJbUktT2xIN3pPQldmWnZIX1NXZnBicHZRMkZCMTB6OEYyM01v?oc=5",
-   "source": "المتداول العربي",
-   "date": "2026-11-27T10:54:59Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
