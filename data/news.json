@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T03:43:49Z",
+ "updated_at": "2026-11-27T03:48:34Z",
  "items": [
+  {
+   "id": "dbfef74e1543ba",
+   "title": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnU4cWlNcVQ3V3NzWWpsdnctZWVwbmJRX3Jrd0k1WDJEa1p0eUxhckdQQnpoZWZ6R3E2RjBoU25BdFpDYXhpVDFjMnlUdWpLRDJraGwzQW5TQ19hWHNKMWpWb01TMWNJb1pZMXV5TVBic2FXQndRLUFPbHZTejRyVDJGeVNYYkVFQW1xVEVvczBUZ2lDS3V5aldxYW12dDR1TjJELXBhMFBxVERTdTJhT3lZLWxpSmNjSGNtM1Nnd21yUQ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-27T03:20:28Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3a04c5716ea97c",
    "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
@@ -80,16 +90,6 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -362,16 +362,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -400,16 +390,6 @@
    "date": "2026-11-27T00:10:51Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "e3815709180dc1",
-   "title": "Fed survey shows growth, sticky inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkRmcFQzUmR0RDNxQk81dG1VVEp3NnNORDhsWXk4RlN3Wkxzb1hMU1o3NFZzZzRPYXlTMllvbWZudDJiNkpzVDdBbFd5REhKQklSdTlkT0VFRGIzX2xuS25pZHAtalo5UEs4cXBReFBoMGd3bHJqR3NkT1czeUEyTEpEbHhoa1pTQVU2dU9YTXZXQmNE?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:04:31Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "8db4d72f078e29",
@@ -467,9 +447,19 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEVYWUZ4T0FibmozQVZ3WWo0eTVqWUljYmlLX0pHR1lGMVE5cWJ6QlNpSnV1eFV4WmgzN3M3OE91N0dRVk5WYlRGV3hJVkE5ZVE2bHY2T0Q1Q0RNWFJBWHVfZDJqc2F4TE1QNFhRZHhabkFfMGV3OVlEWHlMTnVHRnVGMWRDSm9Cc0YxOFVBQVNfYUt5c2pjRkwtZUtyUVNmYkUtanlWMjZobTlHRUMydGRwUU5hZnNsbGg3a09fTzFjUm5ydnFQZFhFMFN4bHBy?oc=5",
    "source": "TIKR.com",
-   "date": "2026-11-26T23:48:45Z",
+   "date": "2026-11-26T23:52:45Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "e3815709180dc1",
+   "title": "Fed survey shows growth, sticky inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDF3aV9Xc0daaUxxNDctbVhLUF9uc2JpZ1MyOTBVN0R3ZTRPTEJ1UXVxdlVDVEVOeDlxUVhQbmR0enZpbHJ2b3czQ2dyQmFuR2xDTUZ6WVcwbTc4WmluSmJtb3lOdmhHOFY4LWQ2SzhXVFB0dEJpU0NzN1lnZHBIQmhnMUdjS3cxcUc4ek5OTk9SY0F6MmIzSF9CWFRIOS10Mkhz?oc=5",
+   "source": "The Star",
+   "date": "2026-11-26T23:49:37Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "dbc5d5914bf8f3",
@@ -840,6 +830,16 @@
    "date": "2026-11-26T21:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-26T20:58:43Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "7ddbecf4b2f2d4",
