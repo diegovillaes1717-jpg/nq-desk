@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T12:30:51Z",
+ "updated_at": "2026-11-27T12:35:35Z",
  "items": [
   {
    "id": "ffb89bb62f963e",
@@ -323,55 +323,62 @@
   }
  ],
  "summary": {
-  "resumen": "La Reserva Federal mantiene su enfoque prudente evaluando los riesgos económicos globales y locales, mientras analiza datos recientes de política monetaria y tipos de descuento. Los funcionarios continúan destacando la importancia de la supervisión bancaria y la estabilidad financiera frente a un entorno internacional complejo.",
+  "resumen": "La Reserva Federal mantiene su enfoque prudente evaluando los riesgos globales y la estabilidad financiera sin grandes sorpresas recientes sobre los tipos de interés. Las últimas comunicaciones y actas muestran a los miembros analizando el impacto de los shoks internacionales y la supervisión bancaria.",
   "tono": "Neutral",
-  "tono_explicacion": "Un tono neutral indica que la Fed mantiene sus opciones abiertas según los datos, sin comprometerse con nuevas bajadas o subidas de tipos, lo que deja al NQ a la espera de próximas referencias macroeconómicas.",
+  "tono_explicacion": "un tono neutral significa que no hay señales claras de cambios agresivos en los tipos, lo que deja al NQ pendiente de los datos económicos y empresariales.",
   "puntos": [
    {
     "fecha": "25 nov",
-    "quien": "Michelle Bowman",
+    "quien": "Bowman",
     "titulo": "Modernización de la supervisión bancaria",
-    "resumen": "La vicepresidenta de supervisión señaló en Brasil que los marcos regulatorios deben anticiparse a futuros riesgos y actuar antes de que estos se materialicen.",
+    "resumen": "La vicepresidenta de supervisión destacó la necesidad de que los marcos regulatorios sean previsores para anticipar riesgos futuros en el sistema financiero.",
     "impacto": "Bajo"
    },
    {
     "fecha": "24 nov",
     "quien": "FOMC",
-    "titulo": "Actas de tipos de descuento",
-    "resumen": "Se publicaron las actas de las reuniones sobre las tasas de descuento de octubre para las instituciones depositarias.",
+    "titulo": "Actas de las reuniones de tipos de descuento",
+    "resumen": "Se publicaron los detalles técnicos de las reuniones sobre las tasas de descuento de octubre, un proceso independiente del tipo de los fondos federales.",
     "impacto": "Bajo"
    },
    {
     "fecha": "20 nov",
-    "quien": "Lisa Cook",
-    "titulo": "La economía estadounidense en contexto global",
-    "resumen": "La gobernadora destacó cómo los choques geopolíticos y comerciales globales afectan tanto a las economías extranjeras como a la de EE. UU.",
+    "quien": "Cook",
+    "titulo": "La economía de EE. UU. en el contexto global",
+    "resumen": "Señaló que la Fed debe prestar atención a los acontecimientos geopolíticos y choques internacionales de energía y comercio al evaluar su mandato interno.",
     "impacto": "Medio"
    },
    {
     "fecha": "20 nov",
-    "quien": "Christopher Waller",
+    "quien": "Waller",
     "titulo": "Comentarios en el College Fed Challenge",
-    "resumen": "Recordó la importancia de la claridad en la comunicación de la política monetaria y de evaluar adecuadamente los datos económicos.",
+    "resumen": "Recordó la importancia de la comunicación clara de la política monetaria y cómo la Fed evalúa los datos económicos y financieros para cumplir su mandato dual.",
+    "impacto": "Bajo"
+   },
+   {
+    "fecha": "19 nov",
+    "quien": "Jefferson",
+    "titulo": "Política monetaria ante shocks complejos",
+    "resumen": "Analizó los retos de la política monetaria en un entorno internacional marcado por la persistencia de choques frecuentes y complejos.",
     "impacto": "Medio"
    },
    {
     "fecha": "18 nov",
     "quien": "FOMC",
-    "titulo": "Actas del FOMC",
-    "resumen": "Se publicaron las actas de la reunión del Comité Federal de Mercado Abierto celebrada a finales de octubre.",
+    "titulo": "Actas de la reunión del FOMC",
+    "resumen": "Se publicaron las actas de la reunión oficial de finales de octubre, ofreciendo la perspectiva interna de los gobernadores sobre la economía.",
     "impacto": "Alto"
    },
    {
-    "fecha": "12 nov",
-    "quien": "FOMC",
-    "titulo": "Calendario de reuniones para 2027",
-    "resumen": "La Reserva Federal anunció el calendario provisional revisado para las reuniones del FOMC del próximo año.",
+    "fecha": "17 nov",
+    "quien": "Waller",
+    "titulo": "Pagos y mercados tokenizados",
+    "resumen": "Abordó consideraciones técnicas sobre la intersección de los pagos modernos y la tecnología en los mercados financieros.",
     "impacto": "Bajo"
    }
   ],
-  "que_vigilar": "Próxima decisión de tipos de la Fed programada para el miércoles 9 a las 20:00.",
+  "que_vigilar": "Próxima decisión de tipos de la Fed programada para el miércoles 9.",
   "sig": "5a62876453179b",
-  "generated_at": "2026-11-26T12:34:36Z"
+  "generated_at": "2026-11-27T12:35:38Z"
  }
 }
