@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-27T10:36:43Z",
+ "updated_at": "2026-11-27T10:41:28Z",
  "items": [
+  {
+   "id": "34d12b8e2800d7",
+   "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-27T10:39:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
+   "id": "1c42b326d989a8",
+   "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
+   "summary": "Strategist Darius Dale’s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for risk-",
+   "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T10:37:00Z",
+   "score": 9.0,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "c119c1e98f6cb2",
+   "title": "Mohamed El-Erian Says Nvidia Is “Too Big to Wobble.” Its Customers’ Data Center Plans Aren’t",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalpjNkJnU0xQMHU3Rm91VjM4czZkMVNpN25UNVVlQU05WFg5MWdOTlVqYkFOY3Q5V0JoWVBzTzJiOE8yd1lzYU9zTElOdWIxRWxsMkxXYXNfTHB6TFNmcDl3LXlRVlprZkNsTko0TDVtQjJDakpFazNwekZ2YVpUMkpIeGdzcWIxY2YzbzdpcERvSzJMcWNzQzZXTEpraWlpYUw0cFl0TTJkQ0MxUklTc2VEc0tzTXBKWEJfRU5LTmNxeE8zaV9kQzN1ZkV6N3JvZlZJZTRyTXRaRDd3andtUGdVYWdVck1IUFE?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-27T10:33:03Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "568b70baed6b58",
    "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
@@ -95,9 +125,9 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T10:06:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -200,6 +230,16 @@
    "date": "2026-11-27T09:54:33Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "663adfa9f509b2",
+   "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T09:49:00Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "3db91e4694da3c",
@@ -512,16 +552,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "663adfa9f509b2",
-   "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T07:36:21Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "87eba05ac0ddb7",
    "title": "Jensen Huang Returns With Reform Pledge but Rejects Succession Plan as NVIDIA Governance Storm Reaches Boardroom and Credit Ratings",
    "summary": "",
@@ -682,16 +712,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "db21534d43ac5e",
-   "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnFhcTBLakYyT0YzbHN3NS1ZU2JqbDZNR2lKeERxLWhmYWk3dmxFd3A5bUdNQzktNlJKeEZ3RWJiU0w2SnpENkxuUU03N2FWYXZGU0w5aUJvZEpPNTRhLWQtc3JLSmtjOE8yQk5BakcxaENQdDhxVUpPa0hoU2lJQ1VaM0FITjIybHFYQUhoNF80LW92YU5Dem5ZUXdjR2QyQnlZMU5SMENJTV9sUXh5Zk930gG3AUFVX3lxTFB5NHIzWkZDbnRTemUxV05mel9FVllkS2hYRkU3amdXLUk5LTQ5VVVhSVpuR2QyV2pQZmpWaWJPQ3NmN1JQdHRhbVd1M1hJV0w0OU5sMmVKRWwwSzRBYk5xa3JHQjEtdFFDNlVkc3NyOUJVdTB0SS1YUUJHb2dpQUJrY3Q3Zy1FREdXYnJoUkRQR19WWkNMQjdNMGNrOUNnbmtwLUV2ek1fNHh4d3RvcWpSdHdPOFplOA?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-27T07:00:44Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "01bfb2e4a96a33",
    "title": "Nvidia’s 31% surge, US tariffs on China: 5 figures on investors’ radar this week",
    "summary": "",
@@ -699,6 +719,16 @@
    "source": "South China Morning Post",
    "date": "2026-11-27T07:00:13Z",
    "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "db21534d43ac5e",
+   "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObTlBTTUwV3ViRExoczFLRFFwM0xvc1FlU2g2ME5mVWFQUjBIR1hSZ01QMkRsV1pnMF9CV0Q4ak1aR201SzZfWXEyQ1pLeWxUMGlnc0RldlNlX1JESUdmc095WnFtVWhKSHJ6eE0ybVZpc2tYZko4bmxnR2pfZVE4VTlSdFFBemVSUXZTNm9VcDVmM3p6SXBVY0lHSUhNekV6OHJTSnlQdFFMX3pPb1FCY05YcnJLLU5OVFMzSFlINGpDakFEdXpoNXN6cFRqckZqenBGTUgxc25IM0cxNTJj?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T06:59:00Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -857,7 +887,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBjcFczUEdNdkpXUFJHYldpUUpSMlpNM2IwTG9oRS1WNDg5SDZsa3VqT3NLT0tLdkdhdjIyOFRMNzBMMFJQTTYwbVAtWGNWQy1BS1ZtRW5Rdm5fSDJLaUdlTWNRSEd1VE1UOUE3WkRlWk5kRGFjM0ZHMWdaOVNZNmgwcGVUbnltM2ZUbVlOX3g5SmVrSG1UZmR1UTh0WTVIRmpDdG9BVHpFcmN5enYxcU90d3BacE1oS0w0RF93YVQyYWVWNmc?oc=5",
    "source": "TradingView",
-   "date": "2026-11-27T06:25:00Z",
+   "date": "2026-11-27T06:25:35Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T04:35:00Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "bc0b462690bd28",
-   "title": "Trump says Huang is excited about his 'second term' at Nvidia (NVDA:NASDAQ)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkZtTnozZk54bWk3aGktOHJicl9GVm1JcF85X21kNVVNOHVIcUJHc0I4X1hqTGR6MlBYR0NUVUkzZTBfdEtkc2dRY3BpTHIxY2plZ1pzQTg5NEZJcUtOazEtUzFlaG5rUV9FdjhUZXJtSjNPbDlWOEJwS1hKUjIyR1QwcllKM1hiRFE2M3N1Ry1rRjhuazg2UFc1alNHdw?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T04:32:25Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d21c66045af4e4",
-   "title": "The Part of Inflation Cheaper Oil Cannot Reach",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80eFpISlY1alZhajFzT1Y4cmIxalNCam1SMHhpcUlFdWVzei1PMW1jSmJfVnNqTk9qMW05VUg0LVJPelpkUlNfQ015TXYtN01KQTdTbENTOWo4MGt6SVZRYTBZNjc0ZGNnWUtNS25sLUJhVWxHQ1lZNHNnX3E?oc=5",
-   "source": "IndraStra Global",
-   "date": "2026-11-27T04:32:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "02396548f76417",
-   "title": "Fed faces fresh rate hike as inflation and US growth defy expectations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQms1Ri1tNEd6TVJiSVd1ZTdtQ2xIejNYMl9CNV9EXzA0aldiVFRiSkcwb2lsbUMyZ3NlXzZ3b0tEN1NCVkVQVjRqdGM5c1JlSk1Jblhqaw?oc=5",
-   "source": "AzerNews",
-   "date": "2026-11-27T04:30:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
