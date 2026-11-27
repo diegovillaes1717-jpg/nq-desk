@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T17:13:04Z",
+ "updated_at": "2026-11-27T17:17:48Z",
  "items": [
   {
    "id": "3aebda002b6b14",
@@ -332,6 +332,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "6b779279e442fa",
+   "title": "Dan Ives Calls Nvidia's China Risk 'Containable', While Gene Munster Says AI Trade Is In The 'Penalty Box'",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWp6TV9aZEdLNjdzZ2ttQkVvaHpkQjhQTlRxa19oeWJGSy1WUWMtbkVyNjJOaXAybVM3UDRiM09EQWtsWWIwdUQyelBVTmRMNDdMMmQ2Q1gzWGdGaDNheFRBOC1vMnk2eHd3eEh6REFCcUFTYktLZ3F5UTJUcUtiWFd0ZGdKVGxhUTJyZ2hDOF9BX20tWnNTVUVlU1hLRHpjaVpGaWc4QUpfdHphY290cmVMb0ZFTVE4b2NsU0JrNzM2c2ZzV3NMY05NRTFOXzQ5dktmREJ2WlV4NlVSaVViYnZPUUZ3cVJneXBJVWYzUjVXN2tk?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T15:32:23Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "0c5bf4f6461f93",
    "title": "Why Is Microsoft (MSFT) Down 7.6% Since Last Earnings Report?",
    "summary": "",
@@ -349,16 +359,6 @@
    "source": "Barchart.com",
    "date": "2026-11-27T15:30:03Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -389,6 +389,16 @@
    "source": "TradingView",
    "date": "2026-11-27T15:25:19Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -579,16 +589,6 @@
    "source": "Benzinga",
    "date": "2026-11-27T15:00:27Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:00:00Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1002,6 +1002,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T13:36:06Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5753b7cd6f6b30",
    "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
    "summary": "",
@@ -1185,21 +1195,11 @@
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXVVTmRRcnBKckV2Ym1LZS1ENk5hWDVLYzVVWGNVR1h4b0hLRk5EVGdZb0RULThYdmFnSmVXZmg3Vk9jX3A4MWtrbEJvTFNMRlpqZ3poa0Y3RDB2MUxKTVg5emxPWlctSWY1cjFMU2NWVnZtTTNmbFUtMkszMWVxdkhjNEdocDhLRXNLeDVFbHp2aG9EVFFUZnJDRmljMXZNZmowQXduanFkdw?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm1jbHptd1FfbHNzeE5QRWQ5a3pfWVBjbE5YU2dmUkVQUDBwYUx2UkJxRzVyeUU2X0laZHk2QUh4UVFma3FNc0swbWFTd1NmRjJBZFN3NHczWG9BSC1CdjVBd3I4Y0NwME1qeUlaZkZKTGhLdU4xampXLTFqNmlGSHBMcXFhV1dLY2hIVTZuX3NYbjZSWWJHREdNUlpyUjlN?oc=5",
+   "source": "Benzinga",
    "date": "2026-11-27T12:55:46Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "a79ce6d6e1525b",
-   "title": "Fed likely to raise rates by 25 bps in December amid inflation concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3FSYXo4aFJQeHZSd1EzeVA1ZnVpUWNLY3RibXIwb1d1RUl1Q1lBTEsyY0pTcHpGbkl0c2piX3lSbnBFaWF4aWhhSGoxSEsxSEsyVlFjb0NZQ0NMZ1RRV1RPTG5ZUjNDX2dUeVpPRlpZbGZsQXVvNkpDZzdPeEwzZ1hFNV9ITkFJbkxUS09zdXlQb3VWQ29zRGZoWkM2aDdTOGpZMXhVRQ?oc=5",
-   "source": "KuCoin",
-   "date": "2026-11-27T12:53:07Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
