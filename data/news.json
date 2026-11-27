@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T00:56:51Z",
+ "updated_at": "2026-11-27T01:01:37Z",
  "items": [
+  {
+   "id": "d10b35eb89f238",
+   "title": "Michael Burry Sells Nasdaq-100 Puts, Shifts Portfolio Toward Long Bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUFVRUUZHc3dQRW9TYlZPM1hkTm1obVNQMXdJWlpyRjdQWkFraGtyQURxc3gxSHZ2Wlh6Ui0tcHJtemEtNURoZ2s0T1hDOG12ZEZ4cHZFMkJpWnJRR181WWJ5cFdVa1pfYkhqMG9QWDM4RW5D?oc=5",
+   "source": "Businesskorea",
+   "date": "2026-11-27T00:52:45Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "894338109dc143",
    "title": "Stocks climb as traders shrug off latest US tariff salvo",
@@ -25,8 +35,8 @@
    "id": "eaa32e2a5acf0c",
    "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczZ0cmVSU1VqUjVOX0RFWnV4NjBlaktKeThGckdZVVduZXRyNm9TazlMc19SNzNUS1ZoVk9Sbk00RWR1eHhLbWNtLTVJd3RWOUhwR2haRVRmMGdoQXM3cDc5QW9yVk56empwNmx2Y2IwUFI3cTN2NEt0TU40c085Sl9qcWlZQXpQ?oc=5",
-   "source": "Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+   "source": "Reuters",
    "date": "2026-11-27T00:25:00Z",
    "score": 3,
    "category": "Mercado"
@@ -62,16 +72,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "bc557b37adabe2",
-   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNMSFZ0MzlfT2lhZFhGVW1yZFI1bzFFd0MxS0NRTDRGLUJnVzQzT3Q1T0YzNU1GVndzbDdkbVMzNG9LZGF3dDlNV2FFcHk4TXVadmhxQTUyZ1o1eUh4M2N6Um1NMjJjd29pMHBaWnktMEZVRjFQWmVZM2ZERVVjQ1NWU01RZWswbUdoVW9INUZpVGdQWnczLUw0NXQ1S0tpTW9RTTBhTUpwYllzb2M0Z1k4bldibUd3Mzdlc010M1k?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T23:59:08Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c44aa220a1cccd",
    "title": "Gold declines to near $3,550 amid hawkish Fed expectations | FXStreet",
    "summary": "",
@@ -100,6 +100,26 @@
    "date": "2026-11-26T23:49:37Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "bc557b37adabe2",
+   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWl6WDgzM0tfbzV6bDlPc0dfd3hpbUtHa3pQSDRHeGFIa0JySjNXaEF0V2NTanlDYktkaTV0dHdEdmhqOWtYSk5vMHZSNU8zRTVLN2w3RnY3OXVmRXFHMkpqTnExblo2ekNGMzNLSU9nM3R3M1g2SHFJVGM1aWFSaUdRS2xCUVVncjlTczVmeVk2bE9jRm1faFBseG11ejBhZmc?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T23:37:16Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "dbc5d5914bf8f3",
+   "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9ubWdGUjBmak13V3l2TElCRzVpZzZDRUJTeGF3dm9tZmdfLUpld3R1d3VYV3Jxb1VyVG1UVXNfNHhRWHd4NVF2Q3ZuVGpzS0FmZ3dhUjlUNWhQVzlLOF9nU25TMzYtZ0xoTFJzR3RHbDlJN2JRWnRiYmZzLS11a0EyX3h5dnVMWlZXYm9BV28yVUVEcjdNMFM2YVQ0YTNsZkE?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T23:36:38Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "e16433f737c914",
@@ -722,16 +742,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e7d604cd8d5229",
-   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-26T18:16:37Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -912,6 +922,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T17:35:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -987,18 +1007,8 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkYlFhdDJJbEpZV2lMYW9HQUs2QmhwNlFESkRDZkpudE5DT1UzWHBZemhNT3BSWHlhUmFRUE5kaWVlYkh4X1lnUm5vMk96OTVnZjdHd1ZDMy1NX1dIcWw2MV9ZeFc2a2puNzVaVVpn?oc=5",
    "source": "Proactive financial news",
-   "date": "2026-11-26T17:16:12Z",
+   "date": "2026-11-26T17:16:41Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T17:15:02Z",
-   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1189,16 +1199,6 @@
    "source": "Benzinga",
    "date": "2026-11-26T16:30:06Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fb46471f8f8e68",
-   "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHU2RFNjQk1ablhVU1NGdWZxNUItMGxNMURqb2tpSFpNQ2FfejBXa2c4V0U1bnFmZzQyTTc4d1NudlF5WG4wRnhBTm5fZjI0UjRxcDd6NG9wZ1NIUl9HQmpzTG5NUmF2akQwbmpjaXRVdXlweURNbmFrUUNkczVzVkl6S2xZX1NjZzlLOUVURFhISDRCd3pQRFFn?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T16:30:03Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
