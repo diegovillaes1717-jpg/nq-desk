@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T11:38:28Z",
+ "updated_at": "2026-11-27T11:43:14Z",
  "items": [
   {
    "id": "b3eeb9267d11a1",
@@ -182,6 +182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "2f008829c8b0ac",
+   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T10:32:18Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "568b70baed6b58",
    "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
    "summary": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan’s European quant team.",
@@ -219,6 +229,16 @@
    "source": "NDTV Profit",
    "date": "2026-11-27T10:28:31Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "45009a3c0285de",
+   "title": "Nasdaq 100 forecast: Markets turn jittery as Anthropic debuts at 34% above IPO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNHk4b0JyaEVmckw3MnJTUTAzYktJX3FrMTFRdngyaWJiRnFYcGFLaDU5OXNpZkJoR3hrQUg0NmVQVWNFckJoc0J4aHBwcjg4dDQ5Z0pEUndlNXhQQjU2cHVxZE5NWXdpY0JvSXJwbk9Ta09tZWw3bkRlNmdwamN2ZUhWbHlPeXptNUVRN1A1SElIRE5BSUtSYi14c2Qzbm5ndGd4YldBMjlxUTJvWnRZMW1zekhWSVAxblJoTm96d3hLOUtx?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-27T10:26:15Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -322,16 +342,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "21593f3e2c1e0e",
    "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
    "summary": "",
@@ -339,6 +349,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -350,6 +370,16 @@
    "date": "2026-11-27T10:04:27Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "7feccbe29a727e",
+   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
+   "source": "StockStory",
+   "date": "2026-11-27T10:02:04Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "efc12be45ecd70",
@@ -540,16 +570,6 @@
    "date": "2026-11-27T09:29:54Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "67de4cf87cec24",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
-   "source": "Yahoo Finance Australia",
-   "date": "2026-11-27T09:27:21Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "91886cbd3ef487",
@@ -1157,7 +1177,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBjcFczUEdNdkpXUFJHYldpUUpSMlpNM2IwTG9oRS1WNDg5SDZsa3VqT3NLT0tLdkdhdjIyOFRMNzBMMFJQTTYwbVAtWGNWQy1BS1ZtRW5Rdm5fSDJLaUdlTWNRSEd1VE1UOUE3WkRlWk5kRGFjM0ZHMWdaOVNZNmgwcGVUbnltM2ZUbVlOX3g5SmVrSG1UZmR1UTh0WTVIRmpDdG9BVHpFcmN5enYxcU90d3BacE1oS0w0RF93YVQyYWVWNmc?oc=5",
    "source": "TradingView",
-   "date": "2026-11-27T06:25:00Z",
+   "date": "2026-11-27T06:25:35Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T06:09:51Z",
    "score": 6.0,
    "category": "Macro"
-  },
-  {
-   "id": "363ee8d566b225",
-   "title": "The Nvidia Scandal Exposes a Bigger Failure",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVVhX1RLVGl0MGZ0bXYwbFVXRkZBVzZYT2YyNDJMd2FxZHhjVjBkRmVwbFFSTThEbWZnREpPdVd3NExTWERFTldPOEttRGw5WHlZZW8ydHlvMTV3eFg2djRPT1lodHhvS21tejUtNUthTDNndGplTWFIRHFmenB4SEV4Y0VxM1U0TFVr?oc=5",
-   "source": "The Dispatch",
-   "date": "2026-11-27T06:09:06Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8db4d72f078e29",
-   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-27T06:03:54Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
