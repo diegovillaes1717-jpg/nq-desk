@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-27T16:05:56Z",
+ "updated_at": "2026-11-27T16:10:40Z",
  "items": [
   {
    "id": "bfeebe3ce864cb",
-   "title": "Jensen Huang's return to Nvidia may herald 'Age of Resentment,' Steve Hanke says",
+   "title": "Jensen Huang's return to Nvidia may herald 'age of resentment,' Steve Hanke says",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGpCLVpoQ2RnUWFwZUE4dWVmM240U2pCZ1l0WUZ5Z05tcVhhUXBvcEprMGQtUTR5YmR3VTdlYmhtZ19QOW11N1V0WndfQjhsVGZhYUl6Y0puYUFZNEtBS0MzSzFyWFB6NkJIeVFBY1paUVFHOG9LOVVtckVvU3VETHgwc1c1YTdRODZ4cGxZMU1Va2RKZGZFcHM2Wm84Q1dPNlBQYTNMUHQ?oc=5",
    "source": "Business Insider",
@@ -29,6 +29,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T16:00:13Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "4e7dc74af3c847",
+   "title": "Why Is Silver Up Today? Futures Jump 9.5% to $43.84 as Precious Metals Rebound After Selloff",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2xwVVVCdjNOcGxyYy1nUUpDQ0Z1MncxM2pqOVNKc09XVVNEdUhJal81UW5zdXd6Y0pDV2RaVHdEUnBVZmtEVlRvclUwUWVJaDZPTzV6Tml3SlcxV3pNbnRYb1lJYXFKQ1BNSWtXNEo3NUpoMGtialVSU2NoMFBKT2VVS3F3dFU5SWVHV0lYRUVHTGJORHJRQlZwTzVIdUFRT1E3cklLMk1fZldiTzk4?oc=5",
+   "source": "Around Prague",
+   "date": "2026-11-27T15:54:01Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -310,6 +320,16 @@
    "date": "2026-11-27T15:02:35Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5ede9945760456",
+   "title": "TREASURIES-Yields rise as tech stocks extend rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRENVYW1yOXRycGVMdGpMSG10TmtKOHE5eERTZU1EdWFuTUJRZU42Z2VTOThPRlVENmpzU1lpRnBFaWttUEFDVjN0WTlQdFdLRjZzNHRBNXNmcHV5OHFSZ25HdVN1b000bzk2SmpnMV8wRUdSdlRxbDlXQXEzWFl3RUh4V1BQUmkwNE9tdkNabDNmdC1KTHhGNUw3NS1XQWJla0pabGpKZVA?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-27T15:01:36Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "42b50d8496c8b8",
@@ -782,16 +802,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMTZlRmh0c2FvbThoeU5xbTdhM0lYbGhIVG5UcU9tcmlndDRpbHlEdkRocERnOUFRZDhiXzJSZzVxNTEzRlRzOW5ocUh6VEFTMURlVE5aa092bjZ1V1VqTW5DcGJfQk9fUnhQQ082b2VLU25BSUU2SXphNEVRbFMtQV9kMGw0Nm1nSFNUUE9id3ZBRjh1VzNUbFI3SkJpSC1IcFhMSThQa1I0bDhISWZKM0YxTkowQ1ZNaC1PRXlkakc1d2VDTnRTTFNaS2dLelpRQ2swWjBnV2dWaVE?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:31:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "c3a9af55a5c358",
    "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
    "summary": "",
@@ -820,6 +830,16 @@
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXRBYXZ1Ykx3UVlReVhYRng2dDR4MVFZRlpJc0lyS05kWnFiMGsydmg1MmxIWlBsZUk4eE5qNXJVd3Z6M3RhSGJRdUNzQVpDTDFuWTI3SlktZWgzVjNEbWRyR1UyRC04UG9JcEJvbjhHTVl6R0N2MHM3S3RUcW4tNkx6Uno5OWdsOGVaWjJpR2x1bjNXMjg3VzlEZmNQYmt0MEFQc1VhdEgybXAxVTFCWVFoUXJsQUhnNVFXV05OaUJxN1BzdTBrMDYzT1RacEdER09kYmwxU2NsZUtv?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:25:26Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "310e13bc87dc2b",
@@ -1178,26 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUZzdkFULXNudy10WndCWXlCaG5tV29hbE45XzQ3UXJnZndLeG9kN0ZURWFKcURLTl8tNGhJMHBPbUtYczZsWUdNQ2JHX1VvYkVMdEtHdFI3TW9FMmNDU2VvV29ZTUVuSXhDVzNIYlRLUExraTVZSTZWUTlaVm9zTjBvTmFOdjBYMHJQMDZpYnNaZFBncF80?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-27T12:22:03Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "528ee615e0a1e6",
-   "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
-   "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
-   "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-27T12:22:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "5e0d1bb2d2f273",
-   "title": "Making Elliott Wave Sense of Nvidia’s November In Hell",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hVVJRTE91bldfU19sbFc0WE81eDZGQlpsZWc2dFlGeWxUa2luWlBqUFJudjIyckt6V2p5RXpSWThjNGliWUFOMXY1SnBmSjMxR1l5WlEyTkdIcDc0MkhSaEYweXRRcUZsbkI2VnRfcjVfWUxvRHlNb1NsYlBwUQ?oc=5",
-   "source": "EWM Interactive",
-   "date": "2026-11-27T12:20:34Z",
    "score": 3,
    "category": "Tecnológicas"
   }
