@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T13:27:53Z",
+ "updated_at": "2026-11-27T13:32:39Z",
  "items": [
+  {
+   "id": "1e70952c593dd2",
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "source": "CNBC",
+   "date": "2026-11-27T13:29:43Z",
+   "score": 5.0,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXRBYXZ1Ykx3UVlReVhYRng2dDR4MVFZRlpJc0lyS05kWnFiMGsydmg1MmxIWlBsZUk4eE5qNXJVd3Z6M3RhSGJRdUNzQVpDTDFuWTI3SlktZWgzVjNEbWRyR1UyRC04UG9JcEJvbjhHTVl6R0N2MHM3S3RUcW4tNkx6Uno5OWdsOGVaWjJpR2x1bjNXMjg3VzlEZmNQYmt0MEFQc1VhdEgybXAxVTFCWVFoUXJsQUhnNVFXV05OaUJxN1BzdTBrMDYzT1RacEdER09kYmwxU2NsZUtv?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:25:26Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "e84284097d3f2c",
    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
@@ -87,7 +107,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
    "source": "Al Jazeera",
-   "date": "2026-11-27T12:56:54Z",
+   "date": "2026-11-27T12:56:15Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
   },
@@ -562,6 +582,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "e3baebe7545c58",
+   "title": "S&P 500 Futures Rise Nearly 2% as AI Sell-Off Stabilizes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UGNaWms0eTVXZDdjUGRaUXVHcC15MGxiTmdxcWJSdjBscDg4ZGlUdDk4Wk5MQ3RJSUU2aUVROTNPWVhDdXZBeS1CWTIzdVRhRHl0b2RZOXhwUQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T11:25:47Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7e7c59e3f734c1",
    "title": "Marvell Faces Critical Earnings Test Amid AI Chip Market Turmoil",
    "summary": "",
@@ -1002,16 +1032,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "21593f3e2c1e0e",
    "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
    "summary": "",
@@ -1019,6 +1039,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -1169,36 +1199,6 @@
    "source": "bsinews.id",
    "date": "2026-11-27T09:39:55Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0cafa478b4678d",
-   "title": "Nvidia Turmoil Tests AI’s Circular Funding Loop",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGIyUWM0eTY5cjc4Y3pBcnowdDNsTV9mVTBpQ1FkMDFRMjFkTXRidXRpX1NlcVFzbUF1aklPaENxR3lycXRPekc0cW56MnF1b3JqYl9Vb1EzeS1oMElxb0MyYXRsLTM3cGYybGJCRk5tNVdxY1d2aXZMV1VZLVNjbUJXSHQ4dDVlWUZBRVpncWMxci1L?oc=5",
-   "source": "Morningstar",
-   "date": "2026-11-27T09:38:03Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0b2e30e511424b",
-   "title": "Is the U.S. stock market crash the Federal Reserve’s fault? Former Goldman Sachs strategist urges prompt dovish signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUpmUGREQTVQaXREVVg1SE9TaHZ2STg5dTNtNkJwNmxtT3Bac2plLURmanNVMTNoUWV3WWg1bDNRYk1zZnJxVWVzTmYzOWJHd1lub0xMRVNMSjFnTENkQlZTdEF5bFBIQlJmU0ZqZ2pDNEFhc2xuLW1SOUFVZU1uRmlncUFnZ2E0dVhkc0o2ZmN0bzcxRFZhUQ?oc=5",
-   "source": "富途牛牛",
-   "date": "2026-11-27T09:35:17Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "338e67dbfaa1bb",
-   "title": "Stock Futures Jump as AI Trade Set for Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0hzcmlIem9tcHVGU25zUE1LcVowbGZnWjA4NXgzVkt3Z1hUSDdYR0tUazluNXpjQlA0V3dPX1ZabGdBZ0xRTTBRbE5SUHd2TS1rQW8yTk55U3RCeloxdk1HeXdNMnBVeG5pV2xBTFZOTm9zcEFEdUNuVjNCOENYU29sYkRjc1psS3FFeGlIbEZIbmtQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T09:34:00Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
