@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T14:06:21Z",
+ "updated_at": "2026-11-27T14:11:11Z",
  "items": [
+  {
+   "id": "f178d3741a0ca5",
+   "title": "Nasdaq-100 drops 16.5% from record; QLD ETF fav...",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdThYRGdERDN3dE02MzlnTlBqZ1NqT1EzYmc5NEF1aW81MVI2MFdxMmhTT284QWtmNUZPblZrWTRGNDQ5WXlELTNicUxhRXl4VHJCT2NxbnI5M2pCU29QdGs1cGMzLVRMd3N5VVliYzlSeGNDWVNVSllfNVRQcXAteEEtOV9EbVk?oc=5",
+   "source": "Pluang",
+   "date": "2026-11-27T14:07:30Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "45350f6fc2166e",
+   "title": "Nasdaq Plunges 4% Intraday Before Dip Buyers Rescue Markets From Steeper Losses",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXZBUzBDZGZoMWxVMjhFVkRTWjZjRGNCQ2l2Q3NLWkVDSWRLVnJkUWZvRExNbXVLZGk0Tmx6aDVkRkhuc24wRkhsUEgyUktDaXotVWFvN1NWWkVrTy03aU1BWFAzb3hiZEJaaW5vX0lHZHZWV084QndUR1BDd0p2LTZxWmdSZTRYekhqZ0I4VU54VkdpRW1SN0lna201NzJZeUpqV0xzQWZpTllOYksyQVd6TkZyZENkTVhEMHhXODc2QTNHc3c?oc=5",
+   "source": "www.foreignpolicyjournal.com",
+   "date": "2026-11-27T14:05:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "55ca8753fd5003",
    "title": "The Decline in Nvidia Stock Was Equal to 8% of the U.S. GDP. How Vital Is NVDA to the U.S. Economy?",
@@ -22,6 +42,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "31ef000f5b851c",
+   "title": "NVDL Vs. NVDX: Choosing The Better Leveraged Nvidia Bet (NASDAQ:NVDL)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3Z5V2JsTG5waVFUTHJGOFBsSkQ2cHhSdXhWaGlIcUtYR19yU0IxaG9sUHp4WW1qazN2X0FrOHUxckVCNW9ReHBjNXBCbFhmS0YtWVdFVWVXMWUxUmo5ZWdfdDZ2VjB2U0RYN1VsczBRRm9uYTdHbF9lVmp0N1J3V282TDAzUG1wbVNUSjcxYzdDcVR3WUlGT0d6VEVVeXhSTHo4eE5uODdsSDd1N2FJWUppdw?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T13:55:39Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "508a39040e316d",
    "title": "Nvidia, ANT, Uber and MU Draw Focus as Index Futures Surge",
    "summary": "",
@@ -38,6 +68,26 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVpfd1V4N0g2eDA2a21CX2R4Nk1lbW1BUHZ4YXpuX2N5THZwUjBkcndEektIZjgyeU1MOVJ5VTdVLUxRalB2XzY3V0ZUbm1sX1ozVk1aQkJHdVlYd0tMQkFEQmFQejlYRjZ5dFRyQUdxV2ZZRl93TTZpRS1NX3VLb183VVp4MU40ZmkzUV9QdXFMTVFQSVE?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-27T13:47:30Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "338e67dbfaa1bb",
+   "title": "Stock Futures Jump as AI Trade Set for Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0hzcmlIem9tcHVGU25zUE1LcVowbGZnWjA4NXgzVkt3Z1hUSDdYR0tUazluNXpjQlA0V3dPX1ZabGdBZ0xRTTBRbE5SUHd2TS1rQW8yTk55U3RCeloxdk1HeXdNMnBVeG5pV2xBTFZOTm9zcEFEdUNuVjNCOENYU29sYkRjc1psS3FFeGlIbEZIbmtQ?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T13:46:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:41:56Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -90,16 +140,6 @@
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWpkelZfMmV1eURmX1o0YTY4aTBJTkZuTzY3Z25YVHdjcldhbTAtbzM3eGUxYjZHdnNMTDJBM2VTNUhOczZ2dnZXa3FYbUZYMTZWM3lmemwtQ3g1TmNaY01DcWtKdl84ejVrUFJPdUp4R05OSEMtZ1hGWnlDUExnT3l2VVRLdzVLek8yX3JFWnRDSDRqZzlwS1FRU3BSUG9uOFliX0E5Z0hOSnNBel83THZuOGU3Uy1SNnNyYXpkcmxISkpnd041WUxNRmdWOWh0QnNBYnZral9wZw?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:27:31Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "310e13bc87dc2b",
@@ -269,6 +309,16 @@
    "source": "FXStreet",
    "date": "2026-11-27T12:47:57Z",
    "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T12:46:20Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -462,6 +512,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
+   "source": "TIKR.com",
+   "date": "2026-11-27T12:12:09Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "513a219cc0d9c3",
    "title": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff",
    "summary": "",
@@ -620,16 +680,6 @@
    "date": "2026-11-27T11:53:00Z",
    "score": 4,
    "category": "Mercado"
-  },
-  {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T11:50:33Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T10:10:59Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "84f5ea6074307f",
-   "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist: Dow Jones, S&P, Nasdaq, Wall Street",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelJBLXJMUUxjb3hFbThZOGxtNEJHU3pnRzNSVTBqUXhmNjd4MUJleWZmQS1aOU1oSVlqWWo0MlFnMHhrN3hWd2hUdDZFMWxlNldkM2NyNHk5dVVmTDBKLTZOdXRWa1Fmc0VxT1JKaTkxQlRSaE1RYjhuRThKbEVlUlNkbTVJdlBOdV8wZmt4ampKWFpG?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T10:08:39Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "36330a00b3296c",
-   "title": "Wall Street Futures Climb as Technology Stocks Rebound While AI Export Controls and Middle East Tensions Remain in Focus: Dow Jones, S&P, Nasdaq",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzV1YmtZLVNVengxc08wWmh1TG03WWxfMGtqMXMwX1FPWmplTDFjWVFxTlhTb1NjZWliVG1SRHQ1REp3dDBPdU1HSXBZY0EtREQ5TW9kSjlmUnJXQ09yc18tcnR4ME9wSVh3TjFodEVHT3VKWnF4bDZpMDZhWGlKRnFSV2RUSzhic0loTGVB?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-27T10:08:27Z",
-   "score": 16,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "984ebaa171d6c8",
-   "title": "Nasdaq BRIC Consumer Discretion (^NQBRIC40LMN) Seasonal returns chart",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpaWFkcTZvN0NrZ1dzM0pmNEoxM3NWRFNERDVTbjNKODh1aFFkWVlwbVhydmtiRnVZX3VFSGNrRGhCdy1rbG91NjNIMklLXzNPN3AzS2FrTUVHbWh1c3FmQ0h1WnZwdHVVaFMxSWpZSQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-27T10:06:49Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "e47de9a42c9520",
-   "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
-   "source": "Knoxville News Sentinel",
-   "date": "2026-11-27T10:06:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
