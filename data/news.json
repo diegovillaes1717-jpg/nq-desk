@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-11-27T17:08:20Z",
+ "updated_at": "2026-11-27T17:13:04Z",
  "items": [
   {
-   "id": "cfc604fa799781",
-   "title": "Warren Pies says recent market sell-off not because of AI",
+   "id": "3aebda002b6b14",
+   "title": "U.S. Dollar Gains Ground Amid Rising Treasury Yields: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXhlWlN1Z241bXN0V2tUdE1NdlZSUEFtRFlLUWxRcXk5eUlPM01YUUdMOF91MGhIN0lkRTJTTjBBdVRxN3dZdVlPWHpvNnFwVFNkM0VuZnB6VzB1QVAyNEdtVVV4aW9BV25OWFd4eUx0SFUyMDJTS21URl9CdHBFWlpSS0w1amZxamdCMU0xUHM3SWpmQ3h5SGp5R3k?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T17:06:14Z",
-   "score": 5,
-   "category": "Tecnológicas"
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkFkUGhqUTRReFFqcE1hd1dsdTd1cVltSlJhd2tmT29VSzRxTGR0cGs2YXFRRDZudUtnSGFFamQzSjE4bmZ1R2ktbXJIQl93aEtpTzVQd1NfRzRyUS16UFBZSFdCNDFENnNORFdwR3ljS2o5SGl3NTEyemdMbDNOU09UdkdTd3hCUnQ2Wl9rNmIzNTFRbnVPRFNxTFlIdC1JeFJ3czF1NlFhMmJnV1VNakVfX0lDQWVzNmVNcm9pMFNKUTF5aXVVckJ4TnJLU0FHSjgxZjk4bjlVekpiSmxPOQ?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-27T17:09:47Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "fb3bed5340ddc6",
@@ -32,6 +32,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "118b02718553b6",
+   "title": "Gold’s Biggest Challenge Is No Longer The Fed, Says Economist Robin Brooks – ‘We Are Back To Oil As The Principal Risk Factor For Gold’",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQWUlMRGRkTWdqb2FmUEtHTk93bjlNc1JOaUZic19ST0l1Wk9DZzY2QUFXYVhTQ2ZLMmJVeDhBZFh5TkUxWG9NMXd3aEsyZ1NlRFVKYm9FNDQ0UE83WjFoeFVSOExieWxFeklTRWt5cTc1a2NOQkFDT2pmTDdlVmwxUDdDdVdrUG5Tcmh3WGpDMUtBcWJ0OUZuX05JZE12ZjNwNml4Ti1TWWxiVzBuTVlkYWtWTHNoYl80OXdkNGx0UlhGNUVCQzlnd3Y5eVZyQjRLaUdfaGkzbHoyNDlSZHd2OXJHREhKdkJPWDR2UE5pdlV6d0ZjQWViUWY4c0dSbmdlT19zczNGeUFaSmZHT05PYUFFSzRwNWotU29r?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T17:02:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "51f5c3c68390ef",
    "title": "Gold struggles amid mixed inflation data and st...",
    "summary": "",
@@ -40,16 +50,6 @@
    "date": "2026-11-27T16:58:12Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "3aebda002b6b14",
-   "title": "U.S. Dollar Gains Ground Amid Rising Treasury Yields: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkFkUGhqUTRReFFqcE1hd1dsdTd1cVltSlJhd2tmT29VSzRxTGR0cGs2YXFRRDZudUtnSGFFamQzSjE4bmZ1R2ktbXJIQl93aEtpTzVQd1NfRzRyUS16UFBZSFdCNDFENnNORFdwR3ljS2o5SGl3NTEyemdMbDNOU09UdkdTd3hCUnQ2Wl9rNmIzNTFRbnVPRFNxTFlIdC1JeFJ3czF1NlFhMmJnV1VNakVfX0lDQWVzNmVNcm9pMFNKUTF5aXVVckJ4TnJLU0FHSjgxZjk4bjlVekpiSmxPOQ?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-27T16:57:56Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "617eceb05de233",
@@ -112,6 +112,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "107396776df526",
+   "title": "Dallas Fed's 12-month Trimmed Mean PCE inflation rate rises in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUFlbThMN2ZKNkdlYjZtenNLNnh4Z09CZmNnUmltUnlwOG5sd3ZkWlF6cjRFdnNRV0pJYl9KWE1RbnFSVVhyU3lXa0FYNzN6N3ltMk1QOWxVc2RRTzZZa2JVZ05xemt0eDNGNXhaRjBIRTMxNEVpV1dOU0hnY1hFOUVLTUpKWmlmSVRHbkhSck1RT013d2JFUG12SFZxczA0MkVjRk41Q2lDb3luaVFrRVkxa0dGdWR5RVVCNTZIVzhETi1ld3FhZ1k5eTBBdw?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T16:31:32Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "d4654a2bd1d09d",
    "title": "Energy Prices Cooled But Core Inflation Stayed Hot",
    "summary": "",
@@ -140,6 +150,26 @@
    "date": "2026-11-27T16:11:24Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "cfc604fa799781",
+   "title": "Warren Pies says recent market sell-off not because of AI",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRxUHZWNVpJTWVOcEx3cHpRNzlaQi1ZVmVJd2gtRHJwUkQxdjF6S3JiZlBWR1NUSjZfZWZjdmlLYkd4WnoxbVBpa2piRVA3MGxoZjhrcU5aRDk5ZTJpYjIzdHl5cVdvUG5IQzhZbjFhbGxCSFlyOEV0WTlna1NJSFpBWVJjZ2NPOWJydGlaUC1vak1Ick1BMHlXMDJZOTdJWkdqYWNIbVFzOE1ZOUVEWV84VlM?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T16:09:48Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "979bc6869f12b7",
+   "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTVyeExOUDRkNjhWTlRidm9sQUJQTE5yd1p1Ti1ZV2k4NnFMU2xHLV9JWVJFbW82U0VUYUZKUzZiYVlVNGJRTDUwRExiR2pCZ2R1a1cxR0cyaXNJRWp6UzNKekJBcTVScmY1TjVJX3FyZEhzQWhDX0dKTW5jZ1FTSTBtYmMtbGo1LVpQQjJLMksxUkE?oc=5",
+   "source": "DD India",
+   "date": "2026-11-27T16:08:42Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "987781fc7c3137",
@@ -322,6 +352,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T15:29:12Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -429,6 +469,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T15:12:18Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "c4d5552b6decdd",
+   "title": "Wall Street Opens Higher as Nasdaq Surges 1.6% After Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcS14V0F0dmlYQklibTFJM2NKNzFmckJUQzBOTVJYMnBUTlNIaE5ORFhGb1dpLVctRVhyejB6ZHpSZmNmczJBaUZuSTNhTXVfRmpOdmtzZmhKNmNMbjUtRnZKcVhLY1NUN19ibWI3SEFFM3U3MUh2amotMlB2MGFjSUVlbFF0R3BmQ3ZjZUZ1RUo4Z24tbWZB?oc=5",
+   "source": "Share Talk",
+   "date": "2026-11-27T15:12:12Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -805,8 +855,8 @@
    "id": "0e9c32a119f389",
    "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1RTMzhZNTM1Zjc2enlmUlZHNnRRQVFyYzJvVnpJcmtNMy1SWEhzQ09LaDh4MFh3Q3h3T1VwUFh6R25RbEFUMG9BYWNJNWYwcVFGX2JhQlBHX3lIZnU3enVVVy1teHIyMldoYXhnekhUd3VqNEhMWExXT2gyYnhheU9fYUI?oc=5",
-   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSG5oU21JUTNUSDNjdmhvREs5Y3lqOHUwMlJNdVNkMGZXQUxFWlpoSVVvRXJGSTFVTUhHWllyTFdGMHhvX08wRXlId05ROUR4NlpJREZUSDZMS3ZjMTBJd0VZQlFkS2VXUnlrdlpyaXRYcllibEF5OTRBU0dydFI0aEczRFZfTE1FNlpiRlMzc3hBQXk2UXBUdkFJdFFkV09paEwzWUIybi1ST3JmdW5LNVFpQ1YyQ3RDYVEwVHIyV0M1NVE?oc=5",
+   "source": "TradingView",
    "date": "2026-11-27T14:12:00Z",
    "score": 8,
    "category": "Tecnológicas"
@@ -949,16 +999,6 @@
    "source": "Benzinga",
    "date": "2026-11-27T13:36:20Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-27T13:36:06Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1132,11 +1172,21 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "8bbf7a73293ee6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T12:56:54Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm1jbHptd1FfbHNzeE5QRWQ5a3pfWVBjbE5YU2dmUkVQUDBwYUx2UkJxRzVyeUU2X0laZHk2QUh4UVFma3FNc0swbWFTd1NmRjJBZFN3NHczWG9BSC1CdjVBd3I4Y0NwME1qeUlaZkZKTGhLdU4xampXLTFqNmlGSHBMcXFhV1dLY2hIVTZuX3NYbjZSWWJHREdNUlpyUjlN?oc=5",
-   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXVVTmRRcnBKckV2Ym1LZS1ENk5hWDVLYzVVWGNVR1h4b0hLRk5EVGdZb0RULThYdmFnSmVXZmg3Vk9jX3A4MWtrbEJvTFNMRlpqZ3poa0Y3RDB2MUxKTVg5emxPWlctSWY1cjFMU2NWVnZtTTNmbFUtMkszMWVxdkhjNEdocDhLRXNLeDVFbHp2aG9EVFFUZnJDRmljMXZNZmowQXduanFkdw?oc=5",
+   "source": "TradingView",
    "date": "2026-11-27T12:55:46Z",
    "score": 5,
    "category": "Tecnológicas"
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T12:53:07Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "54975c387ee010",
-   "title": "Dow Jones, S&P 500, Nasdaq futures hint gap-up open on Black Friday; US tech and AI stocks to watch today",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVEJjank5M2F1S0RJMDJSb2VIb3NZSDVVQk9oLVlta2VBOWI1ZnVqWUF6YTMwRVZ4c1VqcVdQZVlqZU5ISTJUYkdCM3F0Zzg3ZmlUN0F6dHo4bXRSaWdLZFdUYVhrT2VZcERsU3lueFlkTFdINFBUYndZb3pBQzZUT0pBX2N0RmNQeUtvMEpnZXE3U1hkM2VZSU45WFVwUGxLS1NoNEQwMnVvSlhBV0pPdGI3c3dSaVZLaDZKaGRZaVhHODFBOFVxVHdZTHdpT21ZMzJMbnJHQW5SY0x4UUtlc1ctc2dKZTE2WGZKbkFadUYwX1BDS0JfVEZBZEs?oc=5",
-   "source": "Upstox",
-   "date": "2026-11-27T12:52:54Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d6a52fd9267ee1",
-   "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWp1SnJRNWlGX1dTWWsxN2pCT1ZSaFpjUEJNNllUZnBmZWhXOU52TFQ2Mzg1SzA1eElIeXVwZ3hPc0hRTzhCbF9rdndQcFhqOE1jVFdaa0haMzNuV0d3d2doWXVabXRWbDlvU0FaLUY3VURjS21xei1NbE1malNJNWgzdEdyUWZIbG1LT2hIWVBTQld1ZWJkM3EycUJLb3FKdVU0OFBBd2dzS24xaW1IQU54b3VQdFV4U0ZnNWhhWXNmVXRGcnExTjBDUQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T12:51:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "d1a8328a5c0093",
-   "title": "Elon Musk's SpaceX Slashes Nvidia Blackwell GPU Rental Rates by Up to 35%, While Anthropic May Not Renew",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUnRjV1lYTVBCWnRfSXB3VnVId1l4N0I1TGs5NWFQVWVJdnZxVEZNaURyeHNDUWducE1ZTVdvMk5hdnp4RkpNZWI4RXNDcXdTeThnc21Qd0RhS1FCdnl0Tk9tdC1WUDkyUkFvcktsX2dXajNGazlsZ3J6eVdSVjM5Y0ZDbGNiNFI4dHo2YV9nVkJFaDFtTHpIUUlQSjlMZmhNYjhGTzJGOHJKUkxYbEFMSlJTOUpIVjJCbXpPaWdkanFNRXhTQkRYc015cFN6OVJuc3ZNZ1RabzdpXzc4QW5pZmczUjUxdGdLNlpZVGJ3WTdqUHNFa0NwdlJWOVdETnYt?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T12:49:29Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8bbf7a73293ee6",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOW1qNXBKZTFULTY5RGhEQnFyaUVNWDdzaHBxM1hfZ1V1MjBtQjV4WW1UemNteTdQUGl2dXc2VVpEbHNJRFd6d2o2U1FUQlQ3bTRkdExVZVNzQjhhUHZoa19RcDhXTWN0R2hwLW94aE5XMi1LdXh0cnpzWXFSQ2NOdzA1dURBTmdZOXQzN19BbTVqZGdHWkdkN0FmdldOeG9sUFZwX2FRTUgyeWVJR0RHTC12bGswU2VyQmdBTVdn0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:49:05Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "f2c5815475d19a",
-   "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEw1bXM4LW9fQ280Q256NWtHYXowN2YzeGFmb29VZzVZcXZacTNwODZubi1TR2lzSXYtZFUzWVpMS2RPdkdYeVZmd29HMkZNaFZOdXlQRl9vN3czUDNoUFZENUtvQ0ltWUdGUHR4OXNTdFNzMkRLNHJMTUUwYkJobmNTd1R4aExmRjhFTExpaFJhdTJ5MlJOWnZEelltN0QwMzZGbTlmRHYwTnl4amQ0M1VwYkVCcl9zdVVHaVY0UGI4Y3J4WThVOTZlSWxOUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T12:49:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
