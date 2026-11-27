@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T18:58:00Z",
+ "updated_at": "2026-11-27T19:02:44Z",
  "items": [
   {
    "id": "3aebda002b6b14",
@@ -182,6 +182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "c801b639dff533",
+   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T18:02:01Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "2b9fadd7a84c2c",
    "title": "Sandisk Outperforms Nvidia as Investors Return to Battered Memory Chip Stocks",
    "summary": "",
@@ -330,6 +340,16 @@
    "date": "2026-11-27T17:10:37Z",
    "score": 6,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "5aaf86abde12be",
+   "title": "Microsoft After The Selloff: A 24x P/E With A $47 Billion Customer (NASDAQ:MSFT)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5TV9NTG5KQkpNR3RYMHpDbmhTOTIybld5Uk1sUFV5RUhUR2szOV9JWjNPeVdCQ2NpNHFoSlI0VWJVVGozUGxqU1NpOU9ma05KdVpDX1RiNEZoWmotWHZDRV9hbDRpa1laNDFaeXJDaktjX2laSFZsZno2eEN4eXJ0U0ljcnY5NEUtTTBiUzZScVloZkNTOEZSd0ZFRjlMRnVpUmFwNA?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T17:07:04Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "fb3bed5340ddc6",
@@ -502,6 +522,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9c87622b599017",
+   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVxNmMzaGk4elFDVzlIQkQzOWhGcEQwT0NhV2lDMjY4MTU5NFQtVklGTEtRYzdZdzREMEtHSkhJWmhHeUJpR0ZuS2VQQ2tuZE1DWGhPVWdiWFV6RjZzTzNsZ25OTFhNMl80WS15X1hVMHdDR0p4MHVnNTFBNXpLbUxjQXhydk5xYzNLbHNobVJZa2hBS3U4ek1BbVdpcEY0d0hjTzRfV1VWcV9zY0UzSWRjRkRnSEJaVDQ0WXY3UnlrcmpCX2RNbThhYnlkVXFXNzFv?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-27T16:09:41Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "987781fc7c3137",
    "title": "Jensen Huang's Nvidia comeback may herald an 'age of resentment,' top economist Steve Hanke says",
    "summary": "",
@@ -632,16 +662,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "9c87622b599017",
-   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDVNcmozVWlWSUMxZERYWVNJTklrNGlQRVRpNndFMzlHWlRzM3phZlNSQTV1M2RnanRsdU04SDhYVnZfTy12QkFEVW1aSTZpYzd2NkVrVkYzX3FWYUNaa3FJREFLY3hDZ2gyb0ZsMGdXamg1a214Q1VUaUNMTUFzRmdRMThmSnMzV20zb1lGOGhzaXJHSjB1dzBUemxhMFBIQVpLTk5sVG1PM29qdURDNA?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T15:39:48Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c76065e30d33fa",
    "title": "Abandoning Fed's 2% inflation target could boos...",
    "summary": "",
@@ -709,16 +729,6 @@
    "source": "Barchart.com",
    "date": "2026-11-27T15:30:03Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -1082,6 +1092,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "808a1d01567758",
+   "title": "USTYP.SW Interactive Stock Chart | UBS USD Treasury Yield PlusETF Stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpNzF4dklzVXhLd1p0T3RHX19PTm9hcVpFRndKSWlGbmRmMTJYZHhSNEpqMXRINldWOG5xYmhIZ2R0T05IczdxenllZFBwaFlDNGc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T14:35:35Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "aefd57cd2b943c",
    "title": "Nvidia Pares Gains on Blackwell Report; Altria Lower | Stock Movers",
    "summary": "",
@@ -1179,26 +1199,6 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T14:18:02Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fd8cfe4880a0d8",
-   "title": "US Stock Futures Climb as Technology Shares Lead Post-Thanksgiving Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVRkaTFIRm1LdkdNQkZuc1A4TWdnNWxnenJuQ2NsNlZsUTM1aHkxb0ZrLXU1MGk1TVNOczI5eExyUC14Ykt0dDZCZjZvbTloVWJ5dzJlWkstZ211T3JaNmJSSjE4MHFlMUNEbXhocmFaZ3dQQW1lWlNtakd1RWZwdS1XdnZLXzVIdkE?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-27T14:17:04Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "37807f4be5108b",
-   "title": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFZPYlR1Zk9NaE9DRm1va1F3ZkdPQ3YtT3VEVmNXeGlINzdiMGpyclBsN19rRnJ5RVRRcUx5VzhhQU1wVkxCNDlrbV9VV1h3QW93a3ZLOVhMU3dqbXpyUGtqNW9tMlZzOW0wVnhseVJSdkV0b3VzT3JsbXJHNmZmLUo2R2ROSF9MTTU5ZmxoTkxCMjVFVUxYdGJtTzR0bkU?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T14:15:58Z",
-   "score": 10,
    "category": "Tecnológicas"
   }
  ]
