@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T19:45:23Z",
+ "updated_at": "2026-11-27T19:50:07Z",
  "items": [
   {
    "id": "2439306e4a0d17",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T19:41:48Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "af2c8ee42a3e56",
+   "title": "Stock Market Rallies, Triggers This Shift; Jensen Huang Testimony, Jobs Report Loom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTAzQ1N2QWlMSk5RNmdzMlpQQVA4ZTFvcl9tNVo0V3F6cWkxYW41WDB5Rk4xZVhSRmVmN25hUW00blJhZ0RPTkUyMm85MFJhcWtFZVJvaFBuMkpONnItLXF5c01iMHBwXzBzSzdTUGRXTGppeHNsSnlRRkF2ekltN0N1RFdjYmJNVGxqck92ekk3NHI5Z08ybjFiazBHY0pSM2JUOFRIcXdockhaUlQzMkhVcU1zOXJkYTZZZlROV19jakxaYk9J?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-11-27T19:41:00Z",
+   "score": 5,
+   "category": "Macro"
   },
   {
    "id": "acde82e0559910",
@@ -32,16 +42,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:12:39Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -60,6 +60,16 @@
    "date": "2026-11-27T19:11:11Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:02:36Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "c34f5fe70327c2",
@@ -862,16 +872,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -882,8 +882,8 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "cae3e30ef03b53",
-   "title": "Nvidia Stock Slips. It’s Still Finding Its Floor With Huang 2.0.",
+   "id": "62b320b863b12f",
+   "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
    "source": "Barron's",
@@ -892,8 +892,8 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "62b320b863b12f",
-   "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
+   "id": "cae3e30ef03b53",
+   "title": "Nvidia Stock Slips. It’s Still Finding Its Floor With Huang 2.0.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
    "source": "Barron's",
@@ -909,16 +909,6 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:22:46Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1119,6 +1109,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T15:00:27Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:00:00Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
