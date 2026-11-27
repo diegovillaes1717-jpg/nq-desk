@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T08:23:26Z",
+ "updated_at": "2026-11-27T08:28:09Z",
  "items": [
   {
    "id": "49e7daf99a4820",
@@ -170,16 +170,6 @@
    "date": "2026-11-27T07:04:14Z",
    "score": 11,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-27T07:02:02Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "db21534d43ac5e",
@@ -502,16 +492,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "05c70e6b7abf1d",
-   "title": "Is the Fed ready for its next fight?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:01:25Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "15a9631f1b8c4e",
    "title": "Tech stocks set for worst month in four years as volatility surges",
    "summary": "",
@@ -560,6 +540,16 @@
    "date": "2026-11-27T05:00:22Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "05c70e6b7abf1d",
+   "title": "Is the Fed ready for its next fight?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:00:13Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "62fb9fb61b1dbb",
@@ -719,6 +709,16 @@
    "source": "The Financial Express",
    "date": "2026-11-27T03:47:23Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-27T03:34:44Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -920,6 +920,16 @@
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
+   "source": "KTUL",
+   "date": "2026-11-27T02:06:25Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a3025a884956e",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T00:53:26Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "c0c5f6b17d0768",
-   "title": "Michael Burry Sells Nasdaq-100 Puts, Shifting Portfolio Toward Long Bets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUFVRUUZHc3dQRW9TYlZPM1hkTm1obVNQMXdJWlpyRjdQWkFraGtyQURxc3gxSHZ2Wlh6Ui0tcHJtemEtNURoZ2s0T1hDOG12ZEZ4cHZFMkJpWnJRR181WWJ5cFdVa1pfYkhqMG9QWDM4RW5D?oc=5",
-   "source": "Businesskorea",
-   "date": "2026-11-27T00:52:45Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
