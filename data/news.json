@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T03:53:52Z",
+ "updated_at": "2026-11-27T03:58:35Z",
  "items": [
   {
    "id": "dbfef74e1543ba",
@@ -238,6 +238,16 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlFzUTBhNFU4akxZSjBnX0g4eHp3SmVoaE1QSTR0WC1UNkpvTmpsaGNCZjBVX0NWclU1SERSSmkwVzNTS1hjNmg1MlB6Z3FFMmszQk9PSnE5UDlMcUdpN0pQUTBWLUdlc2JUMXYxQTRxbmkyTXlXZzJ5YzZjZkFpZXdLWHM2ZUJhMTJlaERxZkt3X085ck5naEtGVl9WeVl5THhXMVVaREhwVURw?oc=5",
    "source": "The Straits Times",
    "date": "2026-11-27T01:35:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "87d351d23080da",
+   "title": "President Donald Trump insists Nvidia CEO not a security threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdFdmZU5GWllvUVJoNEVoWmRlV1ZTcHJ2VUxoaURPRHk2eDVaREY1cTM2REdqSjFmc1lLbHhfcmtLbFFzeTRVak1OVHZUUEVIbFkzeXg0dUpmckJqVGlfVjIyMjZSc2h0enBuUTAxYWdkTGJPTVl0T0FYRWdnZlQ2SzJnRXA2dER2Ukh0WEcwTVI4SHVCUGFpSzNQMXJZUzRsdmg1Sm15TVBOWXBDWW9ablVNWUtZbVpwSk9LWDdhVllDRG5uU0o4R3NPYVHSAcwBQVVfeXFMTnRXZmVORlpZb1FSaDRFaFpkZVdWU3BydlVMaGlET0R5Nng1WkRGNXEzNkRHakoxZnNZS2x4X3JrS2xRc3k0VWpNTlR2VFBFSGxZM3l4NHVKZnJCalRpX1YyMjI2UnNodHpwblEwMWFnZExiT01ZdE9BWEVnZ2ZUNksyZ0VwNnREdlJIdFhHME1SOEh1QlBhaUszUDFyWVM0bHZoNUpteU1QTllwQ1lvWm5VTVlLWW1acEpPS1g3YVZZQ0RublNKOEdzT2FR?oc=5",
+   "source": "The Hindu",
+   "date": "2026-11-27T01:31:35Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -572,16 +582,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:38:53Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -639,6 +639,16 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T22:17:57Z",
+   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T18:07:43Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "d3366cc47ce295",
-   "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb29vaFQ2a1Z3UmxfQzZKcnpMcGMtMmZwcGNZZkkxOGhDSWVqczlWbTV2eThPY3FvczlnQVI4aXg4UEx4UVIzcnlSNmNQT0dzT1JRRG1mVmcxUHVxNEY3bVZjc3RmUEZFY3lKcmV0cVpoWXdkSXJrWl9COXlUbTFKVEZLMjNtZEMycGdvZUhwRVFwU2cyak5wZlhIcmZ0X0QwZU02ZS1vZjh3Zw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T18:01:26Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
