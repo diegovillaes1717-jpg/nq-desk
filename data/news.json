@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T07:36:12Z",
+ "updated_at": "2026-11-27T07:40:56Z",
  "items": [
+  {
+   "id": "663adfa9f509b2",
+   "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T07:36:00Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
   {
    "id": "e36027bf9181a6",
    "title": "US Treasury Yields Surpass Bitcoin Futures Yields as BTC Basis Trade Loses Appeal in November 2026",
@@ -782,6 +792,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "bdb712b7244092",
+   "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T02:16:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "420f99ac24b796",
    "title": "Nasdaq 100’s Five-Day Average Intraday Volatility Hits 3.8%, Highest Since April 2025",
    "summary": "",
@@ -790,6 +810,16 @@
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
+   "source": "KTUL",
+   "date": "2026-11-27T02:06:25Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a3025a884956e",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T00:03:52Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "2eaab597c248d4",
-   "title": "Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1kxdW1pZHVkNmtuR28tNnEwamVja2gyM1VzZEZTNEN1RVg1ekdWMEg1X3BPeHVoZmt1cTV1d2FKRVZyS21fU1JXVHBpZmo2VUVySzhTVWdPRWxkOTFwdzVVclBvSkdzVUpqYnkxazZObEJ6RXBmTFF0Vkh2Y0RnRHR0TW5qRm1saVoyaVRLcXB3bWZaN1ZZeDhuZTc1cEVrQTFndTJET25XZy1vOXFoMEozb1hFcjc4M2g4SlhjX3p0RENvRUQxYy04MVF5QQ?oc=5",
-   "source": "Eurasia Business News",
-   "date": "2026-11-27T00:02:44Z",
-   "score": 7,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "5b101ed1bd13de",
-   "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTZ1NmdCYnhrdWQyZ1otb1BaX3p0dnF3cGRFQlhsV19JR3VYSS1IdXJRbmtzZWh4QmhTMTVLTHNCSDRacEFZVEZFV0wtUEM0OVpaT3lqWm5mMHhVcXZuM0pjb2VCX1ZQUzZRSXcwNFVhaXQxZUdab3pRY0F6V2lpS18wUG5Wd1I5Vkt3VUFWTHNhUmFqSlpIV1BTWkhEcHNXdmo3QTdydlpuaU9aNnV3YXFKcXQ1SVZHcXZQY0tTd2sxcGFlV1VCOUZKMnROa3Q5cUZhRA?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T00:00:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c44aa220a1cccd",
-   "title": "Gold declines to near $3,550 amid hawkish Fed expectations | FXStreet",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwclJDa3dMeExlNTRjdUc2RGNTWVdCZHNWV3pRRkVlNGtIbjBqM2NLZml3RkpLd2RzQ1NZX2U3eExpb3doVGNzbkZITkNWeDd2a09Z?oc=5",
-   "source": "شبكة تواصل الإخبارية",
-   "date": "2026-11-26T23:57:55Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
