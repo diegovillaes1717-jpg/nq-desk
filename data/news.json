@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T18:05:50Z",
+ "updated_at": "2026-11-27T18:10:35Z",
  "items": [
+  {
+   "id": "77f2625762ca10",
+   "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "source": "CNBC",
+   "date": "2026-11-27T18:10:10Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "2b9fadd7a84c2c",
    "title": "Sandisk Outperforms Nvidia as Investors Return to Battered Memory Chip Stocks",
@@ -59,6 +69,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T17:41:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "35fd9676d6f724",
+   "title": "US stocks set for weekly advance as battered AI shares hold their ground By Reuters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-27T17:36:06Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -882,16 +902,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "9c80145c9fdbf0",
-   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTN0Vl9XaDlPT0xFYlhPcHAwVEd2eGpyRDU3LW0tMlpWdkdyWFh3Z29fY2t4b1BhcmdoQTNWMkhsSDdiVXRTUkZveHVCZVFaWGFjS2RzXzUwZjBIQ1UzNEIzc2RMdlQxSDMyLTlrOHlRaHNWOEJLUmZVMENfZUd1M241YWZLbkkzaEFaek9QMXYzUTk5cWFfdVFVNk9kTVNUU0h6QVptcDl6R2dtcEhIWXNLZERmSHFsV2ZNbVJQTTJGdmJnVXJkSEU4LTFhajE4cXBZeHRUbVRsdXBTN3ppRVBzZXlqZDhXdHc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T14:33:05Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e53dc69714e6cc",
    "title": "US stocks set for higher open as battered AI shares claw back losses By Reuters",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "شبكة تواصل الإخبارية",
    "date": "2026-11-27T13:24:55Z",
    "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c76918a213d225",
-   "title": "U.S. Treasury yields tick up, snapping eight-day rally as bond bulls pause",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmNBNU9iZG40dTJmb0IzVFVBTjZRZWJzRXFkai03Zkt4T3FidVd6Mm5JbE1zemVuVjQtdHNLRGVUQ2gzWVpTX181cmh0aTRNaE5TdV96ZlE3YmtfeHVkNUxyTnh5NzVCNlRiM1BydlRfUWxZb2V4WVJ2UnpXNUlQYVlSR0w1am5mZFg5emt0Mk8zNVR4RElkXzNzOHNSOUtMNS1YVWx6Q2h0TUVrMmE2cDA1czgySnVDYWc?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-27T13:24:26Z",
-   "score": 5,
    "category": "Fed y tipos"
   }
  ]
