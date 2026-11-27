@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T03:19:57Z",
+ "updated_at": "2026-11-27T03:24:43Z",
  "items": [
   {
    "id": "9ef02aefd47503",
@@ -332,6 +332,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -422,16 +432,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97f3c8799325a6",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEVYWUZ4T0FibmozQVZ3WWo0eTVqWUljYmlLX0pHR1lGMVE5cWJ6QlNpSnV1eFV4WmgzN3M3OE91N0dRVk5WYlRGV3hJVkE5ZVE2bHY2T0Q1Q0RNWFJBWHVfZDJqc2F4TE1QNFhRZHhabkFfMGV3OVlEWHlMTnVHRnVGMWRDSm9Cc0YxOFVBQVNfYUt5c2pjRkwtZUtyUVNmYkUtanlWMjZobTlHRUMydGRwUU5hZnNsbGg3a09fTzFjUm5ydnFQZFhFMFN4bHBy?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T23:48:45Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "dbc5d5914bf8f3",
    "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
    "summary": "",
@@ -475,7 +475,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -542,6 +542,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:38:53Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -592,13 +602,13 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "id": "0edfbe5235126b",
+   "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtLTGtmaWhHQ1k4R0NFQ0s2Z0Z1Z29OTmF3Z3FwZVJLR0V3TDRYQWhKeTFpc3dLUVo0RzZxWENKZ2tDMnFaX1VyZkhZVTR4YU1uQVpwRzVCay1EZVhBcUlPRTRJUkFuTVVTWmpvX2FiS1NtbEE2NzFrazM1WHRuV0ZaMFRjbDZzWnpBWGttczY4UEVraXkzN01DekN1WWQyMndIaW8wekhRM2R0OWRhVzIxbw?oc=5",
+   "source": "Qatar Tribune",
+   "date": "2026-11-26T22:19:28Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -1082,6 +1092,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -1100,6 +1120,26 @@
    "date": "2026-11-26T18:12:50Z",
    "score": 9,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "97f3c8799325a6",
+   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T18:12:10Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "fd63a55abf4972",
@@ -1159,46 +1199,6 @@
    "source": "Moomoo",
    "date": "2026-11-26T17:59:00Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d521c2f5277ff1",
-   "title": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlYtanViOVZ0ZUxOeUxTeXpWaXE5Slc5R2tLNjU4UDI3YzVEUnV0ckNfQ1QtOGxySUI1REtKd3JSQ3RqOF9ab0VCVDlrMk9maFFTbEtNRHdtbHJPTzM3MHlENl81WjFYdUJueGdtQ3F5Q05lMTJIWnRtaFR1OG41a0VoVGtTN0JwaUI5WTN4SnJhV1VfRFZ5S200TUxISFZKYmZJNjh0bWxMLTktaERMX0FWN1JxLWl0dFNNeXY4a3BabHVIMlQ2QkNXSVhYZldJZUJzVEtuc2NxZw?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T17:57:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4b44cd266b1578",
-   "title": "Trump Tariffs Target 14 Partners as Nasdaq Ends 0.62% Lower",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUNqaW1TN2EtNUI2dmVQcmRLdkpCeUFtM0lBRDlQdzl0UEdKM1IwMGM3V2dKV0FXLVlxR2hJcHhBVnhGdTFYUFBhTzJGdnNIcVEyOVlEdDg4Z3ZBRmt0N0s4b3ZObm5hS1RTaDhSMmd2S1Y2a01jcFd0Nl9LZWRpLWM5UTlFMzhNdW5F?oc=5",
-   "source": "Gotrade",
-   "date": "2026-11-26T17:57:00Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a249d4f4be3cb8",
-   "title": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWJYZnBRMFQwTDY5blN3VE0tSk9sQmhJN29KQjdrNTZwQ1FIOXpLZHNnTUpJbkY0Qm5wYS1VWFh5Z2kzWEtwTDJhUG55a0xXRjRFU25ZeGptWlU5azVYTWRreG9XSWtvbUZ3MTNReEVneVRLbG9XOS1YbDgxQWwyUWZmTjVoQk9NWlNEUTVOZDB5UWFBMzRYNmtuTmdCNGx0MG9WXzM1Yjl2bnNSQUR1VXU1NEc4NzdRWnZFbk4wY0hoZ2s0NEt3?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-26T17:53:28Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "9c78eb6907de97",
-   "title": "Semiconductor chips are the new oil. Here's why",
-   "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-   "source": "CNBC",
-   "date": "2026-11-26T17:52:15Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
