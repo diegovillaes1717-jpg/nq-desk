@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T03:39:03Z",
+ "updated_at": "2026-11-27T03:43:49Z",
  "items": [
   {
    "id": "3a04c5716ea97c",
@@ -82,6 +82,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -140,6 +150,16 @@
    "date": "2026-11-27T02:04:09Z",
    "score": 4.5,
    "category": "Macro"
+  },
+  {
+   "id": "027138009c00b7",
+   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZQWGhIUVI5bDVUSHRsWWVzTGZGSUNxcS1PYndUUUZVd0g0Y3BUUTlzMjE2T1FrTENfWjkxdkYzcGxfdHpLSmF5UlRIWDV6dWp6R1RJMEl1VThSWUpuc0VpQkZjbnhxTjdVV28tamhPdXBkSy12dHh4cFhkSWRMN3J5R0hEMVIyZWd4bGJkczZkU01YY2dF?oc=5",
+   "source": "富途牛牛",
+   "date": "2026-11-27T02:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "0f7b66816075ac",
@@ -342,6 +362,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -370,6 +400,16 @@
    "date": "2026-11-27T00:10:51Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "e3815709180dc1",
+   "title": "Fed survey shows growth, sticky inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkRmcFQzUmR0RDNxQk81dG1VVEp3NnNORDhsWXk4RlN3Wkxzb1hMU1o3NFZzZzRPYXlTMllvbWZudDJiNkpzVDdBbFd5REhKQklSdTlkT0VFRGIzX2xuS25pZHAtalo5UEs4cXBReFBoMGd3bHJqR3NkT1czeUEyTEpEbHhoa1pTQVU2dU9YTXZXQmNE?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:04:31Z",
+   "score": 8,
+   "category": "Fed y tipos"
   },
   {
    "id": "8db4d72f078e29",
@@ -419,16 +459,6 @@
    "source": "Bloomberg.com",
    "date": "2026-11-26T23:53:35Z",
    "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e3815709180dc1",
-   "title": "Fed survey shows growth, sticky inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDF3aV9Xc0daaUxxNDctbVhLUF9uc2JpZ1MyOTBVN0R3ZTRPTEJ1UXVxdlVDVEVOeDlxUVhQbmR0enZpbHJ2b3czQ2dyQmFuR2xDTUZ6WVcwbTc4WmluSmJtb3lOdmhHOFY4LWQ2SzhXVFB0dEJpU0NzN1lnZHBIQmhnMUdjS3cxcUc4ek5OTk9SY0F6MmIzSF9CWFRIOS10Mkhz?oc=5",
-   "source": "The Star",
-   "date": "2026-11-26T23:49:37Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -812,16 +842,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-26T20:58:43Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "7ddbecf4b2f2d4",
    "title": "$3,570 area: Gold price stalls as Fed hike bets restrain bulls",
    "summary": "",
@@ -1112,6 +1132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "fda2e0061b95ca",
+   "title": "Fed rate hike odds rise to almost 100%: can AI selloff force a rethink?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV253Mm1xcE8tNjZVQS13SVh1Yy1JN2R0SHljN0c1dnlUZ3pVeUdVbmMxbUtnN2dpRnp3bldOcktfek0wa3pTZHZ1aUlENnl5QUtfaDdIVnFTa0xQVGZmRUhaWkg3VURlTzFfMjRqLTE0TTkwT2J0Y0t4T2EtV2FiUXd0SjRIbU9yVzY2R3dkcVN6ZG5oZzNWeXlnVHlQakJFWEJPY1VoNA?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-26T18:16:22Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -1120,16 +1150,6 @@
    "date": "2026-11-26T18:14:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "fda2e0061b95ca",
-   "title": "Fed rate hike odds rise to almost 100%: can AI selloff force a rethink?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ25sd1hlcGlCVEU2X0w3SDJUQWVVV0ZpTnBzdThUZUVLblZ4aURpOTlobm84XzI3U042OS1VeWNudWxlQ3RXME80bXU4VldEM2pucW1HZDZQcUNwMkZoWGUtNEJYbklxYnJZX1RScUhuMDFQYmtSUnBUcS1xVGVNaEhBRWFnMHF2X0ZWMU1EX2lmSEdxV1k4RU83eXgxd1hrWnd5dVF4OXhDdUtUQ0lrZGhfUzJnd3ItWlJmWTdJd0lDMXM?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T18:12:50Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "97ba86fddce7ec",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T18:01:26Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "7328012c7ca50e",
-   "title": "Stop worrying about bond yields – history says stocks don’t care",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjlJTWdRYUdsUEdocGwtTEtVd3Fkc0EwSFBJdmpsTDVzN0ZmVjNUNUdrWVdUb0tWWksyYThhUDF2SDhnYnZ6dmdfMjEycm1jZzFWYzRyQjhkaDI0ZzBSRGNTLTU5M216M3NNV2xqdkpKWFZLZUpBenVRQ0M0SXhXdHZVWnN1eEwtYzVaQ3FQRkh2R01wQ2xTVjhmVTVxdERMNDRydE1UNFUwcVlyTkhlVDFHeUtxZWVuVk1xOERB?oc=5",
-   "source": "AFR",
-   "date": "2026-11-26T18:00:00Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4743991dd03041",
-   "title": "Micro E-mini Nasdaq-100 Index Futures (DEC6) Price Trend Today | Quotes & News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQSEhKYmN1ZGgxVE5qSlIxNEpKRWxGY1ZweU13RjBoTTB5ZTdVbkV5RW45Rk9XRDVqZ3JFbDFjTk1nWDFTWVBWOVBSYUhfcnBhanVwalM3aVRHZkFxTGdxbW01b0R1d0o3RzNDTHEyY0h6a0s2Z2l6c2lncm1TWVdicV84ekZXOUFPb0RMNHJ1MXdhMkt4TEJhZnBTNi01ZkV1ajhhZ0hPYk1zUnVSUDEyWXNsbDU0eFYwSzdnTGJLY05xZld2enpBOWZ1R3BISG10WmZzMEdEeGJNSFVQVWxtYVdsWjZ2WjlndS16M3huT0F6RmFFbDNrS3VmXzBtalNiTlR6V1RPT3ZRemNReHJZRlpwN0xBVmJjczgxTmNrUXRfR3RaamVKektFUTZnMk5yMFFFTndTTl8?oc=5",
-   "source": "Moomoo",
-   "date": "2026-11-26T17:59:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
