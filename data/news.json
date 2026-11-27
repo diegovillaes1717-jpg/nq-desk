@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T13:08:55Z",
+ "updated_at": "2026-11-27T13:13:39Z",
  "items": [
   {
    "id": "42eec66055111b",
@@ -9,6 +9,16 @@
    "source": "Pluang",
    "date": "2026-11-27T13:05:14Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "68e85260b04d12",
+   "title": "Is Nvidia a Screaming Buy or a Value Trap?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0JHZHBUZXJlWmx3RkU1bGtCdktFSURpdjlOWGNEc3VhSTJ5ZkR4OUFMRUdmUEpyamhjOWRMSFJuZ2pmQUJENHFUWmNzc0tuMGVwYXZHQUR2RENGTDV5QUtzM2t1QzJESDFrVUp3WkVqWm9GNkxLQTRVOEF5R0lRRU5hc3lPMmdNLTJ2bA?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T13:05:02Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -672,6 +682,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3907a979fcf0f6",
+   "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkx6N3IzNUI3Qmh1c2J4dXhma081UWlWOGh5aERTYTZ2TDhTYkZJVlpEcTNxNnRwZnZOX2E3ejY1OVhaenR2N2VYSHEwOUFFYnZYZnZNSURfTlVwTVpvTkFzWmRrbVRnaFBqSUhrUDR4ZUM0a0RlRTk4MW5EcnpkUXktcXJTa2w5NEEwTzRkQjRWTlp0SXNsVm82SXZGby1TRjRHZFdLOGdZMmNJU0NfWUZlMzF1SDc3SThiaUx1OFdIc28?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T10:53:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7e724decc2b9a0",
    "title": "U.S. stock market today: Nasdaq futures lead gains ahead of shortened Black Friday session",
    "summary": "",
@@ -895,20 +915,10 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T10:06:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -919,6 +929,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -1052,16 +1072,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "aa2b2dbc31381e",
-   "title": "Global stocks rally on AI rebound after bruising month, while Treasuries dip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0VaN05LcnVJU010NDZic0lhZF9LWU5zVTdqdmhrTlNYT3J1RGVqUGp0NVlXNkhtaWJRVzFnX1N4RUMtdzNUUkM5dTdLVF9nYWsxSWR0aS1ib0wwaDlzVml4ZlFBVHpBM2ZZYThjN2pJT1I0ZkFBMFZNVlVPbzl0aW9Ub0VjVjZsa0pleENjWGNmNlJpQUtwT3Niemd5X05aS3NLX1h6TzlXcmRkUEpkQnl6NUZmSThiWW9EQks5UnBDOUVISUdiSHoyXy0telBHTUNiSQ?oc=5",
-   "source": "Free Malaysia Today",
-   "date": "2026-11-27T09:41:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c6b9fa96d55e55",
    "title": "NYSE and Nasdaq Close Early on Black Friday 2026",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T09:25:19Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "20349aedd5ebde",
-   "title": "The Fed’s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It’s Bad News for Wall Street",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnNfUEpYOV9fU0FqWVpLWXZPQjBDU19aNnR0WG9MNlR1Qkp3Yld3akNvZE9jNG1zV05zRkJybjlRTERWcmJmV29wbTJjTVE5VFMtY2RaSlRUMlBvV3ZXY1BxbWkwanhHZ1Vub2FwbWhqS2ZqblhtbGdhMVBwamo0RS1QYTNYU3k0SGVPZENCTHZzLU8xMmZRZzdIX2VhN3Ft?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T09:24:55Z",
-   "score": 10,
-   "category": "Fed y tipos"
   }
  ]
 }
