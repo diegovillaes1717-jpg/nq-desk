@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T04:31:49Z",
+ "updated_at": "2026-11-27T04:36:33Z",
  "items": [
+  {
+   "id": "d21c66045af4e4",
+   "title": "The Part of Inflation Cheaper Oil Cannot Reach",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80eFpISlY1alZhajFzT1Y4cmIxalNCam1SMHhpcUlFdWVzei1PMW1jSmJfVnNqTk9qMW05VUg0LVJPelpkUlNfQ015TXYtN01KQTdTbENTOWo4MGt6SVZRYTBZNjc0ZGNnWUtNS25sLUJhVWxHQ1lZNHNnX3E?oc=5",
+   "source": "IndraStra Global",
+   "date": "2026-11-27T04:32:00Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "02396548f76417",
+   "title": "Fed faces fresh rate hike as inflation and US growth defy expectations",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQms1Ri1tNEd6TVJiSVd1ZTdtQ2xIejNYMl9CNV9EXzA0aldiVFRiSkcwb2lsbUMyZ3NlXzZ3b0tEN1NCVkVQVjRqdGM5c1JlSk1Jblhqaw?oc=5",
+   "source": "AzerNews",
+   "date": "2026-11-27T04:30:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "4de06a89656f5f",
    "title": "Nvidia GPU Sellers Restrict Neocloud Sales Over Chinese Access to AI Chips - NVIDIA (NASDAQ:NVDA)",
@@ -96,7 +116,7 @@
    "title": "Rumor of '9,000% Call Option Jackpot' Ahead of Nvidia CEO's Return... No Trace in Trading Records",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1leDNpYkJiUU1TcXdxQnRmTHRqdU1lSGNtOFdSN0pBZXZXZm5kc2d4djEyTkZiY0ZvMHlFejI0b3dBV3pyRWJNTXBVNnR0amxHQndwRVU5TjIzM3BWTHdKMkxUREt5Y2I5X1YyVW43czdPZnRmd0E?oc=5",
-   "source": "finance.biggo.com",
+   "source": "BigGo Finance",
    "date": "2026-11-27T02:55:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -150,16 +170,6 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -712,16 +722,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0edfbe5235126b",
-   "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtLTGtmaWhHQ1k4R0NFQ0s2Z0Z1Z29OTmF3Z3FwZVJLR0V3TDRYQWhKeTFpc3dLUVo0RzZxWENKZ2tDMnFaX1VyZkhZVTR4YU1uQVpwRzVCay1EZVhBcUlPRTRJUkFuTVVTWmpvX2FiS1NtbEE2NzFrazM1WHRuV0ZaMFRjbDZzWnpBWGttczY4UEVraXkzN01DekN1WWQyMndIaW8wekhRM2R0OWRhVzIxbw?oc=5",
-   "source": "Qatar Tribune",
-   "date": "2026-11-26T22:19:28Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "472aa7a172fbf1",
    "title": "Why Is the Nasdaq Having Its Worst November Since 2008? The Numbers Behind the Tech Sell-Off",
    "summary": "",
@@ -730,6 +730,16 @@
    "date": "2026-11-26T22:19:28Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "0edfbe5235126b",
+   "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtLTGtmaWhHQ1k4R0NFQ0s2Z0Z1Z29OTmF3Z3FwZVJLR0V3TDRYQWhKeTFpc3dLUVo0RzZxWENKZ2tDMnFaX1VyZkhZVTR4YU1uQVpwRzVCay1EZVhBcUlPRTRJUkFuTVVTWmpvX2FiS1NtbEE2NzFrazM1WHRuV0ZaMFRjbDZzWnpBWGttczY4UEVraXkzN01DekN1WWQyMndIaW8wekhRM2R0OWRhVzIxbw?oc=5",
+   "source": "Qatar Tribune",
+   "date": "2026-11-26T22:19:28Z",
+   "score": 10,
+   "category": "Fed y tipos"
   },
   {
    "id": "f45e6c52e62c47",
@@ -770,6 +780,16 @@
    "date": "2026-11-26T22:10:59Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "141838fcaf36b6",
+   "title": "Fed and BoC rate hike prospects in focus as Canadian Dollar slips",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc0g1blg3MV9TSXBtcUlQYlNKd2R6N3YwUlcwbHVhZS1MWkRfUk9NT25TbmZ1M29nY0xjYllwVm9YRk5aS3M3NzlJN1ZtaFdPa0RxS1NLRHNXQ1h6dEdXUjBwa1paN01QX3RiZmVfeDE2VExlRTFXZW5mUFF2d2kybnFrbzBIZFctM1V6QUZpTk55NGs4Z0RodkpvdVV6eWlJM2FGYVFkV05xMml2b1dPUDhjNG41d3JHckN3Vm9kc2JKd3dkV0E4YV9aMG5oMG84RFc5TFJB?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:10:27Z",
+   "score": 5,
+   "category": "Fed y tipos"
   },
   {
    "id": "98fb90af6793af",
@@ -930,6 +950,16 @@
    "date": "2026-11-26T21:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-26T20:58:43Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "7ddbecf4b2f2d4",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T18:31:21Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97bb94b587b52d",
-   "title": "S&P 500 and Nasdaq 100 Perpetuals Rise on Liquid Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMWdGZlVISENRcElWOU9jTWxIWkhJQ0E0d0hETlVqcGN3ckxsMF8tcDMtaWdXcHhDTk84d0MxV0lkeGlpUHh5T2RfRlo5bEVicFlJQUdvU1dmZw?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-26T18:28:57Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0e5f616d955973",
-   "title": "S&P 500 and Nasdaq 100 perpetuals climb on Liquid while Wall Street sits out Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTWDI0dV9VZUN0b0RQNDhxZkRYS2FlWU0zaTk5UWVtSzg0QWRsNWxBUzVnRDRDeEdESlhmSTVYUTBtclBaeUJrSVZqQUVKdTZnSEstMG1OZGJGa2ZhMjdsWmhvOHl3V0M3M0E4OUxHdFVZSUJSa0dFdDZsRlc?oc=5",
-   "source": "Crypto Briefing",
-   "date": "2026-11-26T18:22:40Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "168dd0e5c88998",
-   "title": "Technical Analysis of KB Securities KB Inverse 2X U.S. NASDAQ 100 TR Exchange Traded Note B 77 (KRX:580077)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RVVA2akRJb1U5bkczTXcxbS1iQjlzbzJHR09QZEJJTnRFUTRObnNHWXdOTHpqSVliU2JJVmtlNmxmQXVDRE5qTkMxc2ZzR21WSVdLTTZ6cE16ZGp3QmpzYUMwMlg4R2lrblE?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-26T18:20:11Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
