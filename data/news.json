@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T16:29:55Z",
+ "updated_at": "2026-11-27T16:34:39Z",
  "items": [
+  {
+   "id": "cfc604fa799781",
+   "title": "Warren Pies says recent market sell-off not because of AI",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGZKZVNBMXV4SWtZV01pTnhqenNWQXByMWxfdEVmSG41bDFDYTg2UnJZeUlkRjdWYzJaS21menVHQ0dSaW4zeWVPZHdWMzloRTY1SGxHeDVCYURLblVTellQRVpwRzgtczhta1FMWXoycGtEX0JpUEVscDA1X1Z6MGc5VVh3WDc5LWxobGVublVVVE03MVk5T0o4ZGY?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T16:28:02Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "d4654a2bd1d09d",
    "title": "Energy Prices Cooled But Core Inflation Stayed Hot",
@@ -782,6 +792,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:41:56Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -852,16 +872,6 @@
    "category": "Mercado"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMTZlRmh0c2FvbThoeU5xbTdhM0lYbGhIVG5UcU9tcmlndDRpbHlEdkRocERnOUFRZDhiXzJSZzVxNTEzRlRzOW5ocUh6VEFTMURlVE5aa092bjZ1V1VqTW5DcGJfQk9fUnhQQ082b2VLU25BSUU2SXphNEVRbFMtQV9kMGw0Nm1nSFNUUE9id3ZBRjh1VzNUbFI3SkJpSC1IcFhMSThQa1I0bDhISWZKM0YxTkowQ1ZNaC1PRXlkakc1d2VDTnRTTFNaS2dLelpRQ2swWjBnV2dWaVE?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:31:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "c3a9af55a5c358",
    "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
    "summary": "",
@@ -920,6 +930,16 @@
    "date": "2026-11-27T13:21:56Z",
    "score": 5.0,
    "category": "Macro"
+  },
+  {
+   "id": "de5da50e3df84b",
+   "title": "U.S. Stock Market Preview | All three major index futures rise in premarket trading, with Nasdaq futures up more than 2%; Dell jumps nearly 4% in premarket, as its AI backlog hits a record $132.3 billion; Schroders warns that even a shift to easing policy will str",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlRMdWFhdnQ2a3Yxb0JOdnVRRUZMOUI4a3p1ak9tY09HZDNXLTl4cjlkelQzLUdxWGprY0lPbHVyamcxYUczMC11TkRHRUhXR0ZtM3hVdUQzLWRWSUFpUEZnZXNpYURwRmVwMW1qellueVpzODBpbEZYMnFSakREODBXdXRUZ2VUWTEzRnNCZ1ZKUWZPWGVNXzhsZTFCRlA3blNj?oc=5",
+   "source": "富途牛牛",
+   "date": "2026-11-27T13:21:36Z",
+   "score": 9,
+   "category": "Tecnológicas"
   },
   {
    "id": "536102f35bf5dd",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T12:32:37Z",
    "score": 3,
    "category": "Mercado"
-  },
-  {
-   "id": "0444a87240f295",
-   "title": "Nvidia Stock Looks to Be Finding a Floor With Huang 2.0",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-27T12:30:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b1f62ff6eafd27",
-   "title": "S&P 500, Nasdaq and Dow set for winning week despite AI turbulence",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jejNFc19mUmdIUHE5bjVycnNVRjViem1Td2lBb294eXBPaC1HbWZmSWprNzhRRlAtTk9qbmlKM3p1TlhBZDNQUWg1Q2pDbWtrdmdmQUt6ZE11U01OM3NaeE9vSUxVeVZSVzdYVFpFUUg3YjA?oc=5",
-   "source": "Quartz",
-   "date": "2026-11-27T12:29:06Z",
-   "score": 9,
-   "category": "Tecnológicas"
   }
  ]
 }
