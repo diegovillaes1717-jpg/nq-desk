@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T07:45:39Z",
+ "updated_at": "2026-11-27T07:50:22Z",
  "items": [
+  {
+   "id": "6b5901a071b423",
+   "title": "Morning Wrap: Nasdaq rebounds from bear market threshold (27.11.2026)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLW9MQWR6YWJ4ck5NMzNHY3dweWhWOGw0M3JWZFRIZlJ4aW5rLTNWOXJvb21laUlPcW40NWNWSF9vMGR6cVlHNzBwN2NKcVJsQzREWWZ2LU44a1pRaUhxRktyaktEMS1jM2ktQ3FCcTkxcGh2TTFGVkQyM1NHa0lUdWlwS2dPMmNBblc0SEdONWlqRVRpQ3ZEOFpfR3VpNENmR1hxOGRNLTR0bVJUQjg0SDM4Z1JxcFlKa2VHdkV5NnBRUQ?oc=5",
+   "source": "XTB.com",
+   "date": "2026-11-27T07:48:05Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "663adfa9f509b2",
    "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
@@ -9,6 +19,16 @@
    "source": "marketscreener.com",
    "date": "2026-11-27T07:41:10Z",
    "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "9ff88854a0f726",
+   "title": "Dollar Nears 22-Month High as AI and Fed Risks Mount",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjhMVVVKNTBYeC1ySjhBTXNPZFhpZ244d3ppdzZFR0kzY2lNQlJFNWRKQk9LWVNCaENxTUotQ1pZZWtISVk1ZFBmSVh4ejgtTHhlSXdJUzg0ZWNtODNHdkRuWDNYSXZ4UGUyei1BbnhHai1rQThfcm9ZX2VCc0JyNGtWWlE?oc=5",
+   "source": "Serrari Group",
+   "date": "2026-11-27T07:33:11Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -239,6 +259,16 @@
    "source": "CNBC",
    "date": "2026-11-27T06:36:30Z",
    "score": 3,
+   "category": "Macro"
+  },
+  {
+   "id": "5d11c977b78bf1",
+   "title": "Three supply shocks driving up U.S. inflation, says Oxford Economics",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVhCdGhBV2gtX3labV9URkxmZnR5WmM2U094bklBZUN0VXd5UGxzZkxzV2w0WXdFanFoZDUtUnB6cWJvWG1LZ2QycWhuc3RFc3Vrc3JVcWl4SnhDZkYzX29pNGpmZHd1cHFKcUo1N1g2WnF0NEQ3VklqV0NaZHR0emV5Z2NWWWpibm9VZUtOaWkyOGdEMmtTa0R5ZHNmN09CeFV0alBaLThZRVU0cURlZA?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "date": "2026-11-27T06:33:43Z",
+   "score": 6,
    "category": "Macro"
   },
   {
@@ -652,16 +682,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3cb0a02ec3c35e",
-   "title": "'Good chance' of 10-year UST yield at 5.5 % in 2027: CreditSights",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-27T03:17:15Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "fa8cbf78294b2e",
    "title": "Gold Steadies Near $3,575 on Thanksgiving as Fed Hike Bets Cap Recovery",
    "summary": "",
@@ -732,6 +752,16 @@
    "category": "Macro"
   },
   {
+   "id": "3cb0a02ec3c35e",
+   "title": "'Good chance' of 10-year UST yield at 5.5 % in 2027: CreditSights",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmUzanlYR0pFaVM3N21OQzBlRGk2VVlGeWI4RnJlaUVLU3lCZklSTVphVE1tNlRBN3JIeGE0akgwdFdlak4tYkNEcWpjUmxBa1JadnNSRXpGdUtNTURQVjhYaDMzRHVhVV9wYWhnOEE2OHhRWWtiWGNWalBJQWVlS1o0cVFHRTZhNnN1cWctSURPaEowRWV1dGJGQzNja0t6NHFCY3pFZGRwQnQwUjdZWnZfQV9NbzB0?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-27T02:47:16Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "b3b3be6fab3d02",
    "title": "Asian Stocks Advance as AI Selloff Eases and Tariff Concerns Recede",
    "summary": "",
@@ -772,16 +802,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -820,16 +840,6 @@
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
-   "source": "KTUL",
-   "date": "2026-11-27T02:06:25Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a3025a884956e",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T00:10:51Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8db4d72f078e29",
-   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-27T00:03:54Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
