@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T14:01:23Z",
+ "updated_at": "2026-11-27T14:06:21Z",
  "items": [
+  {
+   "id": "55ca8753fd5003",
+   "title": "The Decline in Nvidia Stock Was Equal to 8% of the U.S. GDP. How Vital Is NVDA to the U.S. Economy?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM09XSXlGQVhhdWVOZnE3WFVtY3lDUlVYbnpPakR3VE1USmRjNHNnNVkzb2EzZGpXQm13cEdVVGNlSmdlMlgxcW5oaU05MGoyalFHeVpjbXVlN2k1cjFhRFN4YUkyLVVtaDVEVTZUYUNwZ2ZRc0JidWlkNUphSk9OaFBIb0tLOTQ1MDRhbjRkX201N1lpRmNRcVB1YVgwbThCQ3NkSFRXVlFGWlVwUng5Zl9jZEF3YWNuZ0haQ2VEMUxsak1JY2RPTEYxczJ6cVZQYnBoWA?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-11-27T14:00:02Z",
+   "score": 5,
+   "category": "Macro"
+  },
   {
    "id": "cada6eb15dbb16",
    "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
@@ -9,6 +19,16 @@
    "source": "Bitcoin Magazine",
    "date": "2026-11-27T13:57:15Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "508a39040e316d",
+   "title": "Nvidia, ANT, Uber and MU Draw Focus as Index Futures Surge",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bc3V0R3p0ZURXZmtjYWFnMVluN1k2S2gzRUFZRDJlNHdsLWYwakM4VmtYZnV0UThkanVmbHA1SXdXdkJVT0phSktEbjZEOHVNVXdULVRQT25EQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T13:48:44Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -50,6 +70,16 @@
    "date": "2026-11-27T13:35:29Z",
    "score": 3,
    "category": "Energía y dólar"
+  },
+  {
+   "id": "c3a9af55a5c358",
+   "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-27T13:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "1e70952c593dd2",
@@ -432,16 +462,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-27T12:12:09Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "513a219cc0d9c3",
    "title": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff",
    "summary": "",
@@ -532,6 +552,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:43Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "4271fc1d5f0f56",
    "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
    "summary": "",
@@ -550,16 +580,6 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "149e34a9e16558",
-   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:00Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "2aaf0db81834ac",
@@ -600,6 +620,16 @@
    "date": "2026-11-27T11:53:00Z",
    "score": 4,
    "category": "Mercado"
+  },
+  {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:50:33Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -1155,9 +1185,9 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T10:06:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "1bce8be05d856f",
-   "title": "US Fed rate hike: Why is the central bank turning hawkish as markets brace for more hikes?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWRoSmpBREFkZFVpM3ZhN1BoYVgtb0szUVVwTzNEYko0TmZSOVhiZUJ6MWg2bDRIenVtQm05dDRZNFNLRDZRQ3RPa1Q3SlpDbF92X0dHVzFMM3AxdHpMYnpTWTNFVHM5MXV4TWVEbnc2TTR4X0ZvRDRHekxRZ1BuQ1FTY1p2UzBKS3ZkNE9pUWFGUlJDemd5SGs2VDRtMFhjT3FVaDZUMDVkV1NIa2dTMGVmUlYtWmtZQkpWQ0dvN3AyWW1WSk16U1JsNDZyQ2I3TXF2WUJqLW9KcDBOWnfSAeQBQVVfeXFMT2FKVDV3TUcxZTVqSzVLY2lHMHZsaE5WUTI5cVdFZ3RDQUV0V2ZsdWRWbHdmeV9yNTdlZWN0X25uT2ZfMFZxbF9RcGdNUmdtZHEyRlc0RURveDhvb0lUVVNhb1JOaEZtTm5mZWV1em5EU09VTmFpYXEydElDS3d0aC00blFNbkdPNGhfRm1kSkN5enlzdDZ3cUxBQzVyaUdDODE2TWVhaWgzbXRxUURkV25QbV9faWVFemdFam1Yako3enJyMXZJR0lPN2F2VjlIb215VGk2WGFvR01taHhDR01QVXpJ?oc=5",
-   "source": "The Financial Express",
-   "date": "2026-11-27T10:04:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "7feccbe29a727e",
-   "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSy1sbjVvN19tRktuWFVXeGkwNzNPdThrUnFDOXNJVlNvNE5PeEstN2FITmlRN3VDTXRDZFZOSzU4VFF1aWU1S1pLRHBKWDhvMG9fZ3d3RmR6VkQtWk5tbnpFbldxb1VWNXhTWVQwQkxGU21FNHZOMHdrMWt4cnEwc1BvT3FsQXpqQmR6UG14dnlNdXFHTGh5R05tMWpsUjdjODh5bHZzcmotbEZEbmhmekp5ZnU2d2VFaXdZ?oc=5",
-   "source": "StockStory",
-   "date": "2026-11-27T10:02:04Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
