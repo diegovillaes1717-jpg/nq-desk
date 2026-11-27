@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T10:50:58Z",
+ "updated_at": "2026-11-27T10:55:42Z",
  "items": [
   {
    "id": "fe9d59d7ccc955",
@@ -672,6 +672,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "13a6be33b39619",
+   "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82a01DUHNCbGVoR3dxYWlCa2c3ZXNUdVFkVmV2MkFYWV9kVExUeDhFRWthMUJhOG1qOElLZjAzV3I2SFlwbk5LbFF1ZHpxV2gzSjZyVFo5N3hVc21YSzV1d0F0enFpd0c2?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-27T07:15:45Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "a9ca664b7a5010",
    "title": "How Apple Avoided the Stock Market Crash With 31% Gains",
    "summary": "",
@@ -947,7 +957,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBjcFczUEdNdkpXUFJHYldpUUpSMlpNM2IwTG9oRS1WNDg5SDZsa3VqT3NLT0tLdkdhdjIyOFRMNzBMMFJQTTYwbVAtWGNWQy1BS1ZtRW5Rdm5fSDJLaUdlTWNRSEd1VE1UOUE3WkRlWk5kRGFjM0ZHMWdaOVNZNmgwcGVUbnltM2ZUbVlOX3g5SmVrSG1UZmR1UTh0WTVIRmpDdG9BVHpFcmN5enYxcU90d3BacE1oS0w0RF93YVQyYWVWNmc?oc=5",
    "source": "TradingView",
-   "date": "2026-11-27T06:25:35Z",
+   "date": "2026-11-27T06:25:00Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T05:00:22Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "62fb9fb61b1dbb",
-   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZ2ZscktJdkd5ekUxc1ZuOFlqMnQ1bF9QVFhqMnFRcF92cFEtU2c4Um45NmdZWEwtUlpZVUxmdDNPdEpuVld5bC1IVFJfWlNmU2pTRURTVldORVppeXhaelIzRFJoSWNGOGdrOQ?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-27T05:00:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
