@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-27T15:08:21Z",
+ "updated_at": "2026-11-27T15:13:07Z",
  "items": [
   {
    "id": "e7c03c32cc505e",
    "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGRDaWdBN1prdGREU3JNQlNfVEJnRzdINDI0c0JQa2NBamdaRURfenBEZzFzU0U2bUlZdU1lcXBkUzNtT1NnZVhHaEZNeTZLd1Axdi10X0RsbWJRU3dHajFPM2xpWG93SmZvcklZbS1ZTFZMMmpXUXlURkZONzRRSk1oS0dtdlFDQTBNWnlrN2d4c2ZWUllvMU51V1dGTXlxQkdzc2hyczl4MV81azNyQlpKQUUzSVBab3dPQ3dmQjVrdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHgyNTBweTJJWGw4MzZ2M1BlaGVROG1hcnZhQUp2OUNoRERUM2Z2M0t4aF9wcmlZTWh2MVJlYk1YN3BoenFxTXBJT3ZGQkY4czlzU0I5MXRQVGZfVnFZUURWYUVJV0l1QXNfTDNRMm1ndGRRTFlWV3RIV19lTzNVRHFJSFdGRE1nT0RLSFlZYkJrUjJEUUEza2J6Zmg2X1NpTW91eF81TDJVTlNBTGlYeFJmeVFiSFkzMzBKakxlRk1BUQ?oc=5",
    "source": "Invezz",
-   "date": "2026-11-27T15:07:41Z",
+   "date": "2026-11-27T15:09:42Z",
    "score": 8,
    "category": "Tecnológicas"
   },
@@ -29,6 +29,16 @@
    "source": "MarketWatch",
    "date": "2026-11-27T15:01:00Z",
    "score": 5.5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3488b5a6d92dbf",
+   "title": "NVIDIA Short Interest Rises As Bears Move Toward September Peak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOekV5SkZlUWxtOVREd1RTWWxnNW1sZmZIV0VlbTdqcmJDS1UxSEZLbmZWbDJZOUJUa19xQkpkd3VZTmkyaWtkQkZZV3V6eVZya0pnalFYUlctRnhIZDdaUlRidjVVS2RkMmszWDZVQ0RveDN1MHpwTzZSZ0FkNl92eVN5OTJKbl9uOWVxQ0dESzlrYTVtN3VKNm9wWnpySUw4cUpuRlJfMVduT2xtWDVRUmlHbkwtWDNLNFh2bWtaMWRfZHp4N2tzSg?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T15:00:27Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -122,6 +132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "70730902da12ef",
+   "title": "Bitcoin Reclaims $61,000 as Tech Futures and Commodities Rally Together",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUmpNNkh0bTJxOEZ0Z1FtYUpxbENweklFLVpFRWw4MWtiT2JMT19va1lyWGNULVp6eVdRQXM1SUh0SndCOGJHY2tSVnktd0ExUWc0U1F1MW1DM1YyNkFKOU80VEJLbnN2WGJKdEU0eTJfejRYTWc?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T14:35:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "84aaf782430d26",
    "title": "Nasdaq Futures Lead a Broad Technology Rebound",
    "summary": "",
@@ -140,16 +160,6 @@
    "date": "2026-11-27T14:34:00Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "9c80145c9fdbf0",
-   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX21OOVBrV0FhM0tWeGRwZE1rbkpsZ2Jyc1pIZlBEa3ItNzRzX3NPMGtLODBEU25JM3RWLTFhYW1KYnkxdFNaTlFYR1JXOG5Ga2ZzblRzNzcwOW5sWXdBN0hKTUlCZ0VhQnJzcDFabU4zS1ZUSURfNjZSd2REOGVZTGhrb0JVaDl2Mi0xcUsyUzFRMERDejF0b2FlNlFpU18tSk1NQndoQ09ReGdXb2plUU55eWRsTTNSdno2UnVKTmxaOXU3bHVtZ09xaGRUMTNiZVZTdU1qSDh2bDFBRjR4QUJrcWxVeUlScHc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T14:33:41Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "e53dc69714e6cc",
@@ -229,16 +239,6 @@
    "source": "Schaeffer's Investment Research",
    "date": "2026-11-27T14:14:48Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "35ecd7e823c62e",
-   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1ZJZlljaHdDZVFSMVlmanM0SV9PTjk0ZFlOc1FCZnNJSDVZUGRaVENxLXBIVkFhRjIteUdoRHVoWHJKQzEzTWRJQzZyREJGWE1kRkpOWWtyU1V2SmxuQTRuMUZSVnAtdDJBS1VvQTRkWEN6STlCMXg2YkZmNEx4aFloQkZUREhVQW05ZVYtOF9NZ1BLRTNfLTJVdGJpY3JrYU53S0g0RXNySUNGZmxmUUtCMmI1LUVYMDNxWmtJYl9obDRQamxvd1E5MDhjRWlyLXo0REJIeFp0SW9SRy1aVE9Jc0RJTGY2bmc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T14:14:38Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -332,16 +332,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:41:56Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -382,16 +372,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-27T13:36:06Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "5753b7cd6f6b30",
    "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
    "summary": "",
@@ -400,6 +380,16 @@
    "date": "2026-11-27T13:35:29Z",
    "score": 3,
    "category": "Energía y dólar"
+  },
+  {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZk1aTEdndGZNNnl6MlZfTVlUUGpRZnpfTWUzTk9vSlZyNVhGak5WWmJHOUJVVlpva2wzMzVISmVtaVJMRWdfUEFDd1dtaUIyVEY4cWVSTkc5eWxuR2JEX0NPazA0YUtnSEtMMlE1MEdoOTA1V0RDWkdyVTJkV2RuV1QtakFYaUhHZE54Wm16eUNvRURWbHdkREVlYWdIQ0lteGdPenl3YlZndmp0NGJRN3hKYWZ2VlVyczlMaXc1TzdyejRvUlRSRzlDMGJYWXlOOG5qQTJCWjA5TGhTcm1TcDJjMU5aMzFXV2c?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T13:32:42Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "c3a9af55a5c358",
@@ -430,6 +420,16 @@
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXRBYXZ1Ykx3UVlReVhYRng2dDR4MVFZRlpJc0lyS05kWnFiMGsydmg1MmxIWlBsZUk4eE5qNXJVd3Z6M3RhSGJRdUNzQVpDTDFuWTI3SlktZWgzVjNEbWRyR1UyRC04UG9JcEJvbjhHTVl6R0N2MHM3S3RUcW4tNkx6Uno5OWdsOGVaWjJpR2x1bjNXMjg3VzlEZmNQYmt0MEFQc1VhdEgybXAxVTFCWVFoUXJsQUhnNVFXV05OaUJxN1BzdTBrMDYzT1RacEdER09kYmwxU2NsZUtv?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:25:26Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "310e13bc87dc2b",
@@ -532,6 +532,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "8bbf7a73293ee6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T12:56:54Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
@@ -582,16 +592,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8bbf7a73293ee6",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOW1qNXBKZTFULTY5RGhEQnFyaUVNWDdzaHBxM1hfZ1V1MjBtQjV4WW1UemNteTdQUGl2dXc2VVpEbHNJRFd6d2o2U1FUQlQ3bTRkdExVZVNzQjhhUHZoa19RcDhXTWN0R2hwLW94aE5XMi1LdXh0cnpzWXFSQ2NOdzA1dURBTmdZOXQzN19BbTVqZGdHWkdkN0FmdldOeG9sUFZwX2FRTUgyeWVJR0RHTC12bGswU2VyQmdBTVdn0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:49:05Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "f2c5815475d19a",
    "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
    "summary": "",
@@ -619,16 +619,6 @@
    "source": "FXStreet",
    "date": "2026-11-27T12:47:57Z",
    "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "62fb9fb61b1dbb",
-   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T12:46:20Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -822,6 +812,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9c80145c9fdbf0",
+   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX25FM3ZPYUY1bHNFLWRUV1JpNHFVVXUzbGJ3UlM4TFpMLUpxSzhScWlaTW1ySmxNZ0ZyVmxVNU9UTVBqNjlUZUhhcXBrLXFTUmJtSVpDV2RwRl9kbWJLSnhaRnMzeWxWQUpTUFVGUjFGelBBOGZ0b09VRXIybklGaU5DN3VlYmlvY3hQU2EtMWpwVlBORENERkpGYjMtaGNrQ2dRNXhEaVhScWpZR2lMYkhwV1QxTVptemxnZ1RFX0tZNFU?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T12:16:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "faa1aca1eea69f",
    "title": "Why is NVIDIA stock rallying today? By Investing.com",
    "summary": "",
@@ -890,6 +890,16 @@
    "date": "2026-11-27T12:03:54Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "35ecd7e823c62e",
+   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjNDOFFMQXEzTklTbHhTc09kNGc3RTFuQ3NaXy1rSlgtUmRKdHJZb2VNVUh1NDNheVQ3eW9sUERNUlB6eFZpUHNNdlUxZmpJSVl6V1lJMEZOY0Z6WXBpRFUxaGFwbDlhQ2lRelp0eVFFcFc2clNJZ2Jua1o2MW55Y1haQmNncVBQQzQ0?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-27T12:03:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "64d3b084bee0a9",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T11:13:22Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "5ba6fb58fd7f88",
-   "title": "AI hardware stocks rise 5.8% before Friday’s half-day; Nvidia up 4.2%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcGhGZVk2cEZWaGp0alBWZ0Rsc2RHdGdpNnpRdnBzcEFjU1lSaEZRLUR1OVBfTFBtMGgyUnkzMWJGc2dIYXdEUVNFdE1sNFM2UnRZa050ZmVCWWpHM1hRa3AtS19CODNaRzg2SEVvX1ZfRFkyV1ZZd0VDeHd5X2pzZGhHWVhRc1NqS2Vv?oc=5",
-   "source": "Techi",
-   "date": "2026-11-27T11:12:15Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
