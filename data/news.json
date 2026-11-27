@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T02:32:16Z",
+ "updated_at": "2026-11-27T02:37:06Z",
  "items": [
   {
    "id": "da2b85d73908a3",
@@ -200,16 +200,6 @@
    "date": "2026-11-27T00:39:00Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "769164e05e97e5",
@@ -1012,16 +1002,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fd63a55abf4972",
    "title": "Fed December Rate Hike Odds Climb After Hot Inflation and GDP Data",
    "summary": "",
@@ -1200,6 +1180,26 @@
    "date": "2026-11-26T17:31:02Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "c2480b37a87868",
+   "title": "Denny’s Backs Jensen Huang’s Nvidia Comeback and Gets Told to Stick to Pancakes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0ZJTkd4dU9kYjN3dlZFM1E0WFIwV1UwcmN3Y3lscWJtaDl5Qkdzd3l5dWlxLTJ0TVRuaUlzb2tXSHhHcm5neEJoVXpmYWpLSjdHSWlwUGxQMmNmTER0ZkVHTXVmbk9qLVpOZ3MzN1NXQjZXUDM3VDA1cUxEWEE2U2VfNXdzLTB3alU4bDVhSU1YdHRlM18xdlM2YzE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T17:30:18Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "9a5b3c74d8f46e",
+   "title": "Fed Rate-Hike Bets Deliver Fresh Blow To Your Holiday Budget - TalkMarkets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5PQXVUZE1NWkhoLTNmOVhqSWxuTmhVa25XNk0yX1FJX3VidWF1LXMwU25fMmRwWnVGX18w?oc=5",
+   "source": "Howl.Link",
+   "date": "2026-11-26T17:30:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   }
  ]
 }
