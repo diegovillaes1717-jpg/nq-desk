@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T01:20:49Z",
+ "updated_at": "2026-11-27T01:25:35Z",
  "items": [
+  {
+   "id": "095fd792e9496d",
+   "title": "Euro weakens to near 1.0950 on Fed hike outlook, de Cos poised to lead ECB",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2pkekRWczdoUzdPRTlkeGM3MTBPVXUxTmM3WGdaWWZieDg3MVZkMDBUQkd2eXluX3ByRWx6aEFvWV9wb0J6d09tSWJSaEtDYW0zUE5mNE5RUWVta1lySzQyN1ExVmhUb3d3NnFoUHpDQlJ1eTVLVjRCZEVZcmI0M3A4VmV2MldqSHNFVFZSRkhidUVJSUd3bExORlc4dG9nZDVvelBwWjRUSGl6czJfUjUzVnVUZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-27T01:19:34Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "c8a0ee9d9df1cc",
    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -20,6 +30,26 @@
    "date": "2026-11-27T00:52:45Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "ce3d6ef9c42a3d",
+   "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVY3RVk3LUJFcThpRWh4YnNWUlZHT1JyQkwyMElwWEdNWmVRMDV4U2RTcTkydUZmckp5Rjl2LXhwV2I0N1JpZkdtZFFBZ2pURmQ3dUJJdkJrQWlSYXNPZUxZeWZfZlZSV2JGZVBhemk0NmxkbW5pbHRjbW0wUnBwWlRXREdaeW1lMnRaNjlESU1lSTNGSDlkU1gtYmVqRU9KY21Jd3RiaTlYQ0poNUNHSFJyVFJZQmIzZHc?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-27T00:39:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "769164e05e97e5",
@@ -762,6 +792,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "e7d604cd8d5229",
+   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T18:16:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -789,6 +829,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1150,56 +1200,6 @@
    "date": "2026-11-26T16:44:31Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "ca5b92f034faef",
-   "title": "Gold Price Forecast: Can Gold Recover to $4,000 as US Inflation Reaches 3.8%?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa04xRXB2aUxyR0xYUVY2T3ZNVXVKelN3Q1pycnhQODZRb1lMRks2NHVmSmRFM3NsWnRDWm9pOU9vc3lxUS0tSkdpLUZ0Yl9IR3lUQXdXcTU1NldJODhKR1JJa3lhejZWLXQ4YmxQdVhYZ2FYOFB2TUd5R1BDakJHWV9YanpuYXQ2U1Qtd1NmRFRTUmhTcnRpVjlTaFROamNIU2Mw?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-26T16:40:20Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "d8b53d571544db",
-   "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Jensen Huang Get a 'Second Chance.' Here's What Theirs Looks Like After a $117,000 Gain Nearly Vanished",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdHJtLXJ6UGtVUXlGN2ZaanMySTE5ZEwwVVlQMTNUUWU1Yzc1UEJYVzVmTl9IZGhWX0w0ZWtJUU1BbmJHT2ZoOVljZ1RmaWpCcmNVQ2lWOXJ6ZXJfSWxBOVBrZW5jT1hXT3oyelN5Q3hudHVvX2R5TDhESHpkWXV6MVVCRTBTbkE4SGptRy0yb05LQUNQWTlrQnA3MXZlWUpuQ08xWjhOXzY3d0xGRlBCMG5mQmp0U3B5cUZZV2ZQTVJ6QVpsblRRN0pZS1U2eHhvR3FFeC1fN01qa1JQVG9wUERnYkRWelk0VlRyVDZ4OXQtNWJjSG1JMmJiRnJteVYxeG1ja0R1dFJUeFdkbWJIVWU5ZGxxb0szMVBoODNxQXpkZFE4NzRldA?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-26T16:38:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1e60e83ac9f657",
-   "title": "Mark Sobel: Fed has missed 2% inflation target for six years",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUi1vZE93UTF5ZnN4OWpoaldDSnNDMGxOX1J3aGFVMlFldUZHSjY5T2tOdmpzOWpYVTJ4dFgwdGFZbDduS2ZkMVduWmtlU2c2WkhGbV8yV21jZFpRVUdrUC02N0N3aENya3NKODhxZHU3X0R2VlUxaDg0Z1plcnVvb3ZUcnh2TE9teXFadjJn?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-26T16:35:46Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "19ffef19b95ca0",
-   "title": "Jensen Huang Apologized to Nvidia Staff in Company Meeting",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3laNjFsUFVJOE95cDVpLWpTckJodzA4bUwzNE5MVnNOUUczcGRuN0UzdWxHSVN3RUs3SENObU8yLW9iSndrQng4NjV1d3REU2pCVmdJM2FVRVJvRHhjUDB5TGFrT2c2MXFzSnh0RFZkQlNvMTBNbDNTMFFTdjVxYlpsRWZnY04tUUlGbENYWFRoMlZ4aXBEYm5aYjQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-26T16:34:05Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fbf91d8c2a4193",
-   "title": "Trump Calls for Probe Into “Fake” Economic Data as US GDP Growth Hits 4.3%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-26T16:30:20Z",
-   "score": 3,
-   "category": "Macro"
   }
  ]
 }
