@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T13:23:09Z",
+ "updated_at": "2026-11-27T13:27:53Z",
  "items": [
   {
    "id": "e84284097d3f2c",
@@ -20,6 +20,16 @@
    "date": "2026-11-27T13:19:54Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "aed85069d8da0d",
+   "title": "Green Friday: US stock futures surge as the AI trade comes back to life",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazVBeDl0ZTJ6T2huNkVyZ2xsYUI0MmVyV2phX0tlM0E0YXZ5V3FJUGowcG9ZOGhZanVNMTJLbGhWMzE5ZnBJTVlqcmtPcVpGVXcxSTBEbm04ZkNCcGNDNFFXQnZqS1h0UXhtMnVrT3pyNDR5bnY4QnctTTRVZUJ4REo0TXFERW13cUhQVHlPbklYbVZjNGhXeU9iaXFhQnZTakFybm9raw?oc=5",
+   "source": "investingLive",
+   "date": "2026-11-27T13:15:37Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "769164e05e97e5",
@@ -312,6 +322,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "faa1aca1eea69f",
+   "title": "Why is NVIDIA stock rallying today? By Investing.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNllFY0xBS3o0T2VPSVBQQlVEc0Z1MHZPdDVhVUdIN2J3Y2JoNkt5d2ZTangzc3gzZnExTmUweUtMQl9yRGlXR3p0N0diZXUtcHNSSEFNcTVJdGliSEl5UXpmQmtWbzNlekRtMTRZZ1hqWTVEVFR6azlhNnVqeDBtVXdhWW1TZUlYT3FvUmpmZWxnUWxaWWlLMVlLSQ?oc=5",
+   "source": "Investing.com Australia",
+   "date": "2026-11-27T12:14:29Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8d4f295b086b4c",
    "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
    "summary": "",
@@ -440,16 +460,6 @@
    "date": "2026-11-27T11:55:41Z",
    "score": 5.5,
    "category": "Macro"
-  },
-  {
-   "id": "c9a4b133292aa9",
-   "title": "Stocks Bounce Back As AI Jitters Ease For A Day",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2VFZHdKSWRKVW5RZ3ZGcWE2Sk15VVBWdjJRNHhjQkFYSVNSSEVEdE1yTk85dkFoZC1XN1Mtb3NUa2FtQm9zakxpUWQ2LVdaemRzUFhwaFZqcE1sdE9ILUtFb2kyNTFkRENKeVlKc2l1TlFxTllTU0tCNjRvS256bXVn?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-27T11:55:33Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "b54c41e19003cc",
@@ -1142,6 +1152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "aa2b2dbc31381e",
+   "title": "Global stocks rally on AI rebound after bruising month, while Treasuries dip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0VaN05LcnVJU010NDZic0lhZF9LWU5zVTdqdmhrTlNYT3J1RGVqUGp0NVlXNkhtaWJRVzFnX1N4RUMtdzNUUkM5dTdLVF9nYWsxSWR0aS1ib0wwaDlzVml4ZlFBVHpBM2ZZYThjN2pJT1I0ZkFBMFZNVlVPbzl0aW9Ub0VjVjZsa0pleENjWGNmNlJpQUtwT3Niemd5X05aS3NLX1h6TzlXcmRkUEpkQnl6NUZmSThiWW9EQks5UnBDOUVISUdiSHoyXy0telBHTUNiSQ?oc=5",
+   "source": "Free Malaysia Today",
+   "date": "2026-11-27T09:41:00Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "c6b9fa96d55e55",
    "title": "NYSE and Nasdaq Close Early on Black Friday 2026",
    "summary": "",
@@ -1179,26 +1199,6 @@
    "source": "WSJ",
    "date": "2026-11-27T09:34:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c28cee13634543",
-   "title": "US Treasury Yields Jump Early Friday as Demand Likely Under Pressure Amid Premarket Gains in Mega-Cap Technology",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONkJsOW5lWVpzd1Z0UUxpSllSbEpqZkhHS1ZxX2FSMy04eEVXdlVQOHJiUmF4Ti12MldxRUFsZ1g4X3JrYmhIR2JRb2d0YkNkVjU0cDN4bWp3YkFsSUtySWttWmFhMmpkU2F1YVFmSGVocFJZSlFacFI2YlpNenZkWlJBYWpaeV8tekxNZnh3by1GWk1YRlVMd1p5UE1aTlhvM25ycUZXRENCcWdKYlh3TG1YalJ2VXlJNlFEUHRVQzF1U3Y1djFEb0NubXlUeUNGMFVXX090cF9Yc0hWdDdSd2pxdVBsWlJC?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-27T09:33:19Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "a5724f10efabde",
-   "title": "Why Sam Altman Needs Jony Ive to Build a Physical AI Device: 'Father of the iPod' Explains the 'Contextua",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3kyZGI4c0d2UkZiMzVGQXhpcG5TWnFXNkhxWVVRNVRHOVN4NF9zZFhpLTdULXh1NktLanJhRFpzT3FLcGhOY3VwQ2xuampNYXJMUXhUaWVGRzFPMGMtUW9MYjFOUlFMY0pkMm1SaTI0dWx4WmpUWDN2c2VOcVY4WmtUanY4TnhQb3JVZDYzb0V0alBqQlU3V0xFUUhZSU1tOTE1ZWlsSnU1UW9WdU12d3hRUGVCVm9nbWZVeWt2c00ybXhmNklNbkduMDhWQ2JrZGVfU1MyY1ZBNVM0eEY1d1pyX3VLR3ZDR3dtbDlaZnFwSFpibUFPY00xb3U4dms?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T09:32:30Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
