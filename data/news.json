@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-27T06:01:36Z",
+ "updated_at": "2026-11-27T06:06:24Z",
  "items": [
+  {
+   "id": "52409eafdc1e0e",
+   "title": "Fed Weighs AI Selloff Against Inflation Fight",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDY5cHVDR0FmUVFScXlRNzZBQ2xQcnNVb21Vc3BteUJNR3F2dE5sQVNKekRIbFl2eXNjLWdiaXN4dWE4dGQtSElFRHBIWnlTd2x0cTh0bzJzX1dFVGlYbmxPVlNZMk10Vmh6dFZmdVlwQm5hajFsNUNsRjIxOWRQdlh3S1BHN2xn?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-27T06:03:30Z",
+   "score": 13,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "20950a8a49888e",
+   "title": "Kosdaq Surges 6.7% as Chip Stocks Lead Asia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzRlbmV0ei1vS0RfeXdnME9fbTFPMlU5S0xkeTRJdzVfVzAteWxTaFRGRlUzazRBUGZqQmFXU1JONk12RG9Nakc2QnhNNy04cTRvZmpMY05kVGxRMXBTQm1fY3U2V3pDNlJrX1NFT08tWUR0RFBVSk05VWxhWXYxUkp2ZDJ1VkU?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-27T06:03:20Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "363ee8d566b225",
+   "title": "The Nvidia Scandal Exposes a Bigger Failure",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVVhX1RLVGl0MGZ0bXYwbFVXRkZBVzZYT2YyNDJMd2FxZHhjVjBkRmVwbFFSTThEbWZnREpPdVd3NExTWERFTldPOEttRGw5WHlZZW8ydHlvMTV3eFg2djRPT1lodHhvS21tejUtNUthTDNndGplTWFIRHFmenB4SEV4Y0VxM1U0TFVr?oc=5",
+   "source": "The Dispatch",
+   "date": "2026-11-27T06:01:42Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "c0c417f53d6c96",
+   "title": "Jensen Huang’s return to Nvidia will not dispel AI angst",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUtZTExuekJjNFJMRU5wdk0tUmswSWpjbmJjQ3lZSHB2VVNTOUV1YVNrcDFjWDk4ZGhJUXZHRHVCSU1HV3pvTXhnU1RVZXB2azZMQW1FNjZPM01OakpLWlJzWnZGQlZkT2QySkxhQ0I4RnBVem1vbXhBVGZYbU5hUE9KMHlLbFNyUUxvTk5CdGlOOW80TG9NNVcyWU94dw?oc=5",
+   "source": "The Times",
+   "date": "2026-11-27T06:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "87d784c9d2bddd",
    "title": "Market Pricing Favors Two 2026 Fed Hikes Amid Inflation and AI Risks",
@@ -362,16 +402,6 @@
    "category": "Energía y dólar"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -443,7 +473,7 @@
   },
   {
    "id": "027138009c00b7",
-   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
+   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZQWGhIUVI5bDVUSHRsWWVzTGZGSUNxcS1PYndUUUZVd0g0Y3BUUTlzMjE2T1FrTENfWjkxdkYzcGxfdHpLSmF5UlRIWDV6dWp6R1RJMEl1VThSWUpuc0VpQkZjbnhxTjdVV28tamhPdXBkSy12dHh4cFhkSWRMN3J5R0hEMVIyZWd4bGJkczZkU01YY2dF?oc=5",
    "source": "富途牛牛",
@@ -1082,6 +1112,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3e9ec17da1810f",
+   "title": "Trump to visit Arizona manufacturer of semiconductor chips, including Nvidia's",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2dNdkwwaDE2YkhqYkRWTjJqNWozQzM1dmc2Ymg5TUR6eEVIYVZiaE5YXzNMVGg3Zm1yZW1YRzd4eTBsaGJaeWdnV1JYb2R1U05Hak9TbGdhY0xjaWJpTktHbnlPbXdwRjFZWktOdXU0ZlRXNkNsd0ZXQUczQkY3Rll1Zi1GdEtfOFJOTw?oc=5",
+   "source": "CBS News",
+   "date": "2026-11-26T21:46:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "73b00b2bf9eeaf",
    "title": "Treasury Yields Fall as Corporate Debt Risks Persist",
    "summary": "",
@@ -1160,46 +1200,6 @@
    "date": "2026-11-26T21:13:17Z",
    "score": 3,
    "category": "Macro"
-  },
-  {
-   "id": "ec642a75484768",
-   "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckJoTzRUZlhpcnZBcjBQUDdDWGEzMmdPOGJVVjZLOFFmaDZOY0pJN1I1MGo3VEgyb1l2eE9RRzFhOFM0ekNfV3VqdE01UHBxX0pQMGtqT1JJTWZLbEE5czVWYXpOSm93bGxCWVRuNU1QSmh4d0NBdUVGWTVuNFcxc0FMY0NCZHJXa1lBRGp4Ym42U3FJckFBQjFGZzlPMEwwYnphal9sa1UwQ05lNTlMRA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-26T21:11:03Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2fef0e834ed851",
-   "title": "US GDP revised strongly upward, Fed’s inflation gauge hits three-year high",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1NVWnpVLWltZzFIcXhuX2dyaWNsLW9WX0NBR3dNSTJfMHpjNXJ0amJBS2VLcmxGUWN6MXhZaUYtWHNpNHQ5TEZEazR4TVpJT0hMMmJkMmRPRGQtZHJ0SUo4TXB6TENqZGk5eE5EdWFRUG85WDNBRDRIcEw2LTRtRHZaZmtzOWtoN0pKQUN2RWdWU0p3Y0N3YjJRWTRPSVRIekRRQ0lB?oc=5",
-   "source": "Borneo Bulletin",
-   "date": "2026-11-26T21:05:16Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f7fd12f326f057",
-   "title": "Nvidia shares fall 5% as board opens inquiry involving CEO Jensen Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13dmhHY0FwdFNqYkl1ckdWS0lJQXV1NXpXSFdjdVJlQUJYMlJyQ0ZIRWVMS3ZtMFVoODNQVDdTWUZJRUtNR3o2MUpFZGJtc0Noai05R29TQTRGS2tNYXg4bDJ0aVJqN3hCSDRFa1NWM1Faam45cll5ampJalBDdw?oc=5",
-   "source": "Crypto Briefing",
-   "date": "2026-11-26T21:04:41Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "76e19dd493f2fe",
-   "title": "A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ZVh0VldaeDExbVJPYWo1UVRfVTU1Vmx2UzRaemZEWm1lYW5EdXlmT2xmQnRQYkVjWmt0cTdhQnBXTlJTRFJpZXBRYkRCUmI1WWVSd3htc0NuYl9tMkRTLVZ1NDJGWjFCVUE?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-26T21:02:19Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
