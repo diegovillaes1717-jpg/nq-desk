@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-26T23:59:36Z",
+ "updated_at": "2026-11-27T00:04:22Z",
  "items": [
+  {
+   "id": "2eaab597c248d4",
+   "title": "Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1kxdW1pZHVkNmtuR28tNnEwamVja2gyM1VzZEZTNEN1RVg1ekdWMEg1X3BPeHVoZmt1cTV1d2FKRVZyS21fU1JXVHBpZmo2VUVySzhTVWdPRWxkOTFwdzVVclBvSkdzVUpqYnkxazZObEJ6RXBmTFF0Vkh2Y0RnRHR0TW5qRm1saVoyaVRLcXB3bWZaN1ZZeDhuZTc1cEVrQTFndTJET25XZy1vOXFoMEozb1hFcjc4M2g4SlhjX3p0RENvRUQxYy04MVF5QQ?oc=5",
+   "source": "Eurasia Business News",
+   "date": "2026-11-27T00:02:44Z",
+   "score": 7,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "bc557b37adabe2",
+   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNMSFZ0MzlfT2lhZFhGVW1yZFI1bzFFd0MxS0NRTDRGLUJnVzQzT3Q1T0YzNU1GVndzbDdkbVMzNG9LZGF3dDlNV2FFcHk4TXVadmhxQTUyZ1o1eUh4M2N6Um1NMjJjd29pMHBaWnktMEZVRjFQWmVZM2ZERVVjQ1NWU01RZWswbUdoVW9INUZpVGdQWnczLUw0NXQ1S0tpTW9RTTBhTUpwYllzb2M0Z1k4bldibUd3Mzdlc010M1k?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T23:59:08Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "e3815709180dc1",
    "title": "Fed survey shows growth, sticky inflation",
@@ -612,6 +632,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fd63a55abf4972",
    "title": "Fed December Rate Hike Odds Climb After Hot Inflation and GDP Data",
    "summary": "",
@@ -752,16 +782,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T17:35:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -839,6 +859,16 @@
    "source": "Proactive financial news",
    "date": "2026-11-26T17:16:41Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-26T17:15:02Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T15:34:08Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "769164e05e97e5",
-   "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-   "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-26T15:30:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "35e186ee31d22d",
-   "title": "US Stock Market Futures Rise Ahead of Black Friday as AI Stocks Rebound Globally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51TElmZm1DUkloUm5nRUFRc2FYQlJjZWhVVVB0NjZJUUI4ODh2RWFEYjJLVE1nM181dzVveTJtNHZwZTlLV0x2YkM2NGhRcktVWmNMbWJ0N0E4LWsxdzVvUDNuUVNBVG5nN2Z3Zjh1TXU2MER4aTdOZUtrbFFFbDA?oc=5",
-   "source": "Stocks Down Under",
-   "date": "2026-11-26T15:22:01Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9afd068b917dc7",
-   "title": "US economy roars ahead in Q3; inflation remains high in October | Gulf Times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeS01Z05TS2pZQWJ3X25fT1pDWUZsRFZPd2lSRllRcV96bEFlUzFtajNVbjZObE5OUWpmcUhzSDNBMUc0MkR4VlNEX0UzNDluVi1MVllIYXJidzA2M3d5ci1XTDJNNGhIZmhtU2ZQMlFsZjBfUHZmQ2Jfb2RhQ0RpNzBLMmJNWDdfOTFQRlo0dy1OR0NDa0RlT204dXpJY3BPM1VFZDJwbEp5WnZTTzg4Q2kzRdIBuAFBVV95cUxPRGhaazZxVW9xUUo5dGVVeTFLVDkyT0tsYnJpSjMzazFkakR1aXBFMU9ldkYxOVJrdC1Md2NyanR2SlZSOEllUUtXZkNHYkplT3RacWp2ektOZ0hwS0RIWk1sTGVIWUpyQTRBM1V3MUI0U3JUVDhTSm1VNHN1d2ZtS1p4eDhrYmFzSVVOd1ZDbndqTXdWS1pWS3pINmM2NUxKbmg0MW93eFpuM1dtM0QzN3VuQ1VRWWpJ?oc=5",
-   "source": "Gulf Times",
-   "date": "2026-11-26T15:19:00Z",
-   "score": 6,
-   "category": "Macro"
   }
  ]
 }
