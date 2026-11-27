@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T00:18:39Z",
+ "updated_at": "2026-11-27T00:23:25Z",
  "items": [
   {
    "id": "2eaab597c248d4",
@@ -29,6 +29,16 @@
    "source": "شبكة تواصل الإخبارية",
    "date": "2026-11-26T23:57:55Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "b85147f2586f1d",
+   "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-26T23:53:35Z",
+   "score": 9,
    "category": "Fed y tipos"
   },
   {
@@ -245,9 +255,9 @@
    "id": "f5896dc1a357be",
    "title": "Nate Silver predicts Trump ‘absolutely’ could be impeached over Nvidia’s China chip sales",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUEyOVFtYkFUMXBYQmtNbnVaOVJERGxZWmVFM202b2luUmNiRlRHck5vQm9nTXNCM1YtRG9NelJtVXZwd2dHaVJIdno0QlB0N2xaZFE0TDZESllxd0MxTjhKc0hrZ1hsLUd2cFFib2RVeFBibXV6eHVuamtReXdZNWF2TjlqTE5sTzctTEktVHNnLXRoamVwQUhFYUxvVmcwUmh2VklPd3pMTTYxX2VUOEd5bTFiZEdzRkE?oc=5",
-   "source": "The Independent",
-   "date": "2026-11-26T21:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdDb25hLTZMd1VieS1Fa25JYVgwQU95eHh3c19TclQtUmxIRE9YRWczbzVfY2pxTE1MVXNYTmsyeUV6LXZEZmRkdmZWNGFTd0hXY2RCSU91TVU0dDA5Slc5X1lwbEhQLUtyRUJBXzExNWU5aW01endXS0tqc3RVQjg5SnZjNFBNempRRzN1dzVvd1UwVkFPdUU0YURGQQ?oc=5",
+   "source": "Yahoo",
+   "date": "2026-11-26T21:51:48Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -552,6 +562,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "cac21a3df107a3",
+   "title": "What are tariffs, how do they work and why is Trump using them?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+   "source": "BBC",
+   "date": "2026-11-26T18:54:51Z",
+   "score": 4,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "b5d92326d57d58",
    "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
    "summary": "",
@@ -669,6 +689,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -812,6 +842,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "bfd4619c36fbd5",
+   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T17:35:02Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "da4b1022db8074",
    "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
    "summary": "",
@@ -887,18 +927,8 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkYlFhdDJJbEpZV2lMYW9HQUs2QmhwNlFESkRDZkpudE5DT1UzWHBZemhNT3BSWHlhUmFRUE5kaWVlYkh4X1lnUm5vMk96OTVnZjdHd1ZDMy1NX1dIcWw2MV9ZeFc2a2puNzVaVVpn?oc=5",
    "source": "Proactive financial news",
-   "date": "2026-11-26T17:16:57Z",
+   "date": "2026-11-26T17:16:41Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "bfd4619c36fbd5",
-   "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam15LU5STTNoTnhoOGR5anhxMVNYMnFUSHQta2tOM0cyYlM4b2Y3T1BsUklJYUR0NGRpNUF0NFdIOU5Gb29FSENjQXdoUzc1SWZHWXJVcE9NbFAxNFJ5RDBDR2w4QzEyOWRtczItRUtTc2luZkhPQlV3azNFaVk0WlFNaHZoaU54R1RLY2RWVlRjQVVTeUpXclJCUE9DYXkzcE9TTGhNbnY5Yy00ZmotUkhOMl8tUENLQXNfZlJOczY2QjQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-26T17:15:02Z",
-   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1112,6 +1142,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "73d377833c8069",
+   "title": "Global Stocks Rose As New US Tariffs Looked Manageable",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEV1bE9WXzJ0bk9zcGpHNkhuV1ZYVXJDTzJWbXhKc2laU3k0OWRVOGRLRGE5SlVVN2M2ZF9SRzRCaFMxSDNQWXMxX3JiUVZEamREWFFoZ1hBbVRHQl83UGN5VmhuX0taYUxrTV9fR1NHUVFoN2ZxZ2QwczFpSHQzaXd1WmhoalJzTk9Z?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-26T16:19:51Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "57521fded165a8",
    "title": "Trump Keeps Global Markets on Edge as Stocks Rebound and Wall Street Takes a Break",
    "summary": "",
@@ -1130,16 +1170,6 @@
    "date": "2026-11-26T16:06:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "73d377833c8069",
-   "title": "Global Stocks Rose As New US Tariffs Looked Manageable",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEV1bE9WXzJ0bk9zcGpHNkhuV1ZYVXJDTzJWbXhKc2laU3k0OWRVOGRLRGE5SlVVN2M2ZF9SRzRCaFMxSDNQWXMxX3JiUVZEamREWFFoZ1hBbVRHQl83UGN5VmhuX0taYUxrTV9fR1NHUVFoN2ZxZ2QwczFpSHQzaXd1WmhoalJzTk9Z?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T16:00:43Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "18099a504342ce",
@@ -1169,36 +1199,6 @@
    "source": "KuCoin",
    "date": "2026-11-26T15:54:21Z",
    "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c065c492615b83",
-   "title": "The Fed Recently Held Rates but a Hike Could Be Coming. Here's What That Means for Your CD",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbWt4b09XVE9SU1pLaUZXVUZxSGhtVlpGdzZoeXZBSVRuR25DcjEtbkxZX21JM1NPeThJaDBxdGtKcXJ2U3dyYWkyZ2ZTdzNlSVBMOFZ0UGlnUjh4WHppQ0RBOA?oc=5",
-   "source": "money.com",
-   "date": "2026-11-26T15:49:07Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e7f6edc988d0ad",
-   "title": "S&P’s NVIDIA Warning is Backward Looking Governance Theater That Gives Everyone an Opportunity to Buy at $150",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3BILVhfUlhTUXBIWVQ3THFMX0s4OWpnd0g0M1VBMnZJeDdYOHBTaERHcWM1Vk82cXdSY1dGamp1VWo0WnlTYVkwUkM2SkpOcEJrZWM3V2NHSEl6T0dLQnVHRC1lYnVuVEx6VEVWSzVJakVUR25oM1ZSTURYdEloSC00UDRJM1dqT3liaGk0TG5wbHhmVmJPU21Fd1EzNlU?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T15:45:38Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2ae0afebc4eacc",
-   "title": "Silver price today: Lower Treasury yields lift prices toward $42",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTld1NlJWRXZUODQ2Y2I0MkFwam81eW16UlZ2c2VWTnFnZjJOaHdLaXp3bVMzMTduTDNZaFpUdUJjdHpjZmtPeWxIZ1VpUHFQRUlBelFIcmdaS2ZYTW9tUXc1b3RZWGppdlhpbnY2S3RwWUlsdnZ0eXZRWGNkRkh4LTRrVEdlUXFaNHB5RW1HXzFuNXc?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-26T15:43:52Z",
-   "score": 3,
    "category": "Fed y tipos"
   }
  ]
