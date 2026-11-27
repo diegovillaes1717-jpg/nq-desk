@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T11:10:00Z",
+ "updated_at": "2026-11-27T11:14:45Z",
  "items": [
   {
    "id": "b153571465fe03",
@@ -79,6 +79,16 @@
    "source": "TIKR.com",
    "date": "2026-11-27T10:33:03Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "2f008829c8b0ac",
+   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T10:32:18Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -442,16 +452,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "67de4cf87cec24",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
-   "source": "Yahoo Finance Australia",
-   "date": "2026-11-27T09:27:21Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "91886cbd3ef487",
    "title": "Nvidia: Sell The Rallies, The Parabolic Gains Are Gone",
    "summary": "",
@@ -642,16 +642,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "be043af9bf949c",
-   "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T08:08:01Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9f3f29fa58ee6d",
    "title": "Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, Gold as US PCE inflation rises in October",
    "summary": "",
@@ -707,6 +697,16 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
    "source": "Reuters",
+   "date": "2026-11-27T07:34:00Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b7fe6000275a2c",
+   "title": "Nasdaq futures surge as investors pile back into battered AI stocks - Columbus Ledger-Enquirer",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOV9TQ3pHdlNvWlNMR1R1NGJyTV9NZ1hCYXFPb1dvVGFoRHRRbC0zZzlpTU02MjhmS0xzV3hJZzdqbkV0RUtsMEx2b25MQ21kemU0Si1JZHhUWFZaSDF6el9QUzVUblZsZU8zaTlXcFMyMWNoX0Y0eW5TbHJpTlZkZlVuZWxNTHM?oc=5",
+   "source": "Google News",
    "date": "2026-11-27T07:34:00Z",
    "score": 9,
    "category": "Tecnológicas"
@@ -1047,7 +1047,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBjcFczUEdNdkpXUFJHYldpUUpSMlpNM2IwTG9oRS1WNDg5SDZsa3VqT3NLT0tLdkdhdjIyOFRMNzBMMFJQTTYwbVAtWGNWQy1BS1ZtRW5Rdm5fSDJLaUdlTWNRSEd1VE1UOUE3WkRlWk5kRGFjM0ZHMWdaOVNZNmgwcGVUbnltM2ZUbVlOX3g5SmVrSG1UZmR1UTh0WTVIRmpDdG9BVHpFcmN5enYxcU90d3BacE1oS0w0RF93YVQyYWVWNmc?oc=5",
    "source": "TradingView",
-   "date": "2026-11-27T06:25:00Z",
+   "date": "2026-11-27T06:25:35Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -1152,16 +1152,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "2f008829c8b0ac",
-   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T05:37:25Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "87d784c9d2bddd",
    "title": "Market Pricing Favors Two 2026 Fed Hikes Amid Inflation and AI Risks",
    "summary": "",
@@ -1200,6 +1190,16 @@
    "date": "2026-11-27T05:30:22Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "bb3ecd29383b6b",
+   "title": "Yen Hovers Near 159 as Thin Holiday Trading Meets Fresh Fed Rate-Hike Bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcHdFallDRnZiTGZkSGhVendoVmJYc1FjWTQ2NEdBSmk3bTk1cnROeVZ1MVB3akdpM2hxcDFJWXBaaF9FS1YyN3RweEFacTF5ZEFyTnJ5TjhIazFUV3JCdWxZYWcxN0JVdkN6elBBYXdnZ1BGNVE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T05:25:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   }
  ]
 }
