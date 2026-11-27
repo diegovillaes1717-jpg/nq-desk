@@ -1,6 +1,46 @@
 {
- "updated_at": "2026-11-27T18:20:06Z",
+ "updated_at": "2026-11-27T18:24:50Z",
  "items": [
+  {
+   "id": "77f2625762ca10",
+   "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "source": "CNBC",
+   "date": "2026-11-27T18:24:06Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "095de68914c40e",
+   "title": "Nvidia Stock Wavers On Headline Risks From Huang Testimony, Asia Sales",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWlzeGdReHVRcXN3WnBtQ1BxRXhRNENVMjFVMHNVVFdBVXhmYTlIcWVJUHZkRUNveGluQk51ci12RG83cUNKZXlMcnhZcFl2VnZQWkhYWVUtYndjREVEUTZSUkFzU3YzbVJlVWEzSXRZUnpaQkxMaXhaMkpMR3U2ZGlaVkE?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-11-27T18:21:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e0b5be388f290e",
+   "title": "Gold defies surging US Dollar and Treasury yields as bulls target $3,700",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTA5LTNDRTlvTmJpZHZHb3FIMjlGUlpyM0xoWjlZNWREb3lCZ2ZpOVRHUjRVeThzcFRYRVpHalFIV3NUTG91ekFweXVkblA2MUJKUThadVgxSkczRWo2OW5tSWd0Mld1YVFOdHBZUTZ2Z3k3Y0V1d1B2Z3Y3VFduQnhmN0p3OGdhQUotWUFtdjFjeXNDMEtxc3AzZVYxeTMweHM0SUdiT1B4cDE5cG5YYVBLUVk?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-27T18:19:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "287806e5668a78",
+   "title": "US Dollar Strengthens Against Canada's Loonie Even as Treasury Yields, Gold Prices, Rise",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWkwUUZCVmJIUFAxN0VlR1dSRzREbmw3N1dOMjFuNDZscHJ0YUFNMVhYa2dKemtfS3poUzVNR2JkYnYzOFMzLXF0SVQ5UktpTEg3ZTRWdS1SNUxCZEdoblFlM2h0RVdvMnNtUVJkVkdUeXNTX044bG54NmhjWlk5ZzF1bDFIWVJmSXpHcmo4Ukxuc1BvNGdUWTlzNVlQR2JQUTRISU15d3ZkWDM5TzB2UUR2blRqaEhTQlNYUzJkS2hVWjBDeTRTXzkxY2VubVdSb0dtay1B?oc=5",
+   "source": "www.marketscreener.com",
+   "date": "2026-11-27T18:19:21Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "f032087218cb7e",
    "title": "For a Little While, Nvidia Faced a Future Without Jensen Huang",
@@ -9,16 +49,6 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T18:11:02Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "77f2625762ca10",
-   "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-   "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
-   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-   "source": "CNBC",
-   "date": "2026-11-27T18:10:10Z",
-   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -492,6 +522,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "d4b8a32b9e7531",
+   "title": "ETFs That Are Poised to Benefit From New Tariff Proposals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0V0Z01odENBTUVWZUs3Skl3ZXpmQ0REN0Rza1dzYk5XM2hjTDFtWjBZeHhlOTV6ZGRwQ3A1SVY3VnVWekpqRVYtbDBybDQySUFpWVJCM0k1TUFETkRIRHlHcTJFeVYtNC1Ca1ZFOVVHS2hnaTBSTzZFVDYxV3pQY24zUzZFTUFKRGQwRlV4dW5lY0pmTG0yOVR1bXRJSUV0US1LcG1nc09rVmpxNVpya1hSOA?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T15:32:00Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "0c5bf4f6461f93",
    "title": "Why Is Microsoft (MSFT) Down 7.6% Since Last Earnings Report?",
    "summary": "",
@@ -932,6 +972,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9c80145c9fdbf0",
+   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTN0Vl9XaDlPT0xFYlhPcHAwVEd2eGpyRDU3LW0tMlpWdkdyWFh3Z29fY2t4b1BhcmdoQTNWMkhsSDdiVXRTUkZveHVCZVFaWGFjS2RzXzUwZjBIQ1UzNEIzc2RMdlQxSDMyLTlrOHlRaHNWOEJLUmZVMENfZUd1M241YWZLbkkzaEFaek9QMXYzUTk5cWFfdVFVNk9kTVNUU0h6QVptcDl6R2dtcEhIWXNLZERmSHFsV2ZNbVJQTTJGdmJnVXJkSEU4LTFhajE4cXBZeHRUbVRsdXBTN3ppRVBzZXlqZDhXdHc?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T14:33:05Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e53dc69714e6cc",
    "title": "US stocks set for higher open as battered AI shares claw back losses By Reuters",
    "summary": "",
@@ -1149,56 +1199,6 @@
    "source": "Benzinga",
    "date": "2026-11-27T13:36:20Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8628f5876848cf",
-   "title": "Nvidia, Kioxia Unveil AI Storage Breakthrough As SanDisk Hits Death Cross",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejByd1Q5VTZmWHlxY2xSUUdJN2NsaXhleW0wY3BDNXIzUm4zWU0yWDVQUG1fUzZkNkxBSWhpTnJxQmxaOHlNSjBXaEZtQjBkbk9hZm1BdGRrbkc0SXdYOHdBTnNjaWFuYkZNaVRTU0ZfU2NFSHJ2QVhWNTdaclJpa2lrbHU2Z1JwMnFPTXF3aGNfcHBU?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T13:36:20Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5753b7cd6f6b30",
-   "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazRING5maEE3ZHVLZjJ0X2MxdERWUVhYak9IenoxeUFzMWlvZWtRaXBEbDZIcmhmZE9XOVdUTkR3YTc0ZGNINEZ2UkxBcElwN0hYMWRwWEVfc1UzdGdhNHpvYmFXeEg3eHF6V3FQNGJrVXRqd095dDZHcWljbVFnY2Jva2VMX2NvTmc?oc=5",
-   "source": "Google News",
-   "date": "2026-11-27T13:35:29Z",
-   "score": 3,
-   "category": "Energía y dólar"
-  },
-  {
-   "id": "b3c6053f13ae33",
-   "title": "Dow futures rally 683 points as the benchmark heads for its best week since April 2025",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zWHBmQ01xemZzamZGR1pCRGtzZnduMWk3WmVzbzBwWUNoUDNudWgtTTRDQzcwVVV4S3REVTYtWTlBTHRsNXhmZ3FWSUZIQm5ad0VjNVVKS2ZJeG1KaV9RQkRGRDczTVUxSlVZbQ?oc=5",
-   "source": "Quartz",
-   "date": "2026-11-27T13:33:06Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
-   "id": "c3a9af55a5c358",
-   "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-27T13:31:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3d423fdf4dc9fb",
-   "title": "Nasdaq futures surge as investors pile back into battered AI stocks By Reuters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-27T13:30:00Z",
-   "score": 9,
    "category": "Tecnológicas"
   }
  ]
