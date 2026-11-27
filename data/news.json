@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T05:04:52Z",
+ "updated_at": "2026-11-27T05:09:35Z",
  "items": [
+  {
+   "id": "9182297b49ef6e",
+   "title": "US Stock Futures Extend Thanksgiving Rally as Nasdaq 100 Gains 2.5% and S&P 500 Tops 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xb2Q3LTNjRUozQkQ4UmFZREdaSTQ5aTBMWnNrdS1yNFFnMklGeENLZW10cWlVZ0ZuVjRKUVFocjFCT0EyOXZvUXF0LV9CeTBQUEp5N3NKQVkxRmdkMWlzVUlJN05lRUUxN0VQRkU5V3BobWg0SUhmamNoS19WTmc?oc=5",
+   "source": "Hokanews",
+   "date": "2026-11-27T05:01:00Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
   {
    "id": "e85008ad55f9fc",
    "title": "Jonah Goldberg: The many, many problems with Jensen Huang’s return to Nvidia",
@@ -242,16 +252,6 @@
    "category": "Energía y dólar"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -292,6 +292,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
+   "source": "KTUL",
+   "date": "2026-11-27T02:06:25Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "5a3025a884956e",
    "title": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat",
    "summary": "",
@@ -313,7 +323,7 @@
   },
   {
    "id": "027138009c00b7",
-   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
+   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZQWGhIUVI5bDVUSHRsWWVzTGZGSUNxcS1PYndUUUZVd0g0Y3BUUTlzMjE2T1FrTENfWjkxdkYzcGxfdHpLSmF5UlRIWDV6dWp6R1RJMEl1VThSWUpuc0VpQkZjbnhxTjdVV28tamhPdXBkSy12dHh4cFhkSWRMN3J5R0hEMVIyZWd4bGJkczZkU01YY2dF?oc=5",
    "source": "富途牛牛",
@@ -702,16 +712,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlpcjdqQlFLZ203U05XeWdWbmNrUGxuaVhCQ05KNlJuTzBhN1FUeGNJTVJlUE5ocFpHWkdXU1J1Y3lidTF1TFF2WDBaaHdwckdfYVF5YzBsdlJKSmxsRTFwMEdtMWh5Zkc2UlB1d1ZZRHdLMlVXY0FrWmQ3dXlkVG5YUmtDNS1FSk9zampQYkJfWnFRc2o3Y3otQjNJY0xiVjV6Vm91UlVKUzdfRlV2eFBONGc4Y0hnRmFSZ2wwd1dzcGxSSHUzX0lPRmsxZnVPV0ozUQ?oc=5",
-   "source": "WCIV",
-   "date": "2026-11-26T23:15:24Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
@@ -792,16 +792,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWhySGVoQVJka0ZhQzBaN19mOXYwRzktdGE0UG9fajg0aGhLbUI3SlBHVWRLT21SbURLMVZNYzd6eXpaVWVpNS12ay1SOUMxWTVoUFFaMnhCbW5oRzRudmFHV0hYUElvaTVXQWl2b3Mzd0ZOVzg0Z3dTSWh2a1E4djJtUndIZTVlano2S0JYZDlHcUxKaE1YVlc0WUE5bllkRWhSQU4zdXRGTWstdzJLZ2NuU1N5WG9ISXVyUXRJeGhUazlrYngyMA?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:32:52Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "ef4a7d3dd5acc6",
    "title": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
    "summary": "",
@@ -849,6 +839,16 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-26T22:17:57Z",
+   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1052,6 +1052,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-26T20:58:43Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "7ddbecf4b2f2d4",
    "title": "$3,570 area: Gold price stalls as Fed hike bets restrain bulls",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Barchart.com",
    "date": "2026-11-26T19:30:03Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b5155ccc026371",
-   "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXdfa3Bna1FYMHFuMy1haFR5VzUwdDBta2xLbzU3UnhnTlZVQ1JETWFKT0ZORGNDeVQyNEF5dHQ0X3loYXNlVktodi1xMHR6eTdUdGVxSnhMS1NJN0lXZnBuQTdWRGVoN3ctYkk0Y0hXSkpfLUhEQXY4N0dxcUpyQkRsYkU4NWhMVDNmMjQ0a0xXdmdCWktWaVhBYlZUd2hSNzBoOWtCTWloa1RscW9KcEdBZms1YUxlRktHM0VveVhYS0VnMDVKaGx2TzA5QkJYeTlUSENUOTV3bjZNTG5F?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-26T19:30:03Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
