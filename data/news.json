@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T15:32:30Z",
+ "updated_at": "2026-11-27T15:37:14Z",
  "items": [
+  {
+   "id": "66f46f59f54085",
+   "title": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHhteVdfcTRKd3FhTXpHWEpHY2s1clRfV3BKTlJ4UFR5MTVaY3B3WjBVekE1elhVczlwZWpMV0V4R19ic0xkSjd1RlpwcFRvVnhaRHVWb012dHd2MEpwSkJjY3FOY3EyV3NKdVQwYWplUUpoY1o1TjM3cjdocmpNRFpXWUNHaFRvTDMyV1pMYkR3cnR0YTB3bTZaRVVEOUNUdnZCRklqeEdCVFhyVDM4ay16NWNZWHhWNWhR?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-27T15:33:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
@@ -9,6 +19,16 @@
    "source": "Investor's Business Daily",
    "date": "2026-11-27T15:27:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "cae3e30ef03b53",
+   "title": "Nvidia Stock Slips. It’s Still Finding Its Floor With Huang 2.0.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
+   "source": "Barron's",
+   "date": "2026-11-27T15:26:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -99,6 +119,16 @@
    "source": "MLQ.ai",
    "date": "2026-11-27T15:11:15Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "c8d69bcf732faf",
+   "title": "Nasdaq Futures Rally as Traders Pile Into Battered AI Stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamNIZDVMbVBzSy1XNDBHb3dxb3ZDaF93NEt4NlZmLWZIWGhWZGxSejh4dVA1cHVUMVNuNVRBeExMX3hndWNUdTZuNnhRVWlDaWZGejdXcEZrNkloTTJialZ4ZnExcFh2bWNHRVBEbGhEdnJyR1pYVk5TS3FDbHZLQURVRHBONmhydG5ZR2g1dHljVEVELXE4NGFwX3RfNFhJLVVuci1MbFc0X2hS?oc=5",
+   "source": "Advisor Perspectives",
+   "date": "2026-11-27T15:08:12Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -602,6 +632,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeWtBVXR0NnZqMnUxSUl2LUZRSk43YXhSVFVHckpVejRwam8yYXpBeml6ek1uemw2M0pPY1ZpWXF1RkV3ejZCckZBQ3lOcnhFZEU0U1ZpbEJHaE5HaGZhbndpdnZleHg3cjc5YUprX2JaVENPM281X2U4UjlSQXp5U3RuemtGMG1HQmRJc2d2VERVU2RFYWRlTVlKdVdKV0cya1lJaEhNTzZzeWM2cVh3Z1pNemlEeHBNb25jZFdYV3Y3cjlmUkI0Qmk3ZG5jTmZja2ljenNDU1I?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c3a9af55a5c358",
    "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
    "summary": "",
@@ -630,16 +670,6 @@
    "date": "2026-11-27T13:29:43Z",
    "score": 5.0,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWpkelZfMmV1eURmX1o0YTY4aTBJTkZuTzY3Z25YVHdjcldhbTAtbzM3eGUxYjZHdnNMTDJBM2VTNUhOczZ2dnZXa3FYbUZYMTZWM3lmemwtQ3g1TmNaY01DcWtKdl84ejVrUFJPdUp4R05OSEMtZ1hGWnlDUExnT3l2VVRLdzVLek8yX3JFWnRDSDRqZzlwS1FRU3BSUG9uOFliX0E5Z0hOSnNBel83THZuOGU3Uy1SNnNyYXpkcmxISkpnd041WUxNRmdWOWh0QnNBYnZral9wZw?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:27:31Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "310e13bc87dc2b",
@@ -1102,6 +1132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8db4d72f078e29",
+   "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-27T12:03:54Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "35ecd7e823c62e",
    "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
    "summary": "",
@@ -1142,6 +1182,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:43Z",
+   "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "b291e5738f2eea",
    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
    "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "149e34a9e16558",
-   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:00Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2aaf0db81834ac",
-   "title": "NVIDIA Blackwell Chips Found at China Data Center Linked to Megaspeed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVRhMGdXVDgzRlQ5TWxVcy1iLUQyRDdDeGc0bUw2TmhzRjMzTmNaa0tIdWZLdjA0alJRV1FJQ250LWpWalpNNWJmakNwUmkzTWthekcwajhGU1lXOEhjdGpXT2pJSi1FY0pzbk4xMU5LT1BZSE9FQ3ZOT2pNMGRGcWRSc0hwWTVFVUllc2xvNnB2cWwyRTZPMTh6LU9xSWlzRmNVeFhGclMxek5HVV9QRlc4Z9IBswFBVV95cUxQMVRhMGdXVDgzRlQ5TWxVcy1iLUQyRDdDeGc0bUw2TmhzRjMzTmNaa0tIdWZLdjA0alJRV1FJQ250LWpWalpNNWJmakNwUmkzTWthekcwajhGU1lXOEhjdGpXT2pJSi1FY0pzbk4xMU5LT1BZSE9FQ3ZOT2pNMGRGcWRSc0hwWTVFVUllc2xvNnB2cWwyRTZPMTh6LU9xSWlzRmNVeFhGclMxek5HVV9QRlc4Zw?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-27T11:59:45Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ea8914cf88bf64",
-   "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
-   "summary": "President Trump demands a probe into the GDP revision data.",
-   "link": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
-   "source": "CNBC",
-   "date": "2026-11-27T11:55:41Z",
-   "score": 5.5,
-   "category": "Macro"
-  },
-  {
-   "id": "b54c41e19003cc",
-   "title": "Trump's Nvidia Fix Fades Fast as Stock Gives Back Rally Gains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOLWxPSTN5d29uQ3Bic0tBSzhOVkVTNmtoZTRjdjZqb25uS1FLOXNhWHVVUl9tS3c2UzNmMHlIMUpoaFVUMDQzVkNHS0FTREpJTWh5ZklzaTJOUEV4M2FYaFdEZnRveHRHd21wVXpwaEpCNXdHVlE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T11:55:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T11:50:33Z",
-   "score": 9,
-   "category": "Fed y tipos"
   }
  ]
 }
