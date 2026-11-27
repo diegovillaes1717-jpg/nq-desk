@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-27T07:40:56Z",
+ "updated_at": "2026-11-27T07:45:39Z",
  "items": [
   {
    "id": "663adfa9f509b2",
    "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T07:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUNHN1VKYjRmSGFjZTVBYnFHcnJlaDFjYlJnZnFHVEp1Z1l0QVlBLU8zbTdsN2pLbFNkVXpsS1FLekVvcV9NenZobFNDUXg5ZWpoZzFJcklQeEMtQWJMMHhlYXZIanBBc0NkblBDTG54bFNFVGpyM085UjdDdkpMWWVKZUV0R1I4SmVEOHBadjhvODctR05UQmtvMFZYbzhBQzdoSGcxOTVGZ1U2LUlvUUYtTmY?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-27T07:41:10Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -110,6 +110,16 @@
    "date": "2026-11-27T07:04:14Z",
    "score": 11,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-27T07:02:02Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "db21534d43ac5e",
@@ -602,16 +612,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-27T03:34:44Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ab67bdf069b6e8",
    "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
    "summary": "",
@@ -742,6 +742,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "38d7629a543108",
+   "title": "Shares find footing after bruising month, dollar set for third monthly gain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEJYR05Ud1FDa2pRMU1XWDVwczNXTU5rNVVLTGwxSDgzemg1TEFUbUdLMV9RRkFmdWZwYUVKVk1aTHNFc0thbjJyR1NhUXBpNHVtWE9oenpPQ1FVMDI0VzFyajJJWkNmWTlWbl9JQ2huUnRZRTdGcU56NFMyUGk2VUlFbmVxRkQ1UFZSVWR2Q0w5RXhNUXd2TGZSYnNNVzRPbGlHazFn?oc=5",
+   "source": "The Mighty 790 KFGO",
+   "date": "2026-11-27T02:35:28Z",
+   "score": 3,
+   "category": "Energía y dólar"
+  },
+  {
    "id": "80e3ac50aa5251",
    "title": "Gregory Daco: Federal Reserve expected to raise interest rates next month",
    "summary": "",
@@ -762,14 +772,14 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "38d7629a543108",
-   "title": "Shares Find Footing after Bruising Month, Dollar Set for Third Monthly Gain",
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1VoSXdxeEcwREhOdnNvRHE4VTU3eklCRGNNdlFsQ0loV0d1WnkySTFpMENBME1GZzk0M29xZVdDamx1VEVxdi1tYjRBeWZLVHY3WTNkcm8zQ2d4eFpZV2c0QXJNZmtKSERJREk4N0s0MzhEWFhQVWxsSU9VWEdDZ3lNQ0xGQmpxVFdEMGFxSWtuU1p3QkZVem5SaUY1VXplSm5fbzBSeGdJQVk10gGnAUFVX3lxTE5xWjdpU0Z3TThHNVYzdHVucVUxcTM1cHY2SUwzU0ZobjVNNzlPMXNUTVBaX0FDQkdKRFVyM081SWRUcTRHaDJHTldkOHZGQVZhNDZ0Q3J6TGRjTnNLbEQ2MXE0ejY3andSTGtIRXl4RTlwRVhRamJ0UEwzV2JadUMwVXh3M3BhbDhjbmZaNGJnRFY3X2FqcGEwZlF3SFdVUEp2V3d6SHdF?oc=5",
-   "source": "KONTAN",
-   "date": "2026-11-27T02:20:11Z",
-   "score": 3,
-   "category": "Energía y dólar"
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -926,7 +936,7 @@
    "title": "Has the US Stock Market Nvidia Crisis Truly Been Resolved? Wall Street Risks a Fatal Misjudgment",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FZ3FrakUxbXhrUlEtczhzOE05NnBDR0tPYnNmMzNqQVBMMlljQzRIWHZqVVhqdzdPalROc0lPbUpXQ3ZrSHhGWTVFRVk5NU5aRGI0?oc=5",
-   "source": "36氪",
+   "source": "36Kr",
    "date": "2026-11-27T01:40:58Z",
    "score": 5,
    "category": "Tecnológicas"
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T00:03:54Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97930ad5fbfd8c",
-   "title": "Jensen Huang Returns, but Nvidia Remains Uneasy: The 'Real Winner' Quietly Smiling Behind the Scenes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaGw3cm5uaS00MG9nZ1BlWWdzakpkS09SRGhQa25DLWpOUV91eEhHX3hwaE8zVjNVNmZUZ1BtcXlRRjJCc2RNNnpqUHRkeWIyeVhpaTJiZldob1JYeFp1Z2NBSnRrTERCNFRzVlJR?oc=5",
-   "source": "news.sbs.co.kr",
-   "date": "2026-11-27T00:03:52Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
