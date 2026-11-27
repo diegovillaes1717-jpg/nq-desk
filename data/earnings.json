@@ -285,21 +285,69 @@
   }
  ],
  "summary": {
-  "resumen": "Los resultados recientes de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó las expectativas a pesar de la incertidumbre por la salida de su CEO. El mercado reaccionó con cautela ante un entorno bursátil en el que las acciones tecnológicas se sitúan por debajo de sus máximos.",
+  "resumen": "Los resultados recientes de Nvidia superaron las expectativas con buenos beneficios, aunque no lograron calmar del todo los nervios del mercado ante dudas de gobernanza. El Nasdaq ha reaccionado con cautela y descensos generales mientras los inversores sopesan los riesgos.",
   "puntos": [
    {
     "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Supera expectativas sin Huang",
-    "resumen": "Presentó un beneficio por acción de 2.68 frente al 2.47 estimado, superando previsiones y subiendo la guía en su primer informe tras la salida de Jensen Huang.",
+    "titulo": "Resultados sólidos con dudas",
+    "resumen": "Presentó un beneficio por acción real de 2.68 superando lo estimado, pero los resultados se vieron ensombrecidos por dudas de sucesión y riesgos en China.",
     "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "AMD",
+    "titulo": "Beneficio superior",
+    "resumen": "Superó las estimaciones de beneficios con un BPA real de 2.09 frente al 1.94 previsto.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Microsoft",
+    "titulo": "Beneficios en línea",
+    "resumen": "Reportó un BPA real de 4.89 superando ligeramente la estimación de 4.72.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Apple",
+    "titulo": "Cifra positiva",
+    "resumen": "Superó las expectativas de beneficios con un BPA real de 2.1 frente a los 1.98 esperados.",
+    "resultado": "Supera",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Amazon",
+    "titulo": "Ligera decepción",
+    "resumen": "El BPA real se situó en 1.89, quedando ligeramente por debajo de la estimación de 1.95.",
+    "resultado": "Decepciona",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Meta",
+    "titulo": "Fuerte decepción",
+    "resumen": "Registró un BPA real de 3.83 que quedó muy por debajo de los 5.41 estimados por el mercado.",
+    "resultado": "Decepciona",
+    "impacto": "Alto"
+   },
+   {
+    "fecha": "30 sep",
+    "empresa": "Alphabet",
+    "titulo": "Caída en beneficios",
+    "resumen": "Presentó un BPA real de 2.12 frente a los 3.00 estimados, decepcionando a los inversores.",
+    "resultado": "Decepciona",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes serán los de ADBE y AVGO el 9 de diciembre, seguidos por COST el 10 de diciembre y MU el 17 de diciembre.",
-  "que_vigilar": "Vigilar la guía de beneficios y la capacidad del sector para mantener el ritmo de crecimiento en Inteligencia Artificial ante la volatilidad del Nasdaq.",
-  "sig": "a6244bb31335ea",
-  "generated_at": "2026-11-27T15:42:01Z"
+  "proximos": "Los próximos resultados destacados incluirán a Adobe y Broadcom el 9 de diciembre, seguidos de Costco el 10 de diciembre y Micron el 17 de diciembre.",
+  "que_vigilar": "Vigilar de cerca la evolución del sector de semiconductores, los riesgos regulatorios en China y la capacidad del sector tecnológico para mantener el optimismo en la IA.",
+  "sig": "2f5fafaedafc82",
+  "generated_at": "2026-11-27T18:43:50Z"
  },
  "updated_at": "2026-11-27T15:51:37Z"
 }

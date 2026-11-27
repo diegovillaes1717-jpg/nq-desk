@@ -1,6 +1,56 @@
 {
- "updated_at": "2026-11-27T18:39:02Z",
+ "updated_at": "2026-11-27T18:43:46Z",
  "items": [
+  {
+   "id": "e012ce0a2eaf9b",
+   "title": "Rising inflation is setting consumers up for a holiday squeeze",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGNDdUdNbHdEOHg4d21Hc0hDNFl4OGsxZUVtd0xPV3NUQ2M2dDh4RURzSE5QY01ndEVGVzRxbm10b1lDTU1nc0hHS080S2k2WWtTOGZCQlIyY0NBZWR3LXRFUnZfRHhHWmtHS0EtRV9aeGtob01JSUtEajlndk50MU1GMXA0a01QalhqbWtYanVZSTVwVkxIeHFhekhZY2dwMGlkSHJYeEhndWc?oc=5",
+   "source": "Scripps News",
+   "date": "2026-11-27T18:41:43Z",
+   "score": 4,
+   "category": "Macro"
+  },
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlFJLUVvbGxET0R4TERvZTBJY0hFR2sxUUlOVTFieFJ4My1FOXYwTVlaWXVQNlJVb0JuVmQtd3dwOTFSMTVTaEFjdkJYYVQycTU4SzBpZTZ2R2czSHFHTlBBZEU3bk5zUU1VeS1aMHdFUUJIQWVnNGZCQzE0VUQxNFpiem90MXAxSm9lMjg1ZWl5YWpOX1BqbVRLa0hoWS05RFVUUG1BYWxaNndEY2JjUU5uU3Q?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T18:40:34Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "6fb7f5aa636bc7",
+   "title": "Bitcoin falls below $60,000 after Nvidia chips found in China",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjVuOUFYYTRiNGNfS2FENlFELWNBYmpnYlRDRGdDdTRQLWtpWnVqVUJSYjZRejk2WDZsdHlVemxwMG9zWU5CeWFJczNxVENMd0owWE9mZXFlbVQ0aFF2R0FvZU51ODQwNWFfcVAxWUl5UWpINDRCTEk3TWU1SE80LVZPT042QQ?oc=5",
+   "source": "Protos | Informed crypto news",
+   "date": "2026-11-27T18:36:09Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "a73f666a87c562",
+   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T18:28:15Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "c3578b7dfc18e2",
+   "title": "Bitcoin Reclaims $61K as Nasdaq Futures Extend Market Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sZTZseTJINzFCeWQxclZwaVRUUzZYZm94Zmh0eUJCZ0p3bGI3cXpaSDlBYlBVaWxhVEtramZwYWFRLVkxczc0cUJydzFxSjV5RHc3UTE3Zjl6ck9Oc25PYTVvaURsdzZuUXBWQ2pyYURMZmM0UC1XRnJ0UnVrdw?oc=5",
+   "source": "Crypto Economy",
+   "date": "2026-11-27T18:27:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "8599d932797f87",
    "title": "Trump’s Nvidia intervention has a cost for US stocks",
@@ -69,6 +119,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T18:11:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1c33e1dec4c586",
+   "title": "US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-27T18:04:30Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -642,6 +702,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8c61a8208d204a",
    "title": "Treasury Yields Tick Up As AI Trades Keep Markets On Edge",
    "summary": "",
@@ -829,16 +899,6 @@
    "source": "Benzinga",
    "date": "2026-11-27T15:00:27Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:00:00Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1140,66 +1200,6 @@
    "date": "2026-11-27T14:00:02Z",
    "score": 5,
    "category": "Macro"
-  },
-  {
-   "id": "cada6eb15dbb16",
-   "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibUNoa2l2T0FoMDlZeUliMVljdDFVUnJHU0NWWW1sTXktM0t6enN0ZUE5Ty1rLUY3TFFTOE5wLUJ5T2hmS1NhNkRaQXd6X1pNNnJvR0R1ZmQtOWJnNzlMeWJGT2V5dG42TkhLb2NFX25BMFFmRkVR?oc=5",
-   "source": "Bitcoin Magazine",
-   "date": "2026-11-27T13:57:15Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "1613f5bfc8de60",
-   "title": "AMD vs. Nvidia Stock: Who Has the Edge in 2027?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3c3BNWEthVFEtc1NCenFFRU5MM1Q0cEhnaDA0VDlTNDh5MU5jY0pQdnEzYzRBNXZNY1ZjUXZLQm5uZ2g4bURsZjBpdEZ2cTZ5VW54di1NSmhHZGpa?oc=5",
-   "source": "I/O Fund",
-   "date": "2026-11-27T13:56:54Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "31ef000f5b851c",
-   "title": "NVDL Vs. NVDX: Choosing The Better Leveraged Nvidia Bet (NASDAQ:NVDL)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVE3WHMwYk9KTS1kR0cyVnBwd0l5dUp4amdzWm1OQk9Nd0o5SmVtQzBYV0I1VkV2QTE0LWdIQXctY2FLMWljVFNPNkpxV1Fpa3NyOHpscXpWMWZWaHBxbGFzY3JMcGhmd1c2NHRwSmk5ckRwZE5JQ1FzUkNoR2wxUTltakJYa2ZNN2UwU3BFUG0xMURXUFJ4LTl3?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T13:55:39Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e64c68dacebcde",
-   "title": "Inflation surge leaves Trump's market rescue plan with nowhere to turn: analysis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01UzR0bW5ORkgwTzVqMnhmN3VVbDlXeFhaZ25QekxmbXd1dWdadlNuenNranNxRHE5a0VaaUY3aWNFNVJsejFLQTY1MjRrTTZDYU5YdVZsZDFnYUJqd0E1Rk5ncmZPTlpzV1RILXBOemFjd9IBckFVX3lxTE01UzR0bW5ORkgwTzVqMnhmN3VVbDlXeFhaZ25QekxmbXd1dWdadlNuenNranNxRHE5a0VaaUY3aWNFNVJsejFLQTY1MjRrTTZDYU5YdVZsZDFnYUJqd0E1Rk5ncmZPTlpzV1RILXBOemFjdw?oc=5",
-   "source": "Raw Story",
-   "date": "2026-11-27T13:50:00Z",
-   "score": 5,
-   "category": "Macro"
-  },
-  {
-   "id": "508a39040e316d",
-   "title": "Nvidia, ANT, Uber and MU Draw Focus as Index Futures Surge",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bc3V0R3p0ZURXZmtjYWFnMVluN1k2S2gzRUFZRDJlNHdsLWYwakM4VmtYZnV0UThkanVmbHA1SXdXdkJVT0phSktEbjZEOHVNVXdULVRQT25EQQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T13:48:44Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8389b82f37d0e8",
-   "title": "AI Needs More Than Nvidia Chips. This Stock Could Benefit",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVpfd1V4N0g2eDA2a21CX2R4Nk1lbW1BUHZ4YXpuX2N5THZwUjBkcndEektIZjgyeU1MOVJ5VTdVLUxRalB2XzY3V0ZUbm1sX1ozVk1aQkJHdVlYd0tMQkFEQmFQejlYRjZ5dFRyQUdxV2ZZRl93TTZpRS1NX3VLb183VVp4MU40ZmkzUV9QdXFMTVFQSVE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T13:47:30Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
