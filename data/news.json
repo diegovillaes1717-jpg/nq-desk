@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T05:14:19Z",
+ "updated_at": "2026-11-27T05:19:03Z",
  "items": [
+  {
+   "id": "5a1c80cdb20c5b",
+   "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+   "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "source": "CNBC",
+   "date": "2026-11-27T05:15:55Z",
+   "score": 6.0,
+   "category": "Macro"
+  },
+  {
+   "id": "05c70e6b7abf1d",
+   "title": "Is the Fed ready for its next fight?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:01:25Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "04e15e33837bff",
    "title": "Trump insists Nvidia CEO not a security threat - The Witness | Your compass in the community",
@@ -30,16 +50,6 @@
    "date": "2026-11-27T05:00:41Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "05c70e6b7abf1d",
-   "title": "Is the Fed ready for its next fight?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:00:13Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "3f14a1fcac1e3b",
@@ -80,6 +90,16 @@
    "date": "2026-11-27T04:30:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "6ef06acce17fa6",
+   "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9pLVhQZmpyYU9BaFMzX1hIRk1jdDNIblcxQXFHVjh3SXZhZUFlRVhNRmhNaDlZYkJFVUotS3Bvbm53VGYzbjIwcUYwdVhHbzJEWWhWdG5jdjlmN1IwWTg3UlZ2TmNFR3YxWTZ2dFdQU21kMkFydFBTTERwXzNuLVZOV2VpTkU1d3oxaUdOYTk0eS0yejVDMw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T04:23:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "acf1812f85fc06",
@@ -129,6 +149,16 @@
    "source": "The Financial Express",
    "date": "2026-11-27T03:47:23Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3f50104cc0613f",
+   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-27T03:34:44Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -270,6 +300,16 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -1082,16 +1122,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-26T20:58:43Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "7ddbecf4b2f2d4",
    "title": "$3,570 area: Gold price stalls as Fed hike bets restrain bulls",
    "summary": "",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-26T19:51:49Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "c6128a27e9f008",
-   "title": "Gold Price Forecast: XAU/USD Rebounds Above $3,600 as Buyers Defend Key Support Despite Stronger PCE Inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDNTS0o1dWZlZ252TF8xcWRta3o2NWpGUEs4LXdRb1NUWkt3NWw2YjZNWkhxZk9xOUFVMUhoUWJjdDNTMnpqQkRMNU42UUlDbU5MV19ZeUdDeVhYUW5VN0w5X3ZuZTNwb1FfYlY1MTYxT2hHMUtOSkZJeEVHSkFDaUtkU3ZQOXNoYTlWUHhqa05ncjF2SUd6VXFQd3lyRF9hQTdhMmFmZ2xpdERUOFBUdG80OVE1Vk1YRUhEWjRFeTRJZkMyS1ZfU3p3Q01UdDFlbmJmSTR2MDhVSmJoSi03UzJQd0U?oc=5",
-   "source": "FXLeaders",
-   "date": "2026-11-26T19:47:15Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
-   "id": "d6632d2845faa2",
-   "title": "Is NVIDIA Stock Underperforming the Dow?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSU9JS2ctSTktQ0NhMzM1T0FvVk9WcXpJX0NDdWRZT0c0ZjFKcGpmenpZLWF1Q3NzN3FPdGQwd2NUX3Z6UHllZU9HcGtXOFhGcDl1bFdxMTlKM1A2ZVNLUGc2M1lJWHhXcGRrVFVOVHhTTlJKc09DU2h3aHNDVlZhR1llZE4zWEx5QnBJ?oc=5",
-   "source": "Barchart.com",
-   "date": "2026-11-26T19:44:18Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fe4e68c94a9182",
-   "title": "Michael Burry Exits Nasdaq-100 Short, Keeps Puts on Palantir and MetLife",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazBYOGRCTFdIc3BaSEN3NlpIaWhpeGVBaWFFOUVsLXVfc2RVbGdFRE1IeHVYLU51elZqbmNoZllHZXM0dnB1Q0VOc1VfaWRrNVFfMUx0UUk0dVJtTUg4U01mckJ1ZEpXMXY3d0VZemtlOWdQRG5QRzF5NzRLemY5cTJmOVNIaHR6RmF3QWthaGxCSWl0WXAxOGtUTVhsb2M?oc=5",
-   "source": "SSBCrack",
-   "date": "2026-11-26T19:36:10Z",
-   "score": 6,
-   "category": "Tecnológicas"
   }
  ]
 }
