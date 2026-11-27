@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T13:46:59Z",
+ "updated_at": "2026-11-27T13:51:43Z",
  "items": [
   {
    "id": "142e7336fd404b",
@@ -20,6 +20,16 @@
    "date": "2026-11-27T13:36:20Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5753b7cd6f6b30",
+   "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazRING5maEE3ZHVLZjJ0X2MxdERWUVhYak9IenoxeUFzMWlvZWtRaXBEbDZIcmhmZE9XOVdUTkR3YTc0ZGNINEZ2UkxBcElwN0hYMWRwWEVfc1UzdGdhNHpvYmFXeEg3eHF6V3FQNGJrVXRqd095dDZHcWljbVFnY2Jva2VMX2NvTmc?oc=5",
+   "source": "Google News",
+   "date": "2026-11-27T13:35:29Z",
+   "score": 3,
+   "category": "Energía y dólar"
   },
   {
    "id": "1e70952c593dd2",
@@ -67,7 +77,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckQ4dGc4blJKaUNrZUN6dlNSOHJ1LWNKM3N5cDNHcllPbU16aVM5aXQyTzF6Rng4LXpVcDJySHFRU3JqWm5xSHEzVnNPakJPQnkzbkxOb1JCZ190TGlHRjhpdEtCd3c1bDNGYWh3NXRxWHQ3WG9tTVJwVC0xRWotN1M2elBBeFRwMENsMWlkc2h4eVRuOVE?oc=5",
    "source": "GoldSeek",
-   "date": "2026-11-27T13:19:54Z",
+   "date": "2026-11-27T13:19:15Z",
    "score": 8,
    "category": "Fed y tipos"
   },
@@ -292,16 +302,6 @@
    "category": "Mercado"
   },
   {
-   "id": "9c80145c9fdbf0",
-   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHVSSno4YXVyX2tyYTJOTmVtRXlkWVpESHB0WG45ZDZkZjcydWxhUFZMeXNVTHJXVURlemhES0VIRFAycUg1UERhZjFnd2U5WEx2SDZQcnpObXZIYy1aNUQ1NEk4N3dnamtkNmYwWmtUeHpYU21PaUpIaHhEaV9jTGdMT0dWRFpKUUdaZi12MWZQeGNiMlBXRGstU2VIWE9wUUtBd1dEOTJMeG9vMGxZ?oc=5",
-   "source": "Zacks Investment Research",
-   "date": "2026-11-27T12:32:20Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "0444a87240f295",
    "title": "Nvidia Stock Looks to Be Finding a Floor With Huang 2.0",
    "summary": "",
@@ -392,6 +392,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9c80145c9fdbf0",
+   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGpYSlZnQmQ3ckVHZ3BOckxIRnRGUVo4dEhLdDA0TXBzMHJsa29CeVRuWlE1ZTg0Zmd3al9BcXR1b19FWXNheXhtbVg4UkZTM191U3RrZXRreVlJX2pxRG9jNnBTMUpxTlQ0OFozaWlpdFIxYXJJTFh1WG0ycUpFZWtXRERPejFwY09NdHM4RVVuemJ0?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T12:16:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "faa1aca1eea69f",
    "title": "Why is NVIDIA stock rallying today? By Investing.com",
    "summary": "",
@@ -400,16 +410,6 @@
    "date": "2026-11-27T12:14:29Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-27T12:12:09Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "513a219cc0d9c3",
@@ -560,6 +560,16 @@
    "date": "2026-11-27T11:55:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:50:33Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -1105,20 +1115,10 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T10:06:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "2309559d616d8c",
-   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -1129,6 +1129,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2309559d616d8c",
+   "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 7,
    "category": "Fed y tipos"
   },
   {
@@ -1189,16 +1199,6 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T10:00:02Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "a7d5f29e922807",
-   "title": "Edsource: California Teacher Pension Fund Vulnerable To Stock Markets Nvidia-Fueled Ai Turmoil",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjljSzZOWTM1MGp6Y0ZmN1N4Z0l5bnhveGhIR1NjT1BlNHVJaUFBd1NwQWNkQ1BnT0tmNF9wdUEtdVg0OHA2QzVKVDhPYUxlOEJIWl9NQ2NobkNSVnhycWQzcFdsa3hLa282R2F1b1ZjY3RyTmRRb1ZBOUxwM1A3Z3Z3SlBoVnJzT1lhczNIQmhhckZZeVNvQ2pBbWlidw?oc=5",
-   "source": "SFGATE",
-   "date": "2026-11-27T09:58:51Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
