@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T10:22:24Z",
+ "updated_at": "2026-11-27T10:27:10Z",
  "items": [
   {
    "id": "389d5acf9a5133",
@@ -79,6 +79,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "1bce8be05d856f",
+   "title": "US Fed rate hike: Why is the central bank turning hawkish as markets brace for more hikes?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWRoSmpBREFkZFVpM3ZhN1BoYVgtb0szUVVwTzNEYko0TmZSOVhiZUJ6MWg2bDRIenVtQm05dDRZNFNLRDZRQ3RPa1Q3SlpDbF92X0dHVzFMM3AxdHpMYnpTWTNFVHM5MXV4TWVEbnc2TTR4X0ZvRDRHekxRZ1BuQ1FTY1p2UzBKS3ZkNE9pUWFGUlJDemd5SGs2VDRtMFhjT3FVaDZUMDVkV1NIa2dTMGVmUlYtWmtZQkpWQ0dvN3AyWW1WSk16U1JsNDZyQ2I3TXF2WUJqLW9KcDBOWnfSAeQBQVVfeXFMT2FKVDV3TUcxZTVqSzVLY2lHMHZsaE5WUTI5cVdFZ3RDQUV0V2ZsdWRWbHdmeV9yNTdlZWN0X25uT2ZfMFZxbF9RcGdNUmdtZHEyRlc0RURveDhvb0lUVVNhb1JOaEZtTm5mZWV1em5EU09VTmFpYXEydElDS3d0aC00blFNbkdPNGhfRm1kSkN5enlzdDZ3cUxBQzVyaUdDODE2TWVhaWgzbXRxUURkV25QbV9faWVFemdFam1Yako3enJyMXZJR0lPN2F2VjlIb215VGk2WGFvR01taHhDR01QVXpJ?oc=5",
+   "source": "The Financial Express",
+   "date": "2026-11-27T10:04:27Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -263,11 +273,11 @@
   },
   {
    "id": "20349aedd5ebde",
-   "title": "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
+   "title": "The Fed’s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It’s Bad News for Wall Street",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0lvX2ZOZnAzRjRPeGV2QTlSMFpUaFpReF80Y0pESHMxM01hWjM3WG56dDMwQXNpb0dfeXVMeWJfVGc5QmIyVkE5X3hfV2diRjZNa1NNMVJ0ZGR3RHdYVURHMk5MZElsM0xaNHlSMFBfQWlwY2JfemMwNmFWR01vbXJ2TmU2d2h2VmNGSmNWNmtjM0txYUt6aDNjb0VXaURlX1V2SzNSSzJ5Mi1Fbk5CVVFHS0hCUkdpNjVONzJKazdhQXpsTVhFUTFVT3NaM3VaOFItcktaQzloSWk3c2NaNzVB?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-27T09:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnNfUEpYOV9fU0FqWVpLWXZPQjBDU19aNnR0WG9MNlR1Qkp3Yld3akNvZE9jNG1zV05zRkJybjlRTERWcmJmV29wbTJjTVE5VFMtY2RaSlRUMlBvV3ZXY1BxbWkwanhHZ1Vub2FwbWhqS2ZqblhtbGdhMVBwamo0RS1QYTNYU3k0SGVPZENCTHZzLU8xMmZRZzdIX2VhN3Ft?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T09:24:55Z",
    "score": 10,
    "category": "Fed y tipos"
   },
@@ -279,16 +289,6 @@
    "source": "Financial Times",
    "date": "2026-11-27T09:22:30Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "67de4cf87cec24",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-27T09:22:08Z",
-   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -310,6 +310,16 @@
    "date": "2026-11-27T09:04:59Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "0cdfe7041c6cf1",
+   "title": "Asian stocks rebound as dollar extends monthly gains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0lFUTcyNGxzWm0tTzRPeHFtWk83UERsY1k0NERZbFoxQ3IwaFE3NXNERDN5bzM3WFNSVEtrRjBERmFlVzc1NjgtQks1UWpFQS1ydDQ3VmlySDV6c0h3RHhGUmZGQl9oc2U4V2N2bXVkTnFwZURYZVZTN0xrNzg5MUZPRHZ0ZmlnMjVYRFVjVERJYWJsV09HUk53MUFsS1VSMmIwNTR5YXdESUFpM1hLWTlST1poT3lPUzgyc0Fn?oc=5",
+   "source": "Profit by Pakistan Today",
+   "date": "2026-11-27T09:04:40Z",
+   "score": 3,
+   "category": "Energía y dólar"
   },
   {
    "id": "06a9c44596aa46",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T04:11:20Z",
    "score": 7,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "441df998305788",
-   "title": "Cement stocks still face earnings downgrade risk: BNP's Nirransh Jain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2h0QS1scGF4Z2ktakFlVUF2NndVeUZtZEprajhoSWFtRmVfRXZCTERJdVcyY29jLXM4cmF2eGdrNjdkclNDS1dadHJOaERsc0xVdlNVY2pWX045SU9vc1NlTjhnWnVEV3g0YXhZb0p1dDduak9Hc09oUmxrdzhmd01Qdnp2eVA3RlNqWEFrTWdRS0tQc1dQUzlZVDdTVEhlMEl5NllsZ1B6Y05xbU1KRGloMkRpUUZ0cnJV?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-27T04:04:59Z",
-   "score": 3,
-   "category": "Mercado"
   }
  ]
 }
