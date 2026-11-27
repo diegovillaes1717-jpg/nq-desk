@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T20:56:43Z",
+ "updated_at": "2026-11-27T21:01:28Z",
  "items": [
   {
    "id": "3e448185ca4649",
@@ -132,6 +132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5b2ffc5d55afeb",
+   "title": "Wall Street ends higher as battered AI stocks gain in volatile week By Reuters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-27T19:16:14Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -175,9 +185,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T19:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T18:57:52Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -762,16 +772,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "9c87622b599017",
-   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVxNmMzaGk4elFDVzlIQkQzOWhGcEQwT0NhV2lDMjY4MTU5NFQtVklGTEtRYzdZdzREMEtHSkhJWmhHeUJpR0ZuS2VQQ2tuZE1DWGhPVWdiWFV6RjZzTzNsZ25OTFhNMl80WS15X1hVMHdDR0p4MHVnNTFBNXpLbUxjQXhydk5xYzNLbHNobVJZa2hBS3U4ek1BbVdpcEY0d0hjTzRfV1VWcV9zY0UzSWRjRkRnSEJaVDQ0WXY3UnlrcmpCX2RNbThhYnlkVXFXNzFv?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-27T16:09:41Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "a007921b7c8112",
    "title": "Why is the Japanese Yen weakening as calmer equity markets push US Treasury yields higher?",
    "summary": "",
@@ -930,6 +930,16 @@
    "date": "2026-11-27T15:44:33Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "9c87622b599017",
+   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDVNcmozVWlWSUMxZERYWVNJTklrNGlQRVRpNndFMzlHWlRzM3phZlNSQTV1M2RnanRsdU04SDhYVnZfTy12QkFEVW1aSTZpYzd2NkVrVkYzX3FWYUNaa3FJREFLY3hDZ2gyb0ZsMGdXamg1a214Q1VUaUNMTUFzRmdRMThmSnMzV20zb1lGOGhzaXJHSjB1dzBUemxhMFBIQVpLTk5sVG1PM29qdURDNA?oc=5",
+   "source": "FXStreet",
+   "date": "2026-11-27T15:39:48Z",
+   "score": 3,
+   "category": "Fed y tipos"
   },
   {
    "id": "c76065e30d33fa",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T15:07:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUdSZkUzLXB4Ynp3bUdwYW1neTZ0RDQ4Y281R0MyX3p0N0hQYWd6R2dwd2l0c1NZaDJXRm5vTHlYX3RsTE53eW9fckpIQVN3YWxMQjQwNEpoTXRqcmpZb2RXNDR5OUcyTndZMzhwVF9yT0FMbHlfbEdlRGJRSGx0T1pvV2JOYVhSZzltTWxlQU9iZFZpdUEtNHJpWTlSd0JUMHJhMzBfVGkxX3JfQTFqc1F3VnlBU1U2aUE?oc=5",
-   "source": "Kitco",
-   "date": "2026-11-27T15:03:49Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }

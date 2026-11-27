@@ -1,72 +1,84 @@
 {
- "edition_key": "2026-11-27-preapertura",
- "edition": "preapertura",
- "edition_name": "Previa de la apertura de Nueva York",
- "generated_at": "2026-11-27T14:01:36Z",
+ "edition_key": "2026-11-27-cierre",
+ "edition": "cierre",
+ "edition_name": "Resumen del cierre",
+ "generated_at": "2026-11-27T21:01:32Z",
  "ai": true,
  "model": "gemini-3.5-flash-lite",
  "content": {
-  "titular": "Los futuros del Nasdaq rebotan con fuerza en el cierre semanal gracias al sector tecnológico y la IA",
+  "titular": "El Nasdaq 100 rebota un 2,55% impulsado por los chips y la vuelta de Jensen Huang",
   "en_pocas_palabras": [
-   "Los futuros del Nasdaq suben con fuerza hoy tras una semana muy movida.",
-   "Las acciones tecnológicas y las relacionadas con la inteligencia artificial se recuperan tras las caídas previas.",
-   "La Reserva Federal (el banco central de EE. UU.) vigila de cerca la inflación y la alta valoración del mercado.",
-   "Trump ha criticado los datos económicos recientes, mencionando una revisión al alza del crecimiento del PIB."
+   "Las bolsas han vivido una semana muy movida con subidas y bajadas gigantescas.",
+   "Los inversores han vuelto a comprar acciones de inteligencia artificial tras sufrir grandes caídas recientes.",
+   "Jensen Huang ha vuelto a ser consejero delegado de Nvidia, lo que ha dado mucha confianza al mercado.",
+   "A pesar de este respiro, la inflación sigue alta y se habla de que los tipos de interés podrían subir.",
+   "Esto importa porque el Nasdaq se mueve con mucha fuerza según lo que pase con la tecnología y los tipos."
   ],
-  "resumen": "Los futuros del Nasdaq rebotan un 2,24% impulsados por la recuperación de los valores de inteligencia artificial y semiconductores en una sesión de viernes con horario reducido. Los inversores vigilan las tensiones geopolíticas y los riesgos inflacionistas que mantienen a la Reserva Federal en alerta.",
-  "tono": "Positivo",
-  "tono_motivo": "Fuerte rebote de los futuros del Nasdaq y las acciones tecnológicas tras las recientes caídas.",
+  "resumen": "El NQ ha cerrado la sesión con una subida diaria del 2,55% y un avance semanal del 6,52%, impulsado por el rebote de las acciones de chips y la IA, a pesar de la tensión por la inflación y los tipos.",
+  "tono": "Mixto",
+  "tono_motivo": "Fuerte rebote semanal de la tecnología y los chips, pero persistentes dudas sobre la inflación y posibles subidas de tipos de la Fed.",
   "claves": [
    {
-    "titulo": "Rebote del sector tecnológico y de IA",
-    "detalle": "Los valores de inteligencia artificial y semiconductores lideran las compras en el premercado, impulsando los futuros del Nasdaq tras una semana de fuertes correcciones.",
+    "titulo": "Rebote de los semiconductores y la IA",
+    "detalle": "Las acciones tecnológicas y de chips han liderado una fuerte recuperación tras las recientes caídas del sector.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "Share Talk",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQV9uY0pCQ0Ixa3Uya2lhSVZIaC04S3p3OG5XNXktYnptdEZIRzFuVm44SUJfREVQc052cy02Um9CNWw3MXdnQXdjTmhOMHpVN2RPa1dRdHgyTUlwN1ljTHgwbzgwXzBYZjlJTkpTQldUQUZ2eWgzYkFkUFJQWHYwZHQ4TWRaSkdpT0lkRjRNOXU5elBreDhSYXRnTmdMcS10WHVSTzNaVnhnTXpPZXJ6Tg?oc=5"
+      "title": "Quantisnow",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjVzazFYUFMyd19SSkY0d0tHUlVhdzhqU2p0Mm84STlyaXhnTVMxYU9Rdlk4ZHZtRndVOGJwT2hiVjJHUzFEZTNWeDZqOUdqYVRaZ1pzU25TZGg1VG4zM2R6a3I1cGwtdjdYQkZ5M2pja1JwbTVLYno4VThmODZCZVFtRFNIc1A2QTRfUnA4TXdmdWRiWERVcm16LUdVdTRnellla1VyeTV5WFZLclVRMF90b0ZVeVdQMkE?oc=5"
      },
      {
-      "title": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5"
+      "title": "Advisor Perspectives",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamNIZDVMbVBzSy1XNDBHb3dxb3ZDaF93NEt4NlZmLWZIWGhWZGxSejh4dVA1cHVUMVNuNVRBeExMX3hndWNUdTZuNnhRVWlDaWZGejdXcEZrNkloTTJialZ4ZnExcFh2bWNHRVBEbGhEdnJyR1pYVk5TS3FDbHZLQURVRHBONmhydG5ZR2g1dHljVEVELXE4NGFwX3RfNFhJLVVuci1MbFc0X2hS?oc=5"
      },
      {
-      "title": "investingLive",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazVBeDl0ZTJ6T2huNkVyZ2xsYUI0MmVyV2phX0tlM0E0YXZ5V3FJUGowcG9ZOGhZanVNMTJLbGhWMzE5ZnBJTVlqcmtPcVpGVXcxSTBEbm04ZkNCcGNDNFFXQnZqS1h0UXhtMnVrT3pyNDR5bnY4QnctTTRVZUJ4REo0TXFERW13cUhQVHlPbklYbVZjNGhXeU9iaXFhQnZTakFybm9raw?oc=5"
+      "title": "MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNW9tckpLaVdvc1BmMHQtTFEzbm1XQ2VTVjJTbHhXdVlZM1FlZ0pOMHJpeW5hZkdUdDBzTTRyRi1CWmg3ZUdMU0tSaVpBcXc4bW1tM0RodTJkTjRaU2cwRjVOZ0wzQWs1dUt4N0JOcmNKX2MxclJ4S0I1XzlMUkNMNG9tTlI4ZEd5aVoyS1pHdnhwTTA?oc=5"
      }
     ]
    },
    {
-    "titulo": "Preocupación de la Fed por la inflación y los tipos",
-    "detalle": "La persistencia de la inflación y el crecimiento del PIB llevan al mercado a descontar posibles movimientos de tipos de interés por parte de la Reserva Federal.",
+    "titulo": "El regreso de Jensen Huang a Nvidia",
+    "detalle": "El retorno de Huang como CEO ha supuesto un catalizador clave para calmar los ánimos y animar las compras en el sector.",
     "impacto": "Alto",
     "links": [
      {
-      "title": "Equiti Global",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5"
+      "title": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVdYVHV2WEZfRTJaLWlYU1ppaGpwYXZXMDdlSXhBbkdueklGbnVHYUxZaldaS2NZbC1EM0RIRXlzenRNdGtPU1kzamdKTGtXVnhaZm44MV9wejhucV96Q0tLUjZxWGJXSktjT1JHUHI5U3dSVm9SbjI3Mmx1R3BSZm84OUtHdlo3UTFGWk1UTnBmYzF4MEhzQWRWRXpobUE1bERQZHI5U2JyeWFXRFV2S0dXWENmN09LYWd0al93?oc=5"
      },
      {
-      "title": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3FSYXo4aFJQeHZSd1EzeVA1ZnVpUWNLY3RibXIwb1d1RUl1Q1lBTEsyY0pTcHpGbkl0c2piX3lSbnBFaWF4aWhhSGoxSEsxSEsyVlFjb0NZQ0NMZ1RRV1RPTG5ZUjNDX2dUeVpPRlpZbGZsQXVvNkpDZzdPeEwzZ1hFNV9ITkFJbkxUS09zdXlQb3VWQ29zRGZoWkM2aDdTOGpZMXhVRQ?oc=5"
-     },
-     {
-      "title": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5"
+      "title": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories"
      }
     ]
    },
    {
-    "titulo": "Revisión del PIB y reacciones de Trump",
-    "detalle": "Donald Trump ha criticado duramente las publicaciones de datos económicos previos y ha celebrado la revisión al alza del PIB del tercer trimestre hasta el 4,3%.",
+    "titulo": "Presión inflacionista y tipos de interés",
+    "detalle": "La tasa de inflación PCE trimestral de la Fed de Dallas subió al 2,4% y los mercados descuentan una posible subida de tipos.",
+    "impacto": "Alto",
+    "links": [
+     {
+      "title": "www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMVBpVGg3bkNSOUVDbE1Wb001bzhTNkZoZWZoSWtsOUdHckN4TUFpZjFjUkxpb25va2U5U1k4X0lJbEQ1dlhMS19uSTlCTGhWWTNhUmp5bmdabzA?oc=5"
+     },
+     {
+      "title": "BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZ2ZscktJdkd5ekUxc1ZuOFlqMnQ1bF9QVFhqMnFRcF92cFEtU2c4Um45NmdZWEwtUlpZVUxmdDNPdEpuVld5bC1IVFJfWlNmU2pTRURTVldORVppeXhaelIzRFJoSWNGOGdrOQ?oc=5"
+     },
+     {
+      "title": "FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVcydWlkbWhuTkJ6Yzc4ODZtY3F2dlBEUEVsRDhpb1NpanRzaUJYdFk5ZmpnMS1TZXVPR3otWnJYbnVnQ2FiN01CdDNZYUUtS3pKZTJHV1dvaVJia3k0MFktZG5HYjkybjB1aTZMcEctWHd0TzZUeVlFeXRVVjlFUDhFTk9IMDNyOWhfTmZqT1hpdjl4SVdJNVUzeDFUVGJlcmZhRXVnNWhTSkdEbkJHT0lqRDJaUQ?oc=5"
+     }
+    ]
+   },
+   {
+    "titulo": "Comportamiento semanal del NQ",
+    "detalle": "El futuro del Nasdaq 100 cerró con una ganancia diaria del 2,55% y un acumulado semanal del 6,52%, mitigando el balance mensual negativo.",
     "impacto": "Medio",
     "links": [
      {
-      "title": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
-     },
-     {
-      "title": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
+      "title": "Quantisnow",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjVzazFYUFMyd19SSkY0d0tHUlVhdzhqU2p0Mm84STlyaXhnTVMxYU9Rdlk4ZHZtRndVOGJwT2hiVjJHUzFEZTNWeDZqOUdqYVRaZ1pzU25TZGg1VG4zM2R6a3I1cGwtdjdYQkZ5M2pja1JwbTVLYno4VThmODZCZVFtRFNIc1A2QTRfUnA4TXdmdWRiWERVcm16LUdVdTRnellla1VyeTV5WFZLclVRMF90b0ZVeVdQMkE?oc=5"
      }
     ]
    }
@@ -76,15 +88,32 @@
     "nombre": "Tecnológicas",
     "puntos": [
      {
-      "texto": "Los inversores vuelven a apostar por las acciones de inteligencia artificial y semiconductores tras el castigo sufrido en el mercado durante la semana.",
+      "texto": "Los valores de chips y la inteligencia artificial protagonizaron un fuerte rally tras el castigo acumulado en semanas anteriores.",
       "links": [
        {
-        "title": "Share Talk",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQV9uY0pCQ0Ixa3Uya2lhSVZIaC04S3p3OG5XNXktYnptdEZIRzFuVm44SUJfREVQc052cy02Um9CNWw3MXdnQXdjTmhOMHpVN2RPa1dRdHgyTUlwN1ljTHgwbzgwXzBYZjlJTkpTQldUQUZ2eWgzYkFkUFJQWHYwZHQ4TWRaSkdpT0lkRjRNOXU5elBreDhSYXRnTmdMcS10WHVSTzNaVnhnTXpPZXJ6Tg?oc=5"
+        "title": "Advisor Perspectives",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamNIZDVMbVBzSy1XNDBHb3dxb3ZDaF93NEt4NlZmLWZIWGhWZGxSejh4dVA1cHVUMVNuNVRBeExMX3hndWNUdTZuNnhRVWlDaWZGejdXcEZrNkloTTJialZ4ZnExcFh2bWNHRVBEbGhEdnJyR1pYVk5TS3FDbHZLQURVRHBONmhydG5ZR2g1dHljVEVELXE4NGFwX3RfNFhJLVVuci1MbFc0X2hS?oc=5"
        },
        {
-        "title": "Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5"
+        "title": "Livemint",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdWFvYkVtcFBUWGRpTjdpY2ZUaWV2ZmNxalhlSlhkNTQwcFd5ZVpIeHRvTGFIcTRLb3ItWmdnSnU1V214TnJwb0htUHBmSjF0a3d0SWZXcGtmQkNaNGlERi00YmJHallfOFRkbmNMY3BJQjRUZGVWdDZqTkZrUktCSHZrWjlQd3MwbVNCX2FXVEJsSnpYdjBPWnRUYk56SnRHVFoxN21PTmVlTHAycjlhejA3MVRONGVwclE4UTFHaGZaWUw3Y1ozZlBoRmdIREhRSjAtSmJPeFczSkdJeVYtZF9DVXFQMkJ3MGx1d1dtallhTFF3QVJYbU9sbDdkc28xQy1hTkdfUmVBTzDSAZACQVVfeXFMTnpNb243dkU1cVdaWTQ5X05BQThnNWkta0VkTXRzRHJBSWlUNXRwSXQyRE5Oc1dIUDBHa2pBdkNmaktWTEZhTEM5S3BPUFVTcEY2TXgxTUxiXzJERFlJaEhoQnhZbFhsWGJSaWNyeERMQU9zM0EwdV80eGNUTS1BclhJNHFhNTEydFk5RUxrZjZmU1VKUTg4V3lpemNTQ2dHMFBIVXVjc0xQdTZvRk5iUFpqNzZEc05DUHR5RWljVGhnUWtHYm1nallVOHRvWW55cWpRc2VTZXQ2Y1pwcHJYVkVUWVhkN3QwQklmcFZWMFFOMEcyY1dqTVhnRFU0N1JLODF2SW9BZWVaanMzUTRKSTM?oc=5"
+       },
+       {
+        "title": "Finimize",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVEN0V2RMMmlpdjZ0MFRzMEswaHZyeGFoWnYxOG5leWxsZTFmUEZxVXEtRVhoUjZjWmNRS214RVJLcF9zZU5tTkV6OTlDRGdsZUJ2aWhCY3ZEMHl1NkJqXy1PN3pWcUpNaW9vRmdXR2pOVHlJRUhXc2F4UUZ3bGdBYUM3cUw2LTFH?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Nvidia y otras compañías tecnológicas sufrieron alta volatilidad en una semana marcada por el drama directivo y la atención de los inversores.",
+      "links": [
+       {
+        "title": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2hEZkxFOVhkWGoyN3cxaEdEaV9pM0NYdHEzd1JVaFhXUzRlX2s0TjlBMy1IaUdDZlZfcm1GTEtIcG9HU0czNUI4NWpSTms5eDl3NUZJTDlaaldIMkpfZXY2WDBOZExBTDVIV005Yi0yRTY4NXViN2ZCZDA1SkV1U2VxbFVjQi00VkpjdXE5Tmhya3Zpc3lITGVBRi1lUDVIZ0k4S2lJeEJtUGV1bHhlcHVR?oc=5"
+       },
+       {
+        "title": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVJpOU01RldtZlAxbERQS3dmUjk4OUl5ZmdMc1hURjdicFJQRnFvVjUxaTdNODl5SjNRemhoVUY2dHFidHNBenlwdVY1T3VaOWhoNVVheERSdGIteWFvVGhERy0wZW5vVzBtSFV3MUZMZmU4YWNOcUhBNHd3c2NiV3JNc2UyZmhOSGczQVpSeTd1UVJrUFI0cFY3OTJOUXRPOXc?oc=5"
        }
       ]
      }
@@ -94,37 +123,28 @@
     "nombre": "Fed y tipos",
     "puntos": [
      {
-      "texto": "La Reserva Federal advierte sobre la elevada exposición a la inteligencia artificial de las grandes tecnológicas y vigila de cerca la evolución de la inflación y el empleo.",
+      "texto": "La tasa de inflación PCE de la Fed de Dallas se situó en el 2,4%, manteniendo la presión sobre la credibilidad del banco central.",
       "links": [
        {
-        "title": "TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY2xNMFItT1V5UWRpVW9ja25CRmg5X2VaVzhSajVPRGdISVM5YjlKUkxRLXlPM09jcmtPQW9WVENTS0wtWmY2X3pBTlNIbVVnUlV4Z0U0UmloQ0NidjFCOUVrZTFCUDBLV18xdGsxQnFoNGx0V1E1SFFOeXdnSFYzb3JRU21aWWZnWmxLRmVxSzg3RmtKRENYQWpfRnhHcGh1MnNlSHNBNHE4V2Vld0NHMklrSFEyNGdSNWw1czFnWDBOSkZndUgzNUtBa3JNZ1NpZ3RrZHlrZzlrakhOWUVsMFN0MWRPdXdsdU1CTmNVM2FmNFJ6ckVzVHZ1NUZhYmtDM2dIdVZheTZfMkk?oc=5"
+        "title": "www.tokenpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMVBpVGg3bkNSOUVDbE1Wb001bzhTNkZoZWZoSWtsOUdHckN4TUFpZjFjUkxpb25va2U5U1k4X0lJbEQ1dlhMS19uSTlCTGhWWTNhUmp5bmdabzA?oc=5"
+       },
+       {
+        "title": "ThePrint",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGxDWkRWNDRvb2pMS1lLNjhTbWdvanZuN0NGR0FEQ3BTM1oweDFNY2R3YWdrcHBaZkUwR3NkLVRhQmdvTkZiV3FEVDY1cmlrM01NQ3dUYW5FajBHTDZvN0lGcFZuaUxRMDZITVNhdDhfY1ZzZjlpTHBzYTJOVllQRXEzQUpKY29OeXAySTRoTWRQWVlpaWxramZR0gGaAUFVX3lxTFBkbENaRFY0NG9vakxLWUs2OFNtZ29qdm43Q0ZHQURDcFMzWjB4MU1jZHdhZ2twcFpmRTBHc2QtVGFCZ29ORmJXcURUNjVyaWszTU1Dd1RhbkVqMEdMNm83SUZwVm5pTFEwNkhNU2F0OF9jVnNmOWlMcHNhMk5WWVBFcTNBSkpjb055cDJJNGhNZFBZWWlpbGtqZlE?oc=5"
+       }
+      ]
+     },
+     {
+      "texto": "Los inversores vigilan de cerca la posibilidad de una próxima subida de tipos de interés por parte de la Reserva Federal.",
+      "links": [
+       {
+        "title": "BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZ2ZscktJdkd5ekUxc1ZuOFlqMnQ1bF9QVFhqMnFRcF92cFEtU2c4Um45NmdZWEwtUlpZVUxmdDNPdEpuVld5bC1IVFJfWlNmU2pTRURTVldORVppeXhaelIzRFJoSWNGOGdrOQ?oc=5"
        },
        {
         "title": "FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEV4OTgtZFBNTk1yYTZzQllzUGhuZHpjNTJmc09zelVGZGI5Z1Z6dFBBVE5uQjNSdzFCMGJxcWlXQWxqZmptdy1NUEQ3RUpuQnQ3SnVHUGVhUkV6elppSktzM0tmU0o3czNwM0pWSy1XY1lLTmJLc1lwX2thVTh2NW1GVzM5aVFPNzdFaHcwdFJLcmNEckpQSXdYUEZYN3BFeU1GYVNLdTVYY0FP?oc=5"
-       },
-       {
-        "title": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "nombre": "Trump",
-    "puntos": [
-     {
-      "texto": "Trump ha cuestionado la precisión de los datos económicos anteriores tras conocerse la revisión del PIB al 4,3% y ha mantenido contactos sobre comercio y geopolítica.",
-      "links": [
-       {
-        "title": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5"
-       },
-       {
-        "title": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVcydWlkbWhuTkJ6Yzc4ODZtY3F2dlBEUEVsRDhpb1NpanRzaUJYdFk5ZmpnMS1TZXVPR3otWnJYbnVnQ2FiN01CdDNZYUUtS3pKZTJHV1dvaVJia3k0MFktZG5HYjkybjB1aTZMcEctWHd0TzZUeVlFeXRVVjlFUDhFTk9IMDNyOWhfTmZqT1hpdjl4SVdJNVUzeDFUVGJlcmZhRXVnNWhTSkdEbkJHT0lqRDJaUQ?oc=5"
        }
       ]
      }
@@ -133,12 +153,151 @@
   ],
   "agenda": [],
   "riesgos": [
-   "Volatilidad derivada de las restricciones a la exportación de chips y la regulación de la inteligencia artificial.",
-   "Posibles sorpresas en la política de tipos de interés de la Reserva Federal ante datos de inflación elevados.",
-   "Riesgos geopolíticos persistentes en Oriente Medio y Europa que puedan afectar a los mercados de materias primas."
+   "Una posible subida de tipos de interés por parte de la Reserva Federal ante los datos de inflación.",
+   "La alta volatilidad en los valores de inteligencia artificial y semiconductores tras los últimos movimientos de precios.",
+   "El riesgo de que los rendimientos de los bonos sigan presionando a la baja las valoraciones tecnológicas."
   ]
  },
  "archive": [
+  {
+   "edition_key": "2026-11-27-preapertura",
+   "edition": "preapertura",
+   "edition_name": "Previa de la apertura de Nueva York",
+   "generated_at": "2026-11-27T14:01:36Z",
+   "content": {
+    "titular": "Los futuros del Nasdaq rebotan con fuerza en el cierre semanal gracias al sector tecnológico y la IA",
+    "en_pocas_palabras": [
+     "Los futuros del Nasdaq suben con fuerza hoy tras una semana muy movida.",
+     "Las acciones tecnológicas y las relacionadas con la inteligencia artificial se recuperan tras las caídas previas.",
+     "La Reserva Federal (el banco central de EE. UU.) vigila de cerca la inflación y la alta valoración del mercado.",
+     "Trump ha criticado los datos económicos recientes, mencionando una revisión al alza del crecimiento del PIB."
+    ],
+    "resumen": "Los futuros del Nasdaq rebotan un 2,24% impulsados por la recuperación de los valores de inteligencia artificial y semiconductores en una sesión de viernes con horario reducido. Los inversores vigilan las tensiones geopolíticas y los riesgos inflacionistas que mantienen a la Reserva Federal en alerta.",
+    "tono": "Positivo",
+    "tono_motivo": "Fuerte rebote de los futuros del Nasdaq y las acciones tecnológicas tras las recientes caídas.",
+    "claves": [
+     {
+      "titulo": "Rebote del sector tecnológico y de IA",
+      "detalle": "Los valores de inteligencia artificial y semiconductores lideran las compras en el premercado, impulsando los futuros del Nasdaq tras una semana de fuertes correcciones.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Share Talk",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQV9uY0pCQ0Ixa3Uya2lhSVZIaC04S3p3OG5XNXktYnptdEZIRzFuVm44SUJfREVQc052cy02Um9CNWw3MXdnQXdjTmhOMHpVN2RPa1dRdHgyTUlwN1ljTHgwbzgwXzBYZjlJTkpTQldUQUZ2eWgzYkFkUFJQWHYwZHQ4TWRaSkdpT0lkRjRNOXU5elBreDhSYXRnTmdMcS10WHVSTzNaVnhnTXpPZXJ6Tg?oc=5"
+       },
+       {
+        "title": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5"
+       },
+       {
+        "title": "investingLive",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazVBeDl0ZTJ6T2huNkVyZ2xsYUI0MmVyV2phX0tlM0E0YXZ5V3FJUGowcG9ZOGhZanVNMTJLbGhWMzE5ZnBJTVlqcmtPcVpGVXcxSTBEbm04ZkNCcGNDNFFXQnZqS1h0UXhtMnVrT3pyNDR5bnY4QnctTTRVZUJ4REo0TXFERW13cUhQVHlPbklYbVZjNGhXeU9iaXFhQnZTakFybm9raw?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Preocupación de la Fed por la inflación y los tipos",
+      "detalle": "La persistencia de la inflación y el crecimiento del PIB llevan al mercado a descontar posibles movimientos de tipos de interés por parte de la Reserva Federal.",
+      "impacto": "Alto",
+      "links": [
+       {
+        "title": "Equiti Global",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5"
+       },
+       {
+        "title": "KuCoin",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3FSYXo4aFJQeHZSd1EzeVA1ZnVpUWNLY3RibXIwb1d1RUl1Q1lBTEsyY0pTcHpGbkl0c2piX3lSbnBFaWF4aWhhSGoxSEsxSEsyVlFjb0NZQ0NMZ1RRV1RPTG5ZUjNDX2dUeVpPRlpZbGZsQXVvNkpDZzdPeEwzZ1hFNV9ITkFJbkxUS09zdXlQb3VWQ29zRGZoWkM2aDdTOGpZMXhVRQ?oc=5"
+       },
+       {
+        "title": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5"
+       }
+      ]
+     },
+     {
+      "titulo": "Revisión del PIB y reacciones de Trump",
+      "detalle": "Donald Trump ha criticado duramente las publicaciones de datos económicos previos y ha celebrado la revisión al alza del PIB del tercer trimestre hasta el 4,3%.",
+      "impacto": "Medio",
+      "links": [
+       {
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+       },
+       {
+        "title": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
+       }
+      ]
+     }
+    ],
+    "secciones": [
+     {
+      "nombre": "Tecnológicas",
+      "puntos": [
+       {
+        "texto": "Los inversores vuelven a apostar por las acciones de inteligencia artificial y semiconductores tras el castigo sufrido en el mercado durante la semana.",
+        "links": [
+         {
+          "title": "Share Talk",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQV9uY0pCQ0Ixa3Uya2lhSVZIaC04S3p3OG5XNXktYnptdEZIRzFuVm44SUJfREVQc052cy02Um9CNWw3MXdnQXdjTmhOMHpVN2RPa1dRdHgyTUlwN1ljTHgwbzgwXzBYZjlJTkpTQldUQUZ2eWgzYkFkUFJQWHYwZHQ4TWRaSkdpT0lkRjRNOXU5elBreDhSYXRnTmdMcS10WHVSTzNaVnhnTXpPZXJ6Tg?oc=5"
+         },
+         {
+          "title": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFpUGdONHItdENLVWxXZWcyWjBzUVI4ZEZNNWExUFpxY1EtLVZjQ002THc0dERnZ19Gd1Q5eXZWNW9rcGF2dnhuVm9hMnBfbG1RN1hmWmZyQVc3cTNUM0xVcHFmQUU1Mkx0ZzlhTWFaekdDQXhFTkZDd3I4QlUyZWc4S19CSmRlLXliR2g5N2tZMkEzVDlOV1VEdVEwem9uT3hGNUFXUFEzVXRkZTkzTw?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Fed y tipos",
+      "puntos": [
+       {
+        "texto": "La Reserva Federal advierte sobre la elevada exposición a la inteligencia artificial de las grandes tecnológicas y vigila de cerca la evolución de la inflación y el empleo.",
+        "links": [
+         {
+          "title": "TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY2xNMFItT1V5UWRpVW9ja25CRmg5X2VaVzhSajVPRGdISVM5YjlKUkxRLXlPM09jcmtPQW9WVENTS0wtWmY2X3pBTlNIbVVnUlV4Z0U0UmloQ0NidjFCOUVrZTFCUDBLV18xdGsxQnFoNGx0V1E1SFFOeXdnSFYzb3JRU21aWWZnWmxLRmVxSzg3RmtKRENYQWpfRnhHcGh1MnNlSHNBNHE4V2Vld0NHMklrSFEyNGdSNWw1czFnWDBOSkZndUgzNUtBa3JNZ1NpZ3RrZHlrZzlrakhOWUVsMFN0MWRPdXdsdU1CTmNVM2FmNFJ6ckVzVHZ1NUZhYmtDM2dIdVZheTZfMkk?oc=5"
+         },
+         {
+          "title": "FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEV4OTgtZFBNTk1yYTZzQllzUGhuZHpjNTJmc09zelVGZGI5Z1Z6dFBBVE5uQjNSdzFCMGJxcWlXQWxqZmptdy1NUEQ3RUpuQnQ3SnVHUGVhUkV6elppSktzM0tmU0o3czNwM0pWSy1XY1lLTmJLc1lwX2thVTh2NW1GVzM5aVFPNzdFaHcwdFJLcmNEckpQSXdYUEZYN3BFeU1GYVNLdTVYY0FP?oc=5"
+         },
+         {
+          "title": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Trump",
+      "puntos": [
+       {
+        "texto": "Trump ha cuestionado la precisión de los datos económicos anteriores tras conocerse la revisión del PIB al 4,3% y ha mantenido contactos sobre comercio y geopolítica.",
+        "links": [
+         {
+          "title": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5"
+         },
+         {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "agenda": [],
+    "riesgos": [
+     "Volatilidad derivada de las restricciones a la exportación de chips y la regulación de la inteligencia artificial.",
+     "Posibles sorpresas en la política de tipos de interés de la Reserva Federal ante datos de inflación elevados.",
+     "Riesgos geopolíticos persistentes en Oriente Medio y Europa que puedan afectar a los mercados de materias primas."
+    ]
+   }
+  },
   {
    "edition_key": "2026-11-27-manana",
    "edition": "manana",
