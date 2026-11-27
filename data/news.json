@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T04:36:33Z",
+ "updated_at": "2026-11-27T04:41:16Z",
  "items": [
   {
    "id": "d21c66045af4e4",
@@ -19,6 +19,16 @@
    "source": "AzerNews",
    "date": "2026-11-27T04:30:00Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "acf1812f85fc06",
+   "title": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY09laG1mUWszalBJSzg5UWJLX09IcGtzZGk5cmg1NHNjaG45alBBd01ta2p1dzFSMkZhcjNfM3ZSUnZGbzBzemRkUVVWY0N5dktqbU9RQ1lRbGEtaHdNckE3am4tcmh1RHE4S1NwS2tEM05mVWpub0JFTEQtLTJoWlBHOGJCV2tfQ015d1JjSDU3ZEZVUHFpV2tzNmxXdDhhalB1akROVFJrMkNpVHlJLUZqS2RpQmZmYkVrYUIyNTNERnlt?oc=5",
+   "source": "investingLive",
+   "date": "2026-11-27T04:18:37Z",
+   "score": 11,
    "category": "Fed y tipos"
   },
   {
@@ -170,6 +180,16 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -512,6 +532,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "97930ad5fbfd8c",
+   "title": "Jensen Huang Returns, but Nvidia Remains Uneasy: The 'Real Winner' Quietly Smiling Behind the Scenes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaGw3cm5uaS00MG9nZ1BlWWdzakpkS09SRGhQa25DLWpOUV91eEhHX3hwaE8zVjNVNmZUZ1BtcXlRRjJCc2RNNnpqUHRkeWIyeVhpaTJiZldob1JYeFp1Z2NBSnRrTERCNFRzVlJR?oc=5",
+   "source": "news.sbs.co.kr",
+   "date": "2026-11-27T00:03:52Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "2eaab597c248d4",
    "title": "Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease",
    "summary": "",
@@ -550,16 +580,6 @@
    "date": "2026-11-26T23:53:35Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "97f3c8799325a6",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEVYWUZ4T0FibmozQVZ3WWo0eTVqWUljYmlLX0pHR1lGMVE5cWJ6QlNpSnV1eFV4WmgzN3M3OE91N0dRVk5WYlRGV3hJVkE5ZVE2bHY2T0Q1Q0RNWFJBWHVfZDJqc2F4TE1QNFhRZHhabkFfMGV3OVlEWHlMTnVHRnVGMWRDSm9Cc0YxOFVBQVNfYUt5c2pjRkwtZUtyUVNmYkUtanlWMjZobTlHRUMydGRwUU5hZnNsbGg3a09fTzFjUm5ydnFQZFhFMFN4bHBy?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T23:52:45Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "e3815709180dc1",
@@ -615,7 +635,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -682,6 +702,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:38:53Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -739,16 +769,6 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -950,16 +970,6 @@
    "date": "2026-11-26T21:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-26T20:58:43Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "7ddbecf4b2f2d4",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-26T18:39:41Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "86419adb07d08c",
-   "title": "US Dollar Rises Against Canada's Loonie, Treasury Yields Fall",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXA5R0ZoVnpIRW1vNTN6SDlVY3NfdHltc3BFZGFDS2tWVDIzNTFXalc5WHhnQ1lLXy12NWFSTlZZaGxZMmJDcUM0UmlvZU1yQmtsLUh3djQ3OWswN3ROQVhMRTRNbHI5NVhoWDRTRmpKdE1iS3B3TXZWSWY0OEZIcFV5T2ZDejEzdGFSTGJIbmt4MmJENk5qOUZGeVpxZjdzeHdKaFJOR1BxNFlNalNoQWd6NA?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-26T18:31:21Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
