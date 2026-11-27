@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T14:11:11Z",
+ "updated_at": "2026-11-27T14:15:58Z",
  "items": [
   {
    "id": "f178d3741a0ca5",
@@ -45,7 +45,7 @@
    "id": "31ef000f5b851c",
    "title": "NVDL Vs. NVDX: Choosing The Better Leveraged Nvidia Bet (NASDAQ:NVDL)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3Z5V2JsTG5waVFUTHJGOFBsSkQ2cHhSdXhWaGlIcUtYR19yU0IxaG9sUHp4WW1qazN2X0FrOHUxckVCNW9ReHBjNXBCbFhmS0YtWVdFVWVXMWUxUmo5ZWdfdDZ2VjB2U0RYN1VsczBRRm9uYTdHbF9lVmp0N1J3V282TDAzUG1wbVNUSjcxYzdDcVR3WUlGT0d6VEVVeXhSTHo4eE5uODdsSDd1N2FJWUppdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVE3WHMwYk9KTS1kR0cyVnBwd0l5dUp4amdzWm1OQk9Nd0o5SmVtQzBYV0I1VkV2QTE0LWdIQXctY2FLMWljVFNPNkpxV1Fpa3NyOHpscXpWMWZWaHBxbGFzY3JMcGhmd1c2NHRwSmk5ckRwZE5JQ1FzUkNoR2wxUTltakJYa2ZNN2UwU3BFUG0xMURXUFJ4LTl3?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-11-27T13:55:39Z",
    "score": 7,
@@ -232,16 +232,6 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "8bbf7a73293ee6",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:56:15Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
@@ -282,6 +272,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8bbf7a73293ee6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOW1qNXBKZTFULTY5RGhEQnFyaUVNWDdzaHBxM1hfZ1V1MjBtQjV4WW1UemNteTdQUGl2dXc2VVpEbHNJRFd6d2o2U1FUQlQ3bTRkdExVZVNzQjhhUHZoa19RcDhXTWN0R2hwLW94aE5XMi1LdXh0cnpzWXFSQ2NOdzA1dURBTmdZOXQzN19BbTVqZGdHWkdkN0FmdldOeG9sUFZwX2FRTUgyeWVJR0RHTC12bGswU2VyQmdBTVdn0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T12:49:05Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "f2c5815475d19a",
    "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
    "summary": "",
@@ -309,16 +309,6 @@
    "source": "FXStreet",
    "date": "2026-11-27T12:47:57Z",
    "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "62fb9fb61b1dbb",
-   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T12:46:20Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -612,16 +602,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "149e34a9e16558",
-   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:43Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "4271fc1d5f0f56",
    "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
    "summary": "",
@@ -640,6 +620,16 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:00Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "2aaf0db81834ac",
@@ -1199,6 +1189,16 @@
    "source": "TIKR.com",
    "date": "2026-11-27T10:10:59Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "84f5ea6074307f",
+   "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist: Dow Jones, S&P, Nasdaq, Wall Street",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelJBLXJMUUxjb3hFbThZOGxtNEJHU3pnRzNSVTBqUXhmNjd4MUJleWZmQS1aOU1oSVlqWWo0MlFnMHhrN3hWd2hUdDZFMWxlNldkM2NyNHk5dVVmTDBKLTZOdXRWa1Fmc0VxT1JKaTkxQlRSaE1RYjhuRThKbEVlUlNkbTVJdlBOdV8wZmt4ampKWFpG?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T10:08:39Z",
+   "score": 11,
    "category": "Tecnológicas"
   }
  ]
