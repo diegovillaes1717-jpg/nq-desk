@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T19:50:07Z",
+ "updated_at": "2026-11-27T19:54:51Z",
  "items": [
   {
    "id": "2439306e4a0d17",
@@ -42,6 +42,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:12:39Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -60,16 +70,6 @@
    "date": "2026-11-27T19:11:11Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:02:36Z",
-   "score": 7,
-   "category": "Tecnológicas"
   },
   {
    "id": "c34f5fe70327c2",
@@ -119,6 +119,16 @@
    "source": "Quantisnow",
    "date": "2026-11-27T18:51:32Z",
    "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "be96e8c45ad389",
+   "title": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia: Reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUdjZHEtamo1cF80S3dpX1JYaWdORUJDSXhaTzlfRWJNam1CZ3pXdGVtTGJNSGR1TzJBLU5NdVlXR05za21LYWw3WGF2Z2xFTDZBc0xnUWxlZlotRWl3MVdwdUdYWmFHa1JzUEpIcVgwZWswWkU3MzBmM3phOUFYXzN0b2_SAYoBQVVfeXFMTm53MkdRcUtTRHFSVUFocWo0U2JzanlSdjFQNk1qNExfVTdlOERCSm1HU3lLdkZtb0hYM3dRNGVKWlNnSDE4X19UUnJQVUptRzlYWFF2c3lqUHQzOWpsSk4wdWgxY2ZqLW9XdmIwT2FtNUxxaGJBakI1bDhMVU9CNzR6TU1nbl92YnFR?oc=5",
+   "source": "The Hill",
+   "date": "2026-11-27T18:49:00Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T14:52:40Z",
    "score": 3,
    "category": "Macro"
-  },
-  {
-   "id": "9dac2ce3acc1be",
-   "title": "The Nasdaq Needs Two Huge Days to Dodge Its Worst November Since 2008",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0ZkeTlVWUlEc1VMQUpuN0k3dGwxX2V5VzVnUExaYS05c2V2bTA5Vm1PLTFIOW1VWVBqVUhmWjZsMmdFdzhHMXlaTTc0TTctV0VDR0ZmVWZUUXVzLXNNbWN5aU9oZkVvSTBmTXpDTUxJdERpcld1aE05cU1iNXNRNVR1bjVtUTdRUEZDR1lIclRIUDk3OEthbkgtTXY3SDNmeU1lQUZpMEN3VjRYRGtscFIyZw?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-27T14:52:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
