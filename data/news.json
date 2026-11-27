@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T08:09:16Z",
+ "updated_at": "2026-11-27T08:13:59Z",
  "items": [
+  {
+   "id": "be043af9bf949c",
+   "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T08:08:01Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "36922348142783",
    "title": "US PCE inflation rises in Oct: Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, and Gold?",
@@ -892,6 +902,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
+   "source": "KTUL",
+   "date": "2026-11-27T02:06:25Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "5a3025a884956e",
    "title": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T00:52:45Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "9697218f142d4e",
-   "title": "Stock market cues to watch today: GIFT Nifty, Asia, US, FII, crude, and other data",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaEQ4aExMTDZNeFZldEdiU3drQ1VFSzJQUXBRU3oweHMxUXBOS29iVW04azJMWGt6bDFpZkRibk9KTGp5R1RVUXlBenFlbUJ3Y2tWVU92Vi1oSVY4MW5hNTBfV2UwVnBWdERVeGszVGhpV1VpcHM2bi14SzA0azZNdng0X2pUczRLNnBaejlXZlRhRDR3Vk0zbmxlUEFQTnE3eG9fUWZFWnRrWGg4Qk9VMk5xSklLWWhkWTBtX1dtM2J0LXRqLThCWWRkSFN2dEZLMXppSGg5eHFWalJhR0hVN0lZUUvSAeoBQVVfeXFMTmJMcGpQMU01dGtQcHBtalI5SGFOaWtWOTU4MF9fUHdCdHV3M0JCcGNsUXpPMXptSkV3aHltdUpCVTBkRXdEOHZ5djRlWFU5alZhX1l6ZFN0dXMtdHRMMWQ4RW9RVzluZjMzMDl6RzFiWkl2dTNnekdCT3hfdWNWd1d1UWRpYlp6aFJFWEZsM2wxRVhJbDZLc3NfRUlTd01BbjdzTFg0NjJ6V2MzbHNUdmJDLUVLM1RIZ1pzZG9oWko1eEJDTU1xMmhGdlJfWFUyc3B4Tmo4NTAzbjlBVTA1dTI1Z0NnSDYtTTJ3?oc=5",
-   "source": "ET Now",
-   "date": "2026-11-27T00:50:29Z",
-   "score": 3,
-   "category": "Energía y dólar"
-  },
-  {
-   "id": "bc557b37adabe2",
-   "title": "Gold Declines To Near $3,550 Amid Hawkish Fed Expectations - TalkMarkets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBQVUk0bkIzY2UwaENEQWpPZHNENF9XMTVxZ09jajdIYlI1Rk1tZUY5WWJoN1Fpbi1MLVI4?oc=5",
-   "source": "Howl.Link",
-   "date": "2026-11-27T00:50:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
