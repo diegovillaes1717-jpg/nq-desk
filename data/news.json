@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T05:00:09Z",
+ "updated_at": "2026-11-27T05:04:52Z",
  "items": [
+  {
+   "id": "e85008ad55f9fc",
+   "title": "Jonah Goldberg: The many, many problems with Jensen Huang’s return to Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGkzd0xFV1NFYlp3RV9XVmUtWnJkOVZERHZxMkZaZnUteW5WYUtJaDZxajJYY2p3Q2t6dERaZnNDeWc2RzRyVWxvcVF3UGgwa0ZmYmZ6QXJtUDFZT2dBU3BJYVo5YlRGXzc1WVNiZEtMb0hxRDRmYTRDVFl2MzJOUlJ2QzRFUmJDOTVIc0xkR1N2T1U3M21ZTUpmcTBCLU01OVo4WE1FZkJtR1dQaDVQYzVYM1o?oc=5",
+   "source": "Daily Freeman",
+   "date": "2026-11-27T05:00:41Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3f14a1fcac1e3b",
    "title": "AI Bubble Bear Market: Tech 20% Off Highs, Nvidia 9x",
@@ -92,16 +102,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-27T03:34:44Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "ab67bdf069b6e8",
    "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
    "summary": "",
@@ -176,7 +176,7 @@
    "title": "Rumor of '9,000% Call Option Jackpot' Ahead of Nvidia CEO's Return... No Trace in Trading Records",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1leDNpYkJiUU1TcXdxQnRmTHRqdU1lSGNtOFdSN0pBZXZXZm5kc2d4djEyTkZiY0ZvMHlFejI0b3dBV3pyRWJNTXBVNnR0amxHQndwRVU5TjIzM3BWTHdKMkxUREt5Y2I5X1YyVW43czdPZnRmd0E?oc=5",
-   "source": "finance.biggo.com",
+   "source": "BigGo Finance",
    "date": "2026-11-27T02:55:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -313,7 +313,7 @@
   },
   {
    "id": "027138009c00b7",
-   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZQWGhIUVI5bDVUSHRsWWVzTGZGSUNxcS1PYndUUUZVd0g0Y3BUUTlzMjE2T1FrTENfWjkxdkYzcGxfdHpLSmF5UlRIWDV6dWp6R1RJMEl1VThSWUpuc0VpQkZjbnhxTjdVV28tamhPdXBkSy12dHh4cFhkSWRMN3J5R0hEMVIyZWd4bGJkczZkU01YY2dF?oc=5",
    "source": "富途牛牛",
@@ -562,16 +562,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -802,6 +792,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWhySGVoQVJka0ZhQzBaN19mOXYwRzktdGE0UG9fajg0aGhLbUI3SlBHVWRLT21SbURLMVZNYzd6eXpaVWVpNS12ay1SOUMxWTVoUFFaMnhCbW5oRzRudmFHV0hYUElvaTVXQWl2b3Mzd0ZOVzg0Z3dTSWh2a1E4djJtUndIZTVlano2S0JYZDlHcUxKaE1YVlc0WUE5bllkRWhSQU4zdXRGTWstdzJLZ2NuU1N5WG9ISXVyUXRJeGhUazlrYngyMA?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:32:52Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ef4a7d3dd5acc6",
    "title": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
    "summary": "",
@@ -849,16 +849,6 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1199,6 +1189,16 @@
    "source": "Barchart.com",
    "date": "2026-11-26T19:30:03Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b5155ccc026371",
+   "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXdfa3Bna1FYMHFuMy1haFR5VzUwdDBta2xLbzU3UnhnTlZVQ1JETWFKT0ZORGNDeVQyNEF5dHQ0X3loYXNlVktodi1xMHR6eTdUdGVxSnhMS1NJN0lXZnBuQTdWRGVoN3ctYkk0Y0hXSkpfLUhEQXY4N0dxcUpyQkRsYkU4NWhMVDNmMjQ0a0xXdmdCWktWaVhBYlZUd2hSNzBoOWtCTWloa1RscW9KcEdBZms1YUxlRktHM0VveVhYS0VnMDVKaGx2TzA5QkJYeTlUSENUOTV3bjZNTG5F?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-11-26T19:30:03Z",
+   "score": 5,
    "category": "Tecnológicas"
   }
  ]
