@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T07:59:50Z",
+ "updated_at": "2026-11-27T08:04:33Z",
  "items": [
   {
    "id": "6b5901a071b423",
@@ -15,9 +15,9 @@
    "id": "663adfa9f509b2",
    "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUNHN1VKYjRmSGFjZTVBYnFHcnJlaDFjYlJnZnFHVEp1Z1l0QVlBLU8zbTdsN2pLbFNkVXpsS1FLekVvcV9NenZobFNDUXg5ZWpoZzFJcklQeEMtQWJMMHhlYXZIanBBc0NkblBDTG54bFNFVGpyM085UjdDdkpMWWVKZUV0R1I4SmVEOHBadjhvODctR05UQmtvMFZYbzhBQzdoSGcxOTVGZ1U2LUlvUUYtTmY?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-27T07:41:10Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T07:36:00Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -492,6 +492,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "71e5909b15b021",
+   "title": "US tech stocks set for rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:00:22Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "05c70e6b7abf1d",
    "title": "Is the Fed ready for its next fight?",
    "summary": "",
@@ -820,16 +830,6 @@
    "date": "2026-11-27T02:22:25Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
