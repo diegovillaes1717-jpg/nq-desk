@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T15:03:36Z",
+ "updated_at": "2026-11-27T15:08:21Z",
  "items": [
+  {
+   "id": "e7c03c32cc505e",
+   "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGRDaWdBN1prdGREU3JNQlNfVEJnRzdINDI0c0JQa2NBamdaRURfenBEZzFzU0U2bUlZdU1lcXBkUzNtT1NnZVhHaEZNeTZLd1Axdi10X0RsbWJRU3dHajFPM2xpWG93SmZvcklZbS1ZTFZMMmpXUXlURkZONzRRSk1oS0dtdlFDQTBNWnlrN2d4c2ZWUllvMU51V1dGTXlxQkdzc2hyczl4MV81azNyQlpKQUUzSVBab3dPQ3dmQjVrdw?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T15:07:41Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "42b50d8496c8b8",
+   "title": "U.S. Stock Market Rises on Strength in Tech Stocks; Set to Close Shortened Trading Week on a Strong Note",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejcxQUxSRTdQVXk0ZmNjNkgyUDdwX1llRFV1LVMtNnhQcWFUNkEteklRanFoX0l6UnlHSlMtRldYSElOTGU0emNnWTA1Z1NaQ3BZT0trMGFlMklySkRUZTRweDRWNWp5WF9QQjZQeERTcWJzaVFmLXZ1NEt3a2RfaGxjeXo3aE5Od29PNHF5U21lejFmLUh2cU0wdDgzbndrZHE0WGNwdFNuZ3lZRzZxVTd2ekp0S09rVFR5aW85aHV3dU1FSHNyY2FHTmg?oc=5",
+   "source": "TipRanks",
+   "date": "2026-11-27T15:01:14Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "a33912cdb0c4e7",
    "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
@@ -9,16 +29,6 @@
    "source": "MarketWatch",
    "date": "2026-11-27T15:01:00Z",
    "score": 5.5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e7c03c32cc505e",
-   "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWTVOM09rTU5oUnloMjRwSms5R182SlV4UmFobXZYZEZQUWZnYWgxN2paeU53ZGU2dEtuQ1hycDE3RzRfandEbVhFTG54WTZERWFFTENiRnhzTWh3OGRaTkk3eTJxNzBSSndOaE1wRGNrSDd2eU9RRlRnMUU4b1pWSi1BT0ExQzlnUi13ckQ5YVNTNlpzQmlHZS1uTFBVbG9qY01STktSZlZwSGV4emNDTV9NYkRpU09RcVF2dXh0M21mdw?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T14:57:38Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -192,6 +202,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "37807f4be5108b",
+   "title": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFZPYlR1Zk9NaE9DRm1va1F3ZkdPQ3YtT3VEVmNXeGlINzdiMGpyclBsN19rRnJ5RVRRcUx5VzhhQU1wVkxCNDlrbV9VV1h3QW93a3ZLOVhMU3dqbXpyUGtqNW9tMlZzOW0wVnhseVJSdkV0b3VzT3JsbXJHNmZmLUo2R2ROSF9MTTU5ZmxoTkxCMjVFVUxYdGJtTzR0bkU?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T14:15:58Z",
+   "score": 10,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "57591398789a86",
    "title": "Trump’s Strong-Arming To Return Jensen Huang as Nvidia CEO Demonstrates a Rigged System at Work",
    "summary": "",
@@ -209,6 +229,16 @@
    "source": "Schaeffer's Investment Research",
    "date": "2026-11-27T14:14:48Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "35ecd7e823c62e",
+   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1ZJZlljaHdDZVFSMVlmanM0SV9PTjk0ZFlOc1FCZnNJSDVZUGRaVENxLXBIVkFhRjIteUdoRHVoWHJKQzEzTWRJQzZyREJGWE1kRkpOWWtyU1V2SmxuQTRuMUZSVnAtdDJBS1VvQTRkWEN6STlCMXg2YkZmNEx4aFloQkZUREhVQW05ZVYtOF9NZ1BLRTNfLTJVdGJpY3JrYU53S0g0RXNySUNGZmxmUUtCMmI1LUVYMDNxWmtJYl9obDRQamxvd1E5MDhjRWlyLXo0REJIeFp0SW9SRy1aVE9Jc0RJTGY2bmc?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T14:14:38Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -502,16 +532,6 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "8bbf7a73293ee6",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:56:54Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
@@ -562,6 +582,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8bbf7a73293ee6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOW1qNXBKZTFULTY5RGhEQnFyaUVNWDdzaHBxM1hfZ1V1MjBtQjV4WW1UemNteTdQUGl2dXc2VVpEbHNJRFd6d2o2U1FUQlQ3bTRkdExVZVNzQjhhUHZoa19RcDhXTWN0R2hwLW94aE5XMi1LdXh0cnpzWXFSQ2NOdzA1dURBTmdZOXQzN19BbTVqZGdHWkdkN0FmdldOeG9sUFZwX2FRTUgyeWVJR0RHTC12bGswU2VyQmdBTVdn0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T12:49:05Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "f2c5815475d19a",
    "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
    "summary": "",
@@ -589,6 +619,16 @@
    "source": "FXStreet",
    "date": "2026-11-27T12:47:57Z",
    "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T12:46:20Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -742,16 +782,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "528ee615e0a1e6",
-   "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
-   "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
-   "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-27T12:22:00Z",
-   "score": 4,
-   "category": "Macro"
-  },
-  {
    "id": "3e6cd52789fcb4",
    "title": "Dell, Super Micro Under Pressure as Nvidia Halts Shipments to 4 Asian Countries",
    "summary": "",
@@ -760,6 +790,16 @@
    "date": "2026-11-27T12:22:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "528ee615e0a1e6",
+   "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+   "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
+   "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T12:22:00Z",
+   "score": 4,
+   "category": "Macro"
   },
   {
    "id": "5e0d1bb2d2f273",
@@ -790,16 +830,6 @@
    "date": "2026-11-27T12:14:29Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-27T12:12:09Z",
-   "score": 9,
-   "category": "Fed y tipos"
   },
   {
    "id": "513a219cc0d9c3",
@@ -862,16 +892,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "35ecd7e823c62e",
-   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjNDOFFMQXEzTklTbHhTc09kNGc3RTFuQ3NaXy1rSlgtUmRKdHJZb2VNVUh1NDNheVQ3eW9sUERNUlB6eFZpUHNNdlUxZmpJSVl6V1lJMEZOY0Z6WXBpRFUxaGFwbDlhQ2lRelp0eVFFcFc2clNJZ2Jua1o2MW55Y1haQmNncVBQQzQ0?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-27T12:03:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "64d3b084bee0a9",
    "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
    "summary": "",
@@ -902,16 +922,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "4271fc1d5f0f56",
-   "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1E1Z0hiOTZsY0tQLTBJOTl2WUtPUnBGdHVEaXRtS19NbTdocVExc1dNbmZEaG15UzhPdXBBQ0dvdmE5VGZTM0hYcFR3Vnh5UWFIdlJzTmhTWE1SM2lXWEZMNmc3amUya01ybWtiRC02NkdqcDJKdW5ISzU4LWhjRWQ4d01ybmNaRUhNN1RoaVVWYXJGeFoyeDdaa3V1OW1aVTdwakdR?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:43Z",
-   "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "149e34a9e16558",
    "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
    "summary": "",
@@ -919,6 +929,16 @@
    "source": "Equiti Global",
    "date": "2026-11-27T12:00:43Z",
    "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "4271fc1d5f0f56",
+   "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1E1Z0hiOTZsY0tQLTBJOTl2WUtPUnBGdHVEaXRtS19NbTdocVExc1dNbmZEaG15UzhPdXBBQ0dvdmE5VGZTM0hYcFR3Vnh5UWFIdlJzTmhTWE1SM2lXWEZMNmc3amUya01ybWtiRC02NkdqcDJKdW5ISzU4LWhjRWQ4d01ybmNaRUhNN1RoaVVWYXJGeFoyeDdaa3V1OW1aVTdwakdR?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:43Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -960,6 +980,16 @@
    "date": "2026-11-27T11:55:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:50:33Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T11:12:15Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "bcd9b0660ca980",
-   "title": "President Trump Says 'Huang Is Happy to Return as Nvidia CEO'",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjhKYzl4di1waHJqRE4zdkNsc1E1Y19MbHJwckdIajhCTGpPN2tqMEllYnkzQUpIVi0taGM5UFdKTGhUN2xEbEhRRjdDdDVkeDFKTGFpNkVhWlJ2eHo5MXk0cjNTVEhndlh5QmJJSFlxWTdzRkprZFltaHFaLTh1U29FaDUzVndYdndiWlEzRTQ3cnlENkJuekRvWXRaQQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T11:10:35Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0550c7af31ac72",
-   "title": "Nvidia Lost $1.7 Trillion This Fall. Who Won?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTThtZmVKZVJnVV9CbmJSc29BQ0h4UC1JbVFHX1VTRG9tbGUyaDFzSkhmYlFVNFlzX3RRNVpnVUNtYWNrYlZZVVdjMXhablllZGY1WlFNXy1COWxvQ3NwMWpnX2QwVThqQmd4UzlOR25QYTdBcEdvYnFNOXZ0Wk0wNHlnRjJrOU55WWZma21sRTNBY0k?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T11:00:13Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b153571465fe03",
-   "title": "High Inflation Puts Fed’s Credibility On the Line",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-27T11:00:10Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
