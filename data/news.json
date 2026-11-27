@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T13:56:28Z",
+ "updated_at": "2026-11-27T14:01:23Z",
  "items": [
+  {
+   "id": "cada6eb15dbb16",
+   "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibUNoa2l2T0FoMDlZeUliMVljdDFVUnJHU0NWWW1sTXktM0t6enN0ZUE5Ty1rLUY3TFFTOE5wLUJ5T2hmS1NhNkRaQXd6X1pNNnJvR0R1ZmQtOWJnNzlMeWJGT2V5dG42TkhLb2NFX25BMFFmRkVR?oc=5",
+   "source": "Bitcoin Magazine",
+   "date": "2026-11-27T13:57:15Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8389b82f37d0e8",
+   "title": "AI Needs More Than Nvidia Chips. This Stock Could Benefit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVpfd1V4N0g2eDA2a21CX2R4Nk1lbW1BUHZ4YXpuX2N5THZwUjBkcndEektIZjgyeU1MOVJ5VTdVLUxRalB2XzY3V0ZUbm1sX1ozVk1aQkJHdVlYd0tMQkFEQmFQejlYRjZ5dFRyQUdxV2ZZRl93TTZpRS1NX3VLb183VVp4MU40ZmkzUV9QdXFMTVFQSVE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T13:47:30Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "142e7336fd404b",
    "title": "Chinese firms install restricted Nvidia hardware at Shanghai data center",
@@ -45,9 +65,9 @@
    "id": "7931b0381839f1",
    "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXRBYXZ1Ykx3UVlReVhYRng2dDR4MVFZRlpJc0lyS05kWnFiMGsydmg1MmxIWlBsZUk4eE5qNXJVd3Z6M3RhSGJRdUNzQVpDTDFuWTI3SlktZWgzVjNEbWRyR1UyRC04UG9JcEJvbjhHTVl6R0N2MHM3S3RUcW4tNkx6Uno5OWdsOGVaWjJpR2x1bjNXMjg3VzlEZmNQYmt0MEFQc1VhdEgybXAxVTFCWVFoUXJsQUhnNVFXV05OaUJxN1BzdTBrMDYzT1RacEdER09kYmwxU2NsZUtv?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWpkelZfMmV1eURmX1o0YTY4aTBJTkZuTzY3Z25YVHdjcldhbTAtbzM3eGUxYjZHdnNMTDJBM2VTNUhOczZ2dnZXa3FYbUZYMTZWM3lmemwtQ3g1TmNaY01DcWtKdl84ejVrUFJPdUp4R05OSEMtZ1hGWnlDUExnT3l2VVRLdzVLek8yX3JFWnRDSDRqZzlwS1FRU3BSUG9uOFliX0E5Z0hOSnNBel83THZuOGU3Uy1SNnNyYXpkcmxISkpnd041WUxNRmdWOWh0QnNBYnZral9wZw?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-11-27T13:25:26Z",
+   "date": "2026-11-27T13:27:31Z",
    "score": 3,
    "category": "Tecnológicas"
   },
@@ -512,16 +532,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "149e34a9e16558",
-   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
-   "source": "Equiti Global",
-   "date": "2026-11-27T12:00:43Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "4271fc1d5f0f56",
    "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
    "summary": "",
@@ -540,6 +550,16 @@
    "date": "2026-11-27T12:00:22Z",
    "score": 4.0,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "149e34a9e16558",
+   "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGxaRlRJU09GWHpHNXZuZzNEUHNKNFVxZFNmZFpCLWxjQXYyLTlTbWliV1dnbnk2UGZhQXZoMl9NQWNDazl0VGQ3eGc0d3BFV01hUEpBOXg0cFVWNkV2MDRzLV9qSHBfS0tlbklGdE5rQ2Y3NjVqdF8tSS1LUnJaWG1vbEtPb0F6aldKcXdJMHZUU3VJQzU0d2lMdFYzdnVIcWVuNGM4OGxWMU8tUEhuVjNfcnZBOS1JTDZXQ0JkaXZRU0RF?oc=5",
+   "source": "Equiti Global",
+   "date": "2026-11-27T12:00:00Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "2aaf0db81834ac",
@@ -570,6 +590,16 @@
    "date": "2026-11-27T11:55:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "34d12b8e2800d7",
+   "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVRWkZLRmFSOU5aZllYak43WDVRTjRzRVF6ZFMtVndkQ3RqOUN4NzA4M1BiNzhZNG5ZSWhvVXNOMmg3MjVNWE1TOTFXaDhWMnRxcXNKTHYwTHNCVEVVOVFyQkJwczlaN2xjd1BXZTlwUnBteVQ0clpxSGhOU05xc2FESXNoazhPZm1HVHBzcGQwQU9xSjFDWk1uQ0VlQ3NHMnVmeWktcmZfMkJWQjU2eWh4Wm1DNnFBVjRuaA?oc=5",
+   "source": "markets.businessinsider.com",
+   "date": "2026-11-27T11:53:00Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -660,6 +690,16 @@
    "date": "2026-11-27T11:31:43Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "162ed616ca00e0",
+   "title": "Nvidia agrees to $290 million settlement over 2018 crypto mining GPU sales — ends eight-year investor lawsuit without admitting wrongdoing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWdiVzhFeExEaXgzSjVHNUwyYWtRT2NnZGEzOTlWelZLbl9RbEdhYmxjZlp6QUd1NWVsaklVWnRCVkZOdV80aXZ1UFhJZ3Y4ZktHUzlCVEdhLTg2UTRwWGltWlVIZUgtLXVEQVhtN1ptMG16RnJmOGp0M3ZqczFsUjh0dkVUcE9WQ2NucG4yM3FpN09UOHVqMXF0djlxQllFa3dF?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:30:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "83f1899288c539",
@@ -922,16 +962,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "34d12b8e2800d7",
-   "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVRWkZLRmFSOU5aZllYak43WDVRTjRzRVF6ZFMtVndkQ3RqOUN4NzA4M1BiNzhZNG5ZSWhvVXNOMmg3MjVNWE1TOTFXaDhWMnRxcXNKTHYwTHNCVEVVOVFyQkJwczlaN2xjd1BXZTlwUnBteVQ0clpxSGhOU05xc2FESXNoazhPZm1HVHBzcGQwQU9xSjFDWk1uQ0VlQ3NHMnVmeWktcmZfMkJWQjU2eWh4Wm1DNnFBVjRuaA?oc=5",
-   "source": "markets.businessinsider.com",
-   "date": "2026-11-27T10:39:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "1c42b326d989a8",
    "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
    "summary": "",
@@ -1125,9 +1155,9 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
-   "source": "Knoxville News Sentinel",
-   "date": "2026-11-27T10:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
+   "source": "AOL.com",
+   "date": "2026-11-27T10:06:22Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T10:02:04Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "d4609e9b528d10",
-   "title": "Mortgage Rates Declined Slightly Ahead of Thanksgiving, as Skepticism Around AI Firms Plays Role",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmJlLWlJTUFqMXpQM1E4T29vaVkzaVd1SjI1VndvSU95T09oam9nQlV6Y0ZDRW5zbm44Nkt1VWNKYXRnU2lBXzJTN3BkV3VpY1Y0SjFic1dDbl9wMzlkcVJEZmNLWTlQVWVzYVFEeHk3dlJYR1JVMWlmbEk4ZDVGSmhIeU1xalhxRGg0TWY3NVZnaS1KWERJYjIyV2pTeFhpbDczeHFSLWVVT3N1UHpDUXVwTUN4RmYtOER3?oc=5",
-   "source": "Credit Union Daily",
-   "date": "2026-11-27T10:01:23Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "efc12be45ecd70",
-   "title": "Trump Discusses Stock Selloff, Defends Nvidia CEO Jensen Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVHNwVzZQc2g4WE5hQ1ZkTTN1cU5xSWtBcTBhN3NhVl9QUGt4QXJtLWJyT0lpcERfbjNZZ1lybVZJNFpUNEhfOWp5dnV4dFBkUTlJNmJVMEhpalRUSUo0TFRqY09BWG00VFNXQlZJRDJKTUNzazVuN2JITjVZLTNyTkh0X2ZuNnM2V1NMb2tYOE5KSWM4UDZoZEZFUDI5RTRkRmtHSy0tWkdPMzYzY1RTY21aZ3R4SkxPUWFaSjZ4ZUxnd2FHQk9ZN3ZrX2ZDTWRCY015eWU1ZXRybm16bFZJ?oc=5",
-   "source": "Forbes Middle East",
-   "date": "2026-11-27T10:00:28Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "22f27db442cd6e",
-   "title": "U.S. Treasury, European Bond Yields Rise as Investors Anticipate Fed, ECB Rate Hikes in December -- Update",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1EzVTh3Y19ST1VlUV9KVmEyelB4Wmd3aHhqU0ZpaVQ3dS1NZUFld2VUTEY2R0Z1MkRLQTNNa25CYkhWcVZ3ejgwdHhNaXFSbV9qS0o0U3dTUnY2UnAxTkZ5XzNEN3VTbGpmX254dWxvTEVMa2lxMjJpemkwT01qMlJadkJfTHNMQzVPLVNvNmNmMGNBR2tJbmF6MlVMbEVsZ1Z6RXdlblVLejJLcHNCSWNhQlRuWlk3WFoycUdtVVNDSFNIelZfd1VVaUZNOE9sd05NbzA3WGFFU19qT05pbA?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-27T10:00:22Z",
-   "score": 7,
-   "category": "Fed y tipos"
   }
  ]
 }
