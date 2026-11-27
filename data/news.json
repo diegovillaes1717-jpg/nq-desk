@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T07:55:07Z",
+ "updated_at": "2026-11-27T07:59:50Z",
  "items": [
   {
    "id": "6b5901a071b423",
@@ -15,9 +15,9 @@
    "id": "663adfa9f509b2",
    "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-27T07:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUNHN1VKYjRmSGFjZTVBYnFHcnJlaDFjYlJnZnFHVEp1Z1l0QVlBLU8zbTdsN2pLbFNkVXpsS1FLekVvcV9NenZobFNDUXg5ZWpoZzFJcklQeEMtQWJMMHhlYXZIanBBc0NkblBDTG54bFNFVGpyM085UjdDdkpMWWVKZUV0R1I4SmVEOHBadjhvODctR05UQmtvMFZYbzhBQzdoSGcxOTVGZ1U2LUlvUUYtTmY?oc=5",
+   "source": "marketscreener.com",
+   "date": "2026-11-27T07:41:10Z",
    "score": 3,
    "category": "Fed y tipos"
   },
@@ -109,6 +109,16 @@
    "source": "TradingView",
    "date": "2026-11-27T07:13:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "da2aa45342b348",
+   "title": "US Stock Futures Surge as Nasdaq Gains 2.5%, S&P 500 Tops 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOXc4NDh2czZ0ZVc0VWJId2xrVVIwdVRpXzFUOWdUZUx2TUpnVWNHWEsxZUN4aEhQRmc2UE1HQXNKNHMxNlBVNUF5UnEwY09SRUgzTXNJRVJEQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T07:11:17Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -210,6 +220,16 @@
    "date": "2026-11-27T06:51:00Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "904a1cb310d365",
+   "title": "Nvidia, neoclouds in focus as chip sellers rule out Chinese renters (NVDA:NASDAQ)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS28zWEJ2QnVkV210ZUxWZG85Vmx4M3lXVkRINmRTd2xVT3RtcjM4eXpoNTRUOFpQOUZwQUo1UmFQNWNPTXlDLWhEM1hKRFZiT2NtVFQ3aHh3R0lHeTA3cWZfa1JQVklPSXk0a1FobkVrOHdfUzdCbkNOQ3JrWmg2bktia0lvV0RfNzB3ZE9IbG5sc0VaTHlQSXg4RmNyOWNHSkZmMW9OVQ?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T06:46:29Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "b5deb22d0e37d6",
@@ -802,6 +822,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -1169,36 +1199,6 @@
    "source": "MarketWatch",
    "date": "2026-11-27T00:31:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b9bbf459e865c9",
-   "title": "Arthur Hayes Says Crypto May Weaken This Weekend Absent Dovish Fed Signal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jbUttek5pVWs1QjlBNWJxSm50Z0Y2SHVoSnBWLW5FRzFKVFFGamJQeTBSbmF0NVdnNTJ4d1Viclp1MWFmcGhhUE1oaTJucVNqcDFwQw?oc=5",
-   "source": "bloomingbit",
-   "date": "2026-11-27T00:29:11Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "eaa32e2a5acf0c",
-   "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-27T00:25:00Z",
-   "score": 3,
-   "category": "Mercado"
-  },
-  {
-   "id": "8086c9bb015c76",
-   "title": "Is the AI Bubble Bursting? Why the Nasdaq Just Had Its Worst Week Since 2020",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEZwQmJrRkVMdS1Rd2hLbl9GRTdWak9ZMU5qSlZnY2dmd1RxVjZGZmpGeEE5Y0dxT1F4ZVZkR09peFZ2OGNKSGVST0V1X0dQOEVQYUZ4Sk1nQWdtWWJMNXJSS0lnYXJWeUhFRmxwLUY1OEM1XzZCUFNMMUNJVkxOLUpxQ1g?oc=5",
-   "source": "BBN Times",
-   "date": "2026-11-27T00:10:51Z",
-   "score": 7,
    "category": "Tecnológicas"
   }
  ]
