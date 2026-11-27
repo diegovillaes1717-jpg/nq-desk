@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T17:22:33Z",
+ "updated_at": "2026-11-27T17:27:17Z",
  "items": [
   {
    "id": "31d6dcf010bb8b",
@@ -170,16 +170,6 @@
    "date": "2026-11-27T16:09:48Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "979bc6869f12b7",
-   "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTVyeExOUDRkNjhWTlRidm9sQUJQTE5yd1p1Ti1ZV2k4NnFMU2xHLV9JWVJFbW82U0VUYUZKUzZiYVlVNGJRTDUwRExiR2pCZ2R1a1cxR0cyaXNJRWp6UzNKekJBcTVScmY1TjVJX3FyZEhzQWhDX0dKTW5jZ1FTSTBtYmMtbGo1LVpQQjJLMksxUkE?oc=5",
-   "source": "DD India",
-   "date": "2026-11-27T16:08:42Z",
-   "score": 7,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "987781fc7c3137",
@@ -372,16 +362,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -403,22 +383,12 @@
   },
   {
    "id": "f475094c49ddab",
-   "title": "Nvidia stock falls after premarket gains as volatile week nears its end",
+   "title": "Nvidia stock falls after premarket gains as volatile week nears its end (NVDA:NASDAQ)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGNnTDNmNjJ1MEFMZEpIX0xVUk9LT2VKbGFRSWlDV0tDN2FQdy1TY0JoYW9HVlM1cGt2OWxVczBSY01NZTFSMnR5cEVMQllvT0l3Q1VJemgzTkxKa2l0T0VZR2NLeDI4QzlEZUlYemVBODV1alhNcXJfTlh1OWhpeVJoTUdKMXdDa1JEZUdwSGFIclVobXBvc2VaZ2prbGFSTEdJY000LTJkWlBvNFJkQWg4MXZQWHBxbWZoaEt1bTRZbEZtOUViT205cVNYWEk?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVJpOU01RldtZlAxbERQS3dmUjk4OUl5ZmdMc1hURjdicFJQRnFvVjUxaTdNODl5SjNRemhoVUY2dHFidHNBenlwdVY1T3VaOWhoNVVheERSdGIteWFvVGhERy0wZW5vVzBtSFV3MUZMZmU4YWNOcUhBNHd3c2NiV3JNc2UyZmhOSGczQVpSeTd1UVJrUFI0cFY3OTJOUXRPOXc?oc=5",
+   "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:22:46Z",
-   "score": 11,
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -609,6 +579,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T15:00:27Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:00:00Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -1022,6 +1002,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmc9IB1AFBVV95cUxPMDduWUlBZGpxR3h2anlzMHRTZ2VZNlZiOHluYWZNOTdiajU0VThXbzNQM3dINmtfdUQxT28wd1Z2UnZQTUpyR0cxUU1NdFBQR2M5S0ZJVFNUaHpiYmZ4aGVNUkNLdUVXSXo1TkstY1NXY3d5eEtnbG9ycmkzNnkwQmhlRlBLYlViRzFKRk16Y3c4Ukg4cVNWcmhHZExZd3J0cDFOUDJYMVY0UENuYkUyU1JNZnVRcDlWNjRVdlZoRFNPZnFyY3NFeEZqdHdRalBmVElmcw?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T13:36:06Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5753b7cd6f6b30",
    "title": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
    "summary": "",
@@ -1200,6 +1190,16 @@
    "date": "2026-11-27T12:56:54Z",
    "score": 6,
    "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "a93ed672cf12fc",
+   "title": "What's Next For Nvidia Stock - Wall Street Weighs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm1jbHptd1FfbHNzeE5QRWQ5a3pfWVBjbE5YU2dmUkVQUDBwYUx2UkJxRzVyeUU2X0laZHk2QUh4UVFma3FNc0swbWFTd1NmRjJBZFN3NHczWG9BSC1CdjVBd3I4Y0NwME1qeUlaZkZKTGhLdU4xampXLTFqNmlGSHBMcXFhV1dLY2hIVTZuX3NYbjZSWWJHREdNUlpyUjlN?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T12:55:46Z",
+   "score": 5,
+   "category": "Tecnológicas"
   }
  ]
 }
