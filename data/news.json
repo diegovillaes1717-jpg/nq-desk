@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T16:44:06Z",
+ "updated_at": "2026-11-27T16:49:03Z",
  "items": [
   {
    "id": "881249cf0f1b8d",
@@ -152,6 +152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "e5dbb19203d871",
+   "title": "Jensen Huang Said Nvidia's Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVFFxcDZScGhzNVF0WnNxUDh6TXFibTdpaFc2NWxjS2EwcnQyc0FYWGRTTk56YUpxWnRyT1RHNlQxWEpHVmRURmJic1lRaUNXNEVrLUFpLVlsM2xwaXU1ZHo0d24xcGV2ZjBkUjc0dTJKNHZCZjJrb29MbDJ3b19WSVpPdGVZTjFQMHFjT1FVN3U3RHEwanB2aG45VmV4bHRBZzVzclJVdDVubDYtSk93YUIzcjN5aFQxNExVbTFwMTQ4R0pwbjN5RWRUUVNYb1hVS3hNYmtsRTIzQUhi?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-27T15:50:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e6846fcb5cca7a",
    "title": "Apple Takes Bigger Bite Of US Smartphone Market - Apple (NASDAQ:AAPL)",
    "summary": "",
@@ -269,6 +279,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -449,16 +469,6 @@
    "source": "Benzinga",
    "date": "2026-11-27T15:00:27Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:00:00Z",
-   "score": 11,
    "category": "Tecnológicas"
   },
   {
@@ -822,16 +832,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:41:56Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -902,6 +902,16 @@
    "category": "Mercado"
   },
   {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeWtBVXR0NnZqMnUxSUl2LUZRSk43YXhSVFVHckpVejRwam8yYXpBeml6ek1uemw2M0pPY1ZpWXF1RkV3ejZCckZBQ3lOcnhFZEU0U1ZpbEJHaE5HaGZhbndpdnZleHg3cjc5YUprX2JaVENPM281X2U4UjlSQXp5U3RuemtGMG1HQmRJc2d2VERVU2RFYWRlTVlKdVdKV0cya1lJaEhNTzZzeWM2cVh3Z1pNemlEeHBNb25jZFdYV3Y3cjlmUkI0Qmk3ZG5jTmZja2ljenNDU1I?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c3a9af55a5c358",
    "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
    "summary": "",
@@ -938,6 +948,16 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXA1aXdUVkdZd2FJb0czcThOSzBkMzRNU2xFaS0tcF95OXJYXzA5WnVyXzBXUld2RmRDU0k4R1lyWmpyc1M2ZElGQjlxZ2l3a2FCa0Z5UnBmVU14TWhKZzBhQU9oUVpwUTNqZW5WRy03QjZFRlFoUE1VYmVkMkg0SUZ5T3R6dzFiMC0zUWZydHhyZXhVeFVscmt3NE51VE1vYWhTUWROZndXNEw3UEE?oc=5",
    "source": "FXStreet",
    "date": "2026-11-27T13:25:21Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2ba10c0ef3f1c4",
+   "title": "US futures rally on AI rebound after bruising month, Treasuries dip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9INVo3V3lHMEpEX0x5S3dycU92aWtDVFc3UGVzenZqUm1HZTkxdnZ5ZmdRWVJkZGhvelRtSkdGa2t4V2VzUW9waGlqaWw5N3lzXzJB?oc=5",
+   "source": "شبكة تواصل الإخبارية",
+   "date": "2026-11-27T13:24:55Z",
    "score": 7,
    "category": "Fed y tipos"
   },
@@ -1142,16 +1162,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "2ba10c0ef3f1c4",
-   "title": "US futures rally on AI rebound after bruising month, Treasuries dip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2hieV9KaGpxdThZWUxyRXViR01URWlrS3pHd09YSE9WWWF5T0p6WWJENXBOX3hXVjhoUFFuV3RhanVPOFJuaGhGdERNZ1BTalFBeWtpQmpBUF9weHgwSUZUWEZjREpMNHAwSGhuYzk1U285cVhfNFBrcFlNckJDQTJqUTl0X0k?oc=5",
-   "source": "AOL.com",
-   "date": "2026-11-27T12:46:01Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "6a3989d7a919aa",
    "title": "US stock market today: Dow, Nasdaq futures climb as tech stocks recover",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Crypto Economy",
    "date": "2026-11-27T12:40:21Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f898316cd5c7de",
-   "title": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnpESnNmc1FTdTFGOWc5OXBaYTJvQ056OFhqOVhBV0x6T25aZVhobUF4bDRHZzJTRE5GdHRyVmNlSmRoaDQtQkRZbENtbHZfSjRST1gxWXBONkNYVmE0aThieERKRXZGZ3JiajNySExTUjJkMDhNZW1SZGRfdngzUFJ1OVhaYXZLLWVNSmVpRk14T3RRQUg0bnBUdkJmNkZwMGpv?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T12:40:08Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
