@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-27T12:45:09Z",
+ "updated_at": "2026-11-27T12:49:55Z",
  "items": [
+  {
+   "id": "c2711e8ec82d81",
+   "title": "The Week in Numbers: Trump tariff salvo, stocks soar on Jensen's return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4QU5NZW5kaEppcWZkalB3SC1zdkhZaERtTnVpRFZFcnRGQ2RhZ1g0aElEQXZHc091emx4eFRRalh2UDZ6bGQ1VElCNHhKZVJTeWJxd2hEVHdKMGlBcnc1ZE1hU1FWZHBWeXVsMzlLVTVScm9XTHZCdnBJc3YtQQ?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-27T12:47:23Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "e84284097d3f2c",
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "summary": "The November selloff has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "source": "CNBC",
+   "date": "2026-11-27T12:47:08Z",
+   "score": 5.0,
+   "category": "Macro"
+  },
+  {
+   "id": "6a3989d7a919aa",
+   "title": "US stock market today: Dow, Nasdaq futures climb as tech stocks recover",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFdiaFUtVGk1OUhRd2lNT19qbFl3aFNJY2plS1hkb244TF9rSlgtWk0tMEFSVGFIT2dLRWQ2WXRkRDVDd2NmNnZzRDkzck1GaVc2S3l1b0FqOE93RlduVDNRYU9DLTZzSkJrVHh1Q2hwUmlxTW52T0NQVzhIbzhKMnVJVE4zbTYxTkYtenp0VGV2d0JwcVNNQkEwcWdma3Vt0gGmAUFVX3lxTE93TGpuenBEdWhVWms2YzgzdkxKWmo1bVVoLVM5SWZQMzN5UGRjZktSYlNZbzh2UHROaTRNWThKNU44TjZOVGY1cERtbC1uWHRwVGFxMTBTZ0tONFl4MXZJa3piOXhOQnpzQ0hqc3lnbnQwSUNiNjd3amJXUjFDTzkzQTJVMVM0c2stdmY5RmcxNWlHbXd1cHVmT0Q1RHN2OTFFT1JaakE?oc=5",
+   "source": "CNBC TV18",
+   "date": "2026-11-27T12:44:45Z",
+   "score": 10,
+   "category": "Tecnológicas"
+  },
   {
    "id": "c3578b7dfc18e2",
    "title": "Bitcoin Reclaims $61K as Nasdaq Futures Extend Market Rebound",
@@ -30,6 +60,16 @@
    "date": "2026-11-27T12:32:38Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f50697031ee272",
+   "title": "US stock futures rise across the board on Friday; HP earnings beat expectations but analyst ratings diverge",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbG85VV9EQ3BVUjQ3TjNnbzhMVjZyTDRNWTZ1dWFERS1Pd2NSR0E1UXM5WEl6QURkWXNCWXFJYzVZVjVZZUtNRWVnZjJSMXY1ZG9uX2Y0UWRLalZmTkNNckxCZjVjOHZjR3BFdjZZci1qYnctQ3B5VkhMWHR1cHp1clY4a2NSM0hTLWFUX2VOb0tKTTU4RS1yc2JBOFkwS1RWRjdENmZ0OFNiXzdKdWNoMHp2MHJYU1BXZ2VMOXhWRHlHZTNJMWJmNmZYZzY1R1VuWkZaTmphOEhqOUJBaWMwQTNNeXNwMndLRXUwcDNlS1MtejVzamY0eFJhaEJfdG8?oc=5",
+   "source": "联合早报",
+   "date": "2026-11-27T12:32:37Z",
+   "score": 3,
+   "category": "Mercado"
   },
   {
    "id": "0444a87240f295",
@@ -132,16 +172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "e84284097d3f2c",
-   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-   "summary": "The November selloff has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
-   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-   "source": "CNBC",
-   "date": "2026-11-27T12:06:17Z",
-   "score": 5.0,
-   "category": "Macro"
-  },
-  {
    "id": "12fa4fb7752d92",
    "title": "President Donald Trump Just Floated the Idea of the U.S. Government Buying a Stake in Nvidia -- but It Wouldn't Fix the Company's Biggest Flaw",
    "summary": "",
@@ -210,6 +240,16 @@
    "date": "2026-11-27T12:00:00Z",
    "score": 9,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "2aaf0db81834ac",
+   "title": "NVIDIA Blackwell Chips Found at China Data Center Linked to Megaspeed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVRhMGdXVDgzRlQ5TWxVcy1iLUQyRDdDeGc0bUw2TmhzRjMzTmNaa0tIdWZLdjA0alJRV1FJQ250LWpWalpNNWJmakNwUmkzTWthekcwajhGU1lXOEhjdGpXT2pJSi1FY0pzbk4xMU5LT1BZSE9FQ3ZOT2pNMGRGcWRSc0hwWTVFVUllc2xvNnB2cWwyRTZPMTh6LU9xSWlzRmNVeFhGclMxek5HVV9QRlc4Z9IBswFBVV95cUxQMVRhMGdXVDgzRlQ5TWxVcy1iLUQyRDdDeGc0bUw2TmhzRjMzTmNaa0tIdWZLdjA0alJRV1FJQ250LWpWalpNNWJmakNwUmkzTWthekcwajhGU1lXOEhjdGpXT2pJSi1FY0pzbk4xMU5LT1BZSE9FQ3ZOT2pNMGRGcWRSc0hwWTVFVUllc2xvNnB2cWwyRTZPMTh6LU9xSWlzRmNVeFhGclMxek5HVV9QRlc4Zw?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T11:59:45Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "ea8914cf88bf64",
@@ -342,6 +382,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "8926b5a95dd5a1",
+   "title": "Stock Bulls Stir Again After Weeks of AI Anxiety",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3VCeHg2b05tdzhRRmprOEUxTWJBQ2VHRWNyT0MzZW1sTVk2RVZBeGoyWVc2QkNBdGstbnlRS3VrOEtMT3hEcE02UjZsYmRLdjJwcTJ6c0t0dUZtbjRmNUotSU9qZ01OODJJLUpaTjN3RzI4cS1xQUhQb1hlN2NBa2tYcFFkMUF3SlExRVMybmZ4Xy0tSXp5am1McGVnOHFGR21xLQ?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-27T11:16:37Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c8a0ee9d9df1cc",
    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
@@ -425,7 +475,7 @@
    "id": "d5822aebf2d3a2",
    "title": "US Stock Futures Surge as Nvidia and AI Stocks Rebound",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzVmSWVUYkNXQ3M1MllSV2s5OGg2V2g0MmhaQVlUSGNWa2Ywdll3R2FIVnhnWlpNVWFlRGtYWGNydExzX2kyUm5iejZSZmx6Qnk2aWtvUk5jUThnb0tpZDBnVzREcTBscERlcG5JQkdMUnBBVlllYk1ESjJ5LW5aX0FBemtiWlViM0RURkpzbG9DQzhaMFZpbU40bHQwSTVzNHFoNFJMNU82UWtpb3J1Ulh0bXcxeU42Nmc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGtRYlNQbWlTZ0xHb1pITi1oTEprbHRGM0FUSlJpSS1sTmtsUTcxb2gza1kwNVlRRW51OU5yXy1HMFEzQXJ5cGFERUVoVWlwQkpSRngyTlQySEwwajVjQVd4ZXVFQ1Vpc1JMb1ZQTTdFS05ueTNlSjJxeWxoVnhaQUt4d0RjR3JRdEVpbw?oc=5",
    "source": "grafa.com",
    "date": "2026-11-27T11:00:00Z",
    "score": 5,
@@ -702,16 +752,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "2309559d616d8c",
    "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
    "summary": "",
@@ -719,6 +759,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -1150,56 +1200,6 @@
    "date": "2026-11-27T08:10:57Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "9f3f29fa58ee6d",
-   "title": "Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, Gold as US PCE inflation rises in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLWZVZTZDVGdnZG5aSlZmYVpVNklETmV4R3NNR0ozc0YzNWUzbmFzV0hKZHJncjR0Y0wzUjIteGpFTy1mUjdRd1ZVMWZyVTFYclFXWlBvb0FldC1xWWxoRTh2VVRWTWxkb3FEUDFldHdjYmVfUmlKUEFIUE1aamxNRXQ0MkdCbFBXTlBZcEtoNVNPTEd2WmthUG9CV0oybVB2eGdfUUFJYVhDTy05Wm9wRDJtODJYMEQtU0ROSlROSTRiUGI4MGdKQnBVZ0t4RFdyVlNfVTc3UEt0NUFqNmlHOXJHRExOeWpvTEktcExZUDd4OWFOUmJET21FbkpPR3lKUW9idWxWTUFmdy1ucVRyYTdn0gGXAkFVX3lxTE9EMEQzcEppLTI3X1lWSkJ2WTdmR1JEbUJaX3VRU04xMU5xSXBZQVFBU1RkcVlqTDQyMVlGSXJQNm9MS2xOcWlkSDZXTm1CN25yWS1YS0tOWHVkbWdhbVB2eFZRaGFDUi0zWm9Na3NyRjVTWTk4S29iWl9FWnF1S3ZrU0dXMHpkQ0FQQ29VV1h2UW9PQndDNy1zX1RiTHBjSVpCUUEtNU80OUVwamdDZ0EwRXdDdUFaQ1o3ZnktUnRWek00eDRTZmh2M1JsS2hwb2ZwaFM3Y3hndjBUTjNUUjBJZjlDYmd2RjVFY2RQbTZlRUltMDI5YVdXWFJ0RGRDT1lwUnhjb080MDdSYzNLTlJCRVlsekp4SQ?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-27T08:01:40Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "36922348142783",
-   "title": "US PCE inflation rises in Oct: Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, and Gold?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLWZVZTZDVGdnZG5aSlZmYVpVNklETmV4R3NNR0ozc0YzNWUzbmFzV0hKZHJncjR0Y0wzUjIteGpFTy1mUjdRd1ZVMWZyVTFYclFXWlBvb0FldC1xWWxoRTh2VVRWTWxkb3FEUDFldHdjYmVfUmlKUEFIUE1aamxNRXQ0MkdCbFBXTlBZcEtoNVNPTEd2WmthUG9CV0oybVB2eGdfUUFJYVhDTy05Wm9wRDJtODJYMEQtU0ROSlROSTRiUGI4MGdKQnBVZ0t4RFdyVlNfVTc3UEt0NUFqNmlHOXJHRExOeWpvTEktcExZUDd4OWFOUmJET21FbkpPR3lKUW9idWxWTUFmdy1ucVRyYTdn0gGXAkFVX3lxTE9EMEQzcEppLTI3X1lWSkJ2WTdmR1JEbUJaX3VRU04xMU5xSXBZQVFBU1RkcVlqTDQyMVlGSXJQNm9MS2xOcWlkSDZXTm1CN25yWS1YS0tOWHVkbWdhbVB2eFZRaGFDUi0zWm9Na3NyRjVTWTk4S29iWl9FWnF1S3ZrU0dXMHpkQ0FQQ29VV1h2UW9PQndDNy1zX1RiTHBjSVpCUUEtNU80OUVwamdDZ0EwRXdDdUFaQ1o3ZnktUnRWek00eDRTZmh2M1JsS2hwb2ZwaFM3Y3hndjBUTjNUUjBJZjlDYmd2RjVFY2RQbTZlRUltMDI5YVdXWFJ0RGRDT1lwUnhjb080MDdSYzNLTlJCRVlsekp4SQ?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-27T08:01:40Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f7deee234b3d23",
-   "title": "IF Insights: Nasdaq runs away with America’s record IPO year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLVRzbThFQktwVDlKcHZ3N284RzBvdU5Ed1dvYUZYZlFHa21hS2ZNUHloU1hoM0JrdnNDWWZHd1pHa193ajFielh5WGhoakZvWF9yUnAxODFsZWhoaGw5Ty1lV1FpXzhGOHl5Sm1hWFVXNWdyU0hwM28wYWtNSVBJNm5jbTl4NDd5VlBZYVpFYVFRYXFPOXg0TTRic0NlcXFaSmc?oc=5",
-   "source": "internationalfinance.com",
-   "date": "2026-11-27T07:56:32Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "6b5901a071b423",
-   "title": "Morning Wrap: Nasdaq rebounds from bear market threshold (27.11.2026)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLW9MQWR6YWJ4ck5NMzNHY3dweWhWOGw0M3JWZFRIZlJ4aW5rLTNWOXJvb21laUlPcW40NWNWSF9vMGR6cVlHNzBwN2NKcVJsQzREWWZ2LU44a1pRaUhxRktyaktEMS1jM2ktQ3FCcTkxcGh2TTFGVkQyM1NHa0lUdWlwS2dPMmNBblc0SEdONWlqRVRpQ3ZEOFpfR3VpNENmR1hxOGRNLTR0bVJUQjg0SDM4Z1JxcFlKa2VHdkV5NnBRUQ?oc=5",
-   "source": "XTB.com",
-   "date": "2026-11-27T07:48:05Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "87eba05ac0ddb7",
-   "title": "Jensen Huang Returns With Reform Pledge but Rejects Succession Plan as NVIDIA Governance Storm Reaches Boardroom and Credit Ratings",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdERFdFJFNWJSaHJfbGs4Zk5sVWt2cURER2FPQ21TZWU4dzBUV2dJeU0tZGNJa0QwZ3BSWE1rczRtbFJJWl9idDM2U01rMjZ6Y25aaGtyUk05eHNERTUzbHZkWW1MdTVSbHVmOXpkVXVYZHRqSFE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T07:35:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
