@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T05:56:49Z",
+ "updated_at": "2026-11-27T06:01:36Z",
  "items": [
+  {
+   "id": "87d784c9d2bddd",
+   "title": "Market Pricing Favors Two 2026 Fed Hikes Amid Inflation and AI Risks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vdG16MzZjMUpzaWZtRi1fdWdGQjIzaThwUENVcVp6QW1CU2plSWxVUVhSbnJONWxXUVFtV1JTcjZpc2dCSW1TcjdmdVlCdENpRm85T3kzSkV4UQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T05:37:08Z",
+   "score": 11,
+   "category": "Fed y tipos"
+  },
   {
    "id": "a6523215e7c0a4",
    "title": "Fed faces AI, inflation challenges amid rate hike considerations",
@@ -42,16 +52,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "05c70e6b7abf1d",
-   "title": "Is the Fed ready for its next fight?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:01:25Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "04e15e33837bff",
    "title": "Trump insists Nvidia CEO not a security threat - The Witness | Your compass in the community",
    "summary": "",
@@ -80,6 +80,16 @@
    "date": "2026-11-27T05:00:41Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "05c70e6b7abf1d",
+   "title": "Is the Fed ready for its next fight?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:00:13Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "3f14a1fcac1e3b",
@@ -252,16 +262,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "35c86941b6d6dd",
-   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5",
-   "source": "Cryptonews.net",
-   "date": "2026-11-27T03:09:14Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9ef02aefd47503",
    "title": "U.S. 10-Year Treasury Yield Rises 5 Basis Points to 4.904%",
    "summary": "",
@@ -402,6 +402,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "35c86941b6d6dd",
+   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5",
+   "source": "CryptoSlate",
+   "date": "2026-11-27T02:10:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5a3025a884956e",
    "title": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat",
    "summary": "",
@@ -420,6 +430,16 @@
    "date": "2026-11-27T02:04:09Z",
    "score": 4.5,
    "category": "Macro"
+  },
+  {
+   "id": "252956fcadfcfc",
+   "title": "Shares bounce after bruising month, dollar on course for third monthly gain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-27T02:01:00Z",
+   "score": 3,
+   "category": "Energía y dólar"
   },
   {
    "id": "027138009c00b7",
@@ -922,6 +942,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:38:53Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -929,16 +959,6 @@
    "source": "CEO Magazyn",
    "date": "2026-11-26T22:33:30Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWhySGVoQVJka0ZhQzBaN19mOXYwRzktdGE0UG9fajg0aGhLbUI3SlBHVWRLT21SbURLMVZNYzd6eXpaVWVpNS12ay1SOUMxWTVoUFFaMnhCbW5oRzRudmFHV0hYUElvaTVXQWl2b3Mzd0ZOVzg0Z3dTSWh2a1E4djJtUndIZTVlano2S0JYZDlHcUxKaE1YVlc0WUE5bllkRWhSQU4zdXRGTWstdzJLZ2NuU1N5WG9ISXVyUXRJeGhUazlrYngyMA?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:32:52Z",
-   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T21:02:19Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "78189e30c7b04a",
-   "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVVmcklhLWpUZXlzeXZFVWNGVGtqRUJJUmR5TTRwWnpObTdjcDhaWE5iVWFyYVFsZmdhUEsyY3lWQmc0X1NOUHZEOTh2ZGIzdkJlZVR3b18xQmRwN2JkR2tGMVY1dERxbkdrQUkwaGhzbVQxb3o0YUVvZ0N1TkJQM0xJWGZPUjZXaDlqQi1fSmVzdmNPcEdRV0RJSldqbnFF?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T21:00:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7ddbecf4b2f2d4",
-   "title": "$3,570 area: Gold price stalls as Fed hike bets restrain bulls",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0k0eEY4WWQ1TV9ZeHNxVEx3RHBhc0RkdTNhRWV1TVpyZUQ2bUFfLUhXbHQ2NFRKTVFIc28wYVh0b1Vsb2h4ZWROTHFDNkNsU2dDZy1oRWFrQWYzMWxNajczc1pCak55S3RSamtMVzZwbWNpeE1vbmZIbUlSZFJOUEl1eE9ZUVg4Ulg1dnVPWS1NUGQtRnVoMTBOUzhRaGpZbElDZmlhd0xoMFJ2bUc4T2NYQVBEOXE5Y2U3ZlQ3RVRFTEVGU0xaQlJB?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T20:49:20Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
