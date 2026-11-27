@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T11:24:14Z",
+ "updated_at": "2026-11-27T11:28:58Z",
  "items": [
+  {
+   "id": "4e9ea917e0800c",
+   "title": "Bitcoin Rises Above $61,000 as Nasdaq Futures and Commodities Extend Market Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sMkVqR0RIdlRjNGVaeC04OUk5Wk16TDViUGFMclM5bHFaSW9LbGhFa3dzbVgyS296SVYtUmZzMGJHVjlnV2hDT0lGS2toSjZvMGNxMHloeVBwaVNXWVRSeUdISE0zeldtYWRLVF9RYVpXbFM2dG16UnJ2cGEydw?oc=5",
+   "source": "Hokanews",
+   "date": "2026-11-27T11:20:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "a5de1775e4888f",
    "title": "S&P 500 futures jump nearly 2% as AI jitters cool",
@@ -32,6 +42,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "519b6ed15b8758",
+   "title": "Nvidia Stock Premarket Today: NVDA Rises 4% As Chip Rally Returns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGk3MUFldHpZRkNMX2pZVTQ3R2Q1anRQODFPUjcyWnFfNnhRcjdOMUxoNkM2QWVCcHNZSE1URVlDSGMwMUtFYWpJRk04eHNVUTBwckRSSFQzRG1xSzFESjVnMms2azEwS3FhaDhBQlZMZHdCcDFQVGZXck9qMF9iekdpSVJMQkI0czc2YjdxMGdlLTV0Z01ackdNcDhxWWUzcWo5UHln0gGrAUFVX3lxTE9jZ1RXZ2ROanhpNE5hRTJZSmhGWWdJTkNUc2dYbTVNeHdXVTc3SlhaWVNpQ2g3RUtJNjU2eVhmX1JUVjB2c3l6WTJpNEMwZDRaZmk5a1VoWXRfbVdkV1kyWDRFb1RIU1I0Vjl5eDRHRGUzMml4c25KZEFIWm5VdjFpVmNYRlQ5S0ptbnQzaDdOcHRaZmU5cC1rcURZY0dpeWJRSUNhUHRZNFplUQ?oc=5",
+   "source": "Coinpedia",
+   "date": "2026-11-27T11:14:25Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "7138bf5c13f081",
    "title": "Jensen Huang Faces Congress: What It Means for Nvidia Stock",
    "summary": "",
@@ -50,6 +70,16 @@
    "date": "2026-11-27T11:13:22Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "0550c7af31ac72",
+   "title": "Nvidia Lost $1.7 Trillion This Fall. Who Won?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTThtZmVKZVJnVV9CbmJSc29BQ0h4UC1JbVFHX1VTRG9tbGUyaDFzSkhmYlFVNFlzX3RRNVpnVUNtYWNrYlZZVVdjMXhablllZGY1WlFNXy1COWxvQ3NwMWpnX2QwVThqQmd4UzlOR25QYTdBcEdvYnFNOXZ0Wk0wNHlnRjJrOU55WWZma21sRTNBY0k?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:00:13Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "b153571465fe03",
@@ -139,6 +169,16 @@
    "source": "MarketWatch",
    "date": "2026-11-27T10:32:00Z",
    "score": 4.0,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ea3ff025351361",
+   "title": "Nvidia Chief’s Return Lifts Many Boats",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFd1SWlvYjZ0MVJTTHNmN2xNV0t3c0swT19CRF92UnJhLUp0dFNJbzE5aXpVQzlJNDBZSTRRb2RjLXVQcmhUUVdjR1VUdGpPTnVhcm0zT1RhZnF5TmlyaG9VVGIzNXp3eHlBUk5jM1NkdWVVMXNtOWVoNjdMUy1nRkdMWVUtQ1dw?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-27T10:30:11Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -492,16 +532,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "bd536e28bebea7",
-   "title": "Nvidia Stock: Sell The Rallies, The Parabolic Gains Are Gone (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnZPNWhLWjU4clRsWTduYVFqUmRWenNNMWF4Ry14Qi13dzJ0UHVBZk1qX0g2MmVBVjFTNHhLQ3JidE9lMlRGWTlOQnBLTl9MQVRTNHIyR1R4YzgtSFRNcUkzRmZjQVdndDFjSl90MkdDc0VXVS1ENVFMclFjV0VFb29RQkNibVBzMXZEX0FXZnp2bk5IODd2N2ZkNExyVlNYNXBPTFdhN242elVuM2lyWjJB?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T09:25:19Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "91886cbd3ef487",
    "title": "Nvidia: Sell The Rallies, The Parabolic Gains Are Gone",
    "summary": "",
@@ -509,6 +539,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T09:25:19Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "bd536e28bebea7",
+   "title": "Nvidia Stock: Sell The Rallies, The Parabolic Gains Are Gone (NASDAQ:NVDA)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnZPNWhLWjU4clRsWTduYVFqUmRWenNNMWF4Ry14Qi13dzJ0UHVBZk1qX0g2MmVBVjFTNHhLQ3JidE9lMlRGWTlOQnBLTl9MQVRTNHIyR1R4YzgtSFRNcUkzRmZjQVdndDFjSl90MkdDc0VXVS1ENVFMclFjV0VFb29RQkNibVBzMXZEX0FXZnp2bk5IODd2N2ZkNExyVlNYNXBPTFdhN242elVuM2lyWjJB?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T09:25:19Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -1159,46 +1199,6 @@
    "source": "The Times",
    "date": "2026-11-27T06:00:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d8fbd9a14d8d55",
-   "title": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOEJDc3R2WXl0UDJDdm5ZNS1PSjcteFZfWTJTUURGVjNWZmNtNjZnd3VJUHZ4OUZ5ZlB2aU51TEFDcUcxOXpodS1YazBfVTV0VHV3RWRZTWVmaVgxOWV4cUx3M0puaUYzNTRkeUdVWVpGTE5oSmhlQUYxQkJ3ZTllZm1qOXZ2ZjdkZVBvODFYaFlZWnZlaHpubVlOZnVMU3d0TFI1YUhndzJwWTFtZi1LeERfc01FNkViZUJxWk1SbTVFdUJ3bW96WF9tdkZEbzYybmpNUXRIc2xYRng1YkdwMQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T05:47:00Z",
-   "score": 9,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "04038296ab50f3",
-   "title": "Stephen Yiu explains why Nvidia stock isn't out of the woods just yet",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjFmaVdZT0drNkI0NnBtN1J3MWtiUjFsTlRnSV82R2pNS3lpWkRZQlpQb1luU1JraHNtNXVfZEppYnN1NlRYSVBYalNxZkVaREhIMXdBZlVxVFdxR3lPTGUxUFB4eU1DemljOV81cjFaMnBhcXVyWlZJQ2NPS1RnOFFqTEY4WHlWNHNWS2ljaW03ekZTLUtuRW9WekNyU210UmgxY0RZZlhBcE1wS1k3U0lQU0tRUms1SnRqS1E5empZS1hF?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T05:40:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9cbecee8a81d0f",
-   "title": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade By Investing.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFJfZVlDTjlKeTdRdmtmSW1ULW1UelRmQ3o5anRfUXZLcDAwUFFvXzhNdEVTaENtUXlwcml4R3hOeTJ6SVRjUjZFT3BKX1B6OVNWR0FTR2p0Q1k3NjhtTzExOFo1X1RqSFdjSy1lRmNsQnR4U1J6YVpOMl9YVHBQaHJNcjFJaUM2Y2gyc0kxOThYMmhHa3lWV0ZGZWxxMno2VmlJLWxQR3dkbk50TWxlTDNJSUJ4TFU3bXBYelBkRlU?oc=5",
-   "source": "Investing.com South Africa",
-   "date": "2026-11-27T05:37:52Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2f008829c8b0ac",
-   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T05:37:25Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
