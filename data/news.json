@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T06:39:31Z",
+ "updated_at": "2026-11-27T06:44:15Z",
  "items": [
+  {
+   "id": "b6638b8c5ced45",
+   "title": "Evening Wrap: ASX 200 ends week on a high as 6% surge in copper futures sparks massive mining rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzlSU2VzQTl0czdTYXJHMFFPV0lucWczcmJMNHBKOFNqVVFrMy01d1RtVXZxcmh1RUlhdEtRaWJoNHdRWXF3MC1IelJJSmFoc1E5S3BUS2NPVGJuT0FTVkZQYW5CZTY5azJNcWZBRkJhU0pYRGdWWDVtRlhUd0xFWXVYM2wtX2VSTlNUdXN2cnFLU2loNlhnUk1FSW5WVERIN2RscWhJeWdLc3NxQTdwZjlB?oc=5",
+   "source": "Market Index",
+   "date": "2026-11-27T06:38:53Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
+   "id": "6dd3488d8505b3",
+   "title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
+   "summary": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "source": "CNBC",
+   "date": "2026-11-27T06:36:30Z",
+   "score": 3,
+   "category": "Macro"
+  },
   {
    "id": "8d8f7d1b2dfad5",
    "title": "Is Microsoft Stock Underperforming the S&P 500?",
@@ -362,16 +382,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "35c86941b6d6dd",
-   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5",
-   "source": "Cryptonews.net",
-   "date": "2026-11-27T03:09:14Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9ef02aefd47503",
    "title": "U.S. 10-Year Treasury Yield Rises 5 Basis Points to 4.904%",
    "summary": "",
@@ -462,6 +472,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -489,6 +509,16 @@
    "source": "TradingView",
    "date": "2026-11-27T02:15:00Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "35c86941b6d6dd",
+   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5",
+   "source": "CryptoSlate",
+   "date": "2026-11-27T02:10:00Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -523,7 +553,7 @@
   },
   {
    "id": "027138009c00b7",
-   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
+   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZQWGhIUVI5bDVUSHRsWWVzTGZGSUNxcS1PYndUUUZVd0g0Y3BUUTlzMjE2T1FrTENfWjkxdkYzcGxfdHpLSmF5UlRIWDV6dWp6R1RJMEl1VThSWUpuc0VpQkZjbnhxTjdVV28tamhPdXBkSy12dHh4cFhkSWRMN3J5R0hEMVIyZWd4bGJkczZkU01YY2dF?oc=5",
    "source": "富途牛牛",
@@ -772,6 +802,16 @@
    "category": "Energía y dólar"
   },
   {
+   "id": "bc557b37adabe2",
+   "title": "Gold Declines To Near $3,550 Amid Hawkish Fed Expectations - TalkMarkets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBQVUk0bkIzY2UwaENEQWpPZHNENF9XMTVxZ09jajdIYlI1Rk1tZUY5WWJoN1Fpbi1MLVI4?oc=5",
+   "source": "Howl.Link",
+   "date": "2026-11-27T00:50:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "ce3d6ef9c42a3d",
    "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
    "summary": "",
@@ -780,6 +820,16 @@
    "date": "2026-11-27T00:39:00Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "769164e05e97e5",
@@ -889,16 +939,6 @@
    "source": "The Star",
    "date": "2026-11-26T23:49:37Z",
    "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "bc557b37adabe2",
-   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnRlN2h0SUtGa2dKaHZKTV9qc1VYMVJLeFFlNV90X2RZRWJJOTBtMS02ZGFMdHRjSUx6dWplRXJhUEU3cl9COFF3X3QyT3lZMlZyV1I4d1hEXzdNb2pIYjk3Wm9tenJCRDNyeVNSM3FfUUpDcGhqV2tyWmVuVlpMaTQ0cTBQNFlyZDRzdFN6ZHJHR0dYU3hCa0N6QWhyM3lCcXhqSERGNlhYMk40ZlJuY1ZDaDVBM3NNMVdOZHNHRjdMNWlJ?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T23:49:07Z",
-   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -1159,46 +1199,6 @@
    "source": "The Independent",
    "date": "2026-11-26T21:51:00Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3e9ec17da1810f",
-   "title": "Trump to visit Arizona manufacturer of semiconductor chips, including Nvidia's",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2dNdkwwaDE2YkhqYkRWTjJqNWozQzM1dmc2Ymg5TUR6eEVIYVZiaE5YXzNMVGg3Zm1yZW1YRzd4eTBsaGJaeWdnV1JYb2R1U05Hak9TbGdhY0xjaWJpTktHbnlPbXdwRjFZWktOdXU0ZlRXNkNsd0ZXQUczQkY3Rll1Zi1GdEtfOFJOTw?oc=5",
-   "source": "CBS News",
-   "date": "2026-11-26T21:46:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "73b00b2bf9eeaf",
-   "title": "Treasury Yields Fall as Corporate Debt Risks Persist",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdmdYTVFrSzZ0akN3cFlGNzRpZTBiTVZEZXdrZkllYS0zbkNOeU52YmJtbHd3d2M3N1daZGVzMkVJUzFDdDQtQkZzQlZrUTh3RjZPa3JzMWhXXzZpeks1c1hqdGVDOWR1eDlZUy1lb3NTR0FRSzlJcA?oc=5",
-   "source": "www.suaralandak.co.id",
-   "date": "2026-11-26T21:39:00Z",
-   "score": 3,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "be0ad5529abfb3",
-   "title": "Amundi Index Solutions - Amundi Nasdaq-100 Swap ETF EUR Acc (ANX.MI)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uS01ZNHNrRVFhLWh1dE9qeFVMZjZEakFjMjBhaGhUTmcxWGtSNDRCUHNnZ2IyQk5TbFlqb05vdGhNdGpMT0x6ZTNUbGFjS3g4QUVpN29CRENXMGRxaF9iTkk1R0Y?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "date": "2026-11-26T21:36:51Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2f008829c8b0ac",
-   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-26T21:35:41Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
