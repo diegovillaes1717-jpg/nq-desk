@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T23:51:49Z",
+ "updated_at": "2026-11-27T23:56:33Z",
  "items": [
   {
    "id": "f9fee2964c4366",
@@ -52,6 +52,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "cc8ab0fadb9c12",
+   "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMTdObVFNbUNrMThCS2otRmRpVFJzandOblNPY3EtXzVuck1zOGcwRS1fd01CT2M2NzdlQ2pWRFFaekJnLUw4bFFKTUEtVHBVbTJuM1JGVXZpUTRfVGtZT3pFRGRic0otanlqNVM5WXd3a2hrNzVxdW9ndEpYOEZxdm1zUV9QWVBuTVJramdHbmdmMEhDX0ZUVXFWZUdjaFQ0SDlQN0JpN0kwZFlHRFRIT3ZqVHVqUU1CMXp3aVFTdTJvZjl1VEg2Qnc2NHQ4UFUwQm1qSnBZNzgxVE5xcFFYYkp2T3JZMkRXMzRURkEwZzN2SHBQYktZaWlZMNIB9AFBVV95cUxNRGQ3Y1pVb2o4dzhJOHpHVUJROExhaXEwMzNWYy16bnhieWthZVVjblJpVXlRQXNwTFlEUW5XVFdlOC1jQlZ5ZWN3QXA0aFhNS0EtNG1QblVNZXhmdGJBdFFQODdaYVpoRFJSTUJ1ZVVTMlhmd0c2Mzh5MS1QV1lNSXRZcFlVUFNkbUo4dW0zZFpJR2l2RjBWdnBLUG9nZGtpc0VzRXJHLXUxSnNDMmtORHE3YlZUSEpDQm15cFA3QTc0bzlteHJ3WEFxSE14cEYzRkJhNUZQTGV0OEZKaDR3VmlLdE5qMnplaWhmbFloOE13M3FU?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T22:55:19Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f0130a21971ee5",
    "title": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
    "summary": "",
@@ -79,16 +89,6 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0e9c32a119f389",
-   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T22:30:34Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -258,6 +258,16 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQklqMEpoQU9JNHJmd0tSd0djT25tSUR6U3RqaHpFQ3kzR3JUbU1EZllFNjNibUFtbTNZbExQNUdpZ1BPaWtfSVN2dEZETlZtUnRyY19DUWpsSnFWVGdILW1LUzROWVpRMURXYVZ3YzhVSk9EOS11M1dvMWIyNV9ELUpMVjBzSFNQS21kaTM4RU5kNjNRaEh3?oc=5",
    "source": "JournalArta",
    "date": "2026-11-27T20:46:18Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "baa22e84b0fdae",
+   "title": "TSMC Stock Price Jumps 3.21% to $353.34 as Tariff Plan Spares Chips",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzFUWElhNzNhY1ppZHoxOEFIM1I5VmJVN0FZTl9pcUlIbXpJVm1SaS1BQ19zY3BVZ0lPUFh0eHVWUU11ZzVIYkxxM1h1VTNSTzM1T3VZbG1pOTgxblU4S3FOb2lVeTlQeThaWjhaYmNVUXZOYnJFRkhybGNCRmJsUEJDV0JzbGtWOWFOOUxUZk9xQXd5MVpmZllpYmhoeTg?oc=5",
+   "source": "JournalArta",
+   "date": "2026-11-27T20:41:38Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T15:45:04Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "16abb9ef7d919b",
-   "title": "Here’s Why I’d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajRlTlBVSXV1NFo0ek9McHAyZjJOWm5relByU1FyREotVkNPaEZ2LS1mUEp4cUxBN3RkSzVSZUQtRUYwOHJlaTFoOWFadGhROFk1SzBkMEF1Q0NBWXRsMmI5VXE4NnpwaEJKREdLZGg1Q2tqTnF6ZzNpQ2lUZDE0bDdHa3lXUHZoUi1FcmxWVGZPVGluMV9FTlVWUFNwNjFkWGE1QlZEdGZjWFZ1bXpVWFljZS1HTmJKTWJr?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T15:45:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
