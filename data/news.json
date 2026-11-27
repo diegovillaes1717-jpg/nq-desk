@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T21:39:20Z",
+ "updated_at": "2026-11-27T21:44:04Z",
  "items": [
   {
    "id": "f438e976ef8887",
@@ -142,6 +142,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -222,16 +232,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:12:39Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -265,9 +265,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T19:01:43Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -320,6 +320,26 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVlUTDBrdVRpMmRQckl0cTZha0l0VmFhQ0ozY0VZdVd3WEhWUVBDVlN1UTBVVjB2X3VKRW9FWlY1WC10OTktekFKWTFNRG5XN3ZiaUxIWkg2NmJFT05vdTRsMnR6N09qa0FGNU5oakxJcEIyQk5fb3pMb2Zmbm1vd1IxLU9tSkIxS08yeERGVlM3U0ZFRHloSGhoeXNGZmZtNFVQcFo0SQ?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T18:38:22Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "6fb7f5aa636bc7",
@@ -507,16 +527,6 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnU2MThFOWREQ3o0ZWR1WERtZnpLcEFobzdVMzdZTE92Q3JoejdGdjF4NFVvRERUZy00Zi1COFNGXzgzMm52N3dRLXBNSXpMX2RiUXRrWEZDSkVzSVUwb3ROcVdaTEVuSEtGRjlRS1NjT1pzNnMwSm9uOGlJNEt3azR0cWVSX2NiWksxbXRGb2t2djR0d1VXSWIySVhqZWdpQ3I1dmo3U18xc2hOYUVYWExQVjVXdVE?oc=5",
    "source": "Google News",
-   "date": "2026-11-27T18:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
-   "source": "mykxlg.com",
    "date": "2026-11-27T18:00:00Z",
    "score": 4,
    "category": "Fed y tipos"
@@ -1102,6 +1112,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "3709e42b22855a",
+   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T15:29:12Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -1133,12 +1153,12 @@
   },
   {
    "id": "f475094c49ddab",
-   "title": "Nvidia stock falls after premarket gains as volatile week nears its end (NVDA:NASDAQ)",
+   "title": "Nvidia stock falls after premarket gains as volatile week nears its end",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVJpOU01RldtZlAxbERQS3dmUjk4OUl5ZmdMc1hURjdicFJQRnFvVjUxaTdNODl5SjNRemhoVUY2dHFidHNBenlwdVY1T3VaOWhoNVVheERSdGIteWFvVGhERy0wZW5vVzBtSFV3MUZMZmU4YWNOcUhBNHd3c2NiV3JNc2UyZmhOSGczQVpSeTd1UVJrUFI0cFY3OTJOUXRPOXc?oc=5",
-   "source": "Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGNnTDNmNjJ1MEFMZEpIX0xVUk9LT2VKbGFRSWlDV0tDN2FQdy1TY0JoYW9HVlM1cGt2OWxVczBSY01NZTFSMnR5cEVMQllvT0l3Q1VJemgzTkxKa2l0T0VZR2NLeDI4QzlEZUlYemVBODV1alhNcXJfTlh1OWhpeVJoTUdKMXdDa1JEZUdwSGFIclVobXBvc2VaZ2prbGFSTEdJY000LTJkWlBvNFJkQWg4MXZQWHBxbWZoaEt1bTRZbEZtOUViT205cVNYWEk?oc=5",
+   "source": "TradingView",
    "date": "2026-11-27T15:25:19Z",
-   "score": 7,
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1179,26 +1199,6 @@
    "source": "Barron's",
    "date": "2026-11-27T15:18:00Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4739bd191547ae",
-   "title": "Apple: The Mispricing Of The Market's AI Hedge (NASDAQ:AAPL)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFA3a0FPQUUybWRiS2ZBdE9iU3ptTUxoZzB5YnpiajVyaDktbVVMLTM1MXNzRDlGbnhkWld1T2RKQ0FzczcwaVQ5NzY0eW9FVm5hS3VucUNhR2E4Um1pX1J4dmNXXzNOTk5MTVNMZ3pQNjVzOU04Y25MVmFGSW4tcFlqLVRjUVVSZTdaa2Jn?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T15:17:30Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "cb3b1adfb8733d",
-   "title": "Michael Burry just made a surprising call on the Nasdaq 100",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGE0UFY1ZlRWUXBjZW83c1EtWjRnMFdUajJKdUlZVWNJWDFuZ2JVajY3Y1ZTVEVkTVVITDZGZVA1RUw5cGV1V2lCTklKcWRON0UxRUcyWXdLX2tLbXBiSXBmcVZkWkFZVE1WWXNaSFQ2alBmVDRmcUFvNnNjSldRMzh1UjFWOTlHNXJsSzE2WjJER2R2OGlWVmcxeF9aVUZWc0dNYQ?oc=5",
-   "source": "TheStreet",
-   "date": "2026-11-27T15:17:00Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
