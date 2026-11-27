@@ -285,53 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los resultados recientes han sido mixtos, destacando el fuerte impulso de Nvidia a pesar de ciertas dudas del mercado y riesgos en China. El Nasdaq ha reaccionado con volatilidad y caídas generales a pesar de los beneficios tecnológicos.",
+  "resumen": "Los resultados recientes de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó expectativas pero no logró evitar caídas generales en el mercado debido a dudas y riesgos regulatorios. El Nasdaq se mantiene bajo presión mientras los inversores evalúan la sostenibilidad del auge de la inteligencia artificial.",
   "puntos": [
    {
-    "fecha": "25 nov",
+    "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Acción barata tras caída",
-    "resumen": "Analizan si Nvidia es compra por debajo de 160 dólares tras cotizar a múltiplos más bajos que en la última década.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "22 nov",
-    "empresa": "Nvidia",
-    "titulo": "Desplome de valoración",
-    "resumen": "Se destaca que la acción ha caído un 48% situándose en niveles muy baratos frente a Microsoft y Broadcom.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "20 nov",
-    "empresa": "Tesla",
-    "titulo": "Búsqueda de rebote",
-    "resumen": "La acción se mantiene con ligeras caídas desde su último informe de resultados a la espera de catalystas de rebote.",
-    "resultado": "Supera",
-    "impacto": "Medio"
-   },
-   {
-    "fecha": "19 nov",
-    "empresa": "Netflix",
-    "titulo": "Presión bajista",
-    "resumen": "El valor acumula un descenso del 8% desde su último reporte de beneficios mientras busca recuperar terreno.",
-    "resultado": "Supera",
-    "impacto": "Medio"
-   },
-   {
-    "fecha": "18 nov",
-    "empresa": "Nvidia",
-    "titulo": "Resultados sólidos con dudas",
-    "resumen": "Presentó beneficios récord e ingresos de 115.800 millones impulsados por la IA, aunque el mercado cotizó cauto por riesgos de China y transición.",
+    "titulo": "Resultados récord pero con dudas",
+    "resumen": "Presentó un beneficio por acción de 2.68 superando lo estimado, impulsado por la fuerte demanda de IA, aunque el mercado reaccionó con caídas y dudas sobre riesgos en China.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes corresponden a Adobe y Broadcom el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la demanda continuada de centros de datos de IA y los riesgos regulatorios o geopolíticos en China.",
-  "sig": "943b3b8ac06fcc",
-  "generated_at": "2026-11-27T00:33:02Z"
+  "proximos": "Los próximos resultados importantes serán los de ADBE y AVGO el 9 de diciembre, seguidos por COST el 10 de diciembre de 2026.",
+  "que_vigilar": "Vigilar de cerca la sostenibilidad de los márgenes en semiconductores y la reacción del Nasdaq ante los próximos reportes de diciembre.",
+  "sig": "e5b895f4c2006a",
+  "generated_at": "2026-11-27T03:34:17Z"
  },
  "updated_at": "2026-11-26T21:46:02Z"
 }
