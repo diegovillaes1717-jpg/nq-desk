@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T06:11:08Z",
+ "updated_at": "2026-11-27T06:15:52Z",
  "items": [
   {
    "id": "5a1c80cdb20c5b",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T06:09:51Z",
    "score": 6.0,
    "category": "Macro"
+  },
+  {
+   "id": "363ee8d566b225",
+   "title": "The Nvidia Scandal Exposes a Bigger Failure",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVVhX1RLVGl0MGZ0bXYwbFVXRkZBVzZYT2YyNDJMd2FxZHhjVjBkRmVwbFFSTThEbWZnREpPdVd3NExTWERFTldPOEttRGw5WHlZZW8ydHlvMTV3eFg2djRPT1lodHhvS21tejUtNUthTDNndGplTWFIRHFmenB4SEV4Y0VxM1U0TFVr?oc=5",
+   "source": "The Dispatch",
+   "date": "2026-11-27T06:09:06Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "52409eafdc1e0e",
@@ -29,16 +39,6 @@
    "source": "Wisevoter",
    "date": "2026-11-27T06:03:20Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "363ee8d566b225",
-   "title": "The Nvidia Scandal Exposes a Bigger Failure",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVVhX1RLVGl0MGZ0bXYwbFVXRkZBVzZYT2YyNDJMd2FxZHhjVjBkRmVwbFFSTThEbWZnREpPdVd3NExTWERFTldPOEttRGw5WHlZZW8ydHlvMTV3eFg2djRPT1lodHhvS21tejUtNUthTDNndGplTWFIRHFmenB4SEV4Y0VxM1U0TFVr?oc=5",
-   "source": "The Dispatch",
-   "date": "2026-11-27T06:01:42Z",
-   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -102,6 +102,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "05c70e6b7abf1d",
+   "title": "Is the Fed ready for its next fight?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
+   "source": "Financial Times",
+   "date": "2026-11-27T05:01:25Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "04e15e33837bff",
    "title": "Trump insists Nvidia CEO not a security threat - The Witness | Your compass in the community",
    "summary": "",
@@ -130,16 +140,6 @@
    "date": "2026-11-27T05:00:41Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "05c70e6b7abf1d",
-   "title": "Is the Fed ready for its next fight?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
-   "source": "Financial Times",
-   "date": "2026-11-27T05:00:13Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "3f14a1fcac1e3b",
@@ -195,8 +195,8 @@
    "id": "6ef06acce17fa6",
    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9pLVhQZmpyYU9BaFMzX1hIRk1jdDNIblcxQXFHVjh3SXZhZUFlRVhNRmhNaDlZYkJFVUotS3Bvbm53VGYzbjIwcUYwdVhHbzJEWWhWdG5jdjlmN1IwWTg3UlZ2TmNFR3YxWTZ2dFdQU21kMkFydFBTTERwXzNuLVZOV2VpTkU1d3oxaUdOYTk0eS0yejVDMw?oc=5",
-   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnlDZ04tc0tOOWJnemN3STVxQmlrWnhidHNpekVJZzgxOGN0V1YyNjQxTl80dHp6Tl9ubGZrRGhKVEdIRkI5LWxGb0Y3d1lDQjJLSHpkYm1HVEVENTJlZ0ZRc0NGVWctZXh0MDNzUTRET1FzWnRHWnJzNVc5UUVvQk91UQ?oc=5",
+   "source": "Yahoo! Finance Canada",
    "date": "2026-11-27T04:23:00Z",
    "score": 3,
    "category": "Tecnológicas"
@@ -220,6 +220,16 @@
    "date": "2026-11-27T04:14:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "765b2fe3633fd1",
+   "title": "D-St Shrugs Off Tariff Fears for Now, Select Stocks to Lead Play",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzVkcFJ0MThtSVo4RGt2b3hGMl9iT0ltU3RTX0NQWmdBVzZKclVyMjJjYThlRWkxNmxMYVdpWTZZNHZPMHROWUdXSE9RZzVQYW9USjRoYlZrN3R6cGRxVEh1UFcwd2pqdHNxelloT3hoRUVMM3p0RmMyOU45UUljb3V1ZjhFeUVJQ2VBU1RvQlVYTjhYckowSmVic1FtZk1WUzBjaFhYbjMtY21qemwwRTB6dnBMNVFWYXE3aQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T04:12:00Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "4de06a89656f5f",
@@ -310,6 +320,16 @@
    "date": "2026-11-27T03:11:39Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "35c86941b6d6dd",
+   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5",
+   "source": "Cryptonews.net",
+   "date": "2026-11-27T03:09:14Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "9ef02aefd47503",
@@ -452,14 +472,14 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "35c86941b6d6dd",
-   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5",
-   "source": "CryptoSlate",
-   "date": "2026-11-27T02:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW13LVZGQUs1eDlDeVB6RlpxeHZQTTdLanhTRDNlcms2MEFmLWxfa2hraER4RlNFLUkwMV83d3NnMjQ1b3FTNnJfUGNqUDdpNl9lZmtYaTZXMHNLaU10MmxCSHJzTEd6Qnpac0R2eHlmQzdya0NQcDRhNDVmaGFfdVZFeTRLTExteWVWVm1sWGNwbl91ZHlaanM5bG42V0JOY2NVaVo2dVRCekM0ZEhrRHh3?oc=5",
+   "source": "KTUL",
+   "date": "2026-11-27T02:06:25Z",
    "score": 3,
-   "category": "Tecnológicas"
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "5a3025a884956e",
@@ -762,6 +782,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "894338109dc143",
+   "title": "Stocks climb as traders shrug off latest US tariff salvo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-27T00:37:21Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -902,16 +932,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlpcjdqQlFLZ203U05XeWdWbmNrUGxuaVhCQ05KNlJuTzBhN1FUeGNJTVJlUE5ocFpHWkdXU1J1Y3lidTF1TFF2WDBaaHdwckdfYVF5YzBsdlJKSmxsRTFwMEdtMWh5Zkc2UlB1d1ZZRHdLMlVXY0FrWmQ3dXlkVG5YUmtDNS1FSk9zampQYkJfWnFRc2o3Y3otQjNJY0xiVjV6Vm91UlVKUzdfRlV2eFBONGc4Y0hnRmFSZ2wwd1dzcGxSSHUzX0lPRmsxZnVPV0ozUQ?oc=5",
-   "source": "WCIV",
-   "date": "2026-11-26T23:15:24Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
@@ -992,6 +1012,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f45e6c52e62c47",
+   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3o2RHQ2ZEY0NDdqRzEtd0FkVjUyb0VwOG43RTFERTJFZHRYRzBDY1lWdVJNZU1NSDd4MzZOemZkYVVSc3NPeDNiQ2p0NnV6U1pHOXNtTXZKLVVDdl9MbFVsOVdoSE92MWlBNG5rQmI1cENUdmMzejNlLXdTNUdiQmdLSHEyamM5eG52dHJvQjgyc2dTV3pGNWVxZ3A3YlR2aHRMSjN5cnNCRy1DZ1Q2STZ3X0sxdmEzMjBmX2xtMDkxcEtTeVlYaS1OeHM?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T22:38:53Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "0b64cc5b93f6e8",
    "title": "Zloty under pressure as US data support further Fed hikes",
    "summary": "",
@@ -1049,16 +1079,6 @@
    "source": "Qatar Tribune",
    "date": "2026-11-26T22:19:28Z",
    "score": 10,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "f45e6c52e62c47",
-   "title": "Australian Dollar edges up but Fed hike bets cap 0.6700 breakout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzRqbkZEZEF5WElfVFphN1JkRVk4YnRWWVdYM2lWTXpPUmNoV1EtNXNIMmMyMHhfY1BnejJUeFdhVWxMTU1iMWdkR0VsMF9VVTJRd09PR3F5Mk5BRzJDTVVJVmFZQnZWNXI0THoxakFrOHdTdGNkZzM4LW11VlN3UElHb1UyNVB4b00tSjhMN2RZd2ZwQldsaW5HLUZGYm5XaDlNTVc5NFJOZw?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-26T22:17:57Z",
-   "score": 5,
    "category": "Fed y tipos"
   },
   {
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T21:35:20Z",
    "score": 10,
    "category": "Macro"
-  },
-  {
-   "id": "8c7394d75ae848",
-   "title": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZxM0NXdzJCNTJPamZxS0M1UHpVY2QtX0hvckJ5YVZfSmZwWm5uUHZ6RUo3Z2VvOS1ZOHAtSTljTWFrdTRzOEJPdlpSZU5uZm5jRGQ2QTBtZjUzZ3hVVmRsZk5oWWlJVUFNMzVPd1RGUlZFTzFxTndHVUpnY0RnM3Y4WmVMSDZkcU1MOEk0azRwQ05VUnJzY01GUi1sN040Z1UyZ3JR?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-26T21:33:02Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0ce1739f35806f",
-   "title": "Opinion | Roller-coaster fortnight for tech raises urgent questions about AI",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU29CZ0tQQmFTTUpNQ20ycENueTNjaDRNYXhBMl9uOVFGRTJUMy05WnVRUW5iZjE5ZE1wSWtsTm5OOS1CVTRPc3I2czVfMEdOY3FYMDlfTW1vNHJ5LVhHck1fQXo4TFBsTnRzZldXTlc3QjBiaUQ0Z2owZG9rVk5lOC0zTGZ0VTJkN19RN3RiZ2I3MHl5dmc1VTNLd042NUlCWHEyLUdDTWRZRUY1S21vc0xubTg2OU92YlA5RjBn0gG-AUFVX3lxTE1Tb0JnS1BCYVNNSk1DbTJwQ255M2NoNE1heEEyX245UUZFMlQzLTladVFRbmJmMTlkTXBJa2xObk45LUJVNE9zcjZzNV8wR05jcVgwOV9NbW80cnktWEdyTV9BejhMUGxOdHNmV1dOVzdCMGJpRDRnajBkb2tWTmU4LTNMZnRVMmQ3X1E3dGJnYjcweXl2ZzVVM0t3TjY1SUJYcTItR0NNZFlFRjVLbW9zTG5tODY5T3ZiUDlGMGc?oc=5",
-   "source": "South China Morning Post",
-   "date": "2026-11-26T21:30:06Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
