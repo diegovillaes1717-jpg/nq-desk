@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T22:07:51Z",
+ "updated_at": "2026-11-27T22:12:34Z",
  "items": [
   {
    "id": "c42789d8ff10ae",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T22:02:38Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "04a6c3dff82698",
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+   "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "source": "CNBC",
+   "date": "2026-11-27T22:00:57Z",
+   "score": 5.0,
+   "category": "Macro"
   },
   {
    "id": "494e3f8de419c3",
@@ -360,16 +370,6 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T18:39:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -1152,16 +1152,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -1193,12 +1183,22 @@
   },
   {
    "id": "f475094c49ddab",
-   "title": "Nvidia stock falls after premarket gains as volatile week nears its end",
+   "title": "Nvidia stock falls after premarket gains as volatile week nears its end (NVDA:NASDAQ)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGNnTDNmNjJ1MEFMZEpIX0xVUk9LT2VKbGFRSWlDV0tDN2FQdy1TY0JoYW9HVlM1cGt2OWxVczBSY01NZTFSMnR5cEVMQllvT0l3Q1VJemgzTkxKa2l0T0VZR2NLeDI4QzlEZUlYemVBODV1alhNcXJfTlh1OWhpeVJoTUdKMXdDa1JEZUdwSGFIclVobXBvc2VaZ2prbGFSTEdJY000LTJkWlBvNFJkQWg4MXZQWHBxbWZoaEt1bTRZbEZtOUViT205cVNYWEk?oc=5",
-   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVJpOU01RldtZlAxbERQS3dmUjk4OUl5ZmdMc1hURjdicFJQRnFvVjUxaTdNODl5SjNRemhoVUY2dHFidHNBenlwdVY1T3VaOWhoNVVheERSdGIteWFvVGhERy0wZW5vVzBtSFV3MUZMZmU4YWNOcUhBNHd3c2NiV3JNc2UyZmhOSGczQVpSeTd1UVJrUFI0cFY3OTJOUXRPOXc?oc=5",
+   "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
-   "score": 3,
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b0e4400e8531d0",
+   "title": "Nasdaq futures rise 2.4% before Black Friday half-day as chips rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNW9tckpLaVdvc1BmMHQtTFEzbm1XQ2VTVjJTbHhXdVlZM1FlZ0pOMHJpeW5hZkdUdDBzTTRyRi1CWmg3ZUdMU0tSaVpBcXc4bW1tM0RodTJkTjRaU2cwRjVOZ0wzQWs1dUt4N0JOcmNKX2MxclJ4S0I1XzlMUkNMNG9tTlI4ZEd5aVoyS1pHdnhwTTA?oc=5",
+   "source": "MLQ.ai",
+   "date": "2026-11-27T15:20:53Z",
+   "score": 9,
    "category": "Tecnológicas"
   }
  ]
