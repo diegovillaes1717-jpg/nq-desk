@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-27T06:53:43Z",
+ "updated_at": "2026-11-27T06:58:26Z",
  "items": [
+  {
+   "id": "5172bb82fda43c",
+   "title": "Trump Says He Was ‘A Little Concerned’ By Stock Selloff, Insists Nvidia CEO Huang Poses No Security Risk",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUkhyQUdzczNLV3N4R1hNSG9vZUJaUjRuUno4V1BBV0I1dHdNZkpXUW9ZN0ktZ3NRMXp4RVNMNG1USWY4ZlAtbVQ4S0lGajE3RktkdDR0WGRjMTA3OFI0eHYyZWpjUG1zZmRpZWJNeHgwdkI4cE1ZbVhFM2lCQnVEVWRKU1FfUjloeDFwZ3JuMldNRnpzMlJYd1ZrS0Q3UmtuV0VhRVBhWDBxUmxGZ05hQThER21IUHNSN0VDV0o1Y2czSTE1Mno3ZUlidTFLRFYxLXg1UTdndFU2a1hQQXl4U25IYlhvU2pz?oc=5",
+   "source": "Forbes",
+   "date": "2026-11-27T06:55:08Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "215a53d22c29dd",
+   "title": "Nasdaq Composite 23,586: Futures Up 2.9% Into Half Day",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUUtalVQblFkMWt4N09TNGMyT0tudzZpY3h6R3JFMmlNNzZrSUF5MDFvZGJ6T3I2QzNrYlpKZUZ4OHZwQ1dxU202RWc2dnNkeTRzMGRvM3Z0TkNsOHBUNzluaHNmWU9Za1RWYi1sTm81bkZPRWh6NzlIMzFtQ0VjY3BGclY0Q0RSQ2ZJaG8tdnlIZHJDN3FEU3ZHT0dOWS1GblJOTHZXRFBBZw?oc=5",
+   "source": "FinanceFeeds",
+   "date": "2026-11-27T06:52:37Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "ca5f35bd8c9e37",
+   "title": "US Tech Stocks Face Worst Month Since 2022 Turmoil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2R0VUVOZndXakl4REZ4QU1paUxydXFwQVhDNGhRQkhzenNVQTlfREMzSUJpRlhjNXFPaXFYbUlYY2RiNHlxaVc5TW1CdkVnN3BBMUI1MjB1SEpzT21MQ21hZWdCRzNGcFpBX3VycUdvX0lQTTVMTnMwcGNYYk42OENNbkExYklVdzBBTw?oc=5",
+   "source": "https://streamlinefeed.co.ke/",
+   "date": "2026-11-27T06:51:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "b5deb22d0e37d6",
    "title": "Gold Eyes Weekly Gains Despite US Rate Hike Bets",
@@ -10,6 +40,16 @@
    "date": "2026-11-27T06:43:27Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "2263ef64108cd8",
+   "title": "U.S. Equity Futures Climb as Nasdaq Contracts Near 3% Gain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PR1Q2NUczbkJ5TXNDMjU1VUFZSDE0V0ZlSmdWVU1kbGxWRkRRZHhOLVZQcWJTNk4zOWNveEpBNjlWS09wOEEyb3Z4TVJmQUN2THF6Qy1NWUhaQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-27T06:42:59Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "b6638b8c5ced45",
@@ -492,16 +532,6 @@
    "category": "Energía y dólar"
   },
   {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
-   "source": "Longbridge",
-   "date": "2026-11-27T02:20:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
    "id": "da2b85d73908a3",
    "title": "Inflation Holds Flat in November as Gas Prices Fall",
    "summary": "",
@@ -842,16 +872,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T22:10:59Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "141838fcaf36b6",
-   "title": "Fed and BoC rate hike prospects in focus as Canadian Dollar slips",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc0g1blg3MV9TSXBtcUlQYlNKd2R6N3YwUlcwbHVhZS1MWkRfUk9NT25TbmZ1M29nY0xjYllwVm9YRk5aS3M3NzlJN1ZtaFdPa0RxS1NLRHNXQ1h6dEdXUjBwa1paN01QX3RiZmVfeDE2VExlRTFXZW5mUFF2d2kybnFrbzBIZFctM1V6QUZpTk55NGs4Z0RodkpvdVV6eWlJM2FGYVFkV05xMml2b1dPUDhjNG41d3JHckN3Vm9kc2JKd3dkV0E4YV9aMG5oMG84RFc5TFJB?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T22:10:27Z",
-   "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "98fb90af6793af",
-   "title": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeG5mODVrQkQyYUR6RjI2N25WejFPYUNfbVJNVFRTeVhXWndLWVdmNUNlcmRlM0JWZUdXWU0ydmdFNXZPU2JQNVJWZ2hCbFRTcUlpNjdXN2FpU0lybGlPVC1uR2pmYXI5THlqd3BRR0o1Vzh1Um8tOWNBRGE3NndHc09iNnl1RFFLZjNNRDhlOVNmSDhBanFzLTZUWTdkNklsT1RNV0NFWVl4TGhpVTVJTlpWSzZZemxWY2dDQQ?oc=5",
-   "source": "Kitco",
-   "date": "2026-11-26T22:07:29Z",
-   "score": 4,
-   "category": "Fed y tipos"
   }
  ]
 }
