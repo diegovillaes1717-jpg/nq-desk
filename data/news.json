@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T00:32:56Z",
+ "updated_at": "2026-11-27T00:37:47Z",
  "items": [
   {
    "id": "769164e05e97e5",
@@ -10,6 +10,16 @@
    "date": "2026-11-27T00:31:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "eaa32e2a5acf0c",
+   "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-27T00:25:00Z",
+   "score": 3,
+   "category": "Mercado"
   },
   {
    "id": "2eaab597c248d4",
@@ -72,16 +82,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "dbc5d5914bf8f3",
-   "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9ubWdGUjBmak13V3l2TElCRzVpZzZDRUJTeGF3dm9tZmdfLUpld3R1d3VYV3Jxb1VyVG1UVXNfNHhRWHd4NVF2Q3ZuVGpzS0FmZ3dhUjlUNWhQVzlLOF9nU25TMzYtZ0xoTFJzR3RHbDlJN2JRWnRiYmZzLS11a0EyX3h5dnVMWlZXYm9BV28yVUVEcjdNMFM2YVQ0YTNsZkE?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T23:36:38Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "e16433f737c914",
    "title": "Nasdaq Closed for Thanksgiving at 23,585.80 After Nasdaq 100 Touches Bear Market Territory in AI Rout",
    "summary": "",
@@ -140,16 +140,6 @@
    "date": "2026-11-26T22:53:55Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8094311abc3ace",
-   "title": "New trade war could be brewing following tariff proposal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2xzZ2tRckZqaVpwUGpFVUtldFBpdVM1QmdKc29LdWVFTjU0akI4aWtwaWpyLXVUb3FNeWItbEhQTk9KeWZoSTlRaXJuZDdXc3FwdFBsdnNESG5jRmZ1UWtzZlNLTXJyQVQ3TC1HU1FXbjVYU2MwWmpNTmtNd0JZM0pudFVUY0pDS3FiSkFVcEZraWd5Zy1XZ1ctWU1mS3RBbW1VRVVGT0F6dTFTNklaRlEtNUF0Zw?oc=5",
-   "source": "KSNV",
-   "date": "2026-11-26T22:52:30Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "a9ca664b7a5010",
@@ -295,9 +285,9 @@
    "id": "f5896dc1a357be",
    "title": "Nate Silver predicts Trump ‘absolutely’ could be impeached over Nvidia’s China chip sales",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUEyOVFtYkFUMXBYQmtNbnVaOVJERGxZWmVFM202b2luUmNiRlRHck5vQm9nTXNCM1YtRG9NelJtVXZwd2dHaVJIdno0QlB0N2xaZFE0TDZESllxd0MxTjhKc0hrZ1hsLUd2cFFib2RVeFBibXV6eHVuamtReXdZNWF2TjlqTE5sTzctTEktVHNnLXRoamVwQUhFYUxvVmcwUmh2VklPd3pMTTYxX2VUOEd5bTFiZEdzRkE?oc=5",
-   "source": "The Independent",
-   "date": "2026-11-26T21:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdDb25hLTZMd1VieS1Fa25JYVgwQU95eHh3c19TclQtUmxIRE9YRWczbzVfY2pxTE1MVXNYTmsyeUV6LXZEZmRkdmZWNGFTd0hXY2RCSU91TVU0dDA5Slc5X1lwbEhQLUtyRUJBXzExNWU5aW01endXS0tqc3RVQjg5SnZjNFBNempRRzN1dzVvd1UwVkFPdUU0YURGQQ?oc=5",
+   "source": "Yahoo",
+   "date": "2026-11-26T21:51:48Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -420,6 +410,16 @@
    "date": "2026-11-26T21:00:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8094311abc3ace",
+   "title": "New trade war could be brewing following tariff proposal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2MzUndyTnRMcXV6V21BU1R4UVctdnhiNGxZMEMxM2Mwc0JZMDBwN0hMQjV1bmRRSS1fRmVUNHJuSWdyZ2ZhUlZvXzVGUDAtbGd1LTlZeHh6XzlDblFpMElZU05tbk4wZDM0V2o5aHE0U1JyQ3R0T2tvMktrajNjVzhqRVlMcXN0OGxhUTZOQ2JvaUxrNXdPNlEtNllVUlFna0c0aU1TWlVmVHJ0VnZSZUV2SldLLURzMi1MMw?oc=5",
+   "source": "WBFF",
+   "date": "2026-11-26T20:57:18Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "28cf2aa1941483",
@@ -729,16 +729,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1200,6 +1190,16 @@
    "date": "2026-11-26T16:08:25Z",
    "score": 3,
    "category": "Mercado"
+  },
+  {
+   "id": "926ec0f5856b62",
+   "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1Bja1BxWDc0aEdqbmV4Q01STV9qcTFZd1JpN2N1Rlp3N0dCclpxOEtKUEN2ODlrRVgtaHljYXlweHgtbjdfUDZ0dlZjdkw0anFSSF9ZajhUV1RjZGNnZzFnVVl3TUtOVXVXdi02a3psbW9Gb3Y3ZTdPdmN6MUlaV1E3ZDV3OUlPVWlGNGZRMm12NWI2WUhzU21MTDhsZUVzcW1mNzhVMUo1RGllMlJ6bUlyc0M?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-26T16:06:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   }
  ]
 }
