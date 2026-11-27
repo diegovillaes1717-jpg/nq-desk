@@ -285,21 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó expectativas y elevó su perspectiva a pesar de la salida de su CEO. El mercado ha reaccionado con cautela general ante las dudas sobre la IA, aunque los valores clave siguen marcando la dirección del Nasdaq.",
+  "resumen": "Los resultados recientes de las grandes tecnológicas han sido mixtos, destacando el sólido informe de Nvidia que superó las expectativas a pesar de la incertidumbre por la salida de su CEO. El mercado reaccionó con cautela ante un entorno bursátil en el que las acciones tecnológicas se sitúan por debajo de sus máximos.",
   "puntos": [
    {
     "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Supera expectativas sin Jensen Huang",
-    "resumen": "Presentó un beneficio por acción real de 2.68 frente al 2.47 estimado y elevó su perspectiva, logrando que la acción subiera ligeramente a pesar de la incertidumbre por la salida del CEO.",
+    "titulo": "Supera expectativas sin Huang",
+    "resumen": "Presentó un beneficio por acción de 2.68 frente al 2.47 estimado, superando previsiones y subiendo la guía en su primer informe tras la salida de Jensen Huang.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes llegarán con Adobe y Broadcom el 9 dic, seguidos de Costco el 10 dic y Micron el 17 dic.",
-  "que_vigilar": "Vigilar la evolución de la demanda de IA y la guía de ingresos en las próximas presentaciones de semiconductores y software.",
-  "sig": "ae97daa1d9152f",
-  "generated_at": "2026-11-27T12:40:25Z"
+  "proximos": "Los próximos resultados importantes serán los de ADBE y AVGO el 9 de diciembre, seguidos por COST el 10 de diciembre y MU el 17 de diciembre.",
+  "que_vigilar": "Vigilar la guía de beneficios y la capacidad del sector para mantener el ritmo de crecimiento en Inteligencia Artificial ante la volatilidad del Nasdaq.",
+  "sig": "a6244bb31335ea",
+  "generated_at": "2026-11-27T15:42:01Z"
  },
  "updated_at": "2026-11-27T09:49:13Z"
 }
