@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T21:15:42Z",
+ "updated_at": "2026-11-27T21:20:26Z",
  "items": [
   {
    "id": "cd04612fe50d6e",
@@ -19,6 +19,16 @@
    "source": "GuruFocus",
    "date": "2026-11-27T21:06:43Z",
    "score": 9,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "805bc8dc9408b0",
+   "title": "Federal Reserve Beige Book Highlights Resilient U.S. Economic Growth And Sticky Inflation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSEx4Ql9xaWJtTkJsU1RfNGlvVnY4bjNid2M0MVBBRW9ERlhDYlFqamtNSGNSeHBTUVdSanRZbHZoa0l4V2ljWTRGYjFmbnZKUjlvTFpzclVMQ1Y2WWhLTE4wMm5qSU9kdEtxb3NRY0V5eVdUMDQ5cDA1MjlBaGJzWW5jMWZhdnI2YjZlSzRoUkdmTVVGTUhydkIxRHhJSHJRWHhFSVhwZEFlRWxmRmZrQ3NGODIzR2JyRzVPN2J6Qkk2Y1FYNHE5Tmh3R1VvX3BKb0F3?oc=5",
+   "source": "Crowdfund Insider",
+   "date": "2026-11-27T21:03:47Z",
+   "score": 10,
    "category": "Fed y tipos"
   },
   {
@@ -225,9 +235,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T19:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T18:57:52Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -280,16 +290,6 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T18:39:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "6fb7f5aa636bc7",
@@ -1072,16 +1072,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3709e42b22855a",
-   "title": "Nvidia Stock Rises Nearly 4% Premarket as AI Shares Rebound on Black Friday: What’s Driving NVDA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl8wbVBkZzlFbGljQTQxUFJEd0hzbHVhTFoycWx5SkQ2cDB5VDdPT21OTDBNSU13elJjdlpHMEFoa2xDcGhzOThnOThLS1hUSzBSMDlzOU9oempBMUVOQ2xoSGl0SnZrODlLcV95WTlBT2k4aXIzSUdUazhlaDJVSmhMcGx3Q2R4Y1VEQ1VncTNXQk1pRXBOZmtKUVhvWTVNWXJxanc0NVU2OEVfWExIWXY0ejVTb0FBd0tnOXJRU3dLak1aVDA0c0p5OA?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T15:29:12Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "cdc93658f91336",
    "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
    "summary": "",
@@ -1119,6 +1109,16 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T15:25:19Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
    "category": "Tecnológicas"
   },
   {
