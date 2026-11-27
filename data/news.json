@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T03:00:55Z",
+ "updated_at": "2026-11-27T03:05:40Z",
  "items": [
+  {
+   "id": "9c9ec204e20002",
+   "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFndHNoRTl5ak1qTEtMYm5UNlZib3hqc2ZpZWFRcWE5ZjZlVGxvUWFReGpLdUpGT25BVVl0Smo4VzE5ZzYyb0sxSE80Yng4SlNLQUF5eFdFTUc4SEZ2a3RfRVZscE1ub3BibVpiclRfWTE3anc2Qk5saUtCV2Y2eDNJMExEeVc5eFBUdU9ILWVxZDN0VExKVW5mMXBiZVo5enZmVW91RzJ5TEVOeDZKRTZsLVVFNHVTcUJpek1qNUhaTE5vZ2NIdVhrOVBsenoxX1V6S1BielFIZ0pPcFE?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T03:00:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
   {
    "id": "3cb0a02ec3c35e",
    "title": "'Good chance' of 10-year UST yield at 5.5 % in 2027: CreditSights",
@@ -60,6 +70,16 @@
    "date": "2026-11-27T02:16:00Z",
    "score": 9,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "420f99ac24b796",
+   "title": "Nasdaq 100’s Five-Day Average Intraday Volatility Hits 3.8%, Highest Since April 2025",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckdGTDFaclVmZHY1Z3o3WWUzWEVpbmo5bG9CWFJULWU3d19GVDVKMGI4WWVKTVVIamxNbjVFeDhSZkNORmhzQTRGRUpBakV0WDZzbThjMWR3VHpIV3hiQm1lV1RvSzF1M3Nvczl5RzA5Tk9ZRVlNLUNsemtQYmt6LU1la3Y5Um1vc3c4Um9IeHZ2NnYwWHJ6eDFvS0JZT3NQZktxUlNCclY5OHRyam5CWTlieFcwakZTX1ppOWxDdW9HUFUteVA4YVJsdnpRMlNiQUtwN3JoTEkzOGRPTHlZ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T02:15:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "35c86941b6d6dd",
@@ -262,16 +282,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "894338109dc143",
-   "title": "Stocks climb as traders shrug off latest US tariff salvo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUJoY2ZGSnBFanZSRFIxMmVGMnBwRXRXWHFnNUJRRjZnTDhRMW1kakJUdEI2MVh6dDJXSVlsQmN4blpjQkFZYk9wQWxBYV9PenUxWnJZWlpGNXBxWWptdzNlRFBSNjRiZUxkSS0wNEdjeUtaZllCakJOeU1HeHdTdHlfeHZYdExERG5jRk9UQkl5M1hSZDZaa3BJS2x2RjVWczRoWDR4QWdtZw?oc=5",
-   "source": "KLSE Screener",
-   "date": "2026-11-27T00:37:21Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "769164e05e97e5",
    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
@@ -362,16 +372,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97f3c8799325a6",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEVYWUZ4T0FibmozQVZ3WWo0eTVqWUljYmlLX0pHR1lGMVE5cWJ6QlNpSnV1eFV4WmgzN3M3OE91N0dRVk5WYlRGV3hJVkE5ZVE2bHY2T0Q1Q0RNWFJBWHVfZDJqc2F4TE1QNFhRZHhabkFfMGV3OVlEWHlMTnVHRnVGMWRDSm9Cc0YxOFVBQVNfYUt5c2pjRkwtZUtyUVNmYkUtanlWMjZobTlHRUMydGRwUU5hZnNsbGg3a09fTzFjUm5ydnFQZFhFMFN4bHBy?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-26T23:48:45Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "dbc5d5914bf8f3",
    "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
    "summary": "",
@@ -415,7 +415,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -1062,13 +1062,13 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "97ba86fddce7ec",
-   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "id": "97f3c8799325a6",
+   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T18:10:18Z",
-   "score": 8,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-26T18:12:10Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -1192,14 +1192,14 @@
    "category": "Energía y dólar"
   },
   {
-   "id": "9d351806b04c84",
-   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+   "id": "cfb8cff334d763",
+   "title": "Robin Brooks Warns Hawkish Fed Could Trigger December Crypto and Risk-Asset Meltdown",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-26T17:43:00Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3hGS250Qm90cDZFaXc2elpQLTJMYWJ6eWhSaDJibE1weGpyUkd0V204VmtKRFhGcFk3ajUwSk55cjE4Qlc1MFhiT1N3Z0F6LU1SMWJ6Zm5Edi1tS3liUnR3dUs3RUQ3OG1LR2FFYVZCX2VXNU5UR2tWdFNOeGxSUDQwdFl0VjFVR2RiY0lLY1dBcDV6MkVqVHVkZXY2NTl6WTMwS2U3RUhKNzdHYXpFbXplSmtldER0OXp4WDJMT2lqWE1LRnhvZ1BDbkI1MTJ5VkF4YjNQeDRkRld6dG1CQw?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-26T17:44:08Z",
+   "score": 4,
+   "category": "Fed y tipos"
   }
  ]
 }
