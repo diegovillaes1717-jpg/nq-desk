@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T13:32:39Z",
+ "updated_at": "2026-11-27T13:37:25Z",
  "items": [
   {
    "id": "1e70952c593dd2",
@@ -139,6 +139,16 @@
    "source": "Upstox",
    "date": "2026-11-27T12:52:54Z",
    "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d1a8328a5c0093",
+   "title": "Elon Musk's SpaceX Slashes Nvidia Blackwell GPU Rental Rates by Up to 35%, While Anthropic May Not Renew",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUnRjV1lYTVBCWnRfSXB3VnVId1l4N0I1TGs5NWFQVWVJdnZxVEZNaURyeHNDUWducE1ZTVdvMk5hdnp4RkpNZWI4RXNDcXdTeThnc21Qd0RhS1FCdnl0Tk9tdC1WUDkyUkFvcktsX2dXajNGazlsZ3J6eVdSVjM5Y0ZDbGNiNFI4dHo2YV9nVkJFaDFtTHpIUUlQSjlMZmhNYjhGTzJGOHJKUkxYbEFMSlJTOUpIVjJCbXpPaWdkanFNRXhTQkRYc015cFN6OVJuc3ZNZ1RabzdpXzc4QW5pZmczUjUxdGdLNlpZVGJ3WTdqUHNFa0NwdlJWOVdETnYt?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T12:49:29Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -352,16 +362,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8d4f295b086b4c",
-   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-27T12:12:09Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "513a219cc0d9c3",
    "title": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff",
    "summary": "",
@@ -389,6 +389,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-27T12:06:02Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "8692cb50a0301b",
+   "title": "Neocloud Stocks Jump as AI Trade Rebounds, Even as Nvidia Sellers Tighten China Rules",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bdkx1cTcxa2ZvTV95SDBEbXl3ckxETWdUcnhfRTV1N0FGYjJSdjhSZGE3dURpNzVnSmlxOVFsVk45UC0xOEhTanAxcncwRjRBb0dHcmVscUZWTUVoU21QN0JwYXhPUGJwc3V2X0NfeDhHTUt1X1E?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T12:05:00Z",
+   "score": 7,
    "category": "Tecnológicas"
   },
   {
@@ -490,6 +500,16 @@
    "date": "2026-11-27T11:55:00Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8d4f295b086b4c",
+   "title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUc2ZXlvX1hiYkZacjZGZXpVX3Zka0dIbUI0MHFiUU5PX0tnVGQyY0FMdWZTTktOT3Q4UXZqTy0yNFZ1NDJ4blBFLXh5eldYWUFhZHdkUV94VkZPVkI0RzBGeEZiRmh0SmRZOVFzTW1lRVR5bVNUUGdZTlZJQW1xdkhoSFlxNC01OEl2Z2Nwa0JZRVBYaVcwZg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T11:50:33Z",
+   "score": 9,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e72bc7c9d8add",
@@ -1025,20 +1045,10 @@
    "id": "e47de9a42c9520",
    "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
-   "source": "Knoxville News Sentinel",
-   "date": "2026-11-27T10:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZazZoaGVuQ2xGUU5XQlA5ZHp2YWVaOGlnckF5eVZfUEVLOXpfRzVJcVJJMHNjSW54QlNfWTNmNnNRQ0QzN0x3bEcwUWNjRXF5VnU5RzMybS1QTTZtbUZ3TnYtNVZHSkdqLTMwUjR6ZlhzT3ltMEtr?oc=5",
+   "source": "AOL.com",
+   "date": "2026-11-27T10:06:22Z",
    "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "21593f3e2c1e0e",
-   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T10:05:00Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -1049,6 +1059,16 @@
    "source": "BigGo Finance",
    "date": "2026-11-27T10:05:00Z",
    "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -1179,26 +1199,6 @@
    "source": "Traders Union",
    "date": "2026-11-27T09:42:35Z",
    "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "aa2b2dbc31381e",
-   "title": "Global stocks rally on AI rebound after bruising month, while Treasuries dip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0VaN05LcnVJU010NDZic0lhZF9LWU5zVTdqdmhrTlNYT3J1RGVqUGp0NVlXNkhtaWJRVzFnX1N4RUMtdzNUUkM5dTdLVF9nYWsxSWR0aS1ib0wwaDlzVml4ZlFBVHpBM2ZZYThjN2pJT1I0ZkFBMFZNVlVPbzl0aW9Ub0VjVjZsa0pleENjWGNmNlJpQUtwT3Niemd5X05aS3NLX1h6TzlXcmRkUEpkQnl6NUZmSThiWW9EQks5UnBDOUVISUdiSHoyXy0telBHTUNiSQ?oc=5",
-   "source": "Free Malaysia Today",
-   "date": "2026-11-27T09:41:00Z",
-   "score": 7,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "c6b9fa96d55e55",
-   "title": "NYSE and Nasdaq Close Early on Black Friday 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tblBoanF1eGZOZ2xKZ0M2OXY0RFZKWHJCdHJjTU0xSHg2bTVkT3NEVkRPbWxCd28yS2JLNG1UdVprNVpGSzJWbVFHQ2ludm8xQVNVNnZrMFhwbVNhU3h3NW9JQQ?oc=5",
-   "source": "bsinews.id",
-   "date": "2026-11-27T09:39:55Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
