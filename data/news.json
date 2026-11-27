@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-27T17:46:53Z",
+ "updated_at": "2026-11-27T17:51:37Z",
  "items": [
+  {
+   "id": "3d72bd12939f70",
+   "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "summary": "SpaceX shares jumped in Friday trading after Elon Musk said on X that he would donate shares to American children every year.",
+   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "source": "CNBC",
+   "date": "2026-11-27T17:50:22Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "db7301bfc6c9c3",
+   "title": "Why is Nasdaq 100 up 1.9% today?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2N4bzRobHFTdWZPcUxIUE9TR3VSWThpVlBoZy1WZ1hTbV9fcDV4VTVZNGhGWUppbVpiRVZvbmlKRVpYYWFoWTFvekhZOFFCemMyQ1Z5Snlxa1o2Tm15MEN1ZUVGR0xINWRsX1k5ZGFPckhzczN2Qk95eFMxNWN5NENQbGZ6cTFOdHJQNWNn?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-27T17:45:37Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "aeba5ca89ed0f4",
+   "title": "US bond yields rise as risk appetite grows",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONm9LSWx3eVBWbmVxY24zdFdZWWRpUk1SZ1hvTUxBaGhTQUZJUERINWthQlF1ZXZNOS1aZ0pGd2xPdHh3UTV3VDR0MzRUMzJvM0NUWVFpR3hsZXBoS1dHRDZ2RWFuWUNvUU5hbWFwaW1hbm5vU0ZpRzJIMmhzNFk4Tmw3X3BkV2JTWFBNUmV0akU?oc=5",
+   "source": "Breakingthenews.net",
+   "date": "2026-11-27T17:45:00Z",
+   "score": 3,
+   "category": "Fed y tipos"
+  },
   {
    "id": "79fd5a8016d76a",
    "title": "Nvidia’s Key Man Problem",
@@ -462,6 +492,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7987b92887cb37",
+   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVRpTEJfczB6eWxfYVRmY1BsbW4zb2N6cThtYUt1cVhsOEZwamdnMHZ1MlNNclgtX3pRX1dkanVRaHo4WExBS0F1M1Z1WUtCeXNiWU1RTmc5VGNYRFo0VkNYa3V3Si1kUF9RaFNjNThVcmU0VnJaaXU5SjFPTHFVQkJpSlcxZk1YOVBJUjZvcDRBbC0wMThNZlczdHRiMkdtMFhoWGFfNi1VN2gyLUt4c3NtMG1HZ1pVOXpv0gG7AUFVX3lxTE1VVGlMQl9zMHp5bF9hVGZjUGxtbjNvY3pxOG1hS3VxWGw4RnBqZ2cwdnUyU01yWC1felFfV2RqdVFoejhYTEFLQXUzVnVZS0J5c2JZTVFOZzlUY1hEWjRWQ1hrdXdKLWRQX1FoU2M1OFVyZTRWclppdTlKMU9McVVCQmlKVzFmTVg5UElSNm9wNEFsLTAxOE1mVzN0dGIyR20wWGhYYV82LVU3aDItS3hzc20wbUdnWlU5em8?oc=5",
+   "source": "Analytics Insight",
+   "date": "2026-11-27T15:22:46Z",
+   "score": 11,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8c61a8208d204a",
    "title": "Treasury Yields Tick Up As AI Trades Keep Markets On Edge",
    "summary": "",
@@ -652,16 +692,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "7987b92887cb37",
-   "title": "US Stock Market Today: Nasdaq Futures Jump 2% as NVIDIA & AI Stocks Rally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmtBNTNBcWY4MnRUSmhkQ1lQTUdOQ1g5eEZzOTFMWkFINUwtUzdhMWExM2xrUG9IWnRwcG9tMExRZXpsVGpDdkx0Si15Y19JbV9BRTdQaG50ekNHT2RzWEdTN3hlX0xXc1gtRnRJQ2VzTWNrbHNzMVFybTIyY2Q2bFJ5QkkwUW5YRl9YX0Y1QjFfTFdMWl8wcGNjQjJFOXhvMlNYY1oyY2RlVlRVSmfSAbsBQVVfeXFMTVVUaUxCX3MwenlsX2FUZmNQbG1uM29jenE4bWFLdXFYbDhGcGpnZzB2dTJTTXJYLV96UV9XZGp1UWh6OFhMQUtBdTNWdVlLQnlzYllNUU5nOVRjWERaNFZDWGt1d0otZFBfUWhTYzU4VXJlNFZyWml1OUoxT0xxVUJCaUpXMWZNWDlQSVI2b3A0QWwtMDE4TWZXM3R0YjJHbTBYaFhhXzYtVTdoMi1LeHNzbTBtR2daVTl6bw?oc=5",
-   "source": "Analytics Insight",
-   "date": "2026-11-27T15:00:00Z",
-   "score": 11,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "57e70e88c3c970",
    "title": "US stocks rally sharply as AI shares rebound, but Fed rate hike clouds outlook",
    "summary": "",
@@ -838,16 +868,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmFvalVVLUUwMmhoZkZqVi1ZSUxLZG9wZzRDM3FjVWRDX0ozVFFmX0tobzhDREZqVE41blBuaS1jbHZrZDJfbjBIMHQ3RFB6N1RzazA4UlBEdWl2UXVCUTVXVl9mTlNjQ1VPT25jWmRTaHp0LWVxbDJ5MEh4Wm9ZUzZFcWd6cHY3bmZUcGRKZkpLTE53MC16OElCaHlYYlRXUUtKaUhFX1Z1eEpG?oc=5",
    "source": "TradingView",
    "date": "2026-11-27T14:33:59Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9c80145c9fdbf0",
-   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTN0Vl9XaDlPT0xFYlhPcHAwVEd2eGpyRDU3LW0tMlpWdkdyWFh3Z29fY2t4b1BhcmdoQTNWMkhsSDdiVXRTUkZveHVCZVFaWGFjS2RzXzUwZjBIQ1UzNEIzc2RMdlQxSDMyLTlrOHlRaHNWOEJLUmZVMENfZUd1M241YWZLbkkzaEFaek9QMXYzUTk5cWFfdVFVNk9kTVNUU0h6QVptcDl6R2dtcEhIWXNLZERmSHFsV2ZNbVJQTTJGdmJnVXJkSEU4LTFhajE4cXBZeHRUbVRsdXBTN3ppRVBzZXlqZDhXdHc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T14:33:05Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -1179,26 +1199,6 @@
    "source": "富途牛牛",
    "date": "2026-11-27T13:21:36Z",
    "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "536102f35bf5dd",
-   "title": "Thanksgiving Inflation, the Fed’s Debt Trap, and Gold’s Eastward Shift",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckQ4dGc4blJKaUNrZUN6dlNSOHJ1LWNKM3N5cDNHcllPbU16aVM5aXQyTzF6Rng4LXpVcDJySHFRU3JqWm5xSHEzVnNPakJPQnkzbkxOb1JCZ190TGlHRjhpdEtCd3c1bDNGYWh3NXRxWHQ3WG9tTVJwVC0xRWotN1M2elBBeFRwMENsMWlkc2h4eVRuOVE?oc=5",
-   "source": "GoldSeek",
-   "date": "2026-11-27T13:19:15Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "aed85069d8da0d",
-   "title": "Green Friday: US stock futures surge as the AI trade comes back to life",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazVBeDl0ZTJ6T2huNkVyZ2xsYUI0MmVyV2phX0tlM0E0YXZ5V3FJUGowcG9ZOGhZanVNMTJLbGhWMzE5ZnBJTVlqcmtPcVpGVXcxSTBEbm04ZkNCcGNDNFFXQnZqS1h0UXhtMnVrT3pyNDR5bnY4QnctTTRVZUJ4REo0TXFERW13cUhQVHlPbklYbVZjNGhXeU9iaXFhQnZTakFybm9raw?oc=5",
-   "source": "investingLive",
-   "date": "2026-11-27T13:15:37Z",
-   "score": 5,
    "category": "Tecnológicas"
   }
  ]
