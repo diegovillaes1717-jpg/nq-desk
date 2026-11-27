@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T16:10:40Z",
+ "updated_at": "2026-11-27T16:15:31Z",
  "items": [
   {
    "id": "bfeebe3ce864cb",
@@ -210,6 +210,16 @@
    "date": "2026-11-27T15:21:56Z",
    "score": 6,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "6bb686693c341e",
+   "title": "‘I’m a Micron Fan,’ Says Jim Cramer. MU Stock Jumps 19% as Nvidia’s Supply Commitments Hit $390 Billion.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbGFOMGU3VHB1V0Rvcm1DOWpWcDRtN1hDMXVZT2hPTWZwdlprRVV1MnpXMktSMXNuMjFGOGZiZEU3RzcyNVRYN2hxVm9kX3hUZmY0V3dCSDVaeUcyQTA5RUwxOE53LTdieWZoVmhDZER3Q3ZPYlRsSmRGeS1ISG9RSUM0ZkZXMGkzSjNkRGNLbHN6cmsydXU4N2pub09rOFlfdEdJazBmcFNCSFBwdXRUNlhFUk5WeDFwTzR5bjN0VDVsVHlrbjVFeG96SW1QSGRfeFF6YThn?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-11-27T15:21:16Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "ea9f3aaed6d5e3",
@@ -802,6 +812,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMTZlRmh0c2FvbThoeU5xbTdhM0lYbGhIVG5UcU9tcmlndDRpbHlEdkRocERnOUFRZDhiXzJSZzVxNTEzRlRzOW5ocUh6VEFTMURlVE5aa092bjZ1V1VqTW5DcGJfQk9fUnhQQ082b2VLU25BSUU2SXphNEVRbFMtQV9kMGw0Nm1nSFNUUE9id3ZBRjh1VzNUbFI3SkJpSC1IcFhMSThQa1I0bDhISWZKM0YxTkowQ1ZNaC1PRXlkakc1d2VDTnRTTFNaS2dLelpRQ2swWjBnV2dWaVE?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:31:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c3a9af55a5c358",
    "title": "Nvidia Stock Rises. It’s Finding a New Floor With Huang 2.0.",
    "summary": "",
@@ -832,22 +852,22 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXRBYXZ1Ykx3UVlReVhYRng2dDR4MVFZRlpJc0lyS05kWnFiMGsydmg1MmxIWlBsZUk4eE5qNXJVd3Z6M3RhSGJRdUNzQVpDTDFuWTI3SlktZWgzVjNEbWRyR1UyRC04UG9JcEJvbjhHTVl6R0N2MHM3S3RUcW4tNkx6Uno5OWdsOGVaWjJpR2x1bjNXMjg3VzlEZmNQYmt0MEFQc1VhdEgybXAxVTFCWVFoUXJsQUhnNVFXV05OaUJxN1BzdTBrMDYzT1RacEdER09kYmwxU2NsZUtv?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:25:26Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "310e13bc87dc2b",
    "title": "US Dollar: Fed tightening bets limit downside as stocks rebound - ING",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXA1aXdUVkdZd2FJb0czcThOSzBkMzRNU2xFaS0tcF95OXJYXzA5WnVyXzBXUld2RmRDU0k4R1lyWmpyc1M2ZElGQjlxZ2l3a2FCa0Z5UnBmVU14TWhKZzBhQU9oUVpwUTNqZW5WRy03QjZFRlFoUE1VYmVkMkg0SUZ5T3R6dzFiMC0zUWZydHhyZXhVeFVscmt3NE51VE1vYWhTUWROZndXNEw3UEE?oc=5",
    "source": "FXStreet",
    "date": "2026-11-27T13:25:21Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2ba10c0ef3f1c4",
+   "title": "US futures rally on AI rebound after bruising month, Treasuries dip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9INVo3V3lHMEpEX0x5S3dycU92aWtDVFc3UGVzenZqUm1HZTkxdnZ5ZmdRWVJkZGhvelRtSkdGa2t4V2VzUW9waGlqaWw5N3lzXzJB?oc=5",
+   "source": "شبكة تواصل الإخبارية",
+   "date": "2026-11-27T13:24:55Z",
    "score": 7,
    "category": "Fed y tipos"
   },
@@ -1032,6 +1052,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T12:46:20Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "6a3989d7a919aa",
    "title": "US stock market today: Dow, Nasdaq futures climb as tech stocks recover",
    "summary": "",
@@ -1169,36 +1199,6 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T12:23:07Z",
    "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3db91e4694da3c",
-   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWWVhUHdkSXZYLUFWaG1QQkhCa0xTSllmdDJKZ2tHVnNINHRZd2JGVm1BTUdwTDVhd1d5MXRLSUJlZjV3Rm51SkJDa3lfdTlBcHFRblhOVy0xVmlSOFBDM01TUDJOc2w2bTMwSlZrMWRkM2lFZTVyU1BSVk51eHBudjRZODFvQ3lZX0NMcEV6cGdPX0JuSkk2ZmZxRi1XRkVSV2d4eEpsajZ6RnFyaUczVTk0WGtvcmsxQXdYTkpPNkRudkp6ZzVLaTJCeDdjTnhjczByV1FsNmFMVTQ3Uk1US2RjSVVCcjJTZ1R5cjIyNktTUWNXQXVtbGpBUQ?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-27T12:22:30Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5ad78ab6a80d50",
-   "title": "Trump was 'a little concerned' as the Nasdaq fell more than 4%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Mmp1R09PRmRPb1hmY1M5U3NpN1BmTDdQbWdORHBZODZfU3VLb1hpYk0tclFqMTM3Z3lWWE4xMEc1WC0ycTA4U0lZUnRRWHEzTGxkRGRYM0RXWFBnV2lJUi1fOV8xSXM3Y2FCOGhCSFVZX3JtR2o2cXJGWQ?oc=5",
-   "source": "Quartz",
-   "date": "2026-11-27T12:22:30Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3e6cd52789fcb4",
-   "title": "Dell, Super Micro Under Pressure as Nvidia Halts Shipments to 4 Asian Countries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUZzdkFULXNudy10WndCWXlCaG5tV29hbE45XzQ3UXJnZndLeG9kN0ZURWFKcURLTl8tNGhJMHBPbUtYczZsWUdNQ2JHX1VvYkVMdEtHdFI3TW9FMmNDU2VvV29ZTUVuSXhDVzNIYlRLUExraTVZSTZWUTlaVm9zTjBvTmFOdjBYMHJQMDZpYnNaZFBncF80?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T12:22:03Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
