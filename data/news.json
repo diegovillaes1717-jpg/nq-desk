@@ -1,6 +1,56 @@
 {
- "updated_at": "2026-11-27T10:08:11Z",
+ "updated_at": "2026-11-27T10:12:56Z",
  "items": [
+  {
+   "id": "1ecff1758d0587",
+   "title": "Nvidia forecasts $130B revenue, announces $150B stock buyback amid export hurdles",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVc3Zmt1YlI0VXhXQXdmZmlvRFJJNW8zQlV4VXBjMGF4c3VyNzFwNmo2aVRSaTJkRnlBRVMxcm5xTDJKV1dZT1pZMXR6V0lxck9JLXpEdF92Vlg2MV8xUlZraDA1eUFYd0Rzam5DY0FENmhoYmVBbkZ1VmswV1AzNW5QaU4td2d5MGNJMHViMHVleG9Nclo3UmpjNDJkaDlNenh0WTRGWEtrZw?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-27T10:11:12Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "1c33e1dec4c586",
+   "title": "US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-27T10:10:51Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "98fc7987c01602",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "link": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+   "source": "CNBC",
+   "date": "2026-11-27T10:07:47Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e47de9a42c9520",
+   "title": "Even when the Fed gets it right, it gets it wrong | Opinion",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+   "source": "Knoxville News Sentinel",
+   "date": "2026-11-27T10:06:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "21593f3e2c1e0e",
+   "title": "First Trust Sees Market Overpricing Fed Hikes Through 2027 as PCE Runs at 3.8%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaGRUWktGQjFGMEp1TXdEY3VUTnpSbk5wRjJJSk83T1dldzc4Zzktd3IxalJ6WUJxUHlQMWdPTmx5OGR4SzBlWVlIbXR4Wm42WHlGWE12YzI1dnFBSTcwUE9sRnZyMmRSOWZQemhUOHoydW5KQ3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T10:05:00Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "7feccbe29a727e",
    "title": "Automation software stocks Q3 teardown: Microsoft vs the rest",
@@ -30,6 +80,16 @@
    "date": "2026-11-27T10:00:22Z",
    "score": 7,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "ac52f11d465073",
+   "title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc0pTZDVoR01raXhlSWRKYjI0MVFzQWFBREt0UzUxQkVBaS16bVZrZWNtcE5xVnhpZnFSSGNWbmRjMkdFTGZIdGlvRFVUTWp1NFctYTdCT00yc19DNm9VX3RxN2JuVVNEc1o2YlFRRGgxb0xESlZkSkpCQ0ZBQWI3YW43SnUyTWRNd2Rnd0MwcHhGd1F0UVpUN1NpV1lqNUNEZmpURnM2S3V6dU4wM1FjYzZrY3R1Q245Mk1UcW1HQ3ZrU0FnUzdqdm1QekVJQ1FRMVZMUjhmSHlrM2pfQkQ2a3lqZw?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T10:00:02Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "a7d5f29e922807",
@@ -87,7 +147,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0VaN05LcnVJU010NDZic0lhZF9LWU5zVTdqdmhrTlNYT3J1RGVqUGp0NVlXNkhtaWJRVzFnX1N4RUMtdzNUUkM5dTdLVF9nYWsxSWR0aS1ib0wwaDlzVml4ZlFBVHpBM2ZZYThjN2pJT1I0ZkFBMFZNVlVPbzl0aW9Ub0VjVjZsa0pleENjWGNmNlJpQUtwT3Niemd5X05aS3NLX1h6TzlXcmRkUEpkQnl6NUZmSThiWW9EQks5UnBDOUVISUdiSHoyXy0telBHTUNiSQ?oc=5",
    "source": "Free Malaysia Today",
-   "date": "2026-11-27T09:41:09Z",
+   "date": "2026-11-27T09:41:00Z",
    "score": 7,
    "category": "Fed y tipos"
   },
@@ -189,6 +249,16 @@
    "source": "Financial Times",
    "date": "2026-11-27T09:22:30Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "67de4cf87cec24",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-11-27T09:22:08Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -802,6 +872,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "2f008829c8b0ac",
+   "title": "Own a Nasdaq-100 fund? Anthropic could soon enter your portfolio without you buying ANT stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFRUaHNsVl9YT0JUUVcxLU5hR3pDLVlHYV9Mc1B1YnRiYUNWcnh0dElCRmtVbzVFRkM4VlIxSWg2elBRY2hhd1Zqd1Q4MGNFdFVOZzJBTWU2MG1vY3FJM2stcUFHZTlEaHp2anNxLXV3d0xkSDUwVnJnay1ia25YVHNhdEVnSFpmU1plUDk2dy1DaExYbmJZMlN4UVFLVVFJQkN4enhneGpITGItcTd5MVpyQjZ0cHhCSGxVUmlzS21fZF9DcmItWUtCUlpZcHJURU1NaHhFd1ZHaEpmVlVIRFY1VEhSVTlsSHp2dnlpRExXRmPSAfgBQVVfeXFMTUFuVzN3QWRsUTlwbDRfbHk2Z1hKbmVCM2JYeWNjYWUtM2N1azM5YUFxMTZab01TMVhUdDN4LXNfMHUzV2hzR2llZzl4Sm1lVjNvbUhfbU9NQUd1ZFYyT2JfdE1QSk9QWVFOX2l6ajBsbmlZNnVzaklZNVlreXdjajctbTZLR2lKWmxIUUVVUkpvSVZubERfemtzYTlFY05LV2JoRFp2ekFNMldBZFVJQUNOWndvYmFOczZGRENobjVKODNiNC1hZ0trZDdSSXg3WnRtaGh1aW80cVI5VDktYkctUW1lTVAzVkRnS0djcHlmeVNWRk8tZ0k?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T05:37:25Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "87d784c9d2bddd",
    "title": "Market Pricing Favors Two 2026 Fed Hikes Amid Inflation and AI Risks",
    "summary": "",
@@ -1120,86 +1200,6 @@
    "date": "2026-11-27T03:47:23Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "ab67bdf069b6e8",
-   "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0dnTGJIRjhKaG1fZUsyeUdTQXZpYWtBQkQwUWJmdFJoeEFNZlYyYWpxRHVsS2p2LVVSMHZFMzkxTTdUNlNfdGdsaTRHWmtOTWxwQnRQLXpDUW1GNzA5dmZRWEIzbWZma0hJMnRYeFZySl84R1Vfb1JOSFZFaFpoOVpnWUowM1ZHS2lJX0RBSkZ3UEpJZnc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T03:30:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e677f0921153a5",
-   "title": "Trump insists Nvidia CEO not a security threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDdidHNwdUxmdERRUTdGaXNocVF5dU5EVklmV1NHZ1lBLTRzc3kyekY0WXVQUW82TktVdkZsdUtTaGdWWkFSQ0ZQU25mS3lsQ3Vrc0xUbW9kX04xcHV1WW1yZGVLUUkyMFpOSVVlbUJoQWVfNU1ZWDZacUg5Y3Fmbjdpb2QtVkpVYU55dUtCUks?oc=5",
-   "source": "Hürriyet Daily News",
-   "date": "2026-11-27T03:29:01Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "7ec280d697aae3",
-   "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbVFpb2oxYzkzN0xRaDhhYlVjbU0wTHhISkowOGhuMVYwQTF1WU9GTDZsanpnZmM2TXdvdkxMMTZyTHY1QmM1aG1uSThHUGZoOUhkWGRnTzZDRi1RMG5qNHBlbkUtMXM?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-27T03:28:14Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "dbfef74e1543ba",
-   "title": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnU4cWlNcVQ3V3NzWWpsdnctZWVwbmJRX3Jrd0k1WDJEa1p0eUxhckdQQnpoZWZ6R3E2RjBoU25BdFpDYXhpVDFjMnlUdWpLRDJraGwzQW5TQ19hWHNKMWpWb01TMWNJb1pZMXV5TVBic2FXQndRLUFPbHZTejRyVDJGeVNYYkVFQW1xVEVvczBUZ2lDS3V5aldxYW12dDR1TjJELXBhMFBxVERTdTJhT3lZLWxpSmNjSGNtM1Nnd21yUQ?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-27T03:20:28Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3a04c5716ea97c",
-   "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWhUc0xMVndoX0IxZEo1QWk3MzRxQzhpYkx4Q3ZaVDF6SEpWNkFZNEVnZ2ZUN1ItR3hXa3pUVjFWeDhjSVVMSWxuOHBYdkJ2Y2hjaC0tbktheDh5WTdzQmlTcmh0YndKN19JdW1xcWhLNnVTY1dmNVpReTMyV3dobXo0cTVqSDZTNUpIUExTanQwNFVQV1B4YXJxVQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T03:19:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fa8cbf78294b2e",
-   "title": "Gold Steadies Near $3,575 on Thanksgiving as Fed Hike Bets Cap Recovery",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDdOMFJBU25XSDVBNmsxWDFhSEJ2N3pGTVZhX0hDeUstTFo0NGZOWFg0Y3p6TU5JMDdJUnRBYjdJTG5VbTJ2R1M4QUdmY1RtVk1CUG5BT0ZmbzFDbmlRdkYzWm16a0M5dWFGTmxuZ3JZYVZZVG9wLTVybGlEMy1GVTNyN1RPem1lQ1Y1Z0E3eGJyNE5xc0NkYjhWQS14TFNwYlN6WG5VdmM?oc=5",
-   "source": "Around Prague",
-   "date": "2026-11-27T03:11:39Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "35c86941b6d6dd",
-   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5",
-   "source": "Cryptonews.net",
-   "date": "2026-11-27T03:09:14Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9ef02aefd47503",
-   "title": "U.S. 10-Year Treasury Yield Rises 5 Basis Points to 4.904%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MSDhsSmx3UUdNMVBjeDF3T1YtWmRwQWk1b0Uya1YxdUdNR3lTM2twdi1mNHBIb0FINHhpdkJaTW1YSG1Cemk4UENmQ3hvaGVmNTRDMWlFcld2QQ?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T03:08:00Z",
-   "score": 3,
-   "category": "Fed y tipos"
   }
  ]
 }
