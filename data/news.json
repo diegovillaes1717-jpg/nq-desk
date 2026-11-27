@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-27T07:26:45Z",
+ "updated_at": "2026-11-27T07:31:29Z",
  "items": [
+  {
+   "id": "e36027bf9181a6",
+   "title": "US Treasury Yields Surpass Bitcoin Futures Yields as BTC Basis Trade Loses Appeal in November 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3pQbEpCVm15aDVfeDZoVEJ5ZFVfWG1VbFlMNDB1eGxXUmlKSGZiMzYwdnhicDBfc0dGa2lpbFFWSWU4eFhHUVpNa3F6bS1TVkt3OGdTZjNjMFhlUkVHcDdZTk5KRXlfRmFUd0tMbUdGeGFXNFNKMDBJX0I3S1lXOGZ5RDF4VHl2Z0hwTWhNZ2w1bDZhRWVvSkdPeUdyMWNsTTdDWm1uQjVzZmVRQXRVR0Q4cHZNS2FqZHo0OFRpS1cwQWlU?oc=5",
+   "source": "KuCoin",
+   "date": "2026-11-27T07:29:04Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "aeb570dd891933",
+   "title": "Eugene Investment Files Terms for KRW 50 Billion Tesla-NVIDIA ELS",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDIzSlhPekpicDdkNmVHaFBqeHlzSE9QYlozajBIUGlYZTRQU0s3RWR1bFRpSU5naUlkcE1MMXJ2dHBHSElsU05DbUd4TzVPT195Tmo0N2xkMFpBTEZmdjQ5X3BwVDBXZ0NMUC1lNjJZcEoyQTVzZXVEMGZaVnJuZjMxdEl4cnctTUNCQmZBczhpRTZLS3RPTGhXTDlJdHY0WFQ1RUMxR1VOSmpwWGhtU2tCX3M5dWpfWFdjZTd1OG1uaGRnR0lNQlZuU01adU5wTVVQeVczVExQN2pYUTJ3?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T07:24:18Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
   {
    "id": "df4511134c2e1f",
    "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
@@ -40,6 +60,16 @@
    "date": "2026-11-27T07:13:02Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "ae6b0341ec8772",
+   "title": "NVDA: Nvidia Stock Tops $155 as Bargain Hunters Pile In Despite Export Concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzhMQnR1WkJrakgwdDFJQno5RkhSZVprZGN1VG0tYmJGbmRHcXNSWVNXbi11SVdYVExVVm8yQ0hjTEptNGpNMEh0S1NmMVlkNU9WNVZEcmdjZ0xmekJLcUItRV81Sl9XSTY5NnRNT3cwY25Xc0NzU09fVng1c3Q3Z29xTGkzMGVTa3pORUUwZUFLbkh3YU5mcXJjLU9aZE0zR0pmVDRRY2JzNmUyUmZ3T2ZNTXRPdDR0Nkp1T0NLNlo4VFlTNERuX1JBdFhSOVhVX0NBcHVB?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T07:13:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "5dbaefbf62e775",
@@ -572,6 +602,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "e677f0921153a5",
+   "title": "Trump insists Nvidia CEO not a security threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDdidHNwdUxmdERRUTdGaXNocVF5dU5EVklmV1NHZ1lBLTRzc3kyekY0WXVQUW82TktVdkZsdUtTaGdWWkFSQ0ZQU25mS3lsQ3Vrc0xUbW9kX04xcHV1WW1yZGVLUUkyMFpOSVVlbUJoQWVfNU1ZWDZacUg5Y3Fmbjdpb2QtVkpVYU55dUtCUks?oc=5",
+   "source": "Hürriyet Daily News",
+   "date": "2026-11-27T03:29:01Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "dbfef74e1543ba",
    "title": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade",
    "summary": "",
@@ -672,16 +712,6 @@
    "category": "Macro"
   },
   {
-   "id": "e677f0921153a5",
-   "title": "Trump insists Nvidia CEO not a security threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHh1LUUzU09tNWE1NVJZbURJZlJUUFBZbHNvT3U2WnJ3VmJfLTBGYTNqb0NDdFJoMElmbFRCcmRGc2p2MURnREhKSTRQNDdIcHNFYVJGQWdDLXJabnhXakJLOTVKd2VJdFdfOXpKeDJPblFFQk5PSUdTd0hEVk1Ca2xFc1ZGNmZ3MURoUmVrSnVmV0Z1TENxNWQta1RpVG8?oc=5",
-   "source": "The Standard (HK)",
-   "date": "2026-11-27T02:53:34Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "b3b3be6fab3d02",
    "title": "Asian Stocks Advance as AI Selloff Eases and Tariff Concerns Recede",
    "summary": "",
@@ -720,6 +750,16 @@
    "date": "2026-11-27T02:20:11Z",
    "score": 3,
    "category": "Energía y dólar"
+  },
+  {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GM3R0S0Y3S0NkbXIzRjNIWkhQM2JsMWpQZl9XT2dZYllYbDk0Qk1sT3I5TWVaNHlLWDhkdE96MXBJaFhYWlBJeTBtYUthQQ?oc=5",
+   "source": "Longbridge",
+   "date": "2026-11-27T02:20:00Z",
+   "score": 4,
+   "category": "Mercado"
   },
   {
    "id": "da2b85d73908a3",
@@ -1158,46 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPendmaDVQQ0xtTGw5eHp0UHJkLVpxSlhvNzRrSUpqWjdscV9Xb09VX2JyaEpITmZ1UGx4UmxWNGxBbkxxTHcyMHFnWkZGbkIwUWF3bFpTNnFPbjRnOC1COGFFVkhJWHlSZDNHZlpJMl9hNk44VzBUMjREYy03Vm51WlNKa3BBdkozOWRMV0NkOTZtOEs3bFk2dkFrNEhxQQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-26T23:53:35Z",
-   "score": 9,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "e3815709180dc1",
-   "title": "Fed survey shows growth, sticky inflation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDF3aV9Xc0daaUxxNDctbVhLUF9uc2JpZ1MyOTBVN0R3ZTRPTEJ1UXVxdlVDVEVOeDlxUVhQbmR0enZpbHJ2b3czQ2dyQmFuR2xDTUZ6WVcwbTc4WmluSmJtb3lOdmhHOFY4LWQ2SzhXVFB0dEJpU0NzN1lnZHBIQmhnMUdjS3cxcUc4ek5OTk9SY0F6MmIzSF9CWFRIOS10Mkhz?oc=5",
-   "source": "The Star",
-   "date": "2026-11-26T23:49:37Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "dbc5d5914bf8f3",
-   "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9ubWdGUjBmak13V3l2TElCRzVpZzZDRUJTeGF3dm9tZmdfLUpld3R1d3VYV3Jxb1VyVG1UVXNfNHhRWHd4NVF2Q3ZuVGpzS0FmZ3dhUjlUNWhQVzlLOF9nU25TMzYtZ0xoTFJzR3RHbDlJN2JRWnRiYmZzLS11a0EyX3h5dnVMWlZXYm9BV28yVUVEcjdNMFM2YVQ0YTNsZkE?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-26T23:36:38Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e16433f737c914",
-   "title": "Nasdaq Closed for Thanksgiving at 23,585.80 After Nasdaq 100 Touches Bear Market Territory in AI Rout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlZ6QVZ0ekVGOXduZGYwQXgzb2VIdjhPb1gydEMtZ0NxdUJPbzZYZFYxenF2QUVBZHQyUVF1WjdrRXFZOVRHRnZfRV9UMHNLWG0zT1J2Z0lIeHhIQTkySnZkaDRNdnJTWW1QMEIyX25DTUxCaE82UF82QUdydzlVNE9QT0NWMFlWMGE5TnA2UmM2RFVSR20zWW1GS1R0cVVicmYtV2NJMTQtN1UwZkYzT0xPWEZIbUE4TC10V1JKUEc1cW5KbWFKMFZaSTdTUnB6aVBZ?oc=5",
-   "source": "BBN Times",
-   "date": "2026-11-26T23:29:34Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "8e7af7634ea214",
-   "title": "US Stock Futures Rebound After AI Rout; Traders Brace for a Fed Rate-Hike Replay",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUcFlTR0laRnZ1WE9SanZVVXZXbEs5RzlOTkZ0UXJYdFNrTk5PWGtid3E3bi1PWUtfdWY3SzdIdkFHU2Y1LThUSWtILVkyZjF4cGRwWXRvd0JXM3N6RlVxREJteldkSkJnbE9rbFdMU3paN0hRcWc?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-26T23:25:00Z",
    "score": 9,
    "category": "Fed y tipos"
   }
