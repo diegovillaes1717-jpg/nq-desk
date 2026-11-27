@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T01:30:21Z",
+ "updated_at": "2026-11-27T01:35:07Z",
  "items": [
   {
    "id": "095fd792e9496d",
@@ -102,16 +102,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "bc557b37adabe2",
-   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNMSFZ0MzlfT2lhZFhGVW1yZFI1bzFFd0MxS0NRTDRGLUJnVzQzT3Q1T0YzNU1GVndzbDdkbVMzNG9LZGF3dDlNV2FFcHk4TXVadmhxQTUyZ1o1eUh4M2N6Um1NMjJjd29pMHBaWnktMEZVRjFQWmVZM2ZERVVjQ1NWU01RZWswbUdoVW9INUZpVGdQWnczLUw0NXQ1S0tpTW9RTTBhTUpwYllzb2M0Z1k4bldibUd3Mzdlc010M1k?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-26T23:59:08Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "c44aa220a1cccd",
    "title": "Gold declines to near $3,550 amid hawkish Fed expectations | FXStreet",
    "summary": "",
@@ -139,6 +129,16 @@
    "source": "The Star",
    "date": "2026-11-26T23:49:37Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "bc557b37adabe2",
+   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnRlN2h0SUtGa2dKaHZKTV9qc1VYMVJLeFFlNV90X2RZRWJJOTBtMS02ZGFMdHRjSUx6dWplRXJhUEU3cl9COFF3X3QyT3lZMlZyV1I4d1hEXzdNb2pIYjk3Wm9tenJCRDNyeVNSM3FfUUpDcGhqV2tyWmVuVlpMaTQ0cTBQNFlyZDRzdFN6ZHJHR0dYU3hCa0N6QWhyM3lCcXhqSERGNlhYMk40ZlJuY1ZDaDVBM3NNMVdOZHNHRjdMNWlJ?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-26T23:49:07Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -175,7 +175,7 @@
    "id": "a9f45b768bfca4",
    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
    "source": "BBC",
    "date": "2026-11-26T23:08:12Z",
    "score": 3,
@@ -492,6 +492,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "28cf2aa1941483",
+   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-26T20:58:43Z",
+   "score": 4,
+   "category": "Mercado"
+  },
+  {
    "id": "8094311abc3ace",
    "title": "New trade war could be brewing following tariff proposal",
    "summary": "",
@@ -500,16 +510,6 @@
    "date": "2026-11-26T20:57:18Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "28cf2aa1941483",
-   "title": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-26T20:52:56Z",
-   "score": 4,
-   "category": "Mercado"
   },
   {
    "id": "7ddbecf4b2f2d4",
@@ -782,16 +782,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "e7d604cd8d5229",
-   "title": "Incomeq NASDAQ-100 Premium Income ETF (IQQI)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazYtTUdWVUZRMGQ1V3VwbUVkcmUzcWg5TDNjNU0yajRFeXJPUXVCUUwyWExPeGJGcXdMbzJib1lGZzdwMHZtOGgtd2w3MkZfbVVNSkJ6X2Y?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-26T18:16:37Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "bba671f1f702f8",
    "title": "Big News For Nvidia Stock Fans",
    "summary": "",
@@ -819,6 +809,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-26T18:12:10Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "97ba86fddce7ec",
+   "title": "Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTlad25MZXFUdThMWHU0ajJQeHJPU2kxV0dEOHdxMTRTUTdOZXNCRnFGT1hnYUt6akJENkpGX3VjLVRnOUhIQzZxNTZucEx3N1hSZERPVlU2WWZNTnFEa3ZkVWIzT2JMTkJzN0FQXzNienctYncxdjFOcXhvUEVXQ2xYX0sxUVdnZDAyaEQzRng3ZDI0MEdwYk5IVGNLbUptaXIzWkJXTkNJUWFVSDhZUW0zeXU?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T18:10:18Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
