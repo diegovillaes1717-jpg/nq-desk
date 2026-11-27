@@ -1,14 +1,24 @@
 {
- "updated_at": "2026-11-27T14:35:03Z",
+ "updated_at": "2026-11-27T14:39:48Z",
  "items": [
   {
-   "id": "35ecd7e823c62e",
-   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
+   "id": "84aaf782430d26",
+   "title": "Nasdaq Futures Lead a Broad Technology Rebound",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOazlwLVJyUndBeDRDNGZ1dkV6U0ZKaXB2T2REdndZQm5UVUtVNFdndDlfaEVZTWMyU1NmQ3BsTVlZTWNvUlk3RHhMRzY5S0otMmRvczZqdFR4YUxFZW1KdzFxWTl2X0tUempOQkE0YXpraDVzcjE5SlpUSUQxd2tyUzB6Zk9XQlZ5aEQ4a1dwUTRNQmgydnBsbWdLZ1QzRGRoUllaZU13MzdWUUN2NzMtY3VHVzJRNXI4Nk9NUU5yUkNKWl9oZEhKVmM0N2x1TEFMVlRaM0U0ZnQ5SWZqaFhRSWRjNzRGTjY2cWc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T14:18:30Z",
-   "score": 5,
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTERNVmtYeE5rcXEyck11dkhFVmN2Xy1XYkFyZlhmZGNOSDdNWTc2b0JrcEVrd3dOZ3RseUZtV19xYV90T0F5YzU4LTBCdVlDa19FWUVMSEEwUTJZczdyZEIwYzBrbjFPSzQ0RElkMk5pTVdJVWZMYjR2ZF9FQVVNNFJlN1pMbFZndC1z?oc=5",
+   "source": "kalkine.ca",
+   "date": "2026-11-27T14:34:00Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "02bf28f9c5ed51",
+   "title": "US Stock Futures Extend Thanksgiving Rally as Nasdaq 100 Jumps 2.5% and S&P 500 Tops 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnpyWkFoVC1ySjJOaHF3NkRmSTIycGhXNF9DVHYxc1U4ZXNJbXhlcjlxTW5kMk1OVk5WUTNyNEtOQk5VektXVWlwd3lQWThadzBsYzdJQzdBTHdaY1FkUmQ1ZVZqdFFoTmtvTjNwU0FIbmw0QjhRZFQ3VFQzZU5sV0dNb05FTnhrM19MWA?oc=5",
+   "source": "Hokanews",
+   "date": "2026-11-27T14:30:00Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -342,16 +352,6 @@
    "category": "Geopolítica y aranceles"
   },
   {
-   "id": "8bbf7a73293ee6",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:56:54Z",
-   "score": 6,
-   "category": "Geopolítica y aranceles"
-  },
-  {
    "id": "a93ed672cf12fc",
    "title": "What's Next For Nvidia Stock - Wall Street Weighs",
    "summary": "",
@@ -402,6 +402,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "8bbf7a73293ee6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOW1qNXBKZTFULTY5RGhEQnFyaUVNWDdzaHBxM1hfZ1V1MjBtQjV4WW1UemNteTdQUGl2dXc2VVpEbHNJRFd6d2o2U1FUQlQ3bTRkdExVZVNzQjhhUHZoa19RcDhXTWN0R2hwLW94aE5XMi1LdXh0cnpzWXFSQ2NOdzA1dURBTmdZOXQzN19BbTVqZGdHWkdkN0FmdldOeG9sUFZwX2FRTUgyeWVJR0RHTC12bGswU2VyQmdBTVdn0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T12:49:05Z",
+   "score": 6,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "f2c5815475d19a",
    "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
    "summary": "",
@@ -429,16 +439,6 @@
    "source": "FXStreet",
    "date": "2026-11-27T12:47:57Z",
    "score": 5,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "62fb9fb61b1dbb",
-   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
-   "source": "CryptoRank",
-   "date": "2026-11-27T12:46:20Z",
-   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -568,16 +568,6 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3ZGYnYwYjRqNllDUU1nNkp0ZWJrOGFrdjV1aTZsOHNidnZCTGEzc2RPTjVvRWY4Nnc3bEdhRjZGc0gxM0xESTl0YVpRUGRuS0VLNVlfaTBOZUQ5X0RrVDRFaG5KYVJvRUZnNUQ0bmhHcUcyeVZ1dWZjaUxYeTVjY2FzV1kzODNrTEZuM2ZTQ2pjcGMxWmo3czlnelF6VGJuVHJMbzBQeTY4cWJDdnhUNy1rbDdieVU?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-11-27T12:23:07Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3db91e4694da3c",
-   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWWVhUHdkSXZYLUFWaG1QQkhCa0xTSllmdDJKZ2tHVnNINHRZd2JGVm1BTUdwTDVhd1d5MXRLSUJlZjV3Rm51SkJDa3lfdTlBcHFRblhOVy0xVmlSOFBDM01TUDJOc2w2bTMwSlZrMWRkM2lFZTVyU1BSVk51eHBudjRZODFvQ3lZX0NMcEV6cGdPX0JuSkk2ZmZxRi1XRkVSV2d4eEpsajZ6RnFyaUczVTk0WGtvcmsxQXdYTkpPNkRudkp6ZzVLaTJCeDdjTnhjczByV1FsNmFMVTQ3Uk1US2RjSVVCcjJTZ1R5cjIyNktTUWNXQXVtbGpBUQ?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-27T12:22:30Z",
    "score": 9,
    "category": "Tecnológicas"
   },
@@ -720,6 +710,16 @@
    "date": "2026-11-27T12:03:54Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "35ecd7e823c62e",
+   "title": "Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjNDOFFMQXEzTklTbHhTc09kNGc3RTFuQ3NaXy1rSlgtUmRKdHJZb2VNVUh1NDNheVQ3eW9sUERNUlB6eFZpUHNNdlUxZmpJSVl6V1lJMEZOY0Z6WXBpRFUxaGFwbDlhQ2lRelp0eVFFcFc2clNJZ2Jua1o2MW55Y1haQmNncVBQQzQ0?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-27T12:03:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
   },
   {
    "id": "64d3b084bee0a9",
