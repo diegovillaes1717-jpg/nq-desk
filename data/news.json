@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T01:11:14Z",
+ "updated_at": "2026-11-27T01:16:01Z",
  "items": [
   {
    "id": "d10b35eb89f238",
@@ -102,6 +102,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "dbc5d5914bf8f3",
+   "title": "Nasdaq 100 Forecast: Anthropic Weighs on NDX Sentiment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9ubWdGUjBmak13V3l2TElCRzVpZzZDRUJTeGF3dm9tZmdfLUpld3R1d3VYV3Jxb1VyVG1UVXNfNHhRWHd4NVF2Q3ZuVGpzS0FmZ3dhUjlUNWhQVzlLOF9nU25TMzYtZ0xoTFJzR3RHbDlJN2JRWnRiYmZzLS11a0EyX3h5dnVMWlZXYm9BV28yVUVEcjdNMFM2YVQ0YTNsZkE?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-26T23:36:38Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "e16433f737c914",
    "title": "Nasdaq Closed for Thanksgiving at 23,585.80 After Nasdaq 100 Touches Bear Market Territory in AI Rout",
    "summary": "",
@@ -148,6 +158,16 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XQUdoNmQtYzctV3I3d0k2UHlRbThiRFJocElmTGo3SlZsTlBLdUFWYm1JeVVzSW5TRXY1RV9sMWQ4S2xidW9sTWpxSzRidU5qU1JhMlQ3Z000dw?oc=5",
    "source": "www.tokenpost.com",
    "date": "2026-11-26T23:00:18Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "9476836674787b",
+   "title": "Amundi Nasdaq-100 Daily -1x Inv (DSP5P.XD) Stock Price, News, Quote & History",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsdEN2RVN2Z3lBY2owbmgzTTFoRnVOUFdZSE81NHVCamRmRE1tdnN5TVlRRTRxVEFJRE13Y0cta2ZHODNYV25lWVdfblcwNVk1elNiSWRpWQ?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-26T22:54:32Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1180,26 +1200,6 @@
    "date": "2026-11-26T16:30:06Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "73d377833c8069",
-   "title": "Global Stocks Rose As New US Tariffs Looked Manageable",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEV1bE9WXzJ0bk9zcGpHNkhuV1ZYVXJDTzJWbXhKc2laU3k0OWRVOGRLRGE5SlVVN2M2ZF9SRzRCaFMxSDNQWXMxX3JiUVZEamREWFFoZ1hBbVRHQl83UGN5VmhuX0taYUxrTV9fR1NHUVFoN2ZxZ2QwczFpSHQzaXd1WmhoalJzTk9Z?oc=5",
-   "source": "Finimize",
-   "date": "2026-11-26T16:19:51Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "57521fded165a8",
-   "title": "Trump Keeps Global Markets on Edge as Stocks Rebound and Wall Street Takes a Break",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjZkVjhCMFZFdV9RT0h4cmZOeVJ3MnpVa3JWUWt5QUptdEhkWUZteFV6Zlg3X0s0U0NUTEdFTUU1VElUZ1hNX0xKbTFHaUVKR0pKQVdqcVMtWUlKNWk2M1VQVzRIUmRnaC11ZjI3RmdWbjRHS0ttZWl1ZU5IYnhaN2ZtM3E2bGpNN2ZjczNoeUNZUV9lSVM0UkJ4S3pfRnFGVmgwVlRray1faEg1Qlh6RktPZlViRFAtVVE?oc=5",
-   "source": "AgroLatam",
-   "date": "2026-11-26T16:08:25Z",
-   "score": 3,
-   "category": "Mercado"
   }
  ]
 }
