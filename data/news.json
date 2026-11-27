@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-27T16:20:21Z",
+ "updated_at": "2026-11-27T16:25:05Z",
  "items": [
+  {
+   "id": "df21a45a2a7917",
+   "title": "Nvidia Corporation: Strategic AI Technology Front-Runner (NASDAQ:NVDA)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZQQ0c2MEdQbDd0WGUxUlBsVXhuTS1EOVlMMV9acXB0QTdBeW5ZVm5fV090VWwyN2VMZ0RQNS1sN2N1MVhCUzlfT0ptOUNjdUF3dzlmb19YUi03dkUyNnl1WFVTTDF4U3d3eUdYVC1jUDYzYjdjQTlya0I5S0dOSm1yMHN6SVBCbmE2ZmlYOGRBbEo2c0UxTmdZNkg?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-27T16:18:04Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
   {
    "id": "2e064d174023a7",
    "title": "Gold Rebounds Above $3,660: What Fed Rate Hike Bets Mean Next",
@@ -109,16 +119,6 @@
    "source": "Traders Union",
    "date": "2026-11-27T15:44:33Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e7c03c32cc505e",
-   "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ203THA0ZFFFdmhydVR5ZFhaV1A1WHQ4NDY4ZXFXV3N3YXNubEtLaFZ0bzdJalRQZmU3dVFTOHg1ZjB1Y3pSaFA3TnVZYk9pX3pZMmJLcTk4MFppUnVuWVlFN0pwSS1zbUtSaHR0UkppZVNpbXFvRVhOalNQY2FDZmpKTjVmMGdsV29GVFdWdUZNRHN6OHQwS2RfVWVVWmhEX05KWjJHZVBYT2VIR3o5eGdXa2ZMWk5yXzk5RThORXh5UQ?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T15:39:51Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -289,6 +289,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T15:12:18Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "7cea41f88e3c33",
+   "title": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc25Edm9yYWVYQjBCQ3VfcXJvYThtOXFSS2dwOE0wLUplY1E3MVNFQlRuMHNQUzN6cy1aYjI3cFZzU3hOZ1E2SmhleEtzTEo1dUNKaURSYkp3cTRKeG9OeVV2MXZPcGtWQXFPQWFQeUloVUVIOTlBYjlULW9neWgyM3ZYQktOWk1rOHNBcEFKcWx5QkJUeWduTmtCS01Ibm5jWFhvdGs1WmlwY0JnZGVQZGh2OElzRXM?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-27T15:10:01Z",
+   "score": 3,
    "category": "Tecnológicas"
   },
   {
@@ -480,6 +490,16 @@
    "date": "2026-11-27T14:49:23Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "e7c03c32cc505e",
+   "title": "Nasdaq opens 1.5% higher as US equities head for weekly gains despite volatility",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGtWQlhFa2lvTE5IaDRnMEJMUFdLUmQ3R1JrazZTak44NDZ6dEhwR2FzTTFzdkVMOG1hLXNtaHNUMG1UUURSQnl5QjZKTEVBQ2xnMnVtS2F5WDBZODdzd2VVV2tfYlotZTJidDNYbG9LbDNSSWZNRUVuaDdZellqclVOa1pyalBqVU02S1p2aVNJc0xsQ1dhYXduYkJQX0d1SmNJdnhWVl9vTklrMlBWeVdUTWMybVo0UUhtLTFiMWhpTWt5WmhsTUtKalg4dzJETEE?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T14:44:49Z",
+   "score": 8,
+   "category": "Tecnológicas"
   },
   {
    "id": "83b2b375b25c44",
@@ -742,6 +762,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "7931b0381839f1",
+   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVd2SGRqdFB2eTNqVUpqUTY4eldmVlo2VFFqcDFZTVAxeUs3VFFFZWgzVTlJYy01RThfaEFuek05cWxSVWp2RldvUW1SUTZKcDNpRTdoYnN6YmxtQXA4ODJfRl9MUXJ4bVJETkw5NWZXbkwzR3VSMzB5YndlalBiN3RhSElfaUpQQTM4Tlhzak5jamFOZTFZcV9ucWw1LXdkOC15LUhGVkdNR0NuUkxZSFJZSzZyVWJTMXZnYjg3Sl9ZaUQ5WnQ3ZTlrYlNIcTRtSkppaVM4Mm4?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T13:41:56Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "90d803f0b02313",
    "title": "Stock Futures Surge As Battered AI Shares Rebound Ahead Of Shorterned Friday Trading",
    "summary": "",
@@ -810,16 +840,6 @@
    "date": "2026-11-27T13:33:06Z",
    "score": 4,
    "category": "Mercado"
-  },
-  {
-   "id": "7931b0381839f1",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMTZlRmh0c2FvbThoeU5xbTdhM0lYbGhIVG5UcU9tcmlndDRpbHlEdkRocERnOUFRZDhiXzJSZzVxNTEzRlRzOW5ocUh6VEFTMURlVE5aa092bjZ1V1VqTW5DcGJfQk9fUnhQQ082b2VLU25BSUU2SXphNEVRbFMtQV9kMGw0Nm1nSFNUUE9id3ZBRjh1VzNUbFI3SkJpSC1IcFhMSThQa1I0bDhISWZKM0YxTkowQ1ZNaC1PRXlkakc1d2VDTnRTTFNaS2dLelpRQ2swWjBnV2dWaVE?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T13:31:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
   },
   {
    "id": "c3a9af55a5c358",
@@ -1042,6 +1062,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "62fb9fb61b1dbb",
+   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOXgwX1hlSWt1cG12VmFfbTNJempJd3BYeDlLbkhIZmRyR1Atcjh5MDFSa3FReEV3ZmhZancyV1RzbkJuOGdRdmNyWC1CMm9XMkpsOXBYeTVWLXQ3WVUyazFoNG96YzdFazJTMGpoOVVkeVlYVkk1Z3pzc3JyRUU?oc=5",
+   "source": "CryptoRank",
+   "date": "2026-11-27T12:46:20Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "2ba10c0ef3f1c4",
    "title": "US futures rally on AI rebound after bruising month, Treasuries dip",
    "summary": "",
@@ -1169,36 +1199,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T12:26:02Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2abd703534dd12",
-   "title": "Trump said he was 'a little concerned' as the Nasdaq fell more than 4% before recovering",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Mmp1R09PRmRPb1hmY1M5U3NpN1BmTDdQbWdORHBZODZfU3VLb1hpYk0tclFqMTM3Z3lWWE4xMEc1WC0ycTA4U0lZUnRRWHEzTGxkRGRYM0RXWFBnV2lJUi1fOV8xSXM3Y2FCOGhCSFVZX3JtR2o2cXJGWQ?oc=5",
-   "source": "Quartz",
-   "date": "2026-11-27T12:24:35Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "ef3ac56a1c9bbc",
-   "title": "Nvidia Blackwell chips found at China data center linked to Alice Huang: report (NVDA:NASDAQ)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3ZGYnYwYjRqNllDUU1nNkp0ZWJrOGFrdjV1aTZsOHNidnZCTGEzc2RPTjVvRWY4Nnc3bEdhRjZGc0gxM0xESTl0YVpRUGRuS0VLNVlfaTBOZUQ5X0RrVDRFaG5KYVJvRUZnNUQ0bmhHcUcyeVZ1dWZjaUxYeTVjY2FzV1kzODNrTEZuM2ZTQ2pjcGMxWmo3czlnelF6VGJuVHJMbzBQeTY4cWJDdnhUNy1rbDdieVU?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T12:23:07Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3db91e4694da3c",
-   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWWVhUHdkSXZYLUFWaG1QQkhCa0xTSllmdDJKZ2tHVnNINHRZd2JGVm1BTUdwTDVhd1d5MXRLSUJlZjV3Rm51SkJDa3lfdTlBcHFRblhOVy0xVmlSOFBDM01TUDJOc2w2bTMwSlZrMWRkM2lFZTVyU1BSVk51eHBudjRZODFvQ3lZX0NMcEV6cGdPX0JuSkk2ZmZxRi1XRkVSV2d4eEpsajZ6RnFyaUczVTk0WGtvcmsxQXdYTkpPNkRudkp6ZzVLaTJCeDdjTnhjczByV1FsNmFMVTQ3Uk1US2RjSVVCcjJTZ1R5cjIyNktTUWNXQXVtbGpBUQ?oc=5",
-   "source": "The Lufkin Daily News",
-   "date": "2026-11-27T12:22:30Z",
-   "score": 9,
    "category": "Tecnológicas"
   }
  ]
