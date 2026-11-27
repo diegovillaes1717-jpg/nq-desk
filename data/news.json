@@ -1,15 +1,25 @@
 {
- "updated_at": "2026-11-27T20:13:47Z",
+ "updated_at": "2026-11-27T20:18:32Z",
  "items": [
   {
-   "id": "49923f86b56f02",
-   "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+   "id": "998f1fee7c5af0",
+   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+   "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T20:16:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b9f6437c1b55a4",
+   "title": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVJqdzh6eGNWaWgydzRLWnM1Z0gxeW1hdmxWMHROWGVkb3NyMFNYeF9XMGZNb1c0SU5Fa05ZeUFqRFVJRE9Md2pTcGNaSkxheDdlZ29Zb0p6WkI0Xy1jbEFYb21CSjc4c01JU1NGMEpXX0pMaUJKUktTaEUwMmkzZlFNbVRWelozOW5QUllDci1EdHlncnZsWmNucG9Gclc3UW1faWJQZUlwa2JSRWc?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:08:55Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmhYaFpDN045R3VmYkhTOHpIVUUxb3BKdTdOUm5OdG1iU3cxVjZkQ3psbFA0enV2YmJ1UGljUk1DVWFWOE40SEwxUFFMZEd3dDJsR3lrMGM0WFl3MjNKcE16LWh5QWk4R2h3NnJ6Vjl0NnNHcGR4N0RpbHM2czhwU193NERPVzhKWHB5T192N0w0Zlktd3M0SVBuVjFtdFBrTnR0SFl2RkpnZExsUVp0LUhwWThqSzNoWU1lem93TQ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-27T20:12:29Z",
    "score": 7,
-   "category": "Fed y tipos"
+   "category": "Tecnológicas"
   },
   {
    "id": "2439306e4a0d17",
@@ -19,6 +29,26 @@
    "source": "FXEmpire",
    "date": "2026-11-27T19:58:53Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "49923f86b56f02",
+   "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG00dUVjZFhJM0F4aHEyYVhzRW93V29aWVJnR3BQLXdzRFBDRmdocmg4V2JxeF9TeG9KY012eWo5QlRTUzFlSE9kaDFvbmVEWC1jQWxsb3NnNkZ4VWdtZmJHSnJOZEE1YTNEcmxWMGNGcEt3UmZvV0ZQZl83a1R6dVdMX2w0NHYyZjIwcGtlbFN2Zm5mVkZSX0VEemFTNnc2NkR3dXpBVXkwUkhxWGNIUHJ4WDZERTc1YmhaZ3dvZ0VXeEwtZjR4R3RDTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:52:42Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "16f4645af8a2aa",
+   "title": "Nvidia Stocks Slip 1.66% as S&P Weighs Downgrade Over Key-Man Risk",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB2RktXbXVfckQ0SXR3a0NXTU5jaWVRTUVxQTdmVl90YTJSTVhYbXhuaVV1TlIyMGRiZmZDTG10UDM5dVVfWkNEYjBtbG5JcXZ1N21ySzRGSXd4NmYyeWlmWGMwbUNhWVpPYm9TMERRdVNIWW9FRzEtcEVsTkRmSmpmazZMVUxPVE9NYnkyRmVvd3NDN1dNeXZyazdfMV9aQlkwR1AtYUpnMEszVVVMcURmUTY3Tk9WZ2NhaG1vTlpfOFk?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:49:36Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -52,16 +82,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "1e6b08bf6c2759",
-   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWtNUlVFbWRBQlh2MmRjQURwc0RqSlNXR0N2NDNrMGpRVHZmbU9rekxHTTd2QTlQOU5MR09qWlhoZlROejM1Z1BSUDBnSmdSUVA4M2xGV2F3WWc4bVdoRHV2b0RyQUNvb3E4T3ZOVV9PUktQTUowMjVJWTBwWXFMb2FPa1ZYOGtpLTVfeW05MkxiaGdiMzVZWmpCRkU0VlpRU3l2T1dUZ2xPWkZ5cjZYT1JacUk?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-27T19:12:39Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -82,6 +102,16 @@
    "category": "Geopolítica y aranceles"
   },
   {
+   "id": "1e6b08bf6c2759",
+   "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZWdmxiUlFIMXpTVm9EaXlPYmFobjNPbF95YzZVLTE4SzljOGlnQTBDem5Ka1NUMFNtX2lOZ0RtbldZUU05SXVmZWdaS1NOdjB3amx5MlNJRkRWWHh3QzZ3bUk1QVBXbW9maGZybVFlWjRlSXBLTl9CVmpqVHJudG5KTXhraEZDSlJINU5FMm1OejlYWHBXVFZ1cEVHQ1FnOTFZeG1FZ3hEWkZxWGpJOG5FekM?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-27T19:02:36Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c34f5fe70327c2",
    "title": "AI And Chip Stocks Powered A Big Week For US Indexes",
    "summary": "",
@@ -95,9 +125,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRmI0ZnJSZGNNQXJ0LVVNbzdmQXZ5Zk04ZGN0T09hVWZXSGo3Sk5xODd4MjNTa1FONXVBSlRCbmIzZ1FfalRvWEM2ckp6MFNFal9tUE8wZzNfcVFuS1k4cm0tVlhsY2x5WFUtRkZXRzFCNkVsTXdjcmk5aW1XdENtMERVWldISzFXeXIyenhTdTBZblpTSkROUG1EZDk0YjRnY3dveGZEanZxN3IyUVEyRkxyUHl0SkU2dElydldPLTdaWWhVREd2bmxFTXRoOXF3LVJSQnJ2UmNZeWtlZHBSbmFCX0xPZlpfRWE0bU5hZHZhSy1DMEVV?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T19:01:43Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -110,16 +140,6 @@
    "date": "2026-11-27T18:53:47Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "998f1fee7c5af0",
-   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-   "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-27T18:53:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
   },
   {
    "id": "71e561df4e7fb5",
@@ -622,6 +642,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "4bad023cedb8f5",
+   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
+   "source": "Dailyhunt",
+   "date": "2026-11-27T16:17:45Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bd1aab7c4d1fd1",
    "title": "Tech And Amazon Led A Broad US Stock Rally",
    "summary": "",
@@ -1072,16 +1102,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3BhUkZJVGEtYXlVR0dDdk5SdlRDMnh2d0dfYlV6NHFybmVFQzdIaDNoelhWanpLTHFERThhZnVQNnp4S1dxNTFNSUNVRHpnUVM0STZ1SVZ3S1l4OWhzWjRxQTdhVk02WExMNmNPUmFMY3QwOVdlRUZFbXZnTlJYVUduUHBwQXZiNFFIaHpLZThmck14QjNWZnQtb0p3dGVPeWwyamtYLURnVHhsYVZkNUx6TnNBN2QwN0JtMlRtMG91OUJjTXVwakx3WGg4azVJMGtZ?oc=5",
-   "source": "Upstox",
-   "date": "2026-11-27T15:05:10Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "0a4cf841b4d98e",
    "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T14:57:02Z",
    "score": 4,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "295ef6ff1407b9",
-   "title": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
-   "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "date": "2026-11-27T14:56:00Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e4444bb8669f46",
-   "title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14UUVNa2RYOGJ2eHdTeDh6WnpuZFJrU2ViWTVwak00dUxXU1R2RlI1YW9INk12TTBwbnNhS1pWMl9Kc0UxaWFoVU1mY3lLRjd0UWpEanExVHVOM2pWc01qMExaRWM?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-27T14:56:00Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
