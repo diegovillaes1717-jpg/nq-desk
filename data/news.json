@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T08:51:47Z",
+ "updated_at": "2026-11-28T08:56:30Z",
  "items": [
   {
    "id": "56912a5a952970",
@@ -40,6 +40,26 @@
    "date": "2026-11-28T08:03:18Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "f9fee2964c4366",
+   "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JKcnNFYk5jM09EUEZXNjdqZ1N6V05CbnNQR1gzd09nUlhzRVpTSlM4ZjM4SG1uVXExci1OWWdCY05oNkpTOVFjbzk5amIyeHNzdHNpejM1THVZNFdYVWw5dGx3MFF6YndNbGVnN0dTbHNuVDdSSlQwVWl4MDRadXVxbkJyV0FnVEhjNDlVN21JRDVKRkpGeQ?oc=5",
+   "source": "WSJ",
+   "date": "2026-11-28T08:01:36Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d90b2ce18a61e6",
+   "title": "Canadian tariffs to further raise prices, a top concern for voters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEd4eFVVOUQ2VTRQd01md0h2clVBU0dSVUx0U0Nudmx4WFlVNm5VakYwaDRQUTZSYzZDS25PWjI0TjlEWVU3R0U1Qjh1OW56Tjd6MG8wQjZvQ2xaeWhMYzZuSmFkd1c3OWtfMVdmdEVIUC1LZHNHSXFhVEZnaGo0UEdfSW9IbzJmM05NbjNiYXd6OVdEQmRTYlJXaWRYa0U?oc=5",
+   "source": "News From The States",
+   "date": "2026-11-28T07:36:10Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "8f759d4ba8fc10",
@@ -155,19 +175,9 @@
    "id": "8665cbe1cf6995",
    "title": "Nvidia And AI Infrastructure Stocks Worth Watching For Data Center Demand",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2Z3RHFkRFVJT1A1N1lTY0NfS3BjdEdva3dvOFJFUmoybjdOUHdRa2s4RXoxM2ROYWsxOUNvQUlLS0tSYlVTVVVBWmUtMUdvdmlHa1VxVkN2M0V3bktEeEZ0Mk4ycGNScExTcmJPR0xzSTVLTHQ3NkNNVGdaMVZJRjVCVV9jUVA2YWV2NG1pcDRlSEd6eEtmeE5SZDBJYUUzSFFV?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-28T06:10:00Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f9fee2964c4366",
-   "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JKcnNFYk5jM09EUEZXNjdqZ1N6V05CbnNQR1gzd09nUlhzRVpTSlM4ZjM4SG1uVXExci1OWWdCY05oNkpTOVFjbzk5amIyeHNzdHNpejM1THVZNFdYVWw5dGx3MFF6YndNbGVnN0dTbHNuVDdSSlQwVWl4MDRadXVxbkJyV0FnVEhjNDlVN21JRDVKRkpGeQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-11-28T05:45:59Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDF6US10andNaWZLdk14TE9WY3JhN1YyRGllQkRfVkpIOVVMNlAzNkM0c1FSRjF4VDAtR0dzcDFEZ3U1LUY2M2hWRFM5VkxYRVk0ZFRzeWlQUUdBZEhPX1AybUhFZ1FubXhtWDdTb2s3WEJSZWtWMUVid01GX09hOGFwQy1YRlFCUU5KeTR4WQ?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-28T06:10:03Z",
    "score": 5,
    "category": "Tecnológicas"
   },
@@ -262,8 +272,8 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "fd67e8a8c65c21",
-   "title": "Nvidia to Pay $290M to Settle Crypto Suit",
+   "id": "4592d91867b160",
+   "title": "Nvidia Will Pay $290 Million to Resolve 8-year Crypto-mining Disclosure Suit",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0V3OXBxaE5pbWp4UmtmZ3JCc2RleWtnb0hXZFJmUDFaamtHYkRJT0dzeHY5eFlYeVJMQkJIajMwOV9jeXhkUDM0aW9ybjhGNm10dDZEc3lRR2loYUhobzlQb09jLVkwak9tbGpmUUlmRmRyeFRXQU4tSEpxM1VIT0k4Q3hPRVRpUVlWYmE0djE?oc=5",
    "source": "Briefs Finance",
@@ -272,8 +282,8 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "4592d91867b160",
-   "title": "Nvidia Will Pay $290 Million to Resolve 8-year Crypto-mining Disclosure Suit",
+   "id": "fd67e8a8c65c21",
+   "title": "Nvidia to Pay $290M to Settle Crypto Suit",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0V3OXBxaE5pbWp4UmtmZ3JCc2RleWtnb0hXZFJmUDFaamtHYkRJT0dzeHY5eFlYeVJMQkJIajMwOV9jeXhkUDM0aW9ybjhGNm10dDZEc3lRR2loYUhobzlQb09jLVkwak9tbGpmUUlmRmRyeFRXQU4tSEpxM1VIT0k4Q3hPRVRpUVlWYmE0djE?oc=5",
    "source": "Briefs Finance",
@@ -565,9 +575,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:56:43Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1032,16 +1042,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -1122,6 +1122,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "daf39807fb7dfd",
    "title": "Gold bulls eye $3,700 despite surging US Dollar and Treasury yields",
    "summary": "",
@@ -1189,16 +1199,6 @@
    "source": "Reuters",
    "date": "2026-11-27T19:31:59Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "3fb72626704598",
-   "title": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLXRieWlpNzJqdWQ3RVRNQk5WUXBUSUY5WE5oNHdRNXNCekJFc1pWcEViZE95RFRzbDFKWTdDc29VbXNRTTBobDVGQnFnOXg0NFVLRzQ4NUVTeHFmT2NNRkM2WjFVYmxvQTg1UnpRU0R4OGNjbGZIUVpTT2R2VU5DdzFyb1RUYkY4VTBXM0NaTmpGM2h4OUMwVkZiRVFWaS12eEhLUGRrQVVkVDcyODl4ZlQ5dElBRDd6U3ROa2hzS3ZJNm9semJQZkk5ajBsUGVGbnhKajR6ZE1xdUtZ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T19:28:09Z",
-   "score": 3,
    "category": "Tecnológicas"
   }
  ]
