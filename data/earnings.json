@@ -285,21 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un tono dispar, destacando la superación de expectativas de Nvidia a pesar de la incertidumbre por la salida de su CEO. El mercado ha reaccionado con volatilidad y movimientos mixtos en los futuros del Nasdaq.",
+  "resumen": "Los últimos resultados de Nvidia superaron las expectativas y elevaron su perspectiva, aunque el mercado reaccionó con cautela ante dudas sobre la transición tras la salida de su CEO. A pesar de batir estimaciones, el impacto general en el Nasdaq 100 se vio limitado por la incertidumbre sectorial.",
   "puntos": [
    {
     "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Baten expectativas sin Jensen Huang",
-    "resumen": "Presentó un BPA real de 2.68 superando el estimado de 2.47 y elevó su outlook, logrando que la acción rebotara ligeramente pese a la incertidumbre directiva.",
+    "titulo": "Supera expectativas en su era post-Jensen",
+    "resumen": "Presentó un BPA real de 2.68 frente al 2.47 estimado y elevó su perspectiva, logrando que la acción reaccionara con ligeras subidas a pesar de las dudas sobre la sucesión.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar las guías de ingresos y la evolución de la demanda de inteligencia artificial en las próximas presentaciones.",
-  "sig": "5266b737dace5a",
-  "generated_at": "2026-11-28T06:53:25Z"
+  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre, seguidos por Costco el 10 de diciembre de 2026.",
+  "que_vigilar": "Vigilar la evolución de las cadenas de suministro de semiconductores y la estabilidad en las previsiones de IA en las próximas presentaciones de diciembre.",
+  "sig": "08a334d993a9da",
+  "generated_at": "2026-11-28T10:03:50Z"
  },
  "updated_at": "2026-11-28T03:58:26Z"
 }
