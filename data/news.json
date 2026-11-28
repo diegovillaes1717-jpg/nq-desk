@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T02:32:43Z",
+ "updated_at": "2026-11-28T02:37:26Z",
  "items": [
   {
    "id": "895191eba4a78d",
@@ -202,6 +202,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "429c0abadebe45",
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
    "summary": "",
@@ -232,6 +242,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "9919587e45f81f",
+   "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSl9yc2N5WmExdTBIZjVjeTZHOU9FM0p3aGJzZlBhSk5QbUdLdE55N0dPVXJmeWlzcU5wdzNxRUEtazFOczM5XzJmQ1FXcmkyU0loVWJpYm9mVFprQnlObG5lZGNaOGc5ZlhVNU5kNzJRalZGU3cxdnFOaXFpTXZ1VnhtSHZka3pMeUJfUFltQXlMbDVnQl9CdEtnUk1tSDVZbXpGYzEtSzZMbWxYTTFucmZLaXVzaFc5N0pGOWh0REg?oc=5",
+   "source": "WHEC.com",
+   "date": "2026-11-27T23:30:14Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "c8a0ee9d9df1cc",
    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
@@ -239,6 +259,16 @@
    "source": "MarketWatch",
    "date": "2026-11-27T23:30:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3c92feace6e6d2",
+   "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlF1T1gxb1FnTXJicEl2dDlkb29ERVJ1cUtKMVg0UHpyN2x5MHVKcXM5UGstRElablVEVEZ3Z19BNWxHUWkxQzR3SUtBcjYydjFKZ2lJd21HdlhXeE1YQVNYUnFLcGI3eVhCRTQxTmNsSTd3SThJM2tzbWVqSU1vazFpdjZ4U3NJZTBmVXR6MmU3ZEE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T23:23:55Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -250,16 +280,6 @@
    "date": "2026-11-27T23:22:13Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "429c0abadebe45",
-   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:17:56Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "7209cf507ab402",
@@ -499,16 +519,6 @@
    "source": "Around Prague",
    "date": "2026-11-27T21:32:38Z",
    "score": 10,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "9919587e45f81f",
-   "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSl9yc2N5WmExdTBIZjVjeTZHOU9FM0p3aGJzZlBhSk5QbUdLdE55N0dPVXJmeWlzcU5wdzNxRUEtazFOczM5XzJmQ1FXcmkyU0loVWJpYm9mVFprQnlObG5lZGNaOGc5ZlhVNU5kNzJRalZGU3cxdnFOaXFpTXZ1VnhtSHZka3pMeUJfUFltQXlMbDVnQl9CdEtnUk1tSDVZbXpGYzEtSzZMbWxYTTFucmZLaXVzaFc5N0pGOWh0REg?oc=5",
-   "source": "WHEC.com",
-   "date": "2026-11-27T21:30:14Z",
-   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -835,9 +845,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1052,21 +1062,21 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
-   "source": "mykxlg.com",
-   "date": "2026-11-27T18:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "72bbae1990a2c8",
    "title": "Burghley Capital Says Fed Minutes Favour More Hikes | Press Releases | mycarrollcountynews.com - Carroll County Mirror-Democrat",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnU2MThFOWREQ3o0ZWR1WERtZnpLcEFobzdVMzdZTE92Q3JoejdGdjF4NFVvRERUZy00Zi1COFNGXzgzMm52N3dRLXBNSXpMX2RiUXRrWEZDSkVzSVUwb3ROcVdaTEVuSEtGRjlRS1NjT1pzNnMwSm9uOGlJNEt3azR0cWVSX2NiWksxbXRGb2t2djR0d1VXSWIySVhqZWdpQ3I1dmo3U18xc2hOYUVYWExQVjVXdVE?oc=5",
    "source": "Google News",
+   "date": "2026-11-27T18:00:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
+   "source": "mykxlg.com",
    "date": "2026-11-27T18:00:00Z",
    "score": 4,
    "category": "Fed y tipos"
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T17:15:02Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "995d4fbfd0b59f",
-   "title": "Gold and Silver rally even as a December Fed hike is all but certain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVcydWlkbWhuTkJ6Yzc4ODZtY3F2dlBEUEVsRDhpb1NpanRzaUJYdFk5ZmpnMS1TZXVPR3otWnJYbnVnQ2FiN01CdDNZYUUtS3pKZTJHV1dvaVJia3k0MFktZG5HYjkybjB1aTZMcEctWHd0TzZUeVlFeXRVVjlFUDhFTk9IMDNyOWhfTmZqT1hpdjl4SVdJNVUzeDFUVGJlcmZhRXVnNWhTSkdEbkJHT0lqRDJaUQ?oc=5",
-   "source": "FXStreet",
-   "date": "2026-11-27T17:10:37Z",
-   "score": 6,
-   "category": "Fed y tipos"
   }
  ]
 }
