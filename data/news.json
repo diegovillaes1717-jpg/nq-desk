@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T07:21:43Z",
+ "updated_at": "2026-11-28T07:26:26Z",
  "items": [
   {
    "id": "e48c6becf700dc",
@@ -262,16 +262,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fda2e0061b95ca",
    "title": "Fed Rate Hike Odds Rise To Almost 100%: Can AI Selloff Force A Rethink? - TalkMarkets",
    "summary": "",
@@ -280,16 +270,6 @@
    "date": "2026-11-28T01:10:00Z",
    "score": 9,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "0e31e4408c8ca3",
-   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzVZbnY2RURMam9FbFhlckQ4WFNfQnIzNF9RTE5iQ2FyUHMyWlZsT3dhRzkwMmR3Vm1sSllwOWNUQ1haNWozMjRXMXhVNmRTcGVTUUt5WWhLNk5DVjVOUmE1TTR1YUg1V0pvZjZkZUJxZHFJRktSaG01dTZOeWc0R3YxS1VEeWVzNkF3SUFvLUFvalF0OHU2dW9R?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-28T01:09:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
   },
   {
    "id": "a644f3dc6cf5d1",
@@ -329,6 +309,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-28T00:51:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0e31e4408c8ca3",
+   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdERjS29jVjIwenhCeGhIMmZ1eHlfZzdPd0NxbFJXb0hBT2JlZk9pYUFaS191RTFQNmwtTXJYLUNZN1RiaTdxcVUzTlhBNFlCUnRZeVRvVGNFaGp3WmdEck05NmpZbHNHLVUxQlhORXF4UUpKWENKYmxNY2huRENFX3dTYUNTdm8xWm9LekZHMkowakgzTHEzVlc4ckUyaml0cWdfQVd3LXlMRlAxZ2VBNWFCazlKdUpfcUxDbXlNZkNVTkJoTHV2dWVwZnllV1gxS2QxdTd2akZGSmNXNUp3bDdwSDFwdw?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-28T00:49:00Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -882,6 +872,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
+   "source": "GuruFocus",
+   "date": "2026-11-27T20:23:29Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -979,16 +979,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T19:48:09Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T19:46:09Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1135,9 +1125,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1199,6 +1189,16 @@
    "source": "Invezz",
    "date": "2026-11-27T18:38:22Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "6fb7f5aa636bc7",
+   "title": "Bitcoin falls below $60,000 after Nvidia chips found in China",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjVuOUFYYTRiNGNfS2FENlFELWNBYmpnYlRDRGdDdTRQLWtpWnVqVUJSYjZRejk2WDZsdHlVemxwMG9zWU5CeWFJczNxVENMd0owWE9mZXFlbVQ0aFF2R0FvZU51ODQwNWFfcVAxWUl5UWpINDRCTEk3TWU1SE80LVZPT042QQ?oc=5",
+   "source": "Protos | Informed crypto news",
+   "date": "2026-11-27T18:36:09Z",
+   "score": 5,
    "category": "Tecnológicas"
   }
  ]
