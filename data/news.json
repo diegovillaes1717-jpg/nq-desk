@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-28T04:31:33Z",
+ "updated_at": "2026-11-28T04:36:16Z",
  "items": [
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZEhaTmw0YVVnLVhaMm1fV0RaSFdXM2tFRFNXNk9NVEZManU5Y1NTUWdMb1g0SV9KTy1paEQyY1JWWGlYMGlId1BHajVYeXB1UHBSQmQzN0s3OVp3S2hVcHJUUEg5bkN0S3RHZ0NIcVFMQXM5REU2a1JwQVNBdndIV21tNVNwVE8yZEpDOVpnal9aOUdXc0IzM2R0T0drUV9wWWQtUkV1aF9ndWRidTBGMWR0Rnp2Q1R1cjRDb2oyQUNUMkd2Nzk4YWRHUlF1WDNsR2xmaDhvTW9YQkNHTGYtX1N0V0RBOTkyY0hUMHdoUQ?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-28T03:52:36Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
   {
    "id": "310fc1956e59a9",
    "title": "MGS Gains To Slow As November Payrolls Test Fed Hike Bets",
@@ -50,16 +60,6 @@
    "date": "2026-11-28T03:13:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8295996f584f81",
-   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHBkTlFOR3NvTndZZ2JBMmFua2ttcURWb2d6c2FuRElvMm9xMWtQcm5fSS1YcWg2VEhHbGlpbUFpSVpEM2F3NXBZS21KVEk4UXJOZHk3eVFfNzFpblA3dlFab2NTcDBDaGRRSm5TeTZjSWxSTEI0Z2doVFdmVTRZNS04NWF2WU9jWXk5dTREU2FmaEU5aGtpUE9VZHBwUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-28T02:37:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
   },
   {
    "id": "e4444bb8669f46",
@@ -292,6 +292,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "429c0abadebe45",
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
    "summary": "",
@@ -300,6 +310,16 @@
    "date": "2026-11-27T23:37:14Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8295996f584f81",
+   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2FLbERjWkMxNnVsSDRLQ0g5YnYwamhNUjhiM1pqbkxxd2xuRUxpbHMyQ2piXzlmdzl4TFFxQXhJMDF0NkdPZ3I0anU5UFd1QlpsakFCSFU1Q0V2ZGxvRno0NXBRVWplX28xT2t1aVk0VVJ1YktIeW1DcDRfbVI2VTg2NkRpY21SWnFTUFhUMXhaM2pvTjJNakkwbUhZMV9VakdRYVJMXy1KYms?oc=5",
+   "source": "TheStreet",
+   "date": "2026-11-27T23:37:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "cd9186030c5422",
@@ -350,16 +370,6 @@
    "date": "2026-11-27T23:22:13Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "429c0abadebe45",
-   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:17:56Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "7209cf507ab402",
@@ -469,6 +479,16 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0e9c32a119f389",
+   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T22:30:34Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -782,6 +802,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -945,9 +975,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1169,36 +1199,6 @@
    "source": "Coinpaper",
    "date": "2026-11-27T18:00:45Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
-   "source": "mykxlg.com",
-   "date": "2026-11-27T18:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "5fc355916b762c",
-   "title": "Qualcomm Stock Climbs as Tech Stocks Rebound from Weakness",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeURIdlE2ejk5S3BsdEQ4LWNJMFJfakRQTXFwTEZ3Uk5HRjZtR2JzT19sZFlaMndqR21HSXowZDU1am9DT1FEdGE1ZllwNkVhLUtjcHVnN2c1aFRLVlVqSWxPZlAzNi1LemYyR3BhT2VGS2s3U3Y5NUdaMjQzLTFWMTdWa29NdFEzbEhmdlNzekNKLUhJUVBnNG1fODlsd0o0SnRjLWlXU25waHB1N3Y0T1pfN01WREtXVnA4?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T17:54:51Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "db7301bfc6c9c3",
-   "title": "Why is Nasdaq 100 up 1.9% today?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2N4bzRobHFTdWZPcUxIUE9TR3VSWThpVlBoZy1WZ1hTbV9fcDV4VTVZNGhGWUppbVpiRVZvbmlKRVpYYWFoWTFvekhZOFFCemMyQ1Z5Snlxa1o2Tm15MEN1ZUVGR0xINWRsX1k5ZGFPckhzczN2Qk95eFMxNWN5NENQbGZ6cTFOdHJQNWNn?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-27T17:45:37Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
