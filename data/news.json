@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-28T00:10:50Z",
+ "updated_at": "2026-11-28T00:15:33Z",
  "items": [
+  {
+   "id": "3e683c9cb7e38f",
+   "title": "XRP shows modest gains amid elevated U.S. inflation and expectations of tighter Federal Reserve policy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmNKc1J6M3R4WHlHd0hJUVNJVXJqVEppYmt5dmJHR1EzWWx1MlpmZm0tQXpNOHlNQ1A0WG1xc2FYdE1nT1lnQldnUHNfRGVtNVo4MXlhSGpYMk5RSmE1Q2RTb3VXUnJTOFhlRFpvdlYxc09NZW1QMVk4QzdCb2FIWFVmU1VmZHIwYUFiQ25nNDM?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-28T00:09:23Z",
+   "score": 8,
+   "category": "Fed y tipos"
+  },
   {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
@@ -92,6 +102,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "39777ce6973787",
+   "title": "Bank Economist Warns Three Consecutive Interest Rate Hikes Could Begin Next Month",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0RHenlaUy16MHNyc3JZbm5rQWJiSVVyZy1wS2VHb1RKOHpmcEdaWFdHazVhTnJ3VFBoUjR1XzB4c3JnaWFPX3V2Yk96MFZ6QkZ3SzJJZVJJTVZVRFJkQVpSc0lTUUxXZy1lazl4RzFkUGdFaEt1TkhDOFdaYTFQbW5UMkdPVnRVTEdkX2NCNElReUdJenFESFptOC02MmFZcnVpeDRua3dDUE5OcFlfU29zVi0zYXVtU21JNzZMWQ?oc=5",
+   "source": "themortgagepoint.com",
+   "date": "2026-11-27T22:47:33Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "8a3d075ceb6633",
    "title": "Can Nvidia Become a $5 Trillion Company Once Again? The Answer May Surprise You",
    "summary": "",
@@ -109,6 +129,16 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0e9c32a119f389",
+   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T22:30:34Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -189,16 +219,6 @@
    "source": "Investorsobserver",
    "date": "2026-11-27T21:48:27Z",
    "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "c4ec10e0e324e8",
-   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGFaeGdfWUItclpPYnNFNWhQR1ZWTWpRTUl6LVF2dDFHX1NvRk5Vdks3cjc5LW1YQjR3VW9lNVNqa0Rwd1hIWmt4U2czUkttM1dlM3l6bWRETlNDaUswRWp5SXo1VmRHcnJpT3FNeERwWVE1QzJGZVY2U1BQeTQ0bjB1NVgtdWxvT0Jnd0s2NFc4MGpEWHFrYUw0anFaYkNEQWZPYnpkUEhJQUxQeW5ZMTlR?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-27T21:43:46Z",
-   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -422,6 +442,26 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "d53d14b549ca0f",
+   "title": "Chip, cybersecurity stocks attractive post-selloff, market expert says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UQi1IaHEyb1FpWk1fZmRHUFgzN2NMU01RZVFzVXlqcGROLXlIQXVNVmRFWEtqVFIteHptTW16aDBlZ0cxZVdJOWJwNGE3MGtxT19xdzFIb2FST0pLa1dPWWhlVno5aEk?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-27T19:41:59Z",
+   "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "af2c8ee42a3e56",
    "title": "Stock Market Rallies, Triggers This Shift; Jensen Huang Testimony, Jobs Report Loom",
    "summary": "",
@@ -450,6 +490,16 @@
    "date": "2026-11-27T19:35:44Z",
    "score": 7,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "90f87ae816e11b",
+   "title": "S&P/TSX Composite Index: Can BRP Tame Tariffs as It Heads Into Its Latest Quarterly Update?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlRhUi1QbDdPZEl6Q1I2QnRyTTR1akxLbTdySlB2MWFPc21MSi1mZjB5Z0JndjVWR1JqMGZEcGpneGpCcUk5em5mWmFCcmVTU1ZSOGxlLWFaOGpiU2ZZSmJDVVV5OHV6NzVmRmpBR0RiaDBNQnFncG5QeHUxcXRnRXY4RzlLZnhaUHFfS1Y3SGFoT0tIblhZOVhSelFZME4yNUlXTTgtNEY5NG1xbFRiRjBfRU9kRzR0amJsSjFvTU9hd215amF1THBCdw?oc=5",
+   "source": "Kalkine Media",
+   "date": "2026-11-27T19:32:00Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "3fb72626704598",
@@ -560,6 +610,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -852,6 +912,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "c4ec10e0e324e8",
+   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS0xRW9YRGNZLU1FWHFtR0dtUUJsSDFhcFVJSkpNQWJ0UXJOU2hGcWh5MkJBRU9lQjFkZzR5UXlIbG9peFV0NU52QUE2S0ozdVE0eE93ekRnQkZmUFhfOWxHSVhZR19sYzM0OG1kVDFkX2cyeUYxX2JYMlBUdXBtSGFqYjZrTV91dHRUVmRCcGtYbjk2OWNOdV80UnlrQzJRSl9SRDlQLWh0ZDVwRG1reFVJVDlxUUgxVHRCTUJ30gG-AUFVX3lxTE9FLTFFb1hEY1ktTUVYcW1HR21RQmxIMWFwVUlKSk1BYnRRck5TaEZxaHkyQkFFT2VCMWRnNHlReUhsb2l4VXQ1TnZBQTZLSjN1UTR4T3d6RGdCRmZQWF85bEdJWFlHX2xjMzQ4bWRUMWRfZzJ5RjFfYlgyUFR1cG1IYWpiNmtNX3V0dFRWZEJwa1huOTY5Y051XzRSeWtDMlFKX1JEOVAtaHRkNXBEbWt4VUlUOXFRSDFUdEJNQnc?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-27T17:28:36Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "9681c6077677d8",
    "title": "Anthropic shares climb nearly 10% to $90.91 after Nasdaq rollercoaster",
    "summary": "",
@@ -1129,76 +1199,6 @@
    "source": "Fox Business",
    "date": "2026-11-27T16:00:02Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "62fb9fb61b1dbb",
-   "title": "Nasdaq 100 Hasn't Swung This Hard Since April 2025, and a Fed Hike Is Next",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZ2ZscktJdkd5ekUxc1ZuOFlqMnQ1bF9QVFhqMnFRcF92cFEtU2c4Um45NmdZWEwtUlpZVUxmdDNPdEpuVld5bC1IVFJfWlNmU2pTRURTVldORVppeXhaelIzRFJoSWNGOGdrOQ?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-27T16:00:00Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "3f50104cc0613f",
-   "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-27T15:55:12Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "be5ddaac2036ab",
-   "title": "High inflation has puts US Fed’s credibility on the line",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGxDWkRWNDRvb2pMS1lLNjhTbWdvanZuN0NGR0FEQ3BTM1oweDFNY2R3YWdrcHBaZkUwR3NkLVRhQmdvTkZiV3FEVDY1cmlrM01NQ3dUYW5FajBHTDZvN0lGcFZuaUxRMDZITVNhdDhfY1ZzZjlpTHBzYTJOVllQRXEzQUpKY29OeXAySTRoTWRQWVlpaWxramZR0gGaAUFVX3lxTFBkbENaRFY0NG9vakxLWUs2OFNtZ29qdm43Q0ZHQURDcFMzWjB4MU1jZHdhZ2twcFpmRTBHc2QtVGFCZ29ORmJXcURUNjVyaWszTU1Dd1RhbkVqMEdMNm83SUZwVm5pTFEwNkhNU2F0OF9jVnNmOWlMcHNhMk5WWVBFcTNBSkpjb055cDJJNGhNZFBZWWlpbGtqZlE?oc=5",
-   "source": "ThePrint",
-   "date": "2026-11-27T15:54:35Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "4e7dc74af3c847",
-   "title": "Why Is Silver Up Today? Futures Jump 9.5% to $43.84 as Precious Metals Rebound After Selloff",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2xwVVVCdjNOcGxyYy1nUUpDQ0Z1MncxM2pqOVNKc09XVVNEdUhJal81UW5zdXd6Y0pDV2RaVHdEUnBVZmtEVlRvclUwUWVJaDZPTzV6Tml3SlcxV3pNbnRYb1lJYXFKQ1BNSWtXNEo3NUpoMGtialVSU2NoMFBKT2VVS3F3dFU5SWVHV0lYRUVHTGJORHJRQlZwTzVIdUFRT1E3cklLMk1fZldiTzk4?oc=5",
-   "source": "Around Prague",
-   "date": "2026-11-27T15:54:01Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f6a810a55333c7",
-   "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
-   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "source": "CNBC",
-   "date": "2026-11-27T15:52:00Z",
-   "score": 3,
-   "category": "Macro"
-  },
-  {
-   "id": "e5dbb19203d871",
-   "title": "Jensen Huang Said Nvidia’s Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGczVmpQQzJWZ0NUNlZxSUxUUm9qVFprdTBwMFZ3S0ZGQWxvSnZHX2Y3S0VYVXJreTFOUUphdHlEQXVfZXVkZzE2cnhDZlNTb1lUTVNEQ3IxUzlZWXFlRl9IRVJYbU43eXlZbTlTQjlsaU9qdTlfV1RwNTNBay12VllJMTJIYkRtNlhFRVNzemxaaEJHeko1MkNRaVBNY2s?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T15:50:22Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "e6846fcb5cca7a",
-   "title": "Apple Takes Bigger Bite Of US Smartphone Market - Apple (NASDAQ:AAPL)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlNHMDNhLXJpX0xrbkFTMmNJd1B3bGVJS3BVTXR5UXRrRVlmNHZoWG11eXR5Q01OWEJrN3Z5ckowek5QY0JHcnZPTnNKd0lFQUhNeXgyUC1RSTMyY0R1eFNtb3RDaHNqUVc1d1ltSDl4cHMtRGRhZ3BaOVd2dlJLcVluNDRKZTZRQVlmS001dFJiN1R0LUNMaHYzT1BQNVBEVkZqa2lkaDhFWVRydEIyeU5JNjBtNUhSZ29HM3BNVTZNVXlvVnd3SHFTMTdZZVo0S1JnR2tNRnNOZw?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T15:46:05Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
