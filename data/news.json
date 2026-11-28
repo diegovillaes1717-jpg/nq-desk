@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T11:14:53Z",
+ "updated_at": "2026-11-28T11:19:36Z",
  "items": [
   {
    "id": "933d7460d565f3",
@@ -17,9 +17,19 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhcmxXNDhsS0JaY1RVVkpkWTZEeXBvamZ3M0ktS2ZWWURjMkVfWG8xQXVsZU5DOWR5bUg1dzNLNTdNRnByZkUxUlhPazRJZTdHc1VVMkkybTNZbmlUbTVWYTYwbno1YzJmc3d3M25feU9TaWRld0E?oc=5",
    "source": "Invezz",
-   "date": "2026-11-28T11:01:23Z",
+   "date": "2026-11-28T11:02:37Z",
    "score": 7,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "d90b2ce18a61e6",
+   "title": "Canadian tariffs to further raise prices, a top concern for voters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEd4eFVVOUQ2VTRQd01md0h2clVBU0dSVUx0U0Nudmx4WFlVNm5VakYwaDRQUTZSYzZDS25PWjI0TjlEWVU3R0U1Qjh1OW56Tjd6MG8wQjZvQ2xaeWhMYzZuSmFkd1c3OWtfMVdmdEVIUC1LZHNHSXFhVEZnaGo0UEdfSW9IbzJmM05NbjNiYXd6OVdEQmRTYlJXaWRYa0U?oc=5",
+   "source": "News From The States",
+   "date": "2026-11-28T10:31:21Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
   },
   {
    "id": "7a68554764be3a",
@@ -80,16 +90,6 @@
    "date": "2026-11-28T09:06:02Z",
    "score": 12,
    "category": "Macro"
-  },
-  {
-   "id": "d90b2ce18a61e6",
-   "title": "Canadian tariffs to further raise prices, a top concern for voters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEd4eFVVOUQ2VTRQd01md0h2clVBU0dSVUx0U0Nudmx4WFlVNm5VakYwaDRQUTZSYzZDS25PWjI0TjlEWVU3R0U1Qjh1OW56Tjd6MG8wQjZvQ2xaeWhMYzZuSmFkd1c3OWtfMVdmdEVIUC1LZHNHSXFhVEZnaGo0UEdfSW9IbzJmM05NbjNiYXd6OVdEQmRTYlJXaWRYa0U?oc=5",
-   "source": "News From The States",
-   "date": "2026-11-28T08:34:21Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "56912a5a952970",
@@ -685,9 +685,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T23:52:26Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T23:56:43Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1172,16 +1172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -1199,6 +1189,16 @@
    "source": "MarketWatch",
    "date": "2026-11-27T20:16:00Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "b9f6437c1b55a4",
+   "title": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmhYaFpDN045R3VmYkhTOHpIVUUxb3BKdTdOUm5OdG1iU3cxVjZkQ3psbFA0enV2YmJ1UGljUk1DVWFWOE40SEwxUFFMZEd3dDJsR3lrMGM0WFl3MjNKcE16LWh5QWk4R2h3NnJ6Vjl0NnNHcGR4N0RpbHM2czhwU193NERPVzhKWHB5T192N0w0Zlktd3M0SVBuVjFtdFBrTnR0SFl2RkpnZExsUVp0LUhwWThqSzNoWU1lem93TQ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-27T20:12:29Z",
+   "score": 7,
    "category": "Tecnológicas"
   }
  ]
