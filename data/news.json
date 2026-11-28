@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T09:48:20Z",
+ "updated_at": "2026-11-28T09:53:02Z",
  "items": [
   {
    "id": "a0e8e4e5d457d9",
@@ -452,6 +452,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "4bad023cedb8f5",
+   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
+   "source": "Dailyhunt",
+   "date": "2026-11-28T01:17:46Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fda2e0061b95ca",
    "title": "Fed Rate Hike Odds Rise To Almost 100%: Can AI Selloff Force A Rethink? - TalkMarkets",
    "summary": "",
@@ -615,9 +625,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T23:52:26Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T23:56:43Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1092,6 +1102,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
+   "source": "GuruFocus",
+   "date": "2026-11-27T20:23:29Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -1152,6 +1172,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -1168,36 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB2RktXbXVfckQ0SXR3a0NXTU5jaWVRTUVxQTdmVl90YTJSTVhYbXhuaVV1TlIyMGRiZmZDTG10UDM5dVVfWkNEYjBtbG5JcXZ1N21ySzRGSXd4NmYyeWlmWGMwbUNhWVpPYm9TMERRdVNIWW9FRzEtcEVsTkRmSmpmazZMVUxPVE9NYnkyRmVvd3NDN1dNeXZyazdfMV9aQlkwR1AtYUpnMEszVVVMcURmUTY3Tk9WZ2NhaG1vTlpfOFk?oc=5",
    "source": "TradingView",
    "date": "2026-11-27T19:49:36Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T19:46:09Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "daf39807fb7dfd",
-   "title": "Gold bulls eye $3,700 despite surging US Dollar and Treasury yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeXRPOUZ0QzdVM08xMVRfdU5YOGRYdG9xS2ZZTnF6Uk5QaTFlX1dPTXBadmVtaFBlZGMxcHhFNWtkOWVkd3Q5dVNmazQ2aVcwajA5ekJsT0I4aXFkbGlnRFYybzFrbUxDTFJjM25KNndNYWxtUi1ab1E1Q3V2QUFhOW9IWWp6QVlmVXRDUmxuVWtLbW54cnNaSEs1dTZLTm1OUlJvSTFMWnV5Ung3bHQyMFNzWGF0S2sxUjlHaExfRks5N29IVjNxUUtJcnJPcEpjZFV0ODhLTQ?oc=5",
-   "source": "www.tmgm.com",
-   "date": "2026-11-27T19:41:17Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "acde82e0559910",
-   "title": "Nvidia, Micron, and Sandisk Trade at Half the S&P 500’s Forward P/E. They Are All Genius Buys.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDhySGlxeXBaWE1ncDJVOE9IUDg4aUthNFhndVJpVVdDYlZVUEthUTdmNUlsWkU4bFBqZUtZS2xqQWw0OWNEWG5yTFNSMVZrVXJ0MUl5eU4yY21ZR2h3NXo0VnhrRmZTdURoSzdHR0hjSjlla2FKT1VFaWlMUTh5SmRJbU0zRm1qTVBxWE5jUnd2N0IxZUthLTEtRVFDYWJOd3M0UXlnSVhMOG5ONEZJNi13VEgtZlFrV3ZncDE1NktubmhoQzdXYnl0R1pNUy1OM3FV?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T19:38:02Z",
    "score": 5,
    "category": "Tecnológicas"
   }
