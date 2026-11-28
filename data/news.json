@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T10:08:33Z",
+ "updated_at": "2026-11-28T10:13:23Z",
  "items": [
   {
    "id": "6dba87da0764be",
@@ -299,6 +299,26 @@
    "source": "www.tokenpost.com",
    "date": "2026-11-28T05:10:17Z",
    "score": 8,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "4a98e1d0f7dd72",
+   "title": "Nasdaq 100 Futures Surge 2.5% as Thanksgiving Rally Lifts S&P 500 Above 7,300",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQU5lMVVydVg5aTF3Z1hJWUtNT184WmQwcHVGcG5tWlRzRG1rMXY3dWJ3OXdDQUEtOVlxbUx2akgyeUlEZERDTy12RkxtYzYzLWZrWFdNZWlzRTlRd3RPaDl5OFJza0FwS2tlZHJVQUV3bHFlckZ2M3hrc3dCR3dFa05JczFwcy1lU1M3VDlPZEN4YkFyWmQycFlGUVgzdUVE?oc=5",
+   "source": "Tekedia",
+   "date": "2026-11-28T05:08:06Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "2ae6cc17c9f9e7",
+   "title": "Global Stocks Rebound as AI Fears Ease, but Bond Yields, Fed Rate Outlook Keep Investors Cautious",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlYtYTJnb1Eza3JVdUlOSE1jbDBYZ1RHMTdoRGFVVzY5Z191ZWthQXlRWHQxYjgtT0RLTTl6TVRHNXhXZmE1MHJHQ0RCWEVGZmMzOEU1aUQyOG15akU1M09DWkphdnBqTGNLMzJBdm9nUWdHUnZTQlpfSUk4clBlX1d4VS1kbmpCeEYxMzFXYy1rQ1FuS0loSXZvNUZPX3M5aHBYS3R1S0FXeGJVcHlsWVZ0S0RYSW15V3VYcA?oc=5",
+   "source": "Tekedia",
+   "date": "2026-11-28T05:06:28Z",
+   "score": 12,
    "category": "Fed y tipos"
   },
   {
@@ -955,7 +975,7 @@
    "id": "e0f2e558b799c6",
    "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNHTjdIUlp0OUVGTWdNZnJtcTdWeGpSSE5UbE9WSmhYVFRYUGhPOHRBd2VIa2tuVU9PZUJOS2wxTjZUWWdUXzFmdG14QzlueFZLYXVqZDJIeEFQTkYxbjVlekw3WGZBNmVsdGtBbTZPZ2tSQkQwQjM0d25PRDlrZkM4T2tHc2lFY1pTOExyNmRHZXEyRW1TMlE5VWFZQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE51enZXN3pnUnkxSy1xYWIzNXRjLTJMV3phcHBsRFJjVURSUXJFTk9nTC1GUWF5N25JVWxiUDlNcC1KbDQ1THZUV2FTNDNfR1o3OWJHWVRwTWFTOWMtZkt0M21QQ0Q1WW9mM1k1WWRMamlDeFJHMGY1bkpVXzJCMWxuUUR5LUdvYlJWRlNZWDBZVEVR?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-27T21:18:40Z",
    "score": 5,
@@ -1172,16 +1192,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
-   "source": "Digital Journal",
-   "date": "2026-11-27T19:53:05Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T19:52:42Z",
    "score": 7,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "16f4645af8a2aa",
-   "title": "Nvidia Stocks Slip 1.66% as S&P Weighs Downgrade Over Key-Man Risk",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB2RktXbXVfckQ0SXR3a0NXTU5jaWVRTUVxQTdmVl90YTJSTVhYbXhuaVV1TlIyMGRiZmZDTG10UDM5dVVfWkNEYjBtbG5JcXZ1N21ySzRGSXd4NmYyeWlmWGMwbUNhWVpPYm9TMERRdVNIWW9FRzEtcEVsTkRmSmpmazZMVUxPVE9NYnkyRmVvd3NDN1dNeXZyazdfMV9aQlkwR1AtYUpnMEszVVVMcURmUTY3Tk9WZ2NhaG1vTlpfOFk?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T19:49:36Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
