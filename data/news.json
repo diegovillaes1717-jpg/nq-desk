@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T08:42:20Z",
+ "updated_at": "2026-11-28T08:47:04Z",
  "items": [
   {
    "id": "56912a5a952970",
@@ -120,6 +120,16 @@
    "date": "2026-11-28T06:45:59Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "b369193ca09a53",
+   "title": "Bond Markets On Edge Ahead Of RBI Policy, Equirus Signals 25 Bps Rate Hike As Inflation Bites",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaTF1LXNvTTY1Zkt3WTJnZGh0VHQ4SU1SdlY0U3JkaXZpTmxQZG9iREJJOWI4TlI1bHJBaEViR1VlSk1wS0xFdnlvNlZPQTJpb1JwT2hlS2pDbVdmZnZUSU1YSG83b3F5MGRRSlBHR0RtZnJtenJ2bHRlRHFYcGNNZUVHSlc0emNjXzRpbU5aVFFHWnN3M1Q5RW1BVC1KSUNtQ0pKLWxtcmhpa2YzVndRY3NRTFdvdmNoVTg0LXZhaFZPS2ZYS19jWXM3RHN1MHZxWVRj0gHTAUFVX3lxTE5pMXUtc29NNjVmS3dZMmdkaHRUdDhJTVJ2VjRTcmRpdmlObFBkb2JEQkk5YjhOUjVsckFoRWJHVWVKTXBLTEV2eW82Vk9BMmlvUnBPaGVLakNtV2ZmdlRJTVhIbzdvcXkwZFFKUEdHRG1mcm16cnZsdGVEcVhwY01lRUdKVzR6Y2NfNGltTlpUUUdac3czVDlFbUFULUpJQ21DSkotbG1yaGlrZjNWd1Fjc1FMV292Y2hVODQtdmFoVk9LZlhLX2NZczdEc3UwdnFZVGM?oc=5",
+   "source": "Free Press Journal",
+   "date": "2026-11-28T06:15:02Z",
+   "score": 11,
+   "category": "Fed y tipos"
   },
   {
    "id": "352a0b07854fcf",
@@ -1032,16 +1042,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -1132,6 +1132,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "daf39807fb7dfd",
    "title": "Gold bulls eye $3,700 despite surging US Dollar and Treasury yields",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T19:32:00Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "d53d14b549ca0f",
-   "title": "Chip, cybersecurity stocks attractive post-selloff, market expert says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DWmgwQnI2a0VZTTZEX0RVbml0NWNlQXpsNzJxbVR3c1BERWVubUhreDB2S1hSWW8wTTJsWE5CNzZ2MTZ2dG1pcmY1U0YwcXoyMmNBYzhQdHJRdzh4Nld3UFNFbW5Zdw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-27T19:31:59Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
