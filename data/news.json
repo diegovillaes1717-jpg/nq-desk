@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T00:43:59Z",
+ "updated_at": "2026-11-28T00:48:42Z",
  "items": [
   {
    "id": "7cd9086d609570",
@@ -180,6 +180,16 @@
    "date": "2026-11-27T22:55:19Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "c3578b7dfc18e2",
+   "title": "Bitcoin Reclaims $61K as Nasdaq Futures Extend Market Rebound",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sZTZseTJINzFCeWQxclZwaVRUUzZYZm94Zmh0eUJCZ0p3bGI3cXpaSDlBYlBVaWxhVEtramZwYWFRLVkxczc0cUJydzFxSjV5RHc3UTE3Zjl6ck9Oc25PYTVvaURsdzZuUXBWQ2pyYURMZmM0UC1XRnJ0UnVrdw?oc=5",
+   "source": "Crypto Economy",
+   "date": "2026-11-27T22:53:40Z",
+   "score": 6,
+   "category": "Tecnológicas"
   },
   {
    "id": "f0130a21971ee5",
@@ -750,16 +760,6 @@
    "date": "2026-11-27T18:28:15Z",
    "score": 5,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "c3578b7dfc18e2",
-   "title": "Bitcoin Reclaims $61K as Nasdaq Futures Extend Market Rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sZTZseTJINzFCeWQxclZwaVRUUzZYZm94Zmh0eUJCZ0p3bGI3cXpaSDlBYlBVaWxhVEtramZwYWFRLVkxczc0cUJydzFxSjV5RHc3UTE3Zjl6ck9Oc25PYTVvaURsdzZuUXBWQ2pyYURMZmM0UC1XRnJ0UnVrdw?oc=5",
-   "source": "Crypto Economy",
-   "date": "2026-11-27T18:27:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
   },
   {
    "id": "8599d932797f87",
