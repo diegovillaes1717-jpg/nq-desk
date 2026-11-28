@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T10:32:19Z",
+ "updated_at": "2026-11-28T10:37:02Z",
  "items": [
   {
    "id": "6dba87da0764be",
@@ -29,6 +29,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-28T09:33:02Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "9c80145c9fdbf0",
+   "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS1BJSmdxb1dEX2ZEUlRreGJ6bVlGVzNpN0M2blFhZENjei12Q1c4d0J2eEczQURfLU00ZURTTl9Qd1VuZHdoNnBLT0NWR0FqUWd0NWNPODJjWG1WMXdZWm43WEpvbTZYWFg0ZXdoc1hyRHBtSlItX1c0REFfTmppVXRQeVZFMEZZRlJ3UlRXM2tmOFBvWDVZQUltUVNlQS1FWUxlQm1jc1BBTzJ6dWlvRmhvTWVOczFlOHBwdnBPVHBkR2R2N3k3UTNrYjVqWjV6YlBnVzVnN2dUZ01tNTV6QWZhbm92dnhH?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-28T09:22:30Z",
+   "score": 5,
    "category": "Tecnológicas"
   },
   {
@@ -488,16 +498,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTBTNnlaTUxrQ3ZSNlRCUUNuT1VXTEhVamdsdHVuRkZUNFhYNGtwZWtmLXBOOHNuSXZWd3ppcVd4TlV3X1VCWUlNZ1IxTzZqbDFmUXRoUnZteVlLMmtuUUwzWFVlMkRJTVktN3lfMjdGOW9JNk5aaS1DSHVKZUd2Sl9xa0pTTEp6V0EwczYycnN5SDNDMUE3bFVvTjlkVXFfUjdB?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-28T01:19:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
    "score": 6,
    "category": "Tecnológicas"
   },
