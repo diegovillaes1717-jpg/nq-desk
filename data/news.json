@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-28T05:28:15Z",
+ "updated_at": "2026-11-28T05:32:59Z",
  "items": [
+  {
+   "id": "4a0a4ed3f810b8",
+   "title": "Trump and Nvidia: Good for stocks, worrying for investors?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2hkbDhnUTd1WU1GVlJRYjk4UlM0cVp3ZHdJcTdfZWVLX1VFNjBma3l4aUNXTUYzdi1odl8wVlJqWTdZZE5xM3JEY3ltblh5elRmSVd6LVJPTEM0TUUzWWhhWVVzYV83NEhYOWZla2EwaURoem9MRk9sd0NlVE1ldGZZVDd0VzZxVXllVTBmZC1yNkFTZzF0MzNmOFdkNEFWQzdNQVN0Wmg?oc=5",
+   "source": "The Irish Times",
+   "date": "2026-11-28T05:26:25Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "fd67e8a8c65c21",
    "title": "Nvidia to Pay $290M to Settle Crypto Suit",
@@ -10,16 +20,6 @@
    "date": "2026-11-28T04:03:39Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZEhaTmw0YVVnLVhaMm1fV0RaSFdXM2tFRFNXNk9NVEZManU5Y1NTUWdMb1g0SV9KTy1paEQyY1JWWGlYMGlId1BHajVYeXB1UHBSQmQzN0s3OVp3S2hVcHJUUEg5bkN0S3RHZ0NIcVFMQXM5REU2a1JwQVNBdndIV21tNVNwVE8yZEpDOVpnal9aOUdXc0IzM2R0T0drUV9wWWQtUkV1aF9ndWRidTBGMWR0Rnp2Q1R1cjRDb2oyQUNUMkd2Nzk4YWRHUlF1WDNsR2xmaDhvTW9YQkNHTGYtX1N0V0RBOTkyY0hUMHdoUQ?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-28T03:52:36Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "310fc1956e59a9",
@@ -312,6 +312,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "429c0abadebe45",
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
    "summary": "",
@@ -380,16 +390,6 @@
    "date": "2026-11-27T23:22:13Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "429c0abadebe45",
-   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:17:56Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "7209cf507ab402",
@@ -1052,6 +1052,16 @@
    "category": "Macro"
   },
   {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "1e6b08bf6c2759",
    "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
    "summary": "",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T18:13:17Z",
    "score": 3,
    "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "ae2e482f736e50",
-   "title": "SanDisk Stocks Jump 12.85% After Kioxia and Nvidia Stretch GPU Memory With SSDs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG5xb3pnM19rSGp5WldwdHVHOEN6bU9zam5nVGt5TzRXOWw4dVJjdWVlaWRNQVV1cnZ5WGFUZDMzNjFTbWIyenFWbVVwcEx0TTd4bENoT3NkbWVKWHp4dkVUZzBBeExnSzNHRU1tWndmQlNlcG5FRUo2cVAwaFpPZGp1aFRpR29UZk9zcFAtY1BKR1lhSUVkWmh1WUxtbnVqTnNLbm5saWY5c3hXU050NWllZjB1WElMa2xkNEl2LVctQm5hamJEYUpPMjZXWlFTd3J6ZQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:13:16Z",
-   "score": 5,
-   "category": "Tecnológicas"
   }
  ]
 }
