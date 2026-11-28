@@ -285,45 +285,21 @@
   }
  ],
  "summary": {
-  "resumen": "Los resultados recientes de las grandes tecnológicas han sido mixtos, destacando el sólido crecimiento de Nvidia que no logró calmar del todo los nervios del mercado ante dudas sobre su liderazgo. El Nasdaq ha mostrado volatilidad y cautela tras estas presentaciones y ante descensos en valores clave como Microsoft.",
+  "resumen": "Los últimos resultados de las grandes tecnológicas han tenido un comportamiento mixto, destacando el sólido informe de Nvidia que superó expectativas pero generó dudas por incertidumbres de liderazgo y regulación. El mercado reaccionó con cierta cautela y movimientos divididos en el Nasdaq.",
   "puntos": [
    {
-    "fecha": "18 nov",
+    "fecha": "17 nov",
     "empresa": "Nvidia",
-    "titulo": "Supera expectativas sin calmar al mercado",
-    "resumen": "Presentó un BPA real de 2.68 superando el estimado de 2.47 en su primer reporte sin Jensen Huang, pero las acciones reaccionaron con cautela y el NQ bajó ante la incertidumbre.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "27 nov",
-    "empresa": "AMD",
-    "titulo": "Impulso por ingresos de servidores",
-    "resumen": "Reportó un sólido BPA real de 2.09 frente a los 1.94 estimados y proyecciones de duplicar ingresos en servidores para 2027, generando subidas bursátiles.",
-    "resultado": "Supera",
-    "impacto": "Medio"
-   },
-   {
-    "fecha": "27 nov",
-    "empresa": "Microsoft",
-    "titulo": "Presión bajista post-resultados",
-    "resumen": "A pesar de superar el BPA con 4.89 frente a 4.72, las acciones acumulan descensos relevantes desde su presentación debido al escrutinio del mercado.",
-    "resultado": "Supera",
-    "impacto": "Alto"
-   },
-   {
-    "fecha": "18 nov",
-    "empresa": "Apple",
-    "titulo": "Aumento del interés bajista",
-    "resumen": "Registró un BPA real de 2.1 superando la estimación de 1.98, aunque el silencio de la compañía incrementó el interés bajista de los inversores.",
+    "titulo": "Resultados récord con dudas",
+    "resumen": "Presentó un beneficio por acción de 2.68 superando el estimado de 2.47, pero la salida de Jensen Huang y los riesgos en China dividieron a los inversores.",
     "resultado": "Supera",
     "impacto": "Alto"
    }
   ],
-  "proximos": "Los próximos resultados clave llegarán con Adobe y Broadcom el 9 de diciembre de 2026.",
-  "que_vigilar": "Vigilar la guía de ingresos y la evolución de la demanda de IA en las próximas presentaciones de diciembre.",
-  "sig": "9039313aadc2c4",
-  "generated_at": "2026-11-28T00:48:45Z"
+  "proximos": "Los próximos resultados importantes serán los de Adobe y Broadcom el 9 de diciembre, seguidos por Costco el 10 de diciembre.",
+  "que_vigilar": "Vigilar las sorpresas en beneficios y las previsiones futuras del sector de semiconductores y software en la próxima temporada de reportes.",
+  "sig": "8b319ca99c9d65",
+  "generated_at": "2026-11-28T03:48:52Z"
  },
  "updated_at": "2026-11-27T21:53:41Z"
 }
