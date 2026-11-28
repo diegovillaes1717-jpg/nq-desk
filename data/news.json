@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T04:07:53Z",
+ "updated_at": "2026-11-28T04:12:38Z",
  "items": [
   {
    "id": "310fc1956e59a9",
@@ -40,16 +40,6 @@
    "date": "2026-11-28T03:13:00Z",
    "score": 3,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8295996f584f81",
-   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHBkTlFOR3NvTndZZ2JBMmFua2ttcURWb2d6c2FuRElvMm9xMWtQcm5fSS1YcWg2VEhHbGlpbUFpSVpEM2F3NXBZS21KVEk4UXJOZHk3eVFfNzFpblA3dlFab2NTcDBDaGRRSm5TeTZjSWxSTEI0Z2doVFdmVTRZNS04NWF2WU9jWXk5dTREU2FmaEU5aGtpUE9VZHBwUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-28T02:37:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
   },
   {
    "id": "e4444bb8669f46",
@@ -282,16 +272,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "429c0abadebe45",
-   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T23:52:26Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
    "summary": "",
@@ -300,6 +280,16 @@
    "date": "2026-11-27T23:37:14Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8295996f584f81",
+   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2FLbERjWkMxNnVsSDRLQ0g5YnYwamhNUjhiM1pqbkxxd2xuRUxpbHMyQ2piXzlmdzl4TFFxQXhJMDF0NkdPZ3I0anU5UFd1QlpsakFCSFU1Q0V2ZGxvRno0NXBRVWplX28xT2t1aVk0VVJ1YktIeW1DcDRfbVI2VTg2NkRpY21SWnFTUFhUMXhaM2pvTjJNakkwbUhZMV9VakdRYVJMXy1KYms?oc=5",
+   "source": "TheStreet",
+   "date": "2026-11-27T23:37:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "cd9186030c5422",
@@ -350,6 +340,16 @@
    "date": "2026-11-27T23:22:13Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "429c0abadebe45",
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T23:17:56Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "7209cf507ab402",
@@ -459,16 +459,6 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0e9c32a119f389",
-   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T22:30:34Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -945,9 +935,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1199,6 +1189,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T17:54:51Z",
    "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "413d4d2424e061",
+   "title": "Nasdaq 100, SOX: Tech rout may be a symptom of something far larger",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcU1wM3ZNQldSTnA5aWxzdjgzUkI1QV82N2p5SE1LRFRyYTdVQzh4bGdnclAwbm52TXN3ZGNaV0NzWUxDTGxMQnFuS2xXSzhFd0VFRkczRDZKT0R4dHZoRDBZUHE0UTUyMXJxUnhYVXhPcUNPTEhMZ0w4TE8zTUoxb1ZWSVNBTlN0bmVlcV9kRkJLeGwteUtmSlJiczEzaHgwQVdSMjEtNTNZcnRndjA0V0Jfdw?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-27T17:49:44Z",
+   "score": 4,
    "category": "Tecnológicas"
   }
  ]
