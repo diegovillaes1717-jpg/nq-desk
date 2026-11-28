@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T11:24:19Z",
+ "updated_at": "2026-11-28T11:29:02Z",
  "items": [
   {
    "id": "933d7460d565f3",
@@ -149,6 +149,16 @@
    "source": "The Assam Tribune",
    "date": "2026-11-28T07:45:54Z",
    "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "7209cf507ab402",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - Burlington Times-News",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0Z6TUJYZjBVdkltbUN6cXpwV3lFd1p0VDV3ZlFEZVZoUjc4WU5TZVRPcmYzMkRBNVF1MFFpaTY3X1k3YVpZWGt2bkctRGprc0wzanJ3OTBFVWtodkQ5VmVER0RkemczRXF6bVdnak4tRmMyRE1LVXFZN1lwOThTd3o1TnZKc1RROW1VSzRHY21ma2xsRHdRU2tFcUlud2ZtSEZSQTFYNTRuYkFjYkJuNnZyU1FrSDVHV3NLWGI5RGR0eGNOYmNJdWxhM2w4TUE2bmNMb24zSVQ3Q1Y2WmxjVXdFR29GUVJVYm05QzNIWUQ1V1hYMGZveXJHMm1yS3VZaFhOaDlB?oc=5",
+   "source": "Google News",
+   "date": "2026-11-28T07:40:00Z",
+   "score": 8,
    "category": "Fed y tipos"
   },
   {
@@ -532,16 +542,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fda2e0061b95ca",
    "title": "Fed Rate Hike Odds Rise To Almost 100%: Can AI Selloff Force A Rethink? - TalkMarkets",
    "summary": "",
@@ -705,9 +705,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T23:52:26Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T23:56:43Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -760,16 +760,6 @@
    "date": "2026-11-27T23:22:13Z",
    "score": 9,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "7209cf507ab402",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - Burlington Times-News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0Z6TUJYZjBVdkltbUN6cXpwV3lFd1p0VDV3ZlFEZVZoUjc4WU5TZVRPcmYzMkRBNVF1MFFpaTY3X1k3YVpZWGt2bkctRGprc0wzanJ3OTBFVWtodkQ5VmVER0RkemczRXF6bVdnak4tRmMyRE1LVXFZN1lwOThTd3o1TnZKc1RROW1VSzRHY21ma2xsRHdRU2tFcUlud2ZtSEZSQTFYNTRuYkFjYkJuNnZyU1FrSDVHV3NLWGI5RGR0eGNOYmNJdWxhM2w4TUE2bmNMb24zSVQ3Q1Y2WmxjVXdFR29GUVJVYm05QzNIWUQ1V1hYMGZveXJHMm1yS3VZaFhOaDlB?oc=5",
-   "source": "Google News",
-   "date": "2026-11-27T23:15:32Z",
-   "score": 8,
-   "category": "Fed y tipos"
   },
   {
    "id": "4617a7e068a01d",
@@ -1035,7 +1025,7 @@
    "id": "e0f2e558b799c6",
    "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNHTjdIUlp0OUVGTWdNZnJtcTdWeGpSSE5UbE9WSmhYVFRYUGhPOHRBd2VIa2tuVU9PZUJOS2wxTjZUWWdUXzFmdG14QzlueFZLYXVqZDJIeEFQTkYxbjVlekw3WGZBNmVsdGtBbTZPZ2tSQkQwQjM0d25PRDlrZkM4T2tHc2lFY1pTOExyNmRHZXEyRW1TMlE5VWFZQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE51enZXN3pnUnkxSy1xYWIzNXRjLTJMV3phcHBsRFJjVURSUXJFTk9nTC1GUWF5N25JVWxiUDlNcC1KbDQ1THZUV2FTNDNfR1o3OWJHWVRwTWFTOWMtZkt0M21QQ0Q1WW9mM1k1WWRMamlDeFJHMGY1bkpVXzJCMWxuUUR5LUdvYlJWRlNZWDBZVEVR?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-27T21:18:40Z",
    "score": 5,
@@ -1200,6 +1190,16 @@
    "date": "2026-11-27T20:16:47Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "998f1fee7c5af0",
+   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+   "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "date": "2026-11-27T20:16:00Z",
+   "score": 5,
+   "category": "Tecnológicas"
   }
  ]
 }
