@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T02:37:26Z",
+ "updated_at": "2026-11-28T02:37:52Z",
  "items": [
   {
    "id": "895191eba4a78d",
@@ -392,16 +392,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0e9c32a119f389",
-   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T22:30:34Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "5789f4ab3677db",
    "title": "When will Anthropic (ANT) join the Nasdaq-100 and S&P 500?",
    "summary": "",
@@ -572,6 +562,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "6538b8879fd95e",
+   "title": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlZGTzVZUW5pNEFCczVoQjZCY1YxNzJqMU5VZE1HT1R3TnZkY0ZpUnl6d1RZd0xUTWdJakpYMDBPZUx1eGNFN3RpakgwY2tiVDdoWS1Ud1pVVS1KY3NLZFRLV1ZoVTZmZV9UWG9YaHJBLW9MY09kMFp4Qk1LLWFGdERCMkp1cndRMGRPVWlBZzVMT2NFdUNxSVhn?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T21:06:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "805bc8dc9408b0",
    "title": "Federal Reserve Beige Book Highlights Resilient U.S. Economic Growth And Sticky Inflation",
    "summary": "",
@@ -690,6 +690,16 @@
    "date": "2026-11-27T19:54:22Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "49923f86b56f02",
@@ -892,6 +902,16 @@
    "category": "Macro"
   },
   {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "1e6b08bf6c2759",
    "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
    "summary": "",
@@ -1072,16 +1092,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
-   "source": "mykxlg.com",
-   "date": "2026-11-27T18:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "5fc355916b762c",
    "title": "Qualcomm Stock Climbs as Tech Stocks Rebound from Weakness",
    "summary": "",
@@ -1188,16 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGx1a1RBU3BycXpHaFN2TUlNVmk2aHRwT2xDY3JicE02WjNPQkI5N3Zpa1R4WXJkSkNXeTY3ZDFjV2JwdENYZnh5TGZMQ01jVmlNU2U0UGhBNUNWOWR3U1JIaGhnVHk5XzJGSzNuREthMndNV3JPTHZrVmFZTjA0dkVB?oc=5",
    "source": "Macau Business",
    "date": "2026-11-27T17:22:17Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "31d6dcf010bb8b",
-   "title": "Not AMD. This Is the 1 Company Nvidia Should Worry About Most.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcGppNUlRdlVSeF85amlHWjUwWU5XTXFiLVRmSy12SlQyVEpzU05MLXB4NlVuaWgxcmFkUmpLOEJ6UXpKeXFWNkY0LUo1OGw5aEZ3RmhpTGxnUlk4RXhPRkVzalFvc2YyU3o1U0NEM05MNy1BeWsyZmYtLVRuWEZhLUFKYUxRNk5nVnlQVzU1ajdkQ0poaWx4XzRyY05VM2hjZkNHYm1n?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T17:15:02Z",
    "score": 5,
    "category": "Tecnológicas"
   }
