@@ -1,16 +1,6 @@
 {
- "updated_at": "2026-11-28T04:36:16Z",
+ "updated_at": "2026-11-28T04:41:00Z",
  "items": [
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZEhaTmw0YVVnLVhaMm1fV0RaSFdXM2tFRFNXNk9NVEZManU5Y1NTUWdMb1g0SV9KTy1paEQyY1JWWGlYMGlId1BHajVYeXB1UHBSQmQzN0s3OVp3S2hVcHJUUEg5bkN0S3RHZ0NIcVFMQXM5REU2a1JwQVNBdndIV21tNVNwVE8yZEpDOVpnal9aOUdXc0IzM2R0T0drUV9wWWQtUkV1aF9ndWRidTBGMWR0Rnp2Q1R1cjRDb2oyQUNUMkd2Nzk4YWRHUlF1WDNsR2xmaDhvTW9YQkNHTGYtX1N0V0RBOTkyY0hUMHdoUQ?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-28T03:52:36Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
   {
    "id": "310fc1956e59a9",
    "title": "MGS Gains To Slow As November Payrolls Test Fed Hike Bets",
@@ -60,6 +50,16 @@
    "date": "2026-11-28T03:13:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8295996f584f81",
+   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHBkTlFOR3NvTndZZ2JBMmFua2ttcURWb2d6c2FuRElvMm9xMWtQcm5fSS1YcWg2VEhHbGlpbUFpSVpEM2F3NXBZS21KVEk4UXJOZHk3eVFfNzFpblA3dlFab2NTcDBDaGRRSm5TeTZjSWxSTEI0Z2doVFdmVTRZNS04NWF2WU9jWXk5dTREU2FmaEU5aGtpUE9VZHBwUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-28T02:37:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "e4444bb8669f46",
@@ -312,16 +312,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8295996f584f81",
-   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2FLbERjWkMxNnVsSDRLQ0g5YnYwamhNUjhiM1pqbkxxd2xuRUxpbHMyQ2piXzlmdzl4TFFxQXhJMDF0NkdPZ3I0anU5UFd1QlpsakFCSFU1Q0V2ZGxvRno0NXBRVWplX28xT2t1aVk0VVJ1YktIeW1DcDRfbVI2VTg2NkRpY21SWnFTUFhUMXhaM2pvTjJNakkwbUhZMV9VakdRYVJMXy1KYms?oc=5",
-   "source": "TheStreet",
-   "date": "2026-11-27T23:37:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "cd9186030c5422",
    "title": "The Fed is fighting the wrong inflation battle",
    "summary": "",
@@ -479,16 +469,6 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0e9c32a119f389",
-   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-27T22:30:34Z",
-   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1032,6 +1012,16 @@
    "category": "Macro"
   },
   {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "1e6b08bf6c2759",
    "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
    "summary": "",
@@ -1199,6 +1189,16 @@
    "source": "Coinpaper",
    "date": "2026-11-27T18:00:45Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "5fc355916b762c",
+   "title": "Qualcomm Stock Climbs as Tech Stocks Rebound from Weakness",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeURIdlE2ejk5S3BsdEQ4LWNJMFJfakRQTXFwTEZ3Uk5HRjZtR2JzT19sZFlaMndqR21HSXowZDU1am9DT1FEdGE1ZllwNkVhLUtjcHVnN2c1aFRLVlVqSWxPZlAzNi1LemYyR3BhT2VGS2s3U3Y5NUdaMjQzLTFWMTdWa29NdFEzbEhmdlNzekNKLUhJUVBnNG1fODlsd0o0SnRjLWlXU25waHB1N3Y0T1pfN01WREtXVnA4?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T17:54:51Z",
+   "score": 6,
    "category": "Tecnológicas"
   }
  ]
