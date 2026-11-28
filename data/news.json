@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T00:06:07Z",
+ "updated_at": "2026-11-28T00:10:50Z",
  "items": [
   {
    "id": "f9fee2964c4366",
@@ -52,16 +52,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "f0130a21971ee5",
-   "title": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFoMnBkRDRiaV9PcXlMdlJWd0NFSlB2T1ltYS12Y2hpanhsWTVFd0hmRmp6WVl3UnUzblVuYVo0cGJrdnBRQjd0VTZaS1paNTlUbE9NSXkwQ1FKMzRNOWNfbFBuWV9sUVM4UGR1LW9Ja203NERxS09MZThJa1RvcjNhel9GNEFDY0o4aGlKV2Z2cjZGb2NUUXVrMA?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-27T23:08:10Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "a541da3a023107",
    "title": "Nasdaq-100 drops 10%, NEOS Nasdaq-100 High Inco...",
    "summary": "",
@@ -85,9 +75,19 @@
    "id": "cc8ab0fadb9c12",
    "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMTdObVFNbUNrMThCS2otRmRpVFJzandOblNPY3EtXzVuck1zOGcwRS1fd01CT2M2NzdlQ2pWRFFaekJnLUw4bFFKTUEtVHBVbTJuM1JGVXZpUTRfVGtZT3pFRGRic0otanlqNVM5WXd3a2hrNzVxdW9ndEpYOEZxdm1zUV9QWVBuTVJramdHbmdmMEhDX0ZUVXFWZUdjaFQ0SDlQN0JpN0kwZFlHRFRIT3ZqVHVqUU1CMXp3aVFTdTJvZjl1VEg2Qnc2NHQ4UFUwQm1qSnBZNzgxVE5xcFFYYkp2T3JZMkRXMzRURkEwZzN2SHBQYktZaWlZMNIB9AFBVV95cUxNRGQ3Y1pVb2o4dzhJOHpHVUJROExhaXEwMzNWYy16bnhieWthZVVjblJpVXlRQXNwTFlEUW5XVFdlOC1jQlZ5ZWN3QXA0aFhNS0EtNG1QblVNZXhmdGJBdFFQODdaYVpoRFJSTUJ1ZVVTMlhmd0c2Mzh5MS1QV1lNSXRZcFlVUFNkbUo4dW0zZFpJR2l2RjBWdnBLUG9nZGtpc0VzRXJHLXUxSnNDMmtORHE3YlZUSEpDQm15cFA3QTc0bzlteHJ3WEFxSE14cEYzRkJhNUZQTGV0OEZKaDR3VmlLdE5qMnplaWhmbFloOE13M3FU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXFiS21DOWx3MWFuSG9BS3lsNjZ3SW5GQUczRmpNVTl5RGFoSUpNbVlpLWVranRpTnZLZGtGd2JocTBlNFctTEVXV2cteURMeUNBblZVVnhxVHZCakV0Y1RPbmtHUjI1eUNsZTdEeGNSb1hYWGtFbHJjRmM1N1ZuQjFjQ3h0NE9VSDdkanNyVkgtVTNOYlpOWWVkTnBjNkhPeHU1SV90LTFyaEpsZzNlaXlFR2trVHE2a1dXNkVTTHZ1bl9LeFdUSEN1MmNCLVptUDRBZEpjdUR3N1FBdnRpb1lwOVQzMXdqVU9QRjR0b9IB9AFBVV95cUxNRGQ3Y1pVb2o4dzhJOHpHVUJROExhaXEwMzNWYy16bnhieWthZVVjblJpVXlRQXNwTFlEUW5XVFdlOC1jQlZ5ZWN3QXA0aFhNS0EtNG1QblVNZXhmdGJBdFFQODdaYVpoRFJSTUJ1ZVVTMlhmd0c2Mzh5MS1QV1lNSXRZcFlVUFNkbUo4dW0zZFpJR2l2RjBWdnBLUG9nZGtpc0VzRXJHLXUxSnNDMmtORHE3YlZUSEpDQm15cFA3QTc0bzlteHJ3WEFxSE14cEYzRkJhNUZQTGV0OEZKaDR3VmlLdE5qMnplaWhmbFloOE13M3FU?oc=5",
    "source": "The Economic Times",
    "date": "2026-11-27T22:55:19Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "f0130a21971ee5",
+   "title": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2wzZ2Y1cENVMnQ5dzlUZmpQWWdtWENPMmROdU1FeDF3WGtxUUx1UmlMY1hUWWI2ZTd2Y0RwZ3dUMEtnRmR3VXhyZTFQWmF5T3U0alBxLUJsdVFjSUI3RGI2OEI0RncxTl9zTDNDZDlnZERQQXNmZ2VTMDA4X3RNQ3ZVMkp1NGo5cEZDZHIzaFBHTkJJQk92eHZRcFk2dGF1b3pUSXJ3empaaUZHdEZDOQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-27T22:48:10Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -192,6 +192,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "c4ec10e0e324e8",
+   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGFaeGdfWUItclpPYnNFNWhQR1ZWTWpRTUl6LVF2dDFHX1NvRk5Vdks3cjc5LW1YQjR3VW9lNVNqa0Rwd1hIWmt4U2czUkttM1dlM3l6bWRETlNDaUswRWp5SXo1VmRHcnJpT3FNeERwWVE1QzJGZVY2U1BQeTQ0bjB1NVgtdWxvT0Jnd0s2NFc4MGpEWHFrYUw0anFaYkNEQWZPYnpkUEhJQUxQeW5ZMTlR?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-27T21:43:46Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "5e1b903106fabc",
    "title": "Fed Rate Hike Bets Harden as Inflation Hits 3.8% and Tech Stocks Slide",
    "summary": "",
@@ -259,6 +269,16 @@
    "source": "Crowdfund Insider",
    "date": "2026-11-27T21:03:47Z",
    "score": 10,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "1e72bc7c9d8add",
+   "title": "Arthur Hayes Issues Weekend Crypto Market Warning as Fed Blackout Begins",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWllBNXBIRW53VFk3bXJQS0NEd0c0M0wydXBhbTVxcV9NUHlRcUYzTkFMTEpZVzFmc3p2aUtXLXQ1elczeUlkUTB2VExjT2V3bVVJN2R2QU81dklPOGoyVFJ0Ml9haGd2VXNBMzNpZ2ZIdw?oc=5",
+   "source": "BeInCrypto",
+   "date": "2026-11-27T21:00:00Z",
+   "score": 4,
    "category": "Fed y tipos"
   },
   {
@@ -540,16 +560,6 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T18:39:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -842,16 +852,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "c4ec10e0e324e8",
-   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS0xRW9YRGNZLU1FWHFtR0dtUUJsSDFhcFVJSkpNQWJ0UXJOU2hGcWh5MkJBRU9lQjFkZzR5UXlIbG9peFV0NU52QUE2S0ozdVE0eE93ekRnQkZmUFhfOWxHSVhZR19sYzM0OG1kVDFkX2cyeUYxX2JYMlBUdXBtSGFqYjZrTV91dHRUVmRCcGtYbjk2OWNOdV80UnlrQzJRSl9SRDlQLWh0ZDVwRG1reFVJVDlxUUgxVHRCTUJ30gG-AUFVX3lxTE9FLTFFb1hEY1ktTUVYcW1HR21RQmxIMWFwVUlKSk1BYnRRck5TaEZxaHkyQkFFT2VCMWRnNHlReUhsb2l4VXQ1TnZBQTZLSjN1UTR4T3d6RGdCRmZQWF85bEdJWFlHX2xjMzQ4bWRUMWRfZzJ5RjFfYlgyUFR1cG1IYWpiNmtNX3V0dFRWZEJwa1huOTY5Y051XzRSeWtDMlFKX1JEOVAtaHRkNXBEbWt4VUlUOXFRSDFUdEJNQnc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-27T17:28:36Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9681c6077677d8",
    "title": "Anthropic shares climb nearly 10% to $90.91 after Nasdaq rollercoaster",
    "summary": "",
@@ -960,16 +960,6 @@
    "date": "2026-11-27T16:43:14Z",
    "score": 5,
    "category": "Macro"
-  },
-  {
-   "id": "1e72bc7c9d8add",
-   "title": "Arthur Hayes Issues Weekend Crypto Market Warning as Fed Blackout Begins",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWllBNXBIRW53VFk3bXJQS0NEd0c0M0wydXBhbTVxcV9NUHlRcUYzTkFMTEpZVzFmc3p2aUtXLXQ1elczeUlkUTB2VExjT2V3bVVJN2R2QU81dklPOGoyVFJ0Ml9haGd2VXNBMzNpZ2ZIdw?oc=5",
-   "source": "BeInCrypto",
-   "date": "2026-11-27T16:42:55Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "21f984b8f34f1e",
@@ -1199,6 +1189,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T15:50:22Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "e6846fcb5cca7a",
+   "title": "Apple Takes Bigger Bite Of US Smartphone Market - Apple (NASDAQ:AAPL)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlNHMDNhLXJpX0xrbkFTMmNJd1B3bGVJS3BVTXR5UXRrRVlmNHZoWG11eXR5Q01OWEJrN3Z5ckowek5QY0JHcnZPTnNKd0lFQUhNeXgyUC1RSTMyY0R1eFNtb3RDaHNqUVc1d1ltSDl4cHMtRGRhZ3BaOVd2dlJLcVluNDRKZTZRQVlmS001dFJiN1R0LUNMaHYzT1BQNVBEVkZqa2lkaDhFWVRydEIyeU5JNjBtNUhSZ29HM3BNVTZNVXlvVnd3SHFTMTdZZVo0S1JnR2tNRnNOZw?oc=5",
+   "source": "Benzinga",
+   "date": "2026-11-27T15:46:05Z",
+   "score": 6,
    "category": "Tecnológicas"
   }
  ]
