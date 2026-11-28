@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T05:51:53Z",
+ "updated_at": "2026-11-28T05:56:36Z",
  "items": [
   {
    "id": "f9fee2964c4366",
@@ -50,6 +50,16 @@
    "date": "2026-11-28T04:03:39Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZEhaTmw0YVVnLVhaMm1fV0RaSFdXM2tFRFNXNk9NVEZManU5Y1NTUWdMb1g0SV9KTy1paEQyY1JWWGlYMGlId1BHajVYeXB1UHBSQmQzN0s3OVp3S2hVcHJUUEg5bkN0S3RHZ0NIcVFMQXM5REU2a1JwQVNBdndIV21tNVNwVE8yZEpDOVpnal9aOUdXc0IzM2R0T0drUV9wWWQtUkV1aF9ndWRidTBGMWR0Rnp2Q1R1cjRDb2oyQUNUMkd2Nzk4YWRHUlF1WDNsR2xmaDhvTW9YQkNHTGYtX1N0V0RBOTkyY0hUMHdoUQ?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-28T03:52:36Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "310fc1956e59a9",
@@ -332,16 +342,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "429c0abadebe45",
-   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T23:52:26Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "8295996f584f81",
    "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
    "summary": "",
@@ -400,6 +400,16 @@
    "date": "2026-11-27T23:22:13Z",
    "score": 9,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "429c0abadebe45",
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T23:17:56Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "7209cf507ab402",
@@ -692,6 +702,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "9be4dc111e1706",
+   "title": "NZ dollar heads for 1.4% decline in short week as traders rethink Fed rates",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanFjTEdpY3JCZkgyeGVPZ01UTU8tT3BTLTRxVmUtd0RyQkNUdU5OUGNyT001eFBJWk9sQ2UxdlYtaE9YS2NLMjd6WE1XN2ZPdjhJNXAteU5wTG5lV0R0RjB1Z0lycUo0Q05CMExZUkpCc3d2NnR1VWZnWkZHQ2UyLWtuRnVqQ0N2VVdVTi1lZmpkNFJFZk9VV3JFT3c3Y00zb2dMbjZCc0NHczVzdWY0M0ZYRzMyZkNGaUwxeEdLTzU5MlpPS1AtSThpNmlrcVdDZ2RN?oc=5",
+   "source": "BusinessDesk",
+   "date": "2026-11-27T21:03:45Z",
+   "score": 5,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "1e72bc7c9d8add",
    "title": "Arthur Hayes Issues Weekend Crypto Market Warning as Fed Blackout Begins",
    "summary": "",
@@ -762,16 +782,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -832,6 +842,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -859,6 +879,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T19:48:09Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -995,9 +1025,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T18:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T18:57:52Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1170,36 +1200,6 @@
    "date": "2026-11-27T18:19:27Z",
    "score": 4,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "287806e5668a78",
-   "title": "US Dollar Strengthens Against Canada's Loonie Even as Treasury Yields, Gold Prices, Rise",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWkwUUZCVmJIUFAxN0VlR1dSRzREbmw3N1dOMjFuNDZscHJ0YUFNMVhYa2dKemtfS3poUzVNR2JkYnYzOFMzLXF0SVQ5UktpTEg3ZTRWdS1SNUxCZEdoblFlM2h0RVdvMnNtUVJkVkdUeXNTX044bG54NmhjWlk5ZzF1bDFIWVJmSXpHcmo4Ukxuc1BvNGdUWTlzNVlQR2JQUTRISU15d3ZkWDM5TzB2UUR2blRqaEhTQlNYUzJkS2hVWjBDeTRTXzkxY2VubVdSb0dtay1B?oc=5",
-   "source": "marketscreener.com",
-   "date": "2026-11-27T18:19:21Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "533490fd0ee389",
-   "title": "Canada Eyes Cannabis Exports to Offset Trade War",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTFUSXBVbVJlRmNlOG1ucTRfYUhZbndRbXlsMUdLdGlySTNzMWloeEYtRU9jRURhbWJPMHhUR3Jac0pEc3ZnUXd3eFZzREVkS3E3RnpreDRHdm1uUl8wNVpmY2VaNkVVRklGSUVUdFp4NkJTT0NtXzM2dXprdWZXdkc0di1hUFhEUVE?oc=5",
-   "source": "Wisevoter",
-   "date": "2026-11-27T18:13:17Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "f032087218cb7e",
-   "title": "For a Little While, Nvidia Faced a Future Without Jensen Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0ktRHJ5RTNmSTNmb1BETWo1QUFxZENBQ2otMTVGakVlTmF5Z2U3ekpxWWlwZmtIME9uRXRXMjVadUdWWkcyVkluaEFKTTFtV21UdXJSUWhsc0dpTHJUTEtsZkRNQ05oU3pvTHBzV0ZJRWg2VE1ZTXV5akVPWF9KSlVpTjluYmRwZjlHekU0bTRsbFJtcHlIWWRQVGtjRVVOTkNTTjBJMA?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T18:11:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
   }
  ]
 }
