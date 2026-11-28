@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T07:54:46Z",
+ "updated_at": "2026-11-28T07:59:29Z",
  "items": [
   {
    "id": "8f759d4ba8fc10",
@@ -132,16 +132,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "49e7daf99a4820",
-   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamRUeHBnWG1YWkJma0U2Tnk4QlQtSHBzMm8wMkxWZTc3NWZEU1lnZ25NS2RuQ0x5MkNmMXU2YVpnTm5yaU55TjVEZjNzbzlSc29yY3Z1R0dzV2VOb0NOTkYzcVF5bGVMcTRwaGtLUXRrUWl3TnJWV3lXQ2gzVGZMRl9ZUHE2a0NaRUdlR3ExQnZ1QnFYU1pjOWoyb1N5VlR0ZHhjTEpDUEhqUkhNWDZv?oc=5",
-   "source": "StoneX",
-   "date": "2026-11-28T05:28:54Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "4a0a4ed3f810b8",
    "title": "Trump and Nvidia: Good for stocks, worrying for investors?",
    "summary": "",
@@ -210,6 +200,16 @@
    "date": "2026-11-28T04:30:08Z",
    "score": 4,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "4592d91867b160",
+   "title": "Nvidia Will Pay $290 Million to Resolve 8-year Crypto-mining Disclosure Suit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0V3OXBxaE5pbWp4UmtmZ3JCc2RleWtnb0hXZFJmUDFaamtHYkRJT0dzeHY5eFlYeVJMQkJIajMwOV9jeXhkUDM0aW9ybjhGNm10dDZEc3lRR2loYUhobzlQb09jLVkwak9tbGpmUUlmRmRyeFRXQU4tSEpxM1VIT0k4Q3hPRVRpUVlWYmE0djE?oc=5",
+   "source": "Briefs Finance",
+   "date": "2026-11-28T04:03:39Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "fd67e8a8c65c21",
@@ -362,6 +362,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "0e31e4408c8ca3",
+   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzVZbnY2RURMam9FbFhlckQ4WFNfQnIzNF9RTE5iQ2FyUHMyWlZsT3dhRzkwMmR3Vm1sSllwOWNUQ1haNWozMjRXMXhVNmRTcGVTUUt5WWhLNk5DVjVOUmE1TTR1YUg1V0pvZjZkZUJxZHFJRktSaG01dTZOeWc0R3YxS1VEeWVzNkF3SUFvLUFvalF0OHU2dW9R?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-28T01:09:00Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "a644f3dc6cf5d1",
    "title": "Hageman's NVIDIA Stock Sold Two Weeks Before CEO Scandal Broke",
    "summary": "",
@@ -399,16 +409,6 @@
    "source": "The Motley Fool",
    "date": "2026-11-28T00:51:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "0e31e4408c8ca3",
-   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdERjS29jVjIwenhCeGhIMmZ1eHlfZzdPd0NxbFJXb0hBT2JlZk9pYUFaS191RTFQNmwtTXJYLUNZN1RiaTdxcVUzTlhBNFlCUnRZeVRvVGNFaGp3WmdEck05NmpZbHNHLVUxQlhORXF4UUpKWENKYmxNY2huRENFX3dTYUNTdm8xWm9LekZHMkowakgzTHEzVlc4ckUyaml0cWdfQVd3LXlMRlAxZ2VBNWFCazlKdUpfcUxDbXlNZkNVTkJoTHV2dWVwZnllV1gxS2QxdTd2akZGSmNXNUp3bDdwSDFwdw?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-28T00:49:00Z",
-   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -515,9 +515,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:56:43Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -962,16 +962,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -1032,6 +1022,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -1049,6 +1049,26 @@
    "source": "TradingView",
    "date": "2026-11-27T19:49:36Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "3fb72626704598",
+   "title": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXhCU0JSVk9nU0hfMTFwNEVXd3V0ZDRNREo5VlM1ZUdCQWZlZ0tEVFlMY1J5MkhPczdmVjdXWElpdHpScTVsMFhrOWV5Qk0tVnBFSzZKb3gzX00wNVBRVHlQajFaYy00YjItYVpFSG1ZX1Z4aTB3UmtRM0lGMHoyS25nSlQzYUxCSGx1aWJsVTM2bHBJMjBz?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T19:48:09Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1122,16 +1142,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "3fb72626704598",
-   "title": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLXRieWlpNzJqdWQ3RVRNQk5WUXBUSUY5WE5oNHdRNXNCekJFc1pWcEViZE95RFRzbDFKWTdDc29VbXNRTTBobDVGQnFnOXg0NFVLRzQ4NUVTeHFmT2NNRkM2WjFVYmxvQTg1UnpRU0R4OGNjbGZIUVpTT2R2VU5DdzFyb1RUYkY4VTBXM0NaTmpGM2h4OUMwVkZiRVFWaS12eEhLUGRrQVVkVDcyODl4ZlQ5dElBRDd6U3ROa2hzS3ZJNm9semJQZkk5ajBsUGVGbnhKajR6ZE1xdUtZ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T19:28:09Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9fb3d60c834fd3",
    "title": "Nasdaq 100 futures price on November 30, 2026",
    "summary": "",
@@ -1150,6 +1160,16 @@
    "date": "2026-11-27T19:21:29Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVlfdUpnN1F3S1ZOSHpoeHdub3REdkVMTjl4OFNwTmJSYUFZVkp1NllNRnZ3LWtoOU9lSTR0RVBIT2Q2TkF3M0toaWM2bl9VN1BTUHp5MVNTYjcwb2g4amd2bEZLQjlNbU9mWURKNkRsUlVPd3ZZbm42SUxqaUdBemRKdVpuRE9LM19jaWp0QU5kUGVpb0dWc194NEtlR2FxQTM3eF9lMi1ReFlzR1ItaTNtS0RRNlo4eUFkeURyREVnRkZOWUVkeWtwSdIB0AFBVV95cUxOaS1Ec0l2b0wyN3NENWxrNngzNFM1cGFTQVhoZGx4NHQtT1dmVXhWYzhnMFhlQ3JmSWZkcy00VGNTQ0J6TEp2U1F2R2kxTUU0MURDbGRKbHo0ZjM2Y3IxbFhZaC1IcTU0V1VqQ05yOWRqTkVtcjhKYk1VUVlCNDRVdVIyRVE4VmkzdkRELU9JbEFLQ2Rid0JTYTROVE5EOFdRSzRxc19vaXI3aUtqcU9rdjl3cFdPTkxqR19wOVNQb0duTHhtSU9td2xQLWFUZWJJ?oc=5",
+   "source": "Livemint",
+   "date": "2026-11-27T19:18:22Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "7e29014b2c7c90",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T19:05:00Z",
    "score": 6,
    "category": "Macro"
-  },
-  {
-   "id": "92e103afc877fd",
-   "title": "Nasdaq leads Wall Street higher as AI stocks rebound after Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDkwSW5VVi1EUGJZOF9xcDdjTUdKWWJvQVBBTmgwMkNPSzVoQ2hScmo1STBNMjhUUjNiaGk4aFA0RnlnVzNmSTNRMUFqczdpeUJYeW9kVTVnSG5RNXRPUENacmhDTWtOdjdZWWkzQU5HQVl5UklFM2t3VFZkd0dEaG9ndERad0VacldVS1VZZkFJSGdIb1ZkdXVJZWR4djA?oc=5",
-   "source": "PrimeXBT",
-   "date": "2026-11-27T19:02:04Z",
-   "score": 9,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "37cf658bfeef96",
-   "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T18:57:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
   }
  ]
 }
