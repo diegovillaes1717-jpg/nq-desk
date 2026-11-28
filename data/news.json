@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T08:18:44Z",
+ "updated_at": "2026-11-28T08:23:26Z",
  "items": [
   {
    "id": "afc4bcd45c2a99",
@@ -142,6 +142,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamRUeHBnWG1YWkJma0U2Tnk4QlQtSHBzMm8wMkxWZTc3NWZEU1lnZ25NS2RuQ0x5MkNmMXU2YVpnTm5yaU55TjVEZjNzbzlSc29yY3Z1R0dzV2VOb0NOTkYzcVF5bGVMcTRwaGtLUXRrUWl3TnJWV3lXQ2gzVGZMRl9ZUHE2a0NaRUdlR3ExQnZ1QnFYU1pjOWoyb1N5VlR0ZHhjTEpDUEhqUkhNWDZv?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-28T05:28:54Z",
+   "score": 9,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "4a0a4ed3f810b8",
    "title": "Trump and Nvidia: Good for stocks, worrying for investors?",
    "summary": "",
@@ -212,8 +222,8 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "fd67e8a8c65c21",
-   "title": "Nvidia to Pay $290M to Settle Crypto Suit",
+   "id": "4592d91867b160",
+   "title": "Nvidia Will Pay $290 Million to Resolve 8-year Crypto-mining Disclosure Suit",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0V3OXBxaE5pbWp4UmtmZ3JCc2RleWtnb0hXZFJmUDFaamtHYkRJT0dzeHY5eFlYeVJMQkJIajMwOV9jeXhkUDM0aW9ybjhGNm10dDZEc3lRR2loYUhobzlQb09jLVkwak9tbGpmUUlmRmRyeFRXQU4tSEpxM1VIT0k4Q3hPRVRpUVlWYmE0djE?oc=5",
    "source": "Briefs Finance",
@@ -222,8 +232,8 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "4592d91867b160",
-   "title": "Nvidia Will Pay $290 Million to Resolve 8-year Crypto-mining Disclosure Suit",
+   "id": "fd67e8a8c65c21",
+   "title": "Nvidia to Pay $290M to Settle Crypto Suit",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0V3OXBxaE5pbWp4UmtmZ3JCc2RleWtnb0hXZFJmUDFaamtHYkRJT0dzeHY5eFlYeVJMQkJIajMwOV9jeXhkUDM0aW9ybjhGNm10dDZEc3lRR2loYUhobzlQb09jLVkwak9tbGpmUUlmRmRyeFRXQU4tSEpxM1VIT0k4Q3hPRVRpUVlWYmE0djE?oc=5",
    "source": "Briefs Finance",
@@ -358,16 +368,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTBTNnlaTUxrQ3ZSNlRCUUNuT1VXTEhVamdsdHVuRkZUNFhYNGtwZWtmLXBOOHNuSXZWd3ppcVd4TlV3X1VCWUlNZ1IxTzZqbDFmUXRoUnZteVlLMmtuUUwzWFVlMkRJTVktN3lfMjdGOW9JNk5aaS1DSHVKZUd2Sl9xa0pTTEp6V0EwczYycnN5SDNDMUE3bFVvTjlkVXFfUjdB?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-28T01:19:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -1042,16 +1042,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
-   "source": "Digital Journal",
-   "date": "2026-11-27T19:53:05Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -1182,16 +1172,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVlfdUpnN1F3S1ZOSHpoeHdub3REdkVMTjl4OFNwTmJSYUFZVkp1NllNRnZ3LWtoOU9lSTR0RVBIT2Q2TkF3M0toaWM2bl9VN1BTUHp5MVNTYjcwb2g4amd2bEZLQjlNbU9mWURKNkRsUlVPd3ZZbm42SUxqaUdBemRKdVpuRE9LM19jaWp0QU5kUGVpb0dWc194NEtlR2FxQTM3eF9lMi1ReFlzR1ItaTNtS0RRNlo4eUFkeURyREVnRkZOWUVkeWtwSdIB0AFBVV95cUxOaS1Ec0l2b0wyN3NENWxrNngzNFM1cGFTQVhoZGx4NHQtT1dmVXhWYzhnMFhlQ3JmSWZkcy00VGNTQ0J6TEp2U1F2R2kxTUU0MURDbGRKbHo0ZjM2Y3IxbFhZaC1IcTU0V1VqQ05yOWRqTkVtcjhKYk1VUVlCNDRVdVIyRVE4VmkzdkRELU9JbEFLQ2Rid0JTYTROVE5EOFdRSzRxc19vaXI3aUtqcU9rdjl3cFdPTkxqR19wOVNQb0duTHhtSU9td2xQLWFUZWJJ?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-27T19:18:22Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -1200,6 +1180,26 @@
    "date": "2026-11-27T19:11:58Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8919cfc3321fe3",
+   "title": "3 US Stocks Retail Investors Are Watching As Tariffs Reshape Steel Pricing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMURZUHVXWmVlTVlSLUgwZUxldlNlb0N1dENnV1BzWEExLTJQTWJEak05SmdkV2R6eGZEZGJxdEl6SFpRYUxPeDIwczhNb0Jsb01XTy1HNnFYdDZPVXRBRjBkQWZXYUs5Q1RPSnNhNVU3ajczRU00X0NQUlFCRG1BTGx3a25YUmNSenlWWmRfNDN2cDZFX3NRV1l5cjI0SDR6dkw2dndUbDZEN3pJTk52SmxnZFpOelZMOUh0WmtUZjVrUQ?oc=5",
+   "source": "Simply Wall St",
+   "date": "2026-11-27T19:11:11Z",
+   "score": 5,
+   "category": "Geopolítica y aranceles"
+  },
+  {
+   "id": "1c52e680c1661f",
+   "title": "Dow Jumps 591 Points as Black Friday Shopping Season Lifts Stocks; Nasdaq Surges 6.7% for the Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsS1ZZdHdtSEl0VlFLMnhUOC1TXzdpQUd0U3JaZlRrMmxpQkhLaGRuMUkwX1kwdWNnSllKX2E5Y2l1RFluUzNBeG9mNHAwMHdxUDFRMkt2aGc5czNaUHh5aEw1Q1ZHMllBVXVpS3RPZEpJb09kYUE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-11-27T19:05:00Z",
+   "score": 6,
+   "category": "Macro"
   }
  ]
 }

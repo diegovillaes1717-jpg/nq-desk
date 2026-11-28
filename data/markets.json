@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T08:18:43Z",
+ "updated_at": "2026-11-28T08:23:24Z",
  "main": [
   {
    "sym": "NQ",
@@ -274,13 +274,13 @@
   {
    "sym": "DXY",
    "name": "Índice dólar (DXY)",
-   "price": 104.01,
+   "price": 104.014,
    "prev_close": 103.67,
    "d": 0.33,
-   "w": 0.19,
+   "w": 0.2,
    "m": 2.09,
    "mode": "pct",
-   "market_time": "2026-11-27T04:59:00Z",
+   "market_time": "2026-11-27T21:59:59Z",
    "spark": [
     101.84,
     101.98,
