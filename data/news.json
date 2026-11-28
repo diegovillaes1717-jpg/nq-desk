@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T02:13:50Z",
+ "updated_at": "2026-11-28T02:18:33Z",
  "items": [
   {
    "id": "2439306e4a0d17",
@@ -10,6 +10,16 @@
    "date": "2026-11-28T01:38:25Z",
    "score": 4,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "a2b1f10aa029f5",
+   "title": "Japanese Yen weakens as steadier equities push US Treasury yields higher",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzJ5LWI0RUxHRXd2VjNFdUFtWXRBWkVHeUZaU19FeUl4WjMybGpmLU83S0l6M21EMGVwZ0tMOWRCamh4TzJpYTExbjVqSHQ4bndNajN0RVpaMXd2X3ZxbTdibkc2djFCR1lneUpPTGw3TFFZUjVKMm1LQUxxQnJmNlZlaHIwSXpvLWphNkpJZWJDLWgtOW9BOW1wREFzUE9pNGttTUliUFAwN0VoeWlXVFN0dElMcXA0clZONjBIeF9sQjlwdEdNMFIwZ1J1Y1pw?oc=5",
+   "source": "www.tmgm.com",
+   "date": "2026-11-28T01:29:28Z",
+   "score": 5,
+   "category": "Fed y tipos"
   },
   {
    "id": "c6dfb242ae4236",
@@ -172,6 +182,16 @@
    "category": "Fed y tipos"
   },
   {
+   "id": "429c0abadebe45",
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
    "summary": "",
@@ -222,16 +242,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "429c0abadebe45",
-   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:17:56Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "7209cf507ab402",
    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - Burlington Times-News",
    "summary": "",
@@ -240,6 +250,16 @@
    "date": "2026-11-27T23:15:32Z",
    "score": 8,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "4617a7e068a01d",
+   "title": "US Chip Rental Rule Slows China's AI Labs, Beijing Calls In the National Team to Prop Up Stocks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MQmVzd18ybWJtdkw4Q3NlR3FaaWhsTUFUd2psTFRoXzhhOFZKZUk5MzRQQmhOSmZIOFVqTmZBeEFaT3hGTHNTZF9fd0V1MzFSclZJWmczMXpHa0haTEpZSGlFUkFqX0tnVjM5eXZkSF94Zkg5T1BUeExVNjJZUQ?oc=5",
+   "source": "Growth Dragons",
+   "date": "2026-11-27T23:08:29Z",
+   "score": 7,
+   "category": "Tecnológicas"
   },
   {
    "id": "ad872ae5407770",
@@ -275,7 +295,7 @@
    "id": "cc8ab0fadb9c12",
    "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMTdObVFNbUNrMThCS2otRmRpVFJzandOblNPY3EtXzVuck1zOGcwRS1fd01CT2M2NzdlQ2pWRFFaekJnLUw4bFFKTUEtVHBVbTJuM1JGVXZpUTRfVGtZT3pFRGRic0otanlqNVM5WXd3a2hrNzVxdW9ndEpYOEZxdm1zUV9QWVBuTVJramdHbmdmMEhDX0ZUVXFWZUdjaFQ0SDlQN0JpN0kwZFlHRFRIT3ZqVHVqUU1CMXp3aVFTdTJvZjl1VEg2Qnc2NHQ4UFUwQm1qSnBZNzgxVE5xcFFYYkp2T3JZMkRXMzRURkEwZzN2SHBQYktZaWlZMNIB9AFBVV95cUxNRGQ3Y1pVb2o4dzhJOHpHVUJROExhaXEwMzNWYy16bnhieWthZVVjblJpVXlRQXNwTFlEUW5XVFdlOC1jQlZ5ZWN3QXA0aFhNS0EtNG1QblVNZXhmdGJBdFFQODdaYVpoRFJSTUJ1ZVVTMlhmd0c2Mzh5MS1QV1lNSXRZcFlVUFNkbUo4dW0zZFpJR2l2RjBWdnBLUG9nZGtpc0VzRXJHLXUxSnNDMmtORHE3YlZUSEpDQm15cFA3QTc0bzlteHJ3WEFxSE14cEYzRkJhNUZQTGV0OEZKaDR3VmlLdE5qMnplaWhmbFloOE13M3FU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXFiS21DOWx3MWFuSG9BS3lsNjZ3SW5GQUczRmpNVTl5RGFoSUpNbVlpLWVranRpTnZLZGtGd2JocTBlNFctTEVXV2cteURMeUNBblZVVnhxVHZCakV0Y1RPbmtHUjI1eUNsZTdEeGNSb1hYWGtFbHJjRmM1N1ZuQjFjQ3h0NE9VSDdkanNyVkgtVTNOYlpOWWVkTnBjNkhPeHU1SV90LTFyaEpsZzNlaXlFR2trVHE2a1dXNkVTTHZ1bl9LeFdUSEN1MmNCLVptUDRBZEpjdUR3N1FBdnRpb1lwOVQzMXdqVU9QRjR0b9IB9AFBVV95cUxNRGQ3Y1pVb2o4dzhJOHpHVUJROExhaXEwMzNWYy16bnhieWthZVVjblJpVXlRQXNwTFlEUW5XVFdlOC1jQlZ5ZWN3QXA0aFhNS0EtNG1QblVNZXhmdGJBdFFQODdaYVpoRFJSTUJ1ZVVTMlhmd0c2Mzh5MS1QV1lNSXRZcFlVUFNkbUo4dW0zZFpJR2l2RjBWdnBLUG9nZGtpc0VzRXJHLXUxSnNDMmtORHE3YlZUSEpDQm15cFA3QTc0bzlteHJ3WEFxSE14cEYzRkJhNUZQTGV0OEZKaDR3VmlLdE5qMnplaWhmbFloOE13M3FU?oc=5",
    "source": "The Economic Times",
    "date": "2026-11-27T22:55:19Z",
    "score": 4,
@@ -762,16 +782,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVlfdUpnN1F3S1ZOSHpoeHdub3REdkVMTjl4OFNwTmJSYUFZVkp1NllNRnZ3LWtoOU9lSTR0RVBIT2Q2TkF3M0toaWM2bl9VN1BTUHp5MVNTYjcwb2g4amd2bEZLQjlNbU9mWURKNkRsUlVPd3ZZbm42SUxqaUdBemRKdVpuRE9LM19jaWp0QU5kUGVpb0dWc194NEtlR2FxQTM3eF9lMi1ReFlzR1ItaTNtS0RRNlo4eUFkeURyREVnRkZOWUVkeWtwSdIB0AFBVV95cUxOaS1Ec0l2b0wyN3NENWxrNngzNFM1cGFTQVhoZGx4NHQtT1dmVXhWYzhnMFhlQ3JmSWZkcy00VGNTQ0J6TEp2U1F2R2kxTUU0MURDbGRKbHo0ZjM2Y3IxbFhZaC1IcTU0V1VqQ05yOWRqTkVtcjhKYk1VUVlCNDRVdVIyRVE4VmkzdkRELU9JbEFLQ2Rid0JTYTROVE5EOFdRSzRxc19vaXI3aUtqcU9rdjl3cFdPTkxqR19wOVNQb0duTHhtSU9td2xQLWFUZWJJ?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-27T19:18:22Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "7e29014b2c7c90",
    "title": "The trillion-dollar CEO: why Jensen Huang’s return to Nvidia defies the superstar CEO myth",
    "summary": "",
@@ -860,6 +870,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -1179,26 +1199,6 @@
    "source": "Seeking Alpha",
    "date": "2026-11-27T17:07:04Z",
    "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "fb3bed5340ddc6",
-   "title": "One Magnificent Seven Stock Could Be a Much Bigger Winner by 2030",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbV9LSU11cWNHcGFLSnF2dThfc2NtRnowY0pvY1p2UFJwTmFwUjB3dlZ2WnZqTnpjdGRIcVMzaWtsbDNhckV4bEpJa1c0RXZiZUhQcWFnVDZ5RXdtdkVucFlJWkozd3FjSFFPdEE4ZEFNc0ZoNVdRUWQ0aGlGLVhvR0M5TFRjOFZlQks5Y3huQlE0c09jZnNqeUJJa2pBSmRFY29NVjdDNXpTcGNRaWc?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-27T17:03:00Z",
-   "score": 4,
-   "category": "Mercado"
-  },
-  {
-   "id": "ef24159cfa3fa4",
-   "title": "Stock Market Today: S&P 500 SPX +1.2%, Nasdaq IXIC +1.5%, Dow DJI +1%, SNDK +10% — 7,500 Target",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRjQxdlp5YTZzNjNpakVqN3pEVE1SZ0FvdWVNUUg2RTIySWtreFVmU0VPMXZXOWd4b1FHRTlTajlkOWVDTFdwWWZIa1Bzcmo3WWJtU0VBdnRRMkdQVVE2QkpEVTJPNkc2eWRZMTZjemg4aWlLUVgzNFRIcTN2MnVRTnlwMkluTWFTTGZKa05zenZaZ3FUaGE2Qmt6MmFJbU5ZampDOXlGZl95S1NOQ3ZzWE92UlhTNW5IdjM4bHB2MnBmcHQzOW1lcFlMZnJGanBTd0E?oc=5",
-   "source": "TradingNEWS",
-   "date": "2026-11-27T17:02:16Z",
-   "score": 6,
    "category": "Tecnológicas"
   }
  ]
