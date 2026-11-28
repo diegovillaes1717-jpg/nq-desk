@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T05:09:21Z",
+ "updated_at": "2026-11-28T05:14:04Z",
  "items": [
   {
    "id": "fd67e8a8c65c21",
@@ -60,6 +60,16 @@
    "date": "2026-11-28T03:13:00Z",
    "score": 3,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "8295996f584f81",
+   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHBkTlFOR3NvTndZZ2JBMmFua2ttcURWb2d6c2FuRElvMm9xMWtQcm5fSS1YcWg2VEhHbGlpbUFpSVpEM2F3NXBZS21KVEk4UXJOZHk3eVFfNzFpblA3dlFab2NTcDBDaGRRSm5TeTZjSWxSTEI0Z2doVFdmVTRZNS04NWF2WU9jWXk5dTREU2FmaEU5aGtpUE9VZHBwUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-28T02:37:00Z",
+   "score": 6,
+   "category": "Fed y tipos"
   },
   {
    "id": "e4444bb8669f46",
@@ -320,16 +330,6 @@
    "date": "2026-11-27T23:37:14Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "8295996f584f81",
-   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2FLbERjWkMxNnVsSDRLQ0g5YnYwamhNUjhiM1pqbkxxd2xuRUxpbHMyQ2piXzlmdzl4TFFxQXhJMDF0NkdPZ3I0anU5UFd1QlpsakFCSFU1Q0V2ZGxvRno0NXBRVWplX28xT2t1aVk0VVJ1YktIeW1DcDRfbVI2VTg2NkRpY21SWnFTUFhUMXhaM2pvTjJNakkwbUhZMV9VakdRYVJMXy1KYms?oc=5",
-   "source": "TheStreet",
-   "date": "2026-11-27T23:37:00Z",
-   "score": 6,
-   "category": "Fed y tipos"
   },
   {
    "id": "cd9186030c5422",
@@ -742,16 +742,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -812,6 +802,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -839,6 +839,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T19:48:09Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -975,9 +985,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -1030,6 +1040,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -1178,26 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG5xb3pnM19rSGp5WldwdHVHOEN6bU9zam5nVGt5TzRXOWw4dVJjdWVlaWRNQVV1cnZ5WGFUZDMzNjFTbWIyenFWbVVwcEx0TTd4bENoT3NkbWVKWHp4dkVUZzBBeExnSzNHRU1tWndmQlNlcG5FRUo2cVAwaFpPZGp1aFRpR29UZk9zcFAtY1BKR1lhSUVkWmh1WUxtbnVqTnNLbm5saWY5c3hXU050NWllZjB1WElMa2xkNEl2LVctQm5hamJEYUpPMjZXWlFTd3J6ZQ?oc=5",
    "source": "TradingView",
    "date": "2026-11-27T18:13:16Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "f032087218cb7e",
-   "title": "For a Little While, Nvidia Faced a Future Without Jensen Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0ktRHJ5RTNmSTNmb1BETWo1QUFxZENBQ2otMTVGakVlTmF5Z2U3ekpxWWlwZmtIME9uRXRXMjVadUdWWkcyVkluaEFKTTFtV21UdXJSUWhsc0dpTHJUTEtsZkRNQ05oU3pvTHBzV0ZJRWg2VE1ZTXV5akVPWF9KSlVpTjluYmRwZjlHekU0bTRsbFJtcHlIWWRQVGtjRVVOTkNTTjBJMA?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T18:11:02Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "2b9fadd7a84c2c",
-   "title": "Sandisk Outperforms Nvidia as Investors Return to Battered Memory Chip Stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGpvcGNoODZMRFNHLWNLRjE2ZmhRS1ZmR1hqd1NZRERfQ19ydkJLZnZ6cjVZNWRjN0RwQzFPbnFRa3loTGRjdzA0N2tKWkVTbWgxUWFCQ1FxTm96ZmtpbXBfaG9QWnJadHFXSjdLbERkQTZfbWtKQlZ6SkIxM3pWU0RPV1RDM2djVEtXd05tLXZ4X1I4ZUJVaXVEaHcxTGlQZHk3ZVVnZmY?oc=5",
-   "source": "Coinpaper",
-   "date": "2026-11-27T18:00:45Z",
    "score": 5,
    "category": "Tecnológicas"
   }
