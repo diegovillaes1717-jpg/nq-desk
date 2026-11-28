@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T01:07:38Z",
+ "updated_at": "2026-11-28T01:12:22Z",
  "items": [
   {
    "id": "9dde6264a88bf5",
@@ -542,6 +542,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -707,7 +717,7 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
    "source": "Stocktwits",
-   "date": "2026-11-27T19:01:43Z",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -750,6 +760,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -930,16 +950,6 @@
    "date": "2026-11-27T18:00:45Z",
    "score": 5,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
-   "source": "mykxlg.com",
-   "date": "2026-11-27T18:00:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "72bbae1990a2c8",
@@ -1142,6 +1152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "f707feb71d5d72",
+   "title": "The Market Is Bracing for Surprises: How Will Huang's Congressional Testimony Affect Nvidia's Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekJOQ2VSLTFXdENkQU9jTV9iNEtnenBYaGQ0OUtYWVdDNldNb3g4NXRROGlLNzRaWFlwUHVzVnY3MmI2Rm5XbUhWZjhJWDB2SFBBUWN0VzBydDBXWHFSVGtxU3BfNDBoYUlpT0lHRVRpX3dTSElZbXEtOVJtOU42S2lmbVFPb0dTNlphdXBsTU1hWlhpQk9MNnJjNnJKbHVsSi1QZW5BTVJFcXNEcWMySy1WZlE0Nnpzb2xsQWc1YnNBbVgtU1o2R2pR?oc=5",
+   "source": "Oninvest",
+   "date": "2026-11-27T16:56:23Z",
+   "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "881249cf0f1b8d",
    "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
    "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
@@ -1178,26 +1198,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMVBpVGg3bkNSOUVDbE1Wb001bzhTNkZoZWZoSWtsOUdHckN4TUFpZjFjUkxpb25va2U5U1k4X0lJbEQ1dlhMS19uSTlCTGhWWTNhUmp5bmdabzA?oc=5",
    "source": "www.tokenpost.com",
    "date": "2026-11-27T16:37:30Z",
-   "score": 8,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "806f004e2ae9b7",
-   "title": "US dollar rises above 104 points as Treasury yields rebound",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3hVXzFqd2RXMFktcUw4cWhoQjdhb3dOODVNMk1vUzB5NnhvNm4yM0ZNNTl1NGhBRmgxSTRvRFlkTEpXaHpuTWZFQnlUcUhRVTdlYURLUTR0QUlnNTN0TTlsVUhJX3JvRG05WGl3cTd2dFpyTFpjRmpkZkdYRHFUdDc4OVJhckJhbUdWZXoxQ3p0UXJueGFmSUhXRVExNjRpdFlyMGw1NEtMeERZbWZMSXZ4bjYzeEND?oc=5",
-   "source": "Economies.com",
-   "date": "2026-11-27T16:36:00Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
-   "id": "107396776df526",
-   "title": "Dallas Fed's 12-month Trimmed Mean PCE inflation rate rises in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUFlbThMN2ZKNkdlYjZtenNLNnh4Z09CZmNnUmltUnlwOG5sd3ZkWlF6cjRFdnNRV0pJYl9KWE1RbnFSVVhyU3lXa0FYNzN6N3ltMk1QOWxVc2RRTzZZa2JVZ05xemt0eDNGNXhaRjBIRTMxNEVpV1dOU0hnY1hFOUVLTUpKWmlmSVRHbkhSck1RT013d2JFUG12SFZxczA0MkVjRk41Q2lDb3luaVFrRVkxa0dGdWR5RVVCNTZIVzhETi1ld3FhZ1k5eTBBdw?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T16:31:32Z",
    "score": 8,
    "category": "Fed y tipos"
   }
