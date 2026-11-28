@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-28T11:00:43Z",
+ "updated_at": "2026-11-28T11:05:26Z",
  "items": [
+  {
+   "id": "ec84dee8518c2a",
+   "title": "The Fed is unlikely to rescue the AI trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhcmxXNDhsS0JaY1RVVkpkWTZEeXBvamZ3M0ktS2ZWWURjMkVfWG8xQXVsZU5DOWR5bUg1dzNLNTdNRnByZkUxUlhPazRJZTdHc1VVMkkybTNZbmlUbTVWYTYwbno1YzJmc3d3M25feU9TaWRld0E?oc=5",
+   "source": "Invezz",
+   "date": "2026-11-28T11:01:23Z",
+   "score": 7,
+   "category": "Fed y tipos"
+  },
   {
    "id": "7a68554764be3a",
    "title": "3 U.S. Steel Stocks With Tariff Support Investors Should Watch",
@@ -42,6 +52,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "d90b2ce18a61e6",
+   "title": "Canadian tariffs to further raise prices, a top concern for voters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEd4eFVVOUQ2VTRQd01md0h2clVBU0dSVUx0U0Nudmx4WFlVNm5VakYwaDRQUTZSYzZDS25PWjI0TjlEWVU3R0U1Qjh1OW56Tjd6MG8wQjZvQ2xaeWhMYzZuSmFkd1c3OWtfMVdmdEVIUC1LZHNHSXFhVEZnaGo0UEdfSW9IbzJmM05NbjNiYXd6OVdEQmRTYlJXaWRYa0U?oc=5",
+   "source": "News From The States",
+   "date": "2026-11-28T09:32:34Z",
+   "score": 3,
+   "category": "Geopolítica y aranceles"
+  },
+  {
    "id": "b1644699e7c9ff",
    "title": "'He Doesn't Have Integrity': Suze Orman Says Jensen Huang Should 'Never, Ever, Ever Come Back' but Won't Sell a Single Nvidia Share",
    "summary": "",
@@ -60,16 +80,6 @@
    "date": "2026-11-28T09:06:02Z",
    "score": 12,
    "category": "Macro"
-  },
-  {
-   "id": "d90b2ce18a61e6",
-   "title": "Canadian tariffs to further raise prices, a top concern for voters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEd4eFVVOUQ2VTRQd01md0h2clVBU0dSVUx0U0Nudmx4WFlVNm5VakYwaDRQUTZSYzZDS25PWjI0TjlEWVU3R0U1Qjh1OW56Tjd6MG8wQjZvQ2xaeWhMYzZuSmFkd1c3OWtfMVdmdEVIUC1LZHNHSXFhVEZnaGo0UEdfSW9IbzJmM05NbjNiYXd6OVdEQmRTYlJXaWRYa0U?oc=5",
-   "source": "News From The States",
-   "date": "2026-11-28T08:34:21Z",
-   "score": 3,
-   "category": "Geopolítica y aranceles"
   },
   {
    "id": "56912a5a952970",
@@ -502,16 +512,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "fda2e0061b95ca",
    "title": "Fed Rate Hike Odds Rise To Almost 100%: Can AI Selloff Force A Rethink? - TalkMarkets",
    "summary": "",
@@ -675,9 +675,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:56:43Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1005,7 +1005,7 @@
    "id": "e0f2e558b799c6",
    "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNHTjdIUlp0OUVGTWdNZnJtcTdWeGpSSE5UbE9WSmhYVFRYUGhPOHRBd2VIa2tuVU9PZUJOS2wxTjZUWWdUXzFmdG14QzlueFZLYXVqZDJIeEFQTkYxbjVlekw3WGZBNmVsdGtBbTZPZ2tSQkQwQjM0d25PRDlrZkM4T2tHc2lFY1pTOExyNmRHZXEyRW1TMlE5VWFZQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE51enZXN3pnUnkxSy1xYWIzNXRjLTJMV3phcHBsRFJjVURSUXJFTk9nTC1GUWF5N25JVWxiUDlNcC1KbDQ1THZUV2FTNDNfR1o3OWJHWVRwTWFTOWMtZkt0M21QQ0Q1WW9mM1k1WWRMamlDeFJHMGY1bkpVXzJCMWxuUUR5LUdvYlJWRlNZWDBZVEVR?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-27T21:18:40Z",
    "score": 5,
@@ -1162,16 +1162,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -1199,6 +1189,16 @@
    "source": "Investing.com",
    "date": "2026-11-27T20:12:29Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "a8bfc3819781da",
+   "title": "Nasdaq 100 futures jump 2.2%, but tech’s November is still a mess",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ya0d3bXEyTGxsdFdWeFFaZlpiNDZITXQ5QVJXVE9jR1Z4OVlXQVVyYmFtX1VudlhUXzJkRHJaUFloUXVyQVVxMDVHM2VsS3FyOEE?oc=5",
+   "source": "Digg",
+   "date": "2026-11-27T19:53:34Z",
+   "score": 6,
    "category": "Tecnológicas"
   }
  ]
