@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T00:20:16Z",
+ "updated_at": "2026-11-28T00:25:00Z",
  "items": [
   {
    "id": "bfc105cda5f07a",
@@ -229,6 +229,16 @@
    "source": "Investorsobserver",
    "date": "2026-11-27T21:48:27Z",
    "score": 7,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "c4ec10e0e324e8",
+   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGFaeGdfWUItclpPYnNFNWhQR1ZWTWpRTUl6LVF2dDFHX1NvRk5Vdks3cjc5LW1YQjR3VW9lNVNqa0Rwd1hIWmt4U2czUkttM1dlM3l6bWRETlNDaUswRWp5SXo1VmRHcnJpT3FNeERwWVE1QzJGZVY2U1BQeTQ0bjB1NVgtdWxvT0Jnd0s2NFc4MGpEWHFrYUw0anFaYkNEQWZPYnpkUEhJQUxQeW5ZMTlR?oc=5",
+   "source": "FOREX.com",
+   "date": "2026-11-27T21:43:46Z",
+   "score": 6,
    "category": "Tecnológicas"
   },
   {
@@ -575,9 +585,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T19:01:43Z",
    "score": 4,
    "category": "Tecnológicas"
   },
@@ -620,16 +630,6 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
-  },
-  {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T18:39:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -912,16 +912,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "c4ec10e0e324e8",
-   "title": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS0xRW9YRGNZLU1FWHFtR0dtUUJsSDFhcFVJSkpNQWJ0UXJOU2hGcWh5MkJBRU9lQjFkZzR5UXlIbG9peFV0NU52QUE2S0ozdVE0eE93ekRnQkZmUFhfOWxHSVhZR19sYzM0OG1kVDFkX2cyeUYxX2JYMlBUdXBtSGFqYjZrTV91dHRUVmRCcGtYbjk2OWNOdV80UnlrQzJRSl9SRDlQLWh0ZDVwRG1reFVJVDlxUUgxVHRCTUJ30gG-AUFVX3lxTE9FLTFFb1hEY1ktTUVYcW1HR21RQmxIMWFwVUlKSk1BYnRRck5TaEZxaHkyQkFFT2VCMWRnNHlReUhsb2l4VXQ1TnZBQTZLSjN1UTR4T3d6RGdCRmZQWF85bEdJWFlHX2xjMzQ4bWRUMWRfZzJ5RjFfYlgyUFR1cG1IYWpiNmtNX3V0dFRWZEJwa1huOTY5Y051XzRSeWtDMlFKX1JEOVAtaHRkNXBEbWt4VUlUOXFRSDFUdEJNQnc?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-11-27T17:28:36Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "9681c6077677d8",
    "title": "Anthropic shares climb nearly 10% to $90.91 after Nasdaq rollercoaster",
    "summary": "",
@@ -1199,6 +1189,16 @@
    "source": "Benzinga",
    "date": "2026-11-27T16:00:13Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "64d3b084bee0a9",
+   "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
+   "source": "Fox Business",
+   "date": "2026-11-27T16:00:02Z",
+   "score": 4,
    "category": "Tecnológicas"
   }
  ]
