@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T01:12:22Z",
+ "updated_at": "2026-11-28T01:17:05Z",
  "items": [
   {
    "id": "9dde6264a88bf5",
@@ -10,6 +10,16 @@
    "date": "2026-11-28T01:05:58Z",
    "score": 3,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "a644f3dc6cf5d1",
+   "title": "Hageman's NVIDIA Stock Sold Two Weeks Before CEO Scandal Broke",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVBa19WbWEtQUVWOFljelVOR3dod0xySGtPQTRYLUQ4UjdObURxSFl1amtsaTNzazlxSjA5NS1JZUFWLTVpVzQ4STFFUDBHT0lYcW1KWjBGeWdRNHRmeGpPRWgyUkxxY1lMWVJMVkF1UUVzRlozRjZJWTc5THlMRjk0RllwQUJWR0Nka0VKSXlsUFJ6TmI1ZEtYMzdWNTZ2Mnl3dQ?oc=5",
+   "source": "Cowboy State Daily",
+   "date": "2026-11-28T01:04:00Z",
+   "score": 3,
+   "category": "Tecnológicas"
   },
   {
    "id": "c6dfb242ae4236",
@@ -402,6 +412,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "e0f2e558b799c6",
+   "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNHTjdIUlp0OUVGTWdNZnJtcTdWeGpSSE5UbE9WSmhYVFRYUGhPOHRBd2VIa2tuVU9PZUJOS2wxTjZUWWdUXzFmdG14QzlueFZLYXVqZDJIeEFQTkYxbjVlekw3WGZBNmVsdGtBbTZPZ2tSQkQwQjM0d25PRDlrZkM4T2tHc2lFY1pTOExyNmRHZXEyRW1TMlE5VWFZQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-27T21:18:40Z",
+   "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "bdcfc6e22e7484",
    "title": "Invesco NASDAQ 100 ETF (NASDAQ: QQQM) Raises Every Single Position In $249.9 Million Uniform Buying Session",
    "summary": "",
@@ -540,16 +560,6 @@
    "date": "2026-11-27T19:54:22Z",
    "score": 6,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "5566e827461000",
-   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
-   "source": "Digital Journal",
-   "date": "2026-11-27T19:53:05Z",
-   "score": 4,
-   "category": "Fed y tipos"
   },
   {
    "id": "49923f86b56f02",
@@ -762,16 +772,6 @@
    "category": "Macro"
   },
   {
-   "id": "0a4cf841b4d98e",
-   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
-   "source": "The Economic Times",
-   "date": "2026-11-27T18:39:27Z",
-   "score": 4,
-   "category": "Fed y tipos"
-  },
-  {
    "id": "1e6b08bf6c2759",
    "title": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
    "summary": "",
@@ -950,6 +950,16 @@
    "date": "2026-11-27T18:00:45Z",
    "score": 5,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTlSWHh2dnhPV2JyMjhtRUNOenVvdXd5aU1ZTW5vZzNnUHllUTY0QklNMGFEc3ppZS1OdVBhQ2hlNHBxMVRCdkxMcUdUbUxoLTJsbnhDLUYySURvajBXdFF4anVtbnprb3ZSdDUtUzlTWmFpRU9ZMVhJT3hhNGRCQXZfN1A0X0NQdHZNQy13a3VQaFFma2Q2ekIwOXBFMVlHX1dRNkNKd0VZbFcxSU5xYUstYTJTQ1hHbXV2NUpwSXRudk9ma1ZsWndsb2xkcVBhMDBiN0JMMXA0VFdrVDJzME9sQlRkQTIzSmw0?oc=5",
+   "source": "mykxlg.com",
+   "date": "2026-11-27T18:00:00Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "72bbae1990a2c8",
@@ -1190,16 +1200,6 @@
    "date": "2026-11-27T16:38:35Z",
    "score": 4,
    "category": "Tecnológicas"
-  },
-  {
-   "id": "28c8baddbfe929",
-   "title": "Dallas Fed’s Trimmed-Mean PCE Inflation Rate Rises to 2.4%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMVBpVGg3bkNSOUVDbE1Wb001bzhTNkZoZWZoSWtsOUdHckN4TUFpZjFjUkxpb25va2U5U1k4X0lJbEQ1dlhMS19uSTlCTGhWWTNhUmp5bmdabzA?oc=5",
-   "source": "www.tokenpost.com",
-   "date": "2026-11-27T16:37:30Z",
-   "score": 8,
-   "category": "Fed y tipos"
   }
  ]
 }
