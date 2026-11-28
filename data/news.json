@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T09:29:26Z",
+ "updated_at": "2026-11-28T09:34:10Z",
  "items": [
   {
    "id": "b1644699e7c9ff",
@@ -380,6 +380,16 @@
    "date": "2026-11-28T02:35:00Z",
    "score": 6,
    "category": "Fed y tipos"
+  },
+  {
+   "id": "bf2ecb2ed7987c",
+   "title": "MPIA interactive stock chart | m+ Nasdaq-100 Accelerator Autoc stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jY3JnWkpKSGhWbzNpdGV0WWJBNG1QeDBTM1BaYmEwVnNaVnpHbnZGUVFRdDZfU3U3WS0wck1OcENEa2RGb3d5alZkY3NjdHpt?oc=5",
+   "source": "Yahoo Finance Australia",
+   "date": "2026-11-28T02:29:03Z",
+   "score": 4,
+   "category": "Tecnológicas"
   },
   {
    "id": "895191eba4a78d",
@@ -1142,6 +1152,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -1180,26 +1200,6 @@
    "date": "2026-11-27T19:41:00Z",
    "score": 5,
    "category": "Macro"
-  },
-  {
-   "id": "acde82e0559910",
-   "title": "Nvidia, Micron, and Sandisk Trade at Half the S&P 500’s Forward P/E. They Are All Genius Buys.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDhySGlxeXBaWE1ncDJVOE9IUDg4aUthNFhndVJpVVdDYlZVUEthUTdmNUlsWkU4bFBqZUtZS2xqQWw0OWNEWG5yTFNSMVZrVXJ0MUl5eU4yY21ZR2h3NXo0VnhrRmZTdURoSzdHR0hjSjlla2FKT1VFaWlMUTh5SmRJbU0zRm1qTVBxWE5jUnd2N0IxZUthLTEtRVFDYWJOd3M0UXlnSVhMOG5ONEZJNi13VEgtZlFrV3ZncDE1NktubmhoQzdXYnl0R1pNUy1OM3FV?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-27T19:38:02Z",
-   "score": 5,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "d571ce94dad8b6",
-   "title": "Nvidia: If You Didn't Sell Before The Jensen Huang Drama, It's Too Late Now (NASDAQ:NVDA)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2hEZkxFOVhkWGoyN3cxaEdEaV9pM0NYdHEzd1JVaFhXUzRlX2s0TjlBMy1IaUdDZlZfcm1GTEtIcG9HU0czNUI4NWpSTms5eDl3NUZJTDlaaldIMkpfZXY2WDBOZExBTDVIV005Yi0yRTY4NXViN2ZCZDA1SkV1U2VxbFVjQi00VkpjdXE5Tmhya3Zpc3lITGVBRi1lUDVIZ0k4S2lJeEJtUGV1bHhlcHVR?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-27T19:35:44Z",
-   "score": 7,
-   "category": "Tecnológicas"
   }
  ]
 }
