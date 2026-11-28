@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-11-28T00:25:00Z",
+ "updated_at": "2026-11-28T00:29:44Z",
  "items": [
+  {
+   "id": "484b59469969c1",
+   "title": "Fed's aggressive rate hikes risk economic downt...",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWZIQUtUZnZmRFpONVNqQmFqMm5BSzU1Z2R0Z0xpU2R6RmF2MjUyVDVYdGZocHpuRDFXUTNpNnplMnFqUjNPVzQtbUFuSHdhNW52ZzI3cmtiNHhNdjRlQ20xVmxiN196YzVXZVJuaUFfNEZ2ZWVwUFJZQWNzMUV4bmxUc0N4bHByeEpF?oc=5",
+   "source": "Pluang",
+   "date": "2026-11-28T00:25:53Z",
+   "score": 6,
+   "category": "Fed y tipos"
+  },
+  {
+   "id": "2439306e4a0d17",
+   "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Sandisk Soars 16%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjB6alJDWFVKOFVmbGN3VTdpMlhoOElwdE1lWDlXVzZtLXZKREdTOHJVV1R0RUpBazcyUWxnbzJqa1hReGRnYTBNY05vRGsyVHdYVG1jcjhBM3BGLXNITThsTWcwd3UyR3h6QV9uWXpRY0tBWHlkWjgwZm5jalV3NHNvM0xfenozTUdnZ2U5Rld6aW1QaUt2eEE1YW5aSXRtSWpUTDhzRU1ncjExWG5HczcyRVA1MXBiUnd2cnVjSFRjUQ?oc=5",
+   "source": "FXEmpire",
+   "date": "2026-11-28T00:24:55Z",
+   "score": 4,
+   "category": "Tecnológicas"
+  },
   {
    "id": "bfc105cda5f07a",
    "title": "Markets Bet on Fed, ECB and BOE Rate Hikes Over the Next 12 Months as High Rates Could Last Until 2031",
@@ -149,6 +169,16 @@
    "source": "Rolling Out",
    "date": "2026-11-27T22:37:49Z",
    "score": 5,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0e9c32a119f389",
+   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NZUkZkdzB5eGtJNFZPYzdDaGRXT2hFQU1UWHdVRXZ4TnY2bEI4TmNsQXJPUXVkalBmSU94LXNnVHZpaVlGOWpsNXpwYmNrTFdNal9TSW5HZzUwSDBoVVdseWpzWXMySmI4VG8yZEhVTjJ1SVR2UEVFcDFSYVFPTFJyYnZOUUZLa3VWSjZ2OHJUZzc2NDMzMzU5LVV4RjdwT3U3LThWaU5tU0xxUWl1T0x3a3AwUXhEc3AzNFdKZUszMGFpdWdEemFwWHJ0YTc4VWFLRl9hVUtzWkFIcHEyNTRaTTdCU3RuZ2c?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-27T22:30:34Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -402,16 +432,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "2439306e4a0d17",
-   "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Sandisk Soars 16%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjB6alJDWFVKOFVmbGN3VTdpMlhoOElwdE1lWDlXVzZtLXZKREdTOHJVV1R0RUpBazcyUWxnbzJqa1hReGRnYTBNY05vRGsyVHdYVG1jcjhBM3BGLXNITThsTWcwd3UyR3h6QV9uWXpRY0tBWHlkWjgwZm5jalV3NHNvM0xfenozTUdnZ2U5Rld6aW1QaUt2eEE1YW5aSXRtSWpUTDhzRU1ncjExWG5HczcyRVA1MXBiUnd2cnVjSFRjUQ?oc=5",
-   "source": "FXEmpire",
-   "date": "2026-11-27T19:58:53Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "94b671373eb5df",
    "title": "Costco Wholesale (NASDAQ: COST) stock price forecast: Wall Street weighs valuation risks",
    "summary": "",
@@ -630,6 +650,16 @@
    "date": "2026-11-27T18:41:43Z",
    "score": 4,
    "category": "Macro"
+  },
+  {
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVURSQ1IxWHBqSHRJVENIUEx1SndtOXhEczJwRU9zdmtYelpuMXRpQ2pTTkt4ZnNkSEJUODBjakZSRnZqYUJmMy1MM0wyaGlDSy10WUtwbkRta1VUNzV4V3c0dlpHc1B0dm9GSEhIek9hTTVCSldqME9QNlF1M2NxV0hFcjlnS0xSN3VWN0Q5V3BIVlR4eThRakJfQldua0t1NDhENy11TXpTeFNjTlNoU0JYcWNZYXVJbEdyTGhjWlBVUXlpMlVDZTVqb0lDN04zc1c1ay1WazkwdkVYbWg1LVJOSVFTWWNS0gHuAUFVX3lxTE5wekFYejFmaXAwbDkyTF9jZzYzUFVualhIVVk4UUM4UzZhS08xV0ZFYklFR2JBdnZxSm5OZTBlUGQ0X0cxZE9KcnFqdEItNHdWYWxLckFMcFNET0duTjlOWkJfS0RaR1V6Yml4U3Z2NGlHcTFtY3JQbjU0ZF82clZ5TjJ0RDFUTHJBT0R3YXo3X0RoekptNS1fYXNpQXZHb1hBUWR4MU5PSzl3Vzc0OEdINk1nUzBRZHhReWtHYm56bl9yVHNyZnFURG10T0NCZm9wWGlMX3BVcEpXWm9ZOWI2NU9GcHBZcHl4WExzYUE?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-11-27T18:39:27Z",
+   "score": 4,
+   "category": "Fed y tipos"
   },
   {
    "id": "1e6b08bf6c2759",
@@ -1169,36 +1199,6 @@
    "source": "Business Insider",
    "date": "2026-11-27T16:04:00Z",
    "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "b818c50f164463",
-   "title": "SanDisk, AMD and Broadcom shares rebound as investors return to battered AI shares; what changed on Wall Street?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdWFvYkVtcFBUWGRpTjdpY2ZUaWV2ZmNxalhlSlhkNTQwcFd5ZVpIeHRvTGFIcTRLb3ItWmdnSnU1V214TnJwb0htUHBmSjF0a3d0SWZXcGtmQkNaNGlERi00YmJHallfOFRkbmNMY3BJQjRUZGVWdDZqTkZrUktCSHZrWjlQd3MwbVNCX2FXVEJsSnpYdjBPWnRUYk56SnRHVFoxN21PTmVlTHAycjlhejA3MVRONGVwclE4UTFHaGZaWUw3Y1ozZlBoRmdIREhRSjAtSmJPeFczSkdJeVYtZF9DVXFQMkJ3MGx1d1dtallhTFF3QVJYbU9sbDdkc28xQy1hTkdfUmVBTzDSAZACQVVfeXFMTnpNb243dkU1cVdaWTQ5X05BQThnNWkta0VkTXRzRHJBSWlUNXRwSXQyRE5Oc1dIUDBHa2pBdkNmaktWTEZhTEM5S3BPUFVTcEY2TXgxTUxiXzJERFlJaEhoQnhZbFhsWGJSaWNyeERMQU9zM0EwdV80eGNUTS1BclhJNHFhNTEydFk5RUxrZjZmU1VKUTg4V3lpemNTQ2dHMFBIVXVjc0xQdTZvRk5iUFpqNzZEc05DUHR5RWljVGhnUWtHYm1nallVOHRvWW55cWpRc2VTZXQ2Y1pwcHJYVkVUWVhkN3QwQklmcFZWMFFOMEcyY1dqTVhnRFU0N1JLODF2SW9BZWVaanMzUTRKSTM?oc=5",
-   "source": "Livemint",
-   "date": "2026-11-27T16:00:32Z",
-   "score": 7,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "61d3b0c03ffb77",
-   "title": "Nvidia Stock Set for Rollercoaster Ride as Jensen Huang Faces Congress: Dan Ives Says ‘All the World Watching’",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaVhIbnl1MWEzbWhhVV9ZeFI1LVJYNjBaVVA0SDNubjFFWFdZa0RWRVlpTUtHS0xMR2ZZWGZYZWlIVFltOUdyWlZPT3UtVUNzTXVNMV9RcDhBYVVTanR5YWVjRUdDcVMxcHF2Q0hDcU90R0dndGNzajlHQ2J6UHVPMlpSb1VDd1cwUmxmNGJLSFRLSzBHNzVWcWIyZVI0NUFRSEM3blZpelpVWGlseWZGdWhUYnVkQ0lJeHdYdU1FWU1zbXZKOWFvZngxd3NVSVgyM01QNlhfdU1kSnRLVzNtRDV1RV9ucTZsVUYtenpZQjcyZEJjZHQ4aVlob2x0TmJfRTNwc3BkQng4ZlVZakZ6TA?oc=5",
-   "source": "Benzinga",
-   "date": "2026-11-27T16:00:13Z",
-   "score": 3,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "64d3b084bee0a9",
-   "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
-   "source": "Fox Business",
-   "date": "2026-11-27T16:00:02Z",
-   "score": 4,
    "category": "Tecnológicas"
   }
  ]
