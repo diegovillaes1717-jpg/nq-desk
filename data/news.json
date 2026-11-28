@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T08:08:55Z",
+ "updated_at": "2026-11-28T08:13:39Z",
  "items": [
   {
    "id": "afc4bcd45c2a99",
@@ -139,6 +139,16 @@
    "source": "JournalArta",
    "date": "2026-11-28T05:37:03Z",
    "score": 4,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "49e7daf99a4820",
+   "title": "Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamRUeHBnWG1YWkJma0U2Tnk4QlQtSHBzMm8wMkxWZTc3NWZEU1lnZ25NS2RuQ0x5MkNmMXU2YVpnTm5yaU55TjVEZjNzbzlSc29yY3Z1R0dzV2VOb0NOTkYzcVF5bGVMcTRwaGtLUXRrUWl3TnJWV3lXQ2gzVGZMRl9ZUHE2a0NaRUdlR3ExQnZ1QnFYU1pjOWoyb1N5VlR0ZHhjTEpDUEhqUkhNWDZv?oc=5",
+   "source": "StoneX",
+   "date": "2026-11-28T05:28:54Z",
+   "score": 9,
    "category": "Tecnológicas"
   },
   {
@@ -362,6 +372,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "4bad023cedb8f5",
+   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
+   "source": "Dailyhunt",
+   "date": "2026-11-28T01:17:46Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
+  {
    "id": "fda2e0061b95ca",
    "title": "Fed Rate Hike Odds Rise To Almost 100%: Can AI Selloff Force A Rethink? - TalkMarkets",
    "summary": "",
@@ -525,9 +545,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T23:56:43Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T23:52:26Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -1042,6 +1062,16 @@
    "category": "Tecnológicas"
   },
   {
+   "id": "5566e827461000",
+   "title": "Burghley Capital Says Fed Minutes Favour More Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzMxN1JiWXBMZjUzR21raV9aSHJLb1o5X1FrcW1NWHBpaE92Zy1YaWhwZkFFeHNPT1Q2eWhCdlpGZWRBS0FJTFZWdXRXdU56MnBHZXZRY3lpYU5tcFcyaEJURUFHVUh2X1FuREw5TEY0M1pzR1pOWFI0TTM0WEdwekU3S0JRcGxFNWlhWGhYekcyN2lMTTVDT29Zb09FTnJxTGdTbHdrZw?oc=5",
+   "source": "Digital Journal",
+   "date": "2026-11-27T19:53:05Z",
+   "score": 4,
+   "category": "Fed y tipos"
+  },
+  {
    "id": "49923f86b56f02",
    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
    "summary": "",
@@ -1162,44 +1192,14 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "8919cfc3321fe3",
-   "title": "3 US Stocks Retail Investors Are Watching As Tariffs Reshape Steel Pricing",
+   "id": "0a4cf841b4d98e",
+   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMURZUHVXWmVlTVlSLUgwZUxldlNlb0N1dENnV1BzWEExLTJQTWJEak05SmdkV2R6eGZEZGJxdEl6SFpRYUxPeDIwczhNb0Jsb01XTy1HNnFYdDZPVXRBRjBkQWZXYUs5Q1RPSnNhNVU3ajczRU00X0NQUlFCRG1BTGx3a25YUmNSenlWWmRfNDN2cDZFX3NRV1l5cjI0SDR6dkw2dndUbDZEN3pJTk52SmxnZFpOelZMOUh0WmtUZjVrUQ?oc=5",
-   "source": "Simply Wall St",
-   "date": "2026-11-27T19:11:11Z",
-   "score": 5,
-   "category": "Geopolítica y aranceles"
-  },
-  {
-   "id": "1c52e680c1661f",
-   "title": "Dow Jumps 591 Points as Black Friday Shopping Season Lifts Stocks; Nasdaq Surges 6.7% for the Week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsS1ZZdHdtSEl0VlFLMnhUOC1TXzdpQUd0U3JaZlRrMmxpQkhLaGRuMUkwX1kwdWNnSllKX2E5Y2l1RFluUzNBeG9mNHAwMHdxUDFRMkt2aGc5czNaUHh5aEw1Q1ZHMllBVXVpS3RPZEpJb09kYUE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-27T19:05:00Z",
-   "score": 6,
-   "category": "Macro"
-  },
-  {
-   "id": "37cf658bfeef96",
-   "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-11-27T18:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVlfdUpnN1F3S1ZOSHpoeHdub3REdkVMTjl4OFNwTmJSYUFZVkp1NllNRnZ3LWtoOU9lSTR0RVBIT2Q2TkF3M0toaWM2bl9VN1BTUHp5MVNTYjcwb2g4amd2bEZLQjlNbU9mWURKNkRsUlVPd3ZZbm42SUxqaUdBemRKdVpuRE9LM19jaWp0QU5kUGVpb0dWc194NEtlR2FxQTM3eF9lMi1ReFlzR1ItaTNtS0RRNlo4eUFkeURyREVnRkZOWUVkeWtwSdIB0AFBVV95cUxOaS1Ec0l2b0wyN3NENWxrNngzNFM1cGFTQVhoZGx4NHQtT1dmVXhWYzhnMFhlQ3JmSWZkcy00VGNTQ0J6TEp2U1F2R2kxTUU0MURDbGRKbHo0ZjM2Y3IxbFhZaC1IcTU0V1VqQ05yOWRqTkVtcjhKYk1VUVlCNDRVdVIyRVE4VmkzdkRELU9JbEFLQ2Rid0JTYTROVE5EOFdRSzRxc19vaXI3aUtqcU9rdjl3cFdPTkxqR19wOVNQb0duTHhtSU9td2xQLWFUZWJJ?oc=5",
+   "source": "Livemint",
+   "date": "2026-11-27T19:18:22Z",
    "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "71e561df4e7fb5",
-   "title": "Chip stocks lead a holiday rally that cuts the Nasdaq 100's one-month loss to about 10%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjVzazFYUFMyd19SSkY0d0tHUlVhdzhqU2p0Mm84STlyaXhnTVMxYU9Rdlk4ZHZtRndVOGJwT2hiVjJHUzFEZTNWeDZqOUdqYVRaZ1pzU25TZGg1VG4zM2R6a3I1cGwtdjdYQkZ5M2pja1JwbTVLYno4VThmODZCZVFtRFNIc1A2QTRfUnA4TXdmdWRiWERVcm16LUdVdTRnellla1VyeTV5WFZLclVRMF90b0ZVeVdQMkE?oc=5",
-   "source": "Quantisnow",
-   "date": "2026-11-27T18:51:32Z",
-   "score": 11,
-   "category": "Tecnológicas"
+   "category": "Fed y tipos"
   }
  ]
 }
