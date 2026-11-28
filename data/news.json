@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T10:51:15Z",
+ "updated_at": "2026-11-28T10:56:00Z",
  "items": [
   {
    "id": "7a68554764be3a",
@@ -498,16 +498,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTBTNnlaTUxrQ3ZSNlRCUUNuT1VXTEhVamdsdHVuRkZUNFhYNGtwZWtmLXBOOHNuSXZWd3ppcVd4TlV3X1VCWUlNZ1IxTzZqbDFmUXRoUnZteVlLMmtuUUwzWFVlMkRJTVktN3lfMjdGOW9JNk5aaS1DSHVKZUd2Sl9xa0pTTEp6V0EwczYycnN5SDNDMUE3bFVvTjlkVXFfUjdB?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-28T01:19:00Z",
-   "score": 6,
-   "category": "Tecnológicas"
-  },
-  {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
    "score": 6,
    "category": "Tecnológicas"
   },
@@ -1200,6 +1190,16 @@
    "date": "2026-11-27T19:53:34Z",
    "score": 6,
    "category": "Tecnológicas"
+  },
+  {
+   "id": "49923f86b56f02",
+   "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG00dUVjZFhJM0F4aHEyYVhzRW93V29aWVJnR3BQLXdzRFBDRmdocmg4V2JxeF9TeG9KY012eWo5QlRTUzFlSE9kaDFvbmVEWC1jQWxsb3NnNkZ4VWdtZmJHSnJOZEE1YTNEcmxWMGNGcEt3UmZvV0ZQZl83a1R6dVdMX2w0NHYyZjIwcGtlbFN2Zm5mVkZSX0VEemFTNnc2NkR3dXpBVXkwUkhxWGNIUHJ4WDZERTc1YmhaZ3dvZ0VXeEwtZjR4R3RDTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:52:42Z",
+   "score": 7,
+   "category": "Fed y tipos"
   }
  ]
 }
