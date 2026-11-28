@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T06:34:30Z",
+ "updated_at": "2026-11-28T06:39:13Z",
  "items": [
   {
    "id": "f9fee2964c4366",
@@ -212,16 +212,6 @@
    "category": "Fed y tipos"
   },
   {
-   "id": "0e31e4408c8ca3",
-   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzVZbnY2RURMam9FbFhlckQ4WFNfQnIzNF9RTE5iQ2FyUHMyWlZsT3dhRzkwMmR3Vm1sSllwOWNUQ1haNWozMjRXMXhVNmRTcGVTUUt5WWhLNk5DVjVOUmE1TTR1YUg1V0pvZjZkZUJxZHFJRktSaG01dTZOeWc0R3YxS1VEeWVzNkF3SUFvLUFvalF0OHU2dW9R?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-28T01:09:00Z",
-   "score": 4,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "a644f3dc6cf5d1",
    "title": "Hageman's NVIDIA Stock Sold Two Weeks Before CEO Scandal Broke",
    "summary": "",
@@ -259,6 +249,16 @@
    "source": "The Motley Fool",
    "date": "2026-11-28T00:51:00Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "0e31e4408c8ca3",
+   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdERjS29jVjIwenhCeGhIMmZ1eHlfZzdPd0NxbFJXb0hBT2JlZk9pYUFaS191RTFQNmwtTXJYLUNZN1RiaTdxcVUzTlhBNFlCUnRZeVRvVGNFaGp3WmdEck05NmpZbHNHLVUxQlhORXF4UUpKWENKYmxNY2huRENFX3dTYUNTdm8xWm9LekZHMkowakgzTHEzVlc4ckUyaml0cWdfQVd3LXlMRlAxZ2VBNWFCazlKdUpfcUxDbXlNZkNVTkJoTHV2dWVwZnllV1gxS2QxdTd2akZGSmNXNUp3bDdwSDFwdw?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-28T00:49:00Z",
+   "score": 4,
    "category": "Tecnológicas"
   },
   {
@@ -365,9 +365,9 @@
    "id": "429c0abadebe45",
    "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T23:52:26Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjc3NTFwdUVUcDBwRjhxLWFwZGNFVEJIUHh2WjZ5VWRhUEdqYUc0MTFubHhmeldMc045cGxEckJDMDAxc3Z1RC1hdjUtOFV4aFFyTGdMbDlmbW00ajdoYzBFQVVBeWQwdU9WNEJGX1B4WXhBblpfVm5qWVJBNDZhMlJENi1qRDJzRkgwRkNXVk1qOHlzQ0F2Z1BDN3hxU2JaZVJ0cVBxQnBHVU1Jd3VGb3Z0MzVaaEVpUXhMUnoxY295MkJPZEZkM3Itc2lMaDM2Uk9mOGFB?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T23:56:43Z",
    "score": 4,
    "category": "Fed y tipos"
   },
@@ -802,16 +802,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -899,6 +889,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T19:48:09Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1035,9 +1035,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
