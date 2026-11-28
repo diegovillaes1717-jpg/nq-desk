@@ -1,6 +1,16 @@
 {
- "updated_at": "2026-11-28T06:43:56Z",
+ "updated_at": "2026-11-28T06:48:40Z",
  "items": [
+  {
+   "id": "3e3ffded7649f4",
+   "title": "Market Volatility Keeps Rising, QQQI Offers an Alternative Approach to the Nasdaq",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHF5UGVTTW5meTVmRW1oTEhqVGp2Tmwwa0lncW81c3lGSHpaTDRjbkhDc0xtYUpFdmpubUhHTEhDUlRhaDV0YUNOTmdYcEktWm42akgtRzBMR3poSjhtNWlvbWNRUlQtX1lKRjEtQzM1QWYtWkNmV3FvU1NUZzFzY3d4ckVNVko1bjZEUnExTjZ6bkg2S2p2c2FrYkRoZWpMd3UtQlBad2xIaHNyZ0tpYWIzMA?oc=5",
+   "source": "NAI500",
+   "date": "2026-11-28T06:46:45Z",
+   "score": 6,
+   "category": "Tecnológicas"
+  },
   {
    "id": "f9fee2964c4366",
    "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
@@ -200,16 +210,6 @@
    "date": "2026-11-28T01:18:45Z",
    "score": 3,
    "category": "Fed y tipos"
-  },
-  {
-   "id": "4bad023cedb8f5",
-   "title": "US stocks rebound on Friday; NASDAQ 100 jumps 400 points, S&P 500 rises 1%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUdVbFY5VHdhNFBUWFAtdzgxblBZN182RzF5d1kyZG1iUHl6dmlMMmJldllqZzVDcUYzRDF2YktvMlVJUDR2RzUyelNsMkFvTGdHR3hKX2FoQ1dmeEstbGctRlZiOVE3UXIxbzJrZE9rb25rVDdBZGRndFpIR01YNm9kRjE2a2MydDItbXIzems5WWJhcmVlQTkza2pzV2szYjZEWDN4SlVkMVdCMHVNMDFIQnJGNHVqZ05LQ3hPZ1dWM0Q3dXVyN0wzXy1EeFp1S0hEVGhqQjZSaG5zNGJQRkJrazZfQQ?oc=5",
-   "source": "Dailyhunt",
-   "date": "2026-11-28T01:17:46Z",
-   "score": 6,
-   "category": "Tecnológicas"
   },
   {
    "id": "fda2e0061b95ca",
@@ -812,16 +812,6 @@
    "category": "Tecnológicas"
   },
   {
-   "id": "74d6fe582d9f5e",
-   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZUMkpzbFlSNEZ3TmlveVBmNG9peUt1T1JLd0ZUenBPU2podW40ekx6V2p6aC1SemJELThkdjJ2TXZPRnFZcnY5MnpRZWFlTXJwNld3VGMxNk5WVjF3b3hoTXZuMklVN19LLWNBWlktZmFzSUZhaHdFTmI4STVBbzFSZDhQTzVsMXd4VjFjMkhldTJ3blBMcko4Mk0yTmU2Y2M0aG1EMTAzZmJB?oc=5",
-   "source": "GuruFocus",
-   "date": "2026-11-27T20:23:29Z",
-   "score": 8,
-   "category": "Tecnológicas"
-  },
-  {
    "id": "8afb4b49cc3c20",
    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
    "summary": "",
@@ -919,6 +909,16 @@
    "source": "Yahoo Finance",
    "date": "2026-11-27T19:48:09Z",
    "score": 3,
+   "category": "Tecnológicas"
+  },
+  {
+   "id": "74d6fe582d9f5e",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEJGSW8tZVRmbXlGd2trYzdfa0NWUDVRWlo0WnVRVENrNlNUVlBCQ2xfUFo4VXlDMDVpVDRaczRyM1JZNEF1S2dmVllSODVURXBnMnNoUEhHMG80bkNwTkN0TjdOajByNjh0OHo0T0pnVUxacnBwLXlpVVFhMGRjTW5Zd1FobWpOLUVCelJrWnlPUWp4ZXdOckI2V0JfbWNjVmFBaU4wVml1dXVITVYxX3VzczA4QUY1d2lQZTNVR3lBU2FiU2RoY1YwTQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-27T19:46:09Z",
+   "score": 8,
    "category": "Tecnológicas"
   },
   {
@@ -1065,9 +1065,9 @@
    "id": "37cf658bfeef96",
    "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0xQWThJcFhUYnh2UUM1eGh3SjNjaE8wbTlyMmJFOVhiRzJyZGVaLWhrZkVaN2N3TW53dHppSHEyYk9HZjREZ2poVFZCSjdoekJESDhqbUFBcUVSNGZFemU2RzBLV2MzQ1hDY1l5Y0ZJUW03M0c3TmNBRzdNTmxsaDNBa0RDNlkxUVNzUDd5Nml6S0oyNTltM3VvN2FXQ0RkSXhkbTIzSDRWd3FIQVdqWHBuMUpDZ29pRHJCazc5cUxwUXo3ODhDaHhxak90NkpoX0toa2UwSDhCRXJENE1jbjlrYWtMc3h5aWtGSk45UHcyQmw3aXhrWV96WkZiT0tpcmxGemYtV0hMYjUtOUl5cQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-27T18:57:52Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMzRFcUFQN1VwWV9wSWhxcTVIcmJIOHl1eXY2aGhkeFRiT3dRZUxtSGJXRE1nLW83N0tmaVVRWjFQS3d1ZnNxX1ljVTZ2ZHdRa1pZaTZ5b0tCUHhPaEFUYy1ETXZRMkZ3VUxvTktSR3JvUUNGNWg0S2o1TEdwNzEyd05ZN215cFVPemd2d3RGTktjTHVISGpJX0NUemlKeWtoRnFkbW1Rb0JhOWQ1S3lLV0FOaEkzOVpqLXNldDVEMEl1Tnp5UTVKTWhyN3I3aWk4a19YTElYaDlOQk5tX1ZvQmtrSnJkQnlHZFZ2Y25Qd1kwZnByV2ZtenRIcw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-27T18:57:00Z",
    "score": 4,
    "category": "Tecnológicas"
   },
